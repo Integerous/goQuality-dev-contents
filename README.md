@@ -1,6 +1,6 @@
 >공사중입니다ㅎ
 
-# :zap:고퀄리티 개발 컨텐츠 모음
+# 고퀄리티:zap:개발 컨텐츠 모음
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 
 ## :mega: 소개
