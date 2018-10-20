@@ -1,12 +1,24 @@
-# 고퀄리티 개발 블로그 글 모음
->개발 관련 검색을 하며 마주하게 되는 고퀄리티 블로그 글을 아카이빙하는 오픈소스로 만들 예정입니다.  
->현재는 [{출퇴근길 개발 읽기} 오픈채팅방](http://bit.ly/2QxBmW5)에서 수집된 자료를  
-[{출퇴근길 개발 읽기} 페이스북 페이지](http://bit.ly/2zX6Zmo)를 통해 공유하고 있습니다.  
+# :zap:고퀄리티 개발 컨텐츠 모음
+[![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 
-## 소개
-고퀄리티(유익하고 질좋은) 개발 관련 컨텐츠(글/슬라이드/영상)를 모으는 저장소입니다.
+## :mega: 소개
+고퀄리티 **개발 관련 컨텐츠**를 서로 공유하는 오픈소스입니다!  
+***두고두고*** 보고 싶은 A급 글/영상/슬라이드를 ***두고두는 곳.***  
+
+새로운 컨텐츠는 페이스북 [{ 출퇴근길 개발 읽기 }](http://bit.ly/2zX6Zmo) 페이지에도 공유됩니다.
+
+## :family: 누구나 Contributor가 될 수 있습니다!
+>검색하다 발견한 개발 관련 글/영상/슬라이드를 공유해주세요:pray:  
+밑에 3가지 방법 중 선택!
+- [Pull Request]()
+- [Issue 등록]()
+- [오픈채팅방](http://bit.ly/2QxBmW5)에 링크 공유  
 
 ## 카테고리
+- 개발 관련 생각
+- 세미나 후기
+- 개발자 회고
+- 테스트 관련
 - 언어
 - 프레임워크
 - DevOps
@@ -24,3 +36,9 @@
   - 정규식
 - 생각 정리글(에세이)
 
+
+## Inspired By
+- [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
+- [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- [국내 개발블로그 모음](https://github.com/sarojaba/awesome-devblog)
+- [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)
