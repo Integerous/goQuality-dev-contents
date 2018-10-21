@@ -15,36 +15,48 @@
 - [오픈채팅방](http://bit.ly/2QxBmW5)에 링크 공유  
 
 ## :mute: 공유 규칙
+>고
 >**고퀄리티** 란?  
 "유익하고, 깊이가 있거나, 정리가 잘 되어, 저장하고 싶은 퀄리티"
 
+--------------------------------------
 ## 카테고리
 
+### 1. 개발 일반
 - 개발 문화/철학/방법론
 - 개발자 성장
 - 비전공자 & 신입
 - 세미나/컨퍼런스 후기
 - 개발자 회고
-- 면접
+- 면접 정보
+
+### 2. 언어 & 프레임워크
+- Java & Spring
+- Python & Django
+- Go
+
+### 3. 백엔드
 - 서버 & 클라우드 & 아키텍쳐
 - 데이터베이스 & SQL
 - 운영체제 (리눅스, MacOS, 윈도우)
-- 알고리즘 & 자료구조
-- 보안
-- 테스트
-- Git
-- Go 관련
-- Python & Django
-- Java & Spring
+
+### 4. 프론트엔드
 - Javascript 관련
 - 디자인 & UI/UX
 - 모바일 & iOS & 안드로이드
+
+### 5. 기타
+- Git
+- 알고리즘 & 자료구조
+- 보안
 - 데이터 사이언스
 - 머신러닝 & 딥러닝 & AI
 - 블록체인
 - 유용한 도구
 - 기타
-- Inspired By (영감을 준 프로젝트들)
+
+--------------------------------------
+# 1. 개발 일반
 
 ## 개발 문화/철학/방법론
 - [신규 Web 서비스시 고려해 볼 사항 - 우아한형제들 손권남님](http://bit.ly/2y7vPib)
@@ -56,6 +68,10 @@
 - [SaaS 앱을 만들기 위한 방법론 [번역]](http://bit.ly/2NA9rmo)
 - [흔한 프로그래머의 작명에 대한 사뭇 진지한 이야기](https://www.vobour.com/흔한-프로그래머의-작명에-대한-사뭇-진지한-이야기-hkfgq9xqm)
 - [우리가 부르는 시니어 개발자는 누구인가?](http://bit.ly/2CfZj0c)
+- [단위테스트 vs TDD vs BDD](http://bit.ly/2COTOGW)
+- [Product Manager 관점에서 바라 본 TDD](http://bit.ly/2J2KfEO)
+
+--------------------------------------
 
 ## 개발자 성장
 - [2018 웹 개발자 로드맵 [번역]](http://bit.ly/2ydI1Ov)
@@ -64,6 +80,8 @@
 - [10배 뛰어난 개발자 되기 [번역]](http://bit.ly/2OgL1E0)
 - [회사 밖에서 성장하기 [슬라이드]](http://bit.ly/2RWJdhA)
 - [개발자 필독서 50 선](http://bit.ly/2PaCiTs)
+
+--------------------------------------
 
 ## 비전공자 & 신입
 - [비전공자 채용하고 성장을 도운 8퍼센트 CTO 이호성님 글](http://bit.ly/2C2G6yV)
@@ -75,6 +93,8 @@
 - [백엔드 개발자를 꿈꾸는 학생개발자에게](http://bit.ly/2S0PLvt)
 - [신입사원을 위한 웹서비스 확장 전략 [슬라이드]](http://bit.ly/2q2LgEb)
 
+--------------------------------------
+
 ## 세미나/컨퍼런스 후기
 >같은 세미나인데 더 좋은 후기가 있으면 공유해주세요! :pray:  
 해당 이벤트의 가장 고퀄리티의 후기 하나만 남기겠습니다.
@@ -84,17 +104,49 @@
 - [OKKYCON 2018 TDD 컨퍼런스 후기](http://bit.ly/2RTRNxD)
 - [테크니컬 라이팅 컨퍼런스: Write the Docs Prague 2018 방문기](http://bit.ly/2RWocDA)
 
+--------------------------------------
+
 ## 개발자 회고
 >[개발자 회고 모음](https://github.com/oaksong/developers-retrospective)에 회고글이 많습니다!  
 가보시고 고퀄리티 글을 이 곳에 공유해주세요! :pray:
 
-## 면접
+--------------------------------------
+
+## 면접 정보
 >[주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler) 와 [Tech Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)에서 체계적인 면접 관련 정보를 얻을 수 있습니다!  
 여기에는 면접 관련 **글/영상/슬라이드** 만 공유해주세요! :pray:
 
 - [웹개발(JAVA,JSP,Spring) 관련 예상 면접 질문](http://bit.ly/2Cbf60r)
 - [넥슨 면접에서 듣게 되는 질문 63가지(2018년 ver.)](http://bit.ly/2OXv0lZ)
 - [카카오 경력공채 면접 후기](http://bit.ly/2ynKQNf)
+
+--------------------------------------
+
+# 2. 언어 & 프레임워크
+>자바스크립트는 [4.프론트엔드]() 분야에 모았습니다.
+
+## Go
+- [GO 언어를 처음 접하는 사람들을 위한 GOLANG 안내서](http://bit.ly/2pKjqME)
+
+## Java & Spring
+- [Java 유료 논쟁, Oracle JDK와 Open JDK 차이 정리](http://bit.ly/2A03WKx)
+- [for문을 Stream.forEach()로 바꾸지 말아야 할 3가지 이유](http://bit.ly/2y9F6Gu)
+- [Java 날짜와 시간 API의 문제점과 JDK8에서 개선된 부분](http://bit.ly/2C4ezNT)
+- [스프링부트로 웹 서비스 출시하기 [시리즈]](https://jojoldu.tistory.com/250?category=635883)
+- [SpringBoot의 깨알같은 팁](http://bit.ly/2ydtBOm)
+- [Spring Data JPA와 AspectJ가 함께 친 사고](http://bit.ly/2IOJYoz)
+- [JVM, JRE, JDK의 차이 간단 설명](http://bit.ly/2CKEvPE)
+- [수 많은 Java 성능 테스트가 잘못된 이유 [영문]](http://bit.ly/2CKooSi)
+- [Java Enum 활용기](http://bit.ly/2yCmuyq)
+- [토비님 발표 - 스프링5 웹플럭스와 테스트 전략 [영상]](http://bit.ly/2QSeLnq)
+
+## Python & Django
+- [알고리즘 시각화 라이브러리 ipytracer 개발기](http://bit.ly/2P8drPV)
+- [장고 ORM 요리책 [번역]](http://bit.ly/2P6bUKg)
+
+--------------------------------------
+
+# 3. 백엔드
 
 ## 서버 & 클라우드 & 아키텍쳐
 - [넷플릭스가 AWS로 이전한 과정](http://bit.ly/2PlJZmo)
@@ -117,10 +169,14 @@
 - [왜 비즈니스 로직은 Model(Domain)에 가까울수록 좋은가?](http://bit.ly/2AgHuNp)
 - [빌링 시스템 장애 대응 사례 - 우아한형제들](http://bit.ly/2PHr85C)
 
+--------------------------------------
+
 ## 데이터베이스 & SQL
 - [데이터모델링의 기초 정리](http://bit.ly/2Pmdd4C)
 - [JDBC로 실행되는 SQL에 자동으로 프로젝트 정보 주석 남기기](http://bit.ly/2Rz7lql)
 - [RDB부터 검색엔진까지··· 내게 꼭 맞는 DB 고르기](http://bit.ly/2q1l24E)
+
+--------------------------------------
 
 ## 운영체제 (리눅스, MacOS, 윈도우)
 - [운영체제 기본서의 끝판왕 "공룡책" 강의노트 [영문]](http://bit.ly/2pOnHib)
@@ -129,45 +185,8 @@
 - [리눅스 서버 기본 설정 [영상]](http://bit.ly/2ymMgrb)
 - [리눅스 open files, max user processes 설정 정리글](bit.ly/2R39Znl)
 
-## 알고리즘 & 자료구조
-- [영상을 통한 자료구조와 알고리즘의 시각화 [번역]](http://bit.ly/2yvC9Q9)
-- [알고리즘 & 자료구조 온라인 사전 [영문]](http://bit.ly/2q9WiaN)
-
-## 보안
-- [비밀번호 해시에 소금치기(salting)](http://bit.ly/2A5ql94)
-- [패스워드 암호화 방법 총정리](http://bit.ly/2OYnCa0)
-
-## 테스트
-- [단위테스트 vs TDD vs BDD](http://bit.ly/2COTOGW)
-- [Product Manager 관점에서 바라 본 TDD](http://bit.ly/2J2KfEO)
-
-## Git
-- [Git 브랜칭 실습사이트! (한국어판)](http://bit.ly/2NzKcRa)
-- [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우 [번역]](http://bit.ly/2pZMJLj)
-- [GitHub로 프로젝트 관리하기 - 이슈 발급 부터 코드리뷰까지](https://github.com/cheese10yun/github-project-management)
-- [Git flow, GitHub flow, GitLab flow 정리](http://bit.ly/2PCULEZ)
-- [Git의 요술 책갈피, Stash 기능 소개](http://bit.ly/2IQOF1j)
-- [팀에서 깃헙 Enterprise Plan을 써야하는 이유(Developer Plan과의 비교)](http://bit.ly/2RFSslU)
-- [GitHub에서 사용할 수 있는 이모지(emoji) 목록](http://bit.ly/2CE6X5G)
-
-## Go 관련
-- [GO 언어를 처음 접하는 사람들을 위한 GOLANG 안내서](http://bit.ly/2pKjqME)
-
-## Python & Django
-- [알고리즘 시각화 라이브러리 ipytracer 개발기](http://bit.ly/2P8drPV)
-- [장고 ORM 요리책 [번역]](http://bit.ly/2P6bUKg)
-
-## Java & Spring
-- [Java 유료 논쟁, Oracle JDK와 Open JDK 차이 정리](http://bit.ly/2A03WKx)
-- [for문을 Stream.forEach()로 바꾸지 말아야 할 3가지 이유](http://bit.ly/2y9F6Gu)
-- [Java 날짜와 시간 API의 문제점과 JDK8에서 개선된 부분](http://bit.ly/2C4ezNT)
-- [스프링부트로 웹 서비스 출시하기 [시리즈]](https://jojoldu.tistory.com/250?category=635883)
-- [SpringBoot의 깨알같은 팁](http://bit.ly/2ydtBOm)
-- [Spring Data JPA와 AspectJ가 함께 친 사고](http://bit.ly/2IOJYoz)
-- [JVM, JRE, JDK의 차이 간단 설명](http://bit.ly/2CKEvPE)
-- [수 많은 Java 성능 테스트가 잘못된 이유 [영문]](http://bit.ly/2CKooSi)
-- [Java Enum 활용기](http://bit.ly/2yCmuyq)
-- [토비님 발표 - 스프링5 웹플럭스와 테스트 전략 [영상]](http://bit.ly/2QSeLnq)
+--------------------------------------
+# 4. 프론트엔드
 
 ## Javascript 관련
 - [2016년에 자바스크립트를 배우는 기분 [번역]](http://bit.ly/2Nse02d)
@@ -189,6 +208,8 @@
 - [Javascript 개발자를 위한 ES6 축약코딩 기법 19가지 [번역]](http://bit.ly/2CGcXLi)
 - [자바스크립트 디자인 패턴 배우기 [영문]](http://bit.ly/2Eu5jFv)
 
+--------------------------------------
+
 ## 디자인 & UI/UX
 - [미니멀 UI의 차기 트렌드 '컴플렉션 리덕션'](http://bit.ly/2RBMNxA)
 - [Material 디자인의 밀도에 대한 설명](http://bit.ly/2C4N0nx)
@@ -203,12 +224,40 @@
 - [왜 장바구니 UX 디자인은 비효율적인가? [영문]](http://bit.ly/2RTvNmC)
 - [실무에 바로 적용하는 UI 디자인 팁 7가지 [영문]](http://bit.ly/2RQYfVY)
 
+--------------------------------------
+
 ## 모바일 & iOS & 안드로이드
 >iOS 개발자라면 [iOS 개발에 대한 질문과 답변 모음](http://bit.ly/2yhZa9Q)에 꼭 방문해보세요!
 - [모바일 디자인할 때 그리드 시스템 꼭 사용해야 할까?](http://bit.ly/2yrPNDB)
 - [카카오뱅크 모바일앱 개발 이야기 [영상]](http://bit.ly/2pWcooj)
 - [안드로이드 모션 레이아웃 설명 [영문]](http://bit.ly/2CSZgsC)
 - [가상화폐 거래소 앱 개발 후기](http://bit.ly/2ExTFcI)
+
+--------------------------------------
+# 5. 기타
+
+## Git
+- [Git 브랜칭 실습사이트! (한국어판)](http://bit.ly/2NzKcRa)
+- [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우 [번역]](http://bit.ly/2pZMJLj)
+- [GitHub로 프로젝트 관리하기 - 이슈 발급 부터 코드리뷰까지](https://github.com/cheese10yun/github-project-management)
+- [Git flow, GitHub flow, GitLab flow 정리](http://bit.ly/2PCULEZ)
+- [Git의 요술 책갈피, Stash 기능 소개](http://bit.ly/2IQOF1j)
+- [팀에서 깃헙 Enterprise Plan을 써야하는 이유(Developer Plan과의 비교)](http://bit.ly/2RFSslU)
+- [GitHub에서 사용할 수 있는 이모지(emoji) 목록](http://bit.ly/2CE6X5G)
+
+--------------------------------------
+
+## 알고리즘 & 자료구조
+- [영상을 통한 자료구조와 알고리즘의 시각화 [번역]](http://bit.ly/2yvC9Q9)
+- [알고리즘 & 자료구조 온라인 사전 [영문]](http://bit.ly/2q9WiaN)
+
+--------------------------------------
+
+## 보안
+- [비밀번호 해시에 소금치기(salting)](http://bit.ly/2A5ql94)
+- [패스워드 암호화 방법 총정리](http://bit.ly/2OYnCa0)
+
+--------------------------------------
 
 ## 데이터 사이언스
 - [데이터 사이언스 인터뷰 질문 모음집](http://bit.ly/2Ea19m7)
@@ -219,9 +268,13 @@
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
 - [문돌이도 이해하는 스팀 디앱 (DApp)의 세계](http://bit.ly/2IORFuV)
 
+--------------------------------------
+
 ## 유용한 도구
 - [AI 기술로 스케치를 HTML 코드로 변환해주는 Sketch2Code](http://bit.ly/2zZCxrX)
 - [유튜브, 트위터 등에서 SNS 파워와 수입을 측정해주는 사이트](http://bit.ly/2yKfIXp)
+
+--------------------------------------
 
 ## 기타
 - [정규표현식의 개념과 패턴 사용법 총정리](http://bit.ly/2CaEmnl)
@@ -238,6 +291,7 @@
 - [모던 웹 브라우저의 내부 살펴보기 1편 [시리즈]](http://bit.ly/2CrD6MO)
 - [Tinder의 프로그래시브 웹 앱 성능 케이스 스터디 [번역]](http://bit.ly/2IMxbmH)
 
+--------------------------------------
 
 ## Inspired By
 >아래의 유익한 저장소들에 방문해보세요!
