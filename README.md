@@ -1,5 +1,6 @@
-[![author](https://img.shields.io/badge/author-Integerous-yellow.svg?style=flat-square)](https://ryan-han.com)
+[![author](https://img.shields.io/badge/author-Integerous-yellowgreen.svg?style=flat-square)](https://ryan-han.com)
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
+[![CONTRIBUTORS](https://img.shields.io/badge/contributors-0-red.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/CONTRIBUTING.md)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
 
 # 고퀄리티:zap:개발 컨텐츠 모음
@@ -12,14 +13,14 @@
 --------------------------------------
 ### :family: 누구나 Contributor가 될 수 있습니다!
 >검색하다 발견한 개발 관련 글/영상/슬라이드를 공유해주세요:pray:  
-밑에 3가지 방법 중 선택하여 밑에있는 :mailbox:Queue 에 추가해주세요!
+밑에 3가지 방법 중 선택하여 밑에있는 :mailbox:**Queue** 에 추가해주세요!
 - Pull Request
 - Issue 등록
 - [오픈채팅방](http://bit.ly/2QxBmW5)에 링크 공유  
 
 --------------------------------------
 ### :mute: 공유 규칙
->1. 아래의 Queue에 추가 해주세요! 큐에서 퀄리티가 검증되면 각 카테고리로 이동합니다!
+>1. 아래의 :mailbox:**Queue**에 추가 해주세요! Queue에서 퀄리티가 검증되면 각 카테고리로 이동합니다!
 >2. "유익 AND (깊이있는 OR 정리잘된)" 글/영상/슬라이드 공유!  
 >3. 단순 기사, 저작권법 위반 컨텐츠는 공유 금지!
 
@@ -325,7 +326,7 @@
 --------------------------------------
 </br>
 
-## Inspired By
+## :earth_asia: Inspired By
 >아래의 유익한 저장소들에 방문해보세요!
 - [주니어 개발자를 위한 취업 정보 모음](https://github.com/jojoldu/junior-recruit-scheduler)
 - [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
