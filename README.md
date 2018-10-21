@@ -16,9 +16,9 @@
 >검색하다 발견한 개발 관련 글/영상/슬라이드의 링크를 공유해주세요:pray:  
 밑에 3가지 방법 중 선택!
 
-방법 1 = 아래의 :mailbox:**Queue** 에 링크 추가하고 Pull Request  
-방법 2 = Issue 등록하여 링크 공유 [(Issue 등록 방법)](https://github.com/Integerous/goQuality-dev-contents/issues/1)  
-방법 3 = [오픈채팅방](http://bit.ly/2QxBmW5)에 링크 공유 
+방법 1  아래의 :mailbox:**Queue** 에 링크 추가하고 Pull Request  
+방법 2  Issue 등록하여 링크 공유 [(Issue 등록 방법)](https://github.com/Integerous/goQuality-dev-contents/issues/1)  
+방법 3  [오픈채팅방](http://bit.ly/2QxBmW5)에 링크 공유 
 
 --------------------------------------
 ### :mute: 공유 규칙
