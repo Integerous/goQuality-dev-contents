@@ -3,39 +3,42 @@
 # 고퀄리티:zap:개발 컨텐츠 모음
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 
-## :mega: 소개
+
+--------------------------------------
+### :mega: 소개
 >고퀄리티 **개발 관련 컨텐츠**를 서로 공유하는 오픈소스입니다!  
 ***두고두고*** 보고 싶은 A급 글/영상/슬라이드를 ***두고두는 곳.***  
 
-## :family: 누구나 Contributor가 될 수 있습니다!
+--------------------------------------
+### :family: 누구나 Contributor가 될 수 있습니다!
 >검색하다 발견한 개발 관련 글/영상/슬라이드를 공유해주세요:pray:  
 밑에 3가지 방법 중 선택!
 - [Pull Request]()
 - [Issue 등록]()
 - [오픈채팅방](http://bit.ly/2QxBmW5)에 링크 공유  
 
-## :mute: 공유 규칙
->고
->**고퀄리티** 란?  
-"유익하고, 깊이가 있거나, 정리가 잘 되어, 저장하고 싶은 퀄리티"
+
+--------------------------------------
+### :mute: 공유 규칙
+>"유익하고, 깊이가 있거나, 정리가 잘 되어, 저장하고 싶은 퀄리티의"
 
 --------------------------------------
 ## 카테고리
 
-### 1. 개발 일반
-- 개발 문화/철학/방법론
-- 개발자 성장
-- 비전공자 & 신입
-- 세미나/컨퍼런스 후기
-- 개발자 회고
-- 면접 정보
+### 1. [개발 일반](https://github.com/Integerous/goQuality-dev-contents#1-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EB%B0%98-1)
+- [개발 문화/철학/방법론](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94%EC%B2%A0%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0)
+- [개발자 성장](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%84%B1%EC%9E%A5)
+- [비전공자 & 신입](https://github.com/Integerous/goQuality-dev-contents#%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90--%EC%8B%A0%EC%9E%85)
+- [세미나/컨퍼런스 후기](https://github.com/Integerous/goQuality-dev-contents#%EC%84%B8%EB%AF%B8%EB%82%98%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0)
+- [개발자 회고](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EA%B3%A0)
+- [면접 정보](https://github.com/Integerous/goQuality-dev-contents#%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%B3%B4)
 
-### 2. 언어 & 프레임워크
-- Java & Spring
-- Python & Django
-- Go
+### 2. [언어 & 프레임워크](https://github.com/Integerous/goQuality-dev-contents#2-%EC%96%B8%EC%96%B4--%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-1)
+- [Java & Spring](https://github.com/Integerous/goQuality-dev-contents#java--spring)
+- [Python & Django](https://github.com/Integerous/goQuality-dev-contents#python--django)
+- [Go](https://github.com/Integerous/goQuality-dev-contents#go)
 
-### 3. 백엔드
+### 3. [백엔드]
 - 서버 & 클라우드 & 아키텍쳐
 - 데이터베이스 & SQL
 - 운영체제 (리눅스, MacOS, 윈도우)
@@ -125,9 +128,6 @@
 # 2. 언어 & 프레임워크
 >자바스크립트는 [4.프론트엔드]() 분야에 모았습니다.
 
-## Go
-- [GO 언어를 처음 접하는 사람들을 위한 GOLANG 안내서](http://bit.ly/2pKjqME)
-
 ## Java & Spring
 - [Java 유료 논쟁, Oracle JDK와 Open JDK 차이 정리](http://bit.ly/2A03WKx)
 - [for문을 Stream.forEach()로 바꾸지 말아야 할 3가지 이유](http://bit.ly/2y9F6Gu)
@@ -140,9 +140,17 @@
 - [Java Enum 활용기](http://bit.ly/2yCmuyq)
 - [토비님 발표 - 스프링5 웹플럭스와 테스트 전략 [영상]](http://bit.ly/2QSeLnq)
 
+--------------------------------------
+
 ## Python & Django
 - [알고리즘 시각화 라이브러리 ipytracer 개발기](http://bit.ly/2P8drPV)
 - [장고 ORM 요리책 [번역]](http://bit.ly/2P6bUKg)
+
+
+--------------------------------------
+
+## Go
+- [GO 언어를 처음 접하는 사람들을 위한 GOLANG 안내서](http://bit.ly/2pKjqME)
 
 --------------------------------------
 
