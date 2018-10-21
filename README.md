@@ -4,8 +4,8 @@
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 
 
---------------------------------------
-### :mega: 소개
+
+## :mega: 소개
 >고퀄리티 **개발 관련 컨텐츠**를 서로 공유하는 오픈소스입니다!  
 ***두고두고*** 보고 싶은 A급 글/영상/슬라이드를 ***두고두는 곳.***  
 
@@ -38,30 +38,30 @@
 - [Python & Django](https://github.com/Integerous/goQuality-dev-contents#python--django)
 - [Go](https://github.com/Integerous/goQuality-dev-contents#go)
 
-### 3. [백엔드]
-- 서버 & 클라우드 & 아키텍쳐
-- 데이터베이스 & SQL
-- 운영체제 (리눅스, MacOS, 윈도우)
+### 3. [백엔드](https://github.com/Integerous/goQuality-dev-contents#3-%EB%B0%B1%EC%97%94%EB%93%9C-1)
+- [서버 & 클라우드 & 아키텍쳐](https://github.com/Integerous/goQuality-dev-contents#%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C--%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
+- [데이터베이스 & SQL](https://github.com/Integerous/goQuality-dev-contents#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4--sql)
+- [운영체제 (리눅스, MacOS, 윈도우)](https://github.com/Integerous/goQuality-dev-contents#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-macos-%EC%9C%88%EB%8F%84%EC%9A%B0)
 
-### 4. 프론트엔드
-- Javascript 관련
-- 디자인 & UI/UX
-- 모바일 & iOS & 안드로이드
+### 4. [프론트엔드](https://github.com/Integerous/goQuality-dev-contents#4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-1)
+- [Javascript 관련](https://github.com/Integerous/goQuality-dev-contents#javascript-%EA%B4%80%EB%A0%A8)
+- [디자인 & UI/UX](https://github.com/Integerous/goQuality-dev-contents#%EB%94%94%EC%9E%90%EC%9D%B8--uiux)
+- [모바일 & iOS & 안드로이드](https://github.com/Integerous/goQuality-dev-contents#%EB%AA%A8%EB%B0%94%EC%9D%BC--ios--%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 
-### 5. 기타
-- Git
-- 알고리즘 & 자료구조
-- 보안
-- 데이터 사이언스
-- 머신러닝 & 딥러닝 & AI
-- 블록체인
-- 유용한 도구
-- 기타
+### 5. [기타](https://github.com/Integerous/goQuality-dev-contents#5-%EA%B8%B0%ED%83%80-1)
+- [Git](https://github.com/Integerous/goQuality-dev-contents#git)
+- [알고리즘 & 자료구조](https://github.com/Integerous/goQuality-dev-contents#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98--%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
+- [보안](https://github.com/Integerous/goQuality-dev-contents#%EB%B3%B4%EC%95%88)
+- [데이터 사이언스](https://github.com/Integerous/goQuality-dev-contents#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4)
+- [머신러닝 & 딥러닝 & AI](https://github.com/Integerous/goQuality-dev-contents#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D--%EB%94%A5%EB%9F%AC%EB%8B%9D--ai)
+- [블록체인](https://github.com/Integerous/goQuality-dev-contents#%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
+- [유용한 도구](https://github.com/Integerous/goQuality-dev-contents#%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%8F%84%EA%B5%AC)
+- [기타](https://github.com/Integerous/goQuality-dev-contents#%EA%B8%B0%ED%83%80)
 
 --------------------------------------
 # 1. 개발 일반
 
-## 개발 문화/철학/방법론
+### 개발 문화/철학/방법론
 - [신규 Web 서비스시 고려해 볼 사항 - 우아한형제들 손권남님](http://bit.ly/2y7vPib)
 - [스타트업이 디자인 시스템을 만들어야 하는 이유](http://bit.ly/2ynKZ2f)
 - [신입개발자와 일하는 법](http://bit.ly/2zZpPcP)
@@ -76,7 +76,7 @@
 
 --------------------------------------
 
-## 개발자 성장
+### 개발자 성장
 - [2018 웹 개발자 로드맵 [번역]](http://bit.ly/2ydI1Ov)
 - [24년차 개발자 우아한형제들의 김민태님 이야기 [영상]](http://bit.ly/2C19VjA)
 - [개발자에서 개발팀장이 되기까지 겪은 5가지 실수 [번역]](http://bit.ly/2C3ABAb)
@@ -86,7 +86,7 @@
 
 --------------------------------------
 
-## 비전공자 & 신입
+### 비전공자 & 신입
 - [비전공자 채용하고 성장을 도운 8퍼센트 CTO 이호성님 글](http://bit.ly/2C2G6yV)
 - [늦은 나이, 개발자로 시작해도 좋을까요 - 30대 초반 비전공자의 고민](http://bit.ly/2ywn00Z)
 - [30살에 주니어 개발자가 된다는 것 (번역글)](http://bit.ly/2NBNUtB)
@@ -98,7 +98,7 @@
 
 --------------------------------------
 
-## 세미나/컨퍼런스 후기
+### 세미나/컨퍼런스 후기
 >같은 세미나인데 더 좋은 후기가 있으면 공유해주세요! :pray:  
 해당 이벤트의 가장 고퀄리티의 후기 하나만 남기겠습니다.
 
@@ -109,13 +109,13 @@
 
 --------------------------------------
 
-## 개발자 회고
+### 개발자 회고
 >[개발자 회고 모음](https://github.com/oaksong/developers-retrospective)에 회고글이 많습니다!  
 가보시고 고퀄리티 글을 이 곳에 공유해주세요! :pray:
 
 --------------------------------------
 
-## 면접 정보
+### 면접 정보
 >[주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler) 와 [Tech Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)에서 체계적인 면접 관련 정보를 얻을 수 있습니다!  
 여기에는 면접 관련 **글/영상/슬라이드** 만 공유해주세요! :pray:
 
@@ -128,7 +128,7 @@
 # 2. 언어 & 프레임워크
 >자바스크립트는 [4.프론트엔드]() 분야에 모았습니다.
 
-## Java & Spring
+### Java & Spring
 - [Java 유료 논쟁, Oracle JDK와 Open JDK 차이 정리](http://bit.ly/2A03WKx)
 - [for문을 Stream.forEach()로 바꾸지 말아야 할 3가지 이유](http://bit.ly/2y9F6Gu)
 - [Java 날짜와 시간 API의 문제점과 JDK8에서 개선된 부분](http://bit.ly/2C4ezNT)
@@ -142,14 +142,14 @@
 
 --------------------------------------
 
-## Python & Django
+### Python & Django
 - [알고리즘 시각화 라이브러리 ipytracer 개발기](http://bit.ly/2P8drPV)
 - [장고 ORM 요리책 [번역]](http://bit.ly/2P6bUKg)
 
 
 --------------------------------------
 
-## Go
+### Go
 - [GO 언어를 처음 접하는 사람들을 위한 GOLANG 안내서](http://bit.ly/2pKjqME)
 
 --------------------------------------
