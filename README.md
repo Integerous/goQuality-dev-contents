@@ -10,18 +10,31 @@
 --------------------------------------
 ### :family: 누구나 Contributor가 될 수 있습니다!
 >검색하다 발견한 개발 관련 글/영상/슬라이드를 공유해주세요:pray:  
-밑에 3가지 방법 중 선택!
+밑에 3가지 방법 중 선택하여 밑에있는 :mailbox:Queue 에 추가해주세요!
 - Pull Request
 - Issue 등록
 - [오픈채팅방](http://bit.ly/2QxBmW5)에 링크 공유  
 
 --------------------------------------
 ### :mute: 공유 규칙
->1. "유익 AND (깊이있는 OR 정리잘된)" 글/영상/슬라이드 공유  
-2. 단순 기사, 저작권법 위반 컨텐츠 공유 금지
+>1. 아래의 Queue에 추가 해주세요! 큐에서 퀄리티가 검증되면 각 카테고리로 이동합니다!
+>2. "유익 AND (깊이있는 OR 정리잘된)" 글/영상/슬라이드 공유!  
+>3. 단순 기사, 저작권법 위반 컨텐츠는 공유 금지!
 
 --------------------------------------
-## :books: 카테고리
+### :mailbox: Queue
+>컨텐츠는 이 곳에 추가해주세요!  
+>이 곳에서 검증을 거친 후에 해당 카테고리에 추가됩니다!
+
+- [자바스크립트 기본서 비교](http://bit.ly/2q4bRRe)
+- [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우 [번역]](http://bit.ly/2pZMJLj)
+- [마이크로 서비스 아키텍쳐와 컨테이너 환경](http://bit.ly/2J7YgRz)
+- [자바스크립트 반응형에 대한 좋은 설명 [번역]](http://bit.ly/2qbjqpn)
+- [Maven과 Gradle 비교](http://bit.ly/2NRYbST)
+- [왜 자바에서 static의 사용을 지양해야 하는가?](http://bit.ly/2q1PprF)
+
+--------------------------------------
+## :mag_right: 카테고리
 
 ### 1. [개발 일반](https://github.com/Integerous/goQuality-dev-contents#1-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EB%B0%98-1)
 - [개발 문화/철학/방법론](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94%EC%B2%A0%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0)
