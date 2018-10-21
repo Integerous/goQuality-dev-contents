@@ -1,14 +1,8 @@
-<div align=center>
-
-[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
 [![author](https://img.shields.io/badge/author-Integerous-yellow.svg?style=flat-square)](https://ryan-han.com)
-[![CONTRIBUTORS](https://img.shields.io/badge/contributors-0-green.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/CONTRIBUTING.md)
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
-
-</div>
+[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
 
 # 고퀄리티:zap:개발 컨텐츠 모음
-
 </br>
 
 ## :mega: 소개
@@ -42,6 +36,8 @@
 - [왜 자바에서 static의 사용을 지양해야 하는가?](http://bit.ly/2q1PprF)
 
 --------------------------------------
+</br>
+
 ## :mag_right: 카테고리
 
 ### 1. [개발 일반](https://github.com/Integerous/goQuality-dev-contents#1-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EB%B0%98-1)
@@ -78,6 +74,8 @@
 - [기타](https://github.com/Integerous/goQuality-dev-contents#%EA%B8%B0%ED%83%80)
 
 --------------------------------------
+</br>
+
 # 1. 개발 일반
 
 ### 개발 문화/철학/방법론
@@ -143,6 +141,7 @@
 - [카카오 경력공채 면접 후기](http://bit.ly/2ynKQNf)
 
 --------------------------------------
+</br>
 
 # 2. 언어 & 프레임워크
 >자바스크립트는 [4.프론트엔드](https://github.com/Integerous/goQuality-dev-contents#4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-1) 분야에 모았습니다.
@@ -172,6 +171,7 @@
 - [GO 언어를 처음 접하는 사람들을 위한 GOLANG 안내서](http://bit.ly/2pKjqME)
 
 --------------------------------------
+</br>
 
 # 3. 백엔드
 
@@ -213,6 +213,8 @@
 - [리눅스 open files, max user processes 설정 정리글](bit.ly/2R39Znl)
 
 --------------------------------------
+</br>
+
 # 4. 프론트엔드
 
 ### Javascript 관련
@@ -261,6 +263,8 @@
 - [가상화폐 거래소 앱 개발 후기](http://bit.ly/2ExTFcI)
 
 --------------------------------------
+</br>
+
 # 5. 기타
 
 ### Git
@@ -319,6 +323,7 @@
 - [Tinder의 프로그래시브 웹 앱 성능 케이스 스터디 [번역]](http://bit.ly/2IMxbmH)
 
 --------------------------------------
+</br>
 
 ## Inspired By
 >아래의 유익한 저장소들에 방문해보세요!
