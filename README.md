@@ -3,7 +3,7 @@
 [![CONTRIBUTORS](https://img.shields.io/badge/contributors-0-red.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/CONTRIBUTING.md)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
 
-# 고퀄리티:zap:개발 컨텐츠 모음
+# { 고퀄리티:zap:개발 컨텐츠 모음 }
 </br>
 
 ## :mega: 소개
