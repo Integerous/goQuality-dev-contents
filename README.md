@@ -1,29 +1,27 @@
->공사중입니다ㅎ
-
 # 고퀄리티:zap:개발 컨텐츠 모음
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 
 
 
 ## :mega: 소개
->고퀄리티 **개발 관련 컨텐츠**를 서로 공유하는 오픈소스입니다!  
+>고퀄리티 **개발 관련 컨텐츠**를 서로 공유하는 저장소입니다!  
 ***두고두고*** 보고 싶은 A급 글/영상/슬라이드를 ***두고두는 곳.***  
 
 --------------------------------------
 ### :family: 누구나 Contributor가 될 수 있습니다!
 >검색하다 발견한 개발 관련 글/영상/슬라이드를 공유해주세요:pray:  
 밑에 3가지 방법 중 선택!
-- [Pull Request]()
-- [Issue 등록]()
+- Pull Request
+- Issue 등록
 - [오픈채팅방](http://bit.ly/2QxBmW5)에 링크 공유  
-
 
 --------------------------------------
 ### :mute: 공유 규칙
->"유익하고, 깊이가 있거나, 정리가 잘 되어, 저장하고 싶은 퀄리티의"
+>1. "유익 AND (깊이있는 OR 정리잘된)" 글/영상/슬라이드 공유  
+2. 단순 기사, 저작권법 위반 컨텐츠 공유 금지
 
 --------------------------------------
-## 카테고리
+## :books: 카테고리
 
 ### 1. [개발 일반](https://github.com/Integerous/goQuality-dev-contents#1-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EB%B0%98-1)
 - [개발 문화/철학/방법론](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94%EC%B2%A0%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0)
@@ -126,7 +124,7 @@
 --------------------------------------
 
 # 2. 언어 & 프레임워크
->자바스크립트는 [4.프론트엔드]() 분야에 모았습니다.
+>자바스크립트는 [4.프론트엔드](https://github.com/Integerous/goQuality-dev-contents#4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-1) 분야에 모았습니다.
 
 ### Java & Spring
 - [Java 유료 논쟁, Oracle JDK와 Open JDK 차이 정리](http://bit.ly/2A03WKx)
