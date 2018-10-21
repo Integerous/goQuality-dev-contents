@@ -4,6 +4,7 @@
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
 
 # { 고퀄리티:zap:개발 컨텐츠 모음 }
+>유익하셨다면 :star:Star 부탁드립니다!
 </br>
 
 ## :mega: 소개
