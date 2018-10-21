@@ -15,12 +15,12 @@
 >검색하다 발견한 개발 관련 글/영상/슬라이드를 공유해주세요:pray:  
 밑에 3가지 방법 중 선택하여 밑에있는 :mailbox:**Queue** 에 추가해주세요!
 - Pull Request
-- Issue 등록
+- Issue 등록 [방법](https://github.com/Integerous/goQuality-dev-contents/issues/1)
 - [오픈채팅방](http://bit.ly/2QxBmW5)에 링크 공유  
 
 --------------------------------------
 ### :mute: 공유 규칙
->1. 아래의 :mailbox:**Queue**에 추가 해주세요! Queue에서 퀄리티가 검증되면 각 카테고리로 이동합니다!
+>1. 컨텐츠는 아래의 :mailbox:**Queue**에 추가 해주세요!  
 >2. "유익 AND (깊이있는 OR 정리잘된)" 글/영상/슬라이드 공유!  
 >3. 단순 기사, 저작권법 위반 컨텐츠는 공유 금지!
 
