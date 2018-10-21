@@ -1,7 +1,8 @@
 # 고퀄리티:zap:개발 컨텐츠 모음
+[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
+[![author](https://img.shields.io/badge/author-Integerous-yellow.svg?style=flat-square)](https://ryan-han.com)
+[![CONTRIBUTORS](https://img.shields.io/badge/contributors-0-green.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/CONTRIBUTING.md)
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
-
-
 
 ## :mega: 소개
 >고퀄리티 **개발 관련 컨텐츠**를 서로 공유하는 저장소입니다!  
