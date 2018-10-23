@@ -30,13 +30,7 @@
 ### :mailbox: Queue
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
-#### 2018년 10월 22일
-- [브라우저는 어떻게 동작하는가?](http://bit.ly/2Sdf5Pc)
-- [AWS를 슬랙으로 모니터링하기](http://bit.ly/2yWpWUW)
-- [자바스크립트의 함수를 배워보자](http://bit.ly/2S7njZ2)
-- [컴퓨터의 원리를 25분만에 간단하고 깔끔하게 설명하는 강의](http://bit.ly/2yVLPn2)
-- [자바스크립트 Functional vs Imperative 패턴[영문]](http://bit.ly/2qcyrqZ)
-- [스포티파이의 개발 문화](http://bit.ly/2q58IjT)
+
 #### 2018년 10월 23일
 - [인텔리제이 Maven프로젝트 톰캣에 배포 실습](bit.ly/2PnfKPz)
 - [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT기업 도전기](https://jojoldu.tistory.com/280#ref=github)
@@ -47,6 +41,8 @@
 - [잘 가요 스크럼, 반가워요 칸반 [번역]](http://bit.ly/2yX7Jqc)
 - [2018년 한글날 배포된 무료 한글 폰트들](http://bit.ly/2z5Gz0v)
 
+#### 2018년 10월 24일
+- [10가지 소프트웨어 아키텍처 패턴 요약 [번역]](http://bit.ly/2RazjYh)
 
 --------------------------------------
 </br>
@@ -103,6 +99,7 @@
 - [우리가 부르는 시니어 개발자는 누구인가?](http://bit.ly/2CfZj0c)
 - [단위테스트 vs TDD vs BDD](http://bit.ly/2COTOGW)
 - [Product Manager 관점에서 바라 본 TDD](http://bit.ly/2J2KfEO)
+- [스포티파이의 개발 문화](http://bit.ly/2q58IjT)
 
 --------------------------------------
 
@@ -211,6 +208,7 @@
 - [왜 비즈니스 로직은 Model(Domain)에 가까울수록 좋은가?](http://bit.ly/2AgHuNp)
 - [빌링 시스템 장애 대응 사례 - 우아한형제들](http://bit.ly/2PHr85C)
 - [마이크로 서비스 아키텍쳐와 컨테이너 환경](http://bit.ly/2J7YgRz)
+- [AWS를 슬랙으로 모니터링하기](http://bit.ly/2yWpWUW)
 
 --------------------------------------
 
@@ -254,6 +252,7 @@
 - [자바스크립트 디자인 패턴 배우기 [영문]](http://bit.ly/2Eu5jFv)
 - [자바스크립트 기본서 비교](http://bit.ly/2q4bRRe)
 - [자바스크립트 반응형에 대한 좋은 설명 [번역]](http://bit.ly/2qbjqpn)
+- [자바스크립트의 함수를 배워보자](http://bit.ly/2S7njZ2)
 
 --------------------------------------
 
@@ -339,7 +338,8 @@
 - [Top 10 DevOps 블로그와 웹사이트 2018 [영문]](http://bit.ly/2REfeLe)
 - [모던 웹 브라우저의 내부 살펴보기 1편 [시리즈]](http://bit.ly/2CrD6MO)
 - [Tinder의 프로그래시브 웹 앱 성능 케이스 스터디 [번역]](http://bit.ly/2IMxbmH)
-
+- [브라우저는 어떻게 동작하는가?](http://bit.ly/2Sdf5Pc)
+- [컴퓨터의 원리를 25분만에 간단하고 깔끔하게 설명하는 강의](http://bit.ly/2yVLPn2)
 --------------------------------------
 </br>
 
