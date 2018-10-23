@@ -30,12 +30,22 @@
 ### :mailbox: Queue
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
-
-
-
-
-
-
+#### 2018년 10월 22일
+- [브라우저는 어떻게 동작하는가?](http://bit.ly/2Sdf5Pc)
+- [AWS를 슬랙으로 모니터링하기](http://bit.ly/2yWpWUW)
+- [자바스크립트의 함수를 배워보자](http://bit.ly/2S7njZ2)
+- [컴퓨터의 원리를 25분만에 간단하고 깔끔하게 설명하는 강의](http://bit.ly/2yVLPn2)
+- [자바스크립트 Functional vs Imperative 패턴[영문]](http://bit.ly/2qcyrqZ)
+- [스포티파이의 개발 문화](http://bit.ly/2q58IjT)
+#### 2018년 10월 23일
+- [인텔리제이 Maven프로젝트 톰캣에 배포 실습](bit.ly/2PnfKPz)
+- [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT기업 도전기](https://jojoldu.tistory.com/280#ref=github)
+- [CockroachDB 안녕?](http://bit.ly/2yXOWe6)
+- ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다.](http://bit.ly/2SahtGf)
+- [Kubernetes 개념 설명 영상](http://bit.ly/2yWgxwl)
+- [초보개발자가 알아야 할 5가지 핵심 가치 (영문)](http://bit.ly/2yYXwcE)
+- [잘 가요 스크럼, 반가워요 칸반 [번역]](http://bit.ly/2yX7Jqc)
+- [2018년 한글날 배포된 무료 한글 폰트들](http://bit.ly/2z5Gz0v)
 
 
 --------------------------------------
