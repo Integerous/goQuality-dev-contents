@@ -1,10 +1,18 @@
+<div align=center>
+  
 [![author](https://img.shields.io/badge/author-Integerous-yellowgreen.svg?style=flat-square)](https://ryan-han.com)
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 [![CONTRIBUTORS](https://img.shields.io/badge/contributors-0-red.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/CONTRIBUTING.md)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
 
+<a href="https://github.com/Integerous/goQuality-dev-contents/graphs/contributors"><img src="https://opencollective.com/goquality-dev-contents/contributors.svg?width=720"></a>
+
+</div>
+
+>기여 해주시면 :point_up_2: 깃헙 프사가 올라갑니다!
+
 # { 고퀄리티:zap:개발 컨텐츠 모음 }
->유익하셨다면 :star:Star 부탁드립니다!
+>유익하셨다면 :star:Star 부탁드립니다 :)
 </br>
 
 ## :mega: 소개
@@ -27,7 +35,10 @@
 >3. 단순 기사, 저작권법 위반 컨텐츠는 공유 금지!
 
 --------------------------------------
-### :mailbox: Queue
+</br>
+</br>
+
+# :mailbox: Queue
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
@@ -40,13 +51,15 @@
 - [만화로 나누는 오픈소스 소프트웨어 이야기](http://bit.ly/2yZxeqU)
 - [박재성 - 의식적인 연습으로 TDD, 리팩토링 연습하기[슬라이드]](http://bit.ly/2yZhlAN)
 - [실제 있을법한 예제를 TDD로 구현하는 과정 라이브로 시연 - 최범균님 [영상]](http://bit.ly/2yWXrpR)
+- 추가해주세요:) 누구나 가능합니다!
 
 #### 2018년 10월 25일
 - 추가해주세요:) 누구나 가능합니다!
 --------------------------------------
 </br>
+</br>
 
-## :mag_right: 카테고리
+# :mag_right: 카테고리
 
 ### 1. [개발 일반](https://github.com/Integerous/goQuality-dev-contents#1-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EB%B0%98-1)
 - [개발 문화/철학/방법론](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94%EC%B2%A0%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0)
@@ -82,6 +95,7 @@
 - [기타](https://github.com/Integerous/goQuality-dev-contents#%EA%B8%B0%ED%83%80)
 
 --------------------------------------
+</br>
 </br>
 
 # 1. 개발 일반
@@ -155,6 +169,7 @@
 
 --------------------------------------
 </br>
+</br>
 
 # 2. 언어 & 프레임워크
 >자바스크립트는 [4.프론트엔드](https://github.com/Integerous/goQuality-dev-contents#4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-1) 분야에 모았습니다.
@@ -186,6 +201,7 @@
 - [GO 언어를 처음 접하는 사람들을 위한 GOLANG 안내서](http://bit.ly/2pKjqME)
 
 --------------------------------------
+</br>
 </br>
 
 # 3. 백엔드
@@ -231,6 +247,7 @@
 - [리눅스 open files, max user processes 설정 정리글](bit.ly/2R39Znl)
 
 --------------------------------------
+</br>
 </br>
 
 # 4. 프론트엔드
@@ -285,6 +302,7 @@
 - [가상화폐 거래소 앱 개발 후기](http://bit.ly/2ExTFcI)
 
 --------------------------------------
+</br>
 </br>
 
 # 5. 기타
@@ -347,6 +365,7 @@
 - [컴퓨터의 원리를 25분만에 간단하고 깔끔하게 설명하는 강의](http://bit.ly/2yVLPn2)
 
 --------------------------------------
+</br>
 </br>
 
 ## :earth_asia: Inspired By
