@@ -7,13 +7,14 @@
 # { 고퀄리티:zap:개발 컨텐츠 모음 }
 <a href="https://github.com/Integerous/goQuality-dev-contents/graphs/contributors"><img src="https://opencollective.com/goquality-dev-contents/contributors.svg?width=720"></a>
 
+>컨텐츠를 공유해주신 분들입니다! (아직은 저 뿐이네요ㅠ)  
 >유익하셨다면 :star:Star 부탁드립니다 :)
 
 </br>
 
 ## :mega: 소개
 >고퀄리티 ***개발 관련 컨텐츠*** 를 모으는 저장소입니다!  
-***두고두고*** 보고 싶은 A급 글/영상/슬라이드를 ***두고두는 곳*** :sob:
+***두고두고*** 보고 싶은 A급 글/영상/슬라이드를 ***두고두는 곳***
 
 --------------------------------------
 ### :family: 누구나 Contributor가 될 수 있습니다!
