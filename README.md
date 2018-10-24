@@ -1,10 +1,10 @@
-# { 고퀄리티:zap:개발 컨텐츠 모음 }
+
 
 [![author](https://img.shields.io/badge/author-Integerous-yellowgreen.svg?style=flat-square)](https://ryan-han.com)
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 [![CONTRIBUTORS](https://img.shields.io/badge/contributors-0-red.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/CONTRIBUTING.md)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
-
+# { 고퀄리티:zap:개발 컨텐츠 모음 }
 <a href="https://github.com/Integerous/goQuality-dev-contents/graphs/contributors"><img src="https://opencollective.com/goquality-dev-contents/contributors.svg?width=720"></a>
 
 >유익하셨다면 :star:Star 부탁드립니다 :)
