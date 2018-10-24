@@ -31,16 +31,6 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2018년 10월 23일
-- [인텔리제이 Maven프로젝트 톰캣에 배포 실습](bit.ly/2PnfKPz)
-- [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT기업 도전기](https://jojoldu.tistory.com/280#ref=github)
-- [CockroachDB 안녕?](http://bit.ly/2yXOWe6)
-- ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다.](http://bit.ly/2SahtGf)
-- [Kubernetes 개념 설명 영상](http://bit.ly/2yWgxwl)
-- [초보개발자가 알아야 할 5가지 핵심 가치 (영문)](http://bit.ly/2yYXwcE)
-- [잘 가요 스크럼, 반가워요 칸반 [번역]](http://bit.ly/2yX7Jqc)
-- [2018년 한글날 배포된 무료 한글 폰트들](http://bit.ly/2z5Gz0v)
-
 #### 2018년 10월 24일
 - [10가지 소프트웨어 아키텍처 패턴 요약 [번역]](http://bit.ly/2RazjYh)
 
@@ -100,6 +90,8 @@
 - [단위테스트 vs TDD vs BDD](http://bit.ly/2COTOGW)
 - [Product Manager 관점에서 바라 본 TDD](http://bit.ly/2J2KfEO)
 - [스포티파이의 개발 문화](http://bit.ly/2q58IjT)
+- ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다.](http://bit.ly/2SahtGf)
+- [잘 가요 스크럼, 반가워요 칸반 [번역]](http://bit.ly/2yX7Jqc)
 
 --------------------------------------
 
@@ -110,6 +102,7 @@
 - [10배 뛰어난 개발자 되기 [번역]](http://bit.ly/2OgL1E0)
 - [회사 밖에서 성장하기 [슬라이드]](http://bit.ly/2RWJdhA)
 - [개발자 필독서 50 선](http://bit.ly/2PaCiTs)
+- [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT기업 도전기](https://jojoldu.tistory.com/280#ref=github)
 
 --------------------------------------
 
@@ -122,6 +115,7 @@
 - [초보 개발자에게 권장하는 객체지향 모델링 공부 방법](http://bit.ly/2IYfWPx)
 - [백엔드 개발자를 꿈꾸는 학생개발자에게](http://bit.ly/2S0PLvt)
 - [신입사원을 위한 웹서비스 확장 전략 [슬라이드]](http://bit.ly/2q2LgEb)
+- [초보개발자가 알아야 할 5가지 핵심 가치 (영문)](http://bit.ly/2yYXwcE)
 
 --------------------------------------
 
@@ -209,13 +203,14 @@
 - [빌링 시스템 장애 대응 사례 - 우아한형제들](http://bit.ly/2PHr85C)
 - [마이크로 서비스 아키텍쳐와 컨테이너 환경](http://bit.ly/2J7YgRz)
 - [AWS를 슬랙으로 모니터링하기](http://bit.ly/2yWpWUW)
-
+- [Kubernetes 개념 설명 영상](http://bit.ly/2yWgxwl)
 --------------------------------------
 
 ### 데이터베이스 & SQL
 - [데이터모델링의 기초 정리](http://bit.ly/2Pmdd4C)
 - [JDBC로 실행되는 SQL에 자동으로 프로젝트 정보 주석 남기기](http://bit.ly/2Rz7lql)
 - [RDB부터 검색엔진까지··· 내게 꼭 맞는 DB 고르기](http://bit.ly/2q1l24E)
+- [CockroachDB 안녕?](http://bit.ly/2yXOWe6)
 
 --------------------------------------
 
@@ -269,6 +264,7 @@
 - [웹폰트 사용하기 (웹폰트의 모든 것)](http://bit.ly/2IQRIXj)
 - [왜 장바구니 UX 디자인은 비효율적인가? [영문]](http://bit.ly/2RTvNmC)
 - [실무에 바로 적용하는 UI 디자인 팁 7가지 [영문]](http://bit.ly/2RQYfVY)
+- [2018년 한글날 배포된 무료 한글 폰트들](http://bit.ly/2z5Gz0v)
 
 --------------------------------------
 
@@ -340,6 +336,7 @@
 - [Tinder의 프로그래시브 웹 앱 성능 케이스 스터디 [번역]](http://bit.ly/2IMxbmH)
 - [브라우저는 어떻게 동작하는가?](http://bit.ly/2Sdf5Pc)
 - [컴퓨터의 원리를 25분만에 간단하고 깔끔하게 설명하는 강의](http://bit.ly/2yVLPn2)
+
 --------------------------------------
 </br>
 
