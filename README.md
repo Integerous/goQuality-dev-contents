@@ -23,7 +23,7 @@
 
 방법 1 - 아래 :mailbox:**Queue** 에 링크 추가하고 **Pull Request**  
 방법 2 - **Issue 등록**하여 링크 공유 [(Issue 등록 방법)](https://github.com/Integerous/goQuality-dev-contents/issues/1)  
-방법 3 - [오픈채팅방](http://bit.ly/2QxBmW5)에 링크 공유 
+방법 3 - [오픈채팅방](http://bit.ly/2QxBmW5)에 링크 공유
 
 --------------------------------------
 ### :mute: 공유 규칙
@@ -49,6 +49,8 @@
 
 #### 2018년 10월 26일
 - 컨텐츠 공유 부탁드립니다 :)
+- [프로그래밍의 정석 리뷰](https://www.popit.kr/bookreview-principlesofprogramming/?fbclid=IwAR0JR3FKXMdOeciOMZnQFazxRopBAXyHuMYaj7gD8Vh6pEzqxRWY6y_GGqA)
+- [카카오 경력 인터뷰 후기](https://encyphered.github.io/blog/note/2018/09/26/kakao-interview-review.html)
 --------------------------------------
 </br>
 </br>
