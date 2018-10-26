@@ -5,9 +5,12 @@
 [![CONTRIBUTORS](https://img.shields.io/badge/contributors-0-red.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/CONTRIBUTING.md)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
 # { 고퀄리티:zap:개발 컨텐츠 모음 }
-<a href="https://github.com/Integerous/goQuality-dev-contents/graphs/contributors"><img src="https://opencollective.com/goquality-dev-contents/contributors.svg?width=720"></a>
 
->컨텐츠를 공유해주신 분들입니다! (아직은 저 뿐이네요ㅠ)  
+<div align=center>
+<a href="https://github.com/Integerous/goQuality-dev-contents/graphs/contributors"><img src="https://opencollective.com/goquality-dev-contents/contributors.svg?width=720"></a>
+</div>
+
+>컨텐츠를 공유해주신 분들입니다!   
 >유익하셨다면 :star:Star 부탁드립니다 :)
 
 </br>
@@ -39,18 +42,17 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2018년 10월 25일
-- [네이버 그린팩토리 주차층 관리앱 개발기](http://bit.ly/2R5MbyQ)
-- [왜 Go가 CockroachDB에 올바른 선택인가 [번역]](http://bit.ly/2RbDSBD)
-- [다양한 브랜드의 로고를 주요 컬러에 맞춰 다운로드 받을 수 있다면?](http://bit.ly/2Ra5lnc)
-- [초보자를 위한 Git 텍스트 강의](http://bit.ly/2RbYyJJ)
-- [당신이 좋은 개발자라는 징표](http://bit.ly/2O1HVyE)
-- [사기 높은 팀을 만드는 해피아워](http://bit.ly/2D3kns2)
-
 #### 2018년 10월 26일
-- 컨텐츠 공유 부탁드립니다 :)
 - [프로그래밍의 정석 리뷰](https://www.popit.kr/bookreview-principlesofprogramming/?fbclid=IwAR0JR3FKXMdOeciOMZnQFazxRopBAXyHuMYaj7gD8Vh6pEzqxRWY6y_GGqA)
 - [카카오 경력 인터뷰 후기](https://encyphered.github.io/blog/note/2018/09/26/kakao-interview-review.html)
+- [[만화] 리눅스 이야기: 리누스 토발즈의 어린 시절](http://bit.ly/2qbN3GI)
+- [베를린 Software engineer 취업기 (독일 개발자 취업) [영상]](http://bit.ly/2SifdwI)
+- [Pull Request를 보내기 전에, Rebase를 해야 할까요 혹은 merge commit을 만들어야 할까요?](http://bit.ly/2z1EGBO)
+- [구글 클라우드 서밋 2018 후기](https://futurecreator.github.io/2018/10/25/google-cloud-summit-seoul-2018/)
+
+#### 2018년 10월 27일
+- 이 곳에 공유 부탁드립니다 :)
+
 --------------------------------------
 </br>
 </br>
@@ -114,6 +116,9 @@
 - [모든 개발자가 알아야만 하는 SOLID 원칙 1편](http://bit.ly/2O0y8bZ)
 - [박재성 - 의식적인 연습으로 TDD, 리팩토링 연습하기[슬라이드]](http://bit.ly/2yZhlAN)
 - [실제 있을법한 예제를 TDD로 구현하는 과정 라이브로 시연 - 최범균님 [영상]](http://bit.ly/2yWXrpR)
+- [당신이 좋은 개발자라는 징표](http://bit.ly/2O1HVyE)
+- [사기 높은 팀을 만드는 해피아워](http://bit.ly/2D3kns2)
+
 --------------------------------------
 
 ### 개발자 성장
@@ -197,7 +202,7 @@
 
 ### Go
 - [GO 언어를 처음 접하는 사람들을 위한 GOLANG 안내서](http://bit.ly/2pKjqME)
-
+- [왜 Go가 CockroachDB에 올바른 선택인가 [번역]](http://bit.ly/2RbDSBD)
 --------------------------------------
 </br>
 </br>
@@ -291,6 +296,7 @@
 - [왜 장바구니 UX 디자인은 비효율적인가? [영문]](http://bit.ly/2RTvNmC)
 - [실무에 바로 적용하는 UI 디자인 팁 7가지 [영문]](http://bit.ly/2RQYfVY)
 - [2018년 한글날 배포된 무료 한글 폰트들](http://bit.ly/2z5Gz0v)
+- [다양한 브랜드의 로고를 주요 컬러에 맞춰 다운로드 받을 수 있다면?](http://bit.ly/2Ra5lnc)
 
 --------------------------------------
 
@@ -300,6 +306,7 @@
 - [카카오뱅크 모바일앱 개발 이야기 [영상]](http://bit.ly/2pWcooj)
 - [안드로이드 모션 레이아웃 설명 [영문]](http://bit.ly/2CSZgsC)
 - [가상화폐 거래소 앱 개발 후기](http://bit.ly/2ExTFcI)
+- [네이버 그린팩토리 주차층 관리앱 개발기](http://bit.ly/2R5MbyQ)
 
 --------------------------------------
 </br>
@@ -315,6 +322,7 @@
 - [Git의 요술 책갈피, Stash 기능 소개](http://bit.ly/2IQOF1j)
 - [팀에서 깃헙 Enterprise Plan을 써야하는 이유(Developer Plan과의 비교)](http://bit.ly/2RFSslU)
 - [GitHub에서 사용할 수 있는 이모지(emoji) 목록](http://bit.ly/2CE6X5G)
+- [초보자를 위한 Git 텍스트 강의](http://bit.ly/2RbYyJJ)
 
 --------------------------------------
 
@@ -361,7 +369,7 @@
 - [Top 10 DevOps 블로그와 웹사이트 2018 [영문]](http://bit.ly/2REfeLe)
 - [모던 웹 브라우저의 내부 살펴보기 1편 [시리즈]](http://bit.ly/2CrD6MO)
 - [Tinder의 프로그래시브 웹 앱 성능 케이스 스터디 [번역]](http://bit.ly/2IMxbmH)
-- [브라우저는 어떻게 동작하는가?](http://bit.ly/2Sdf5Pc)
+- [브라우저는 어떻게 동작하는가?[번역]](http://bit.ly/2Sdf5Pc)
 - [컴퓨터의 원리를 25분만에 간단하고 깔끔하게 설명하는 강의](http://bit.ly/2yVLPn2)
 - [만화로 나누는 오픈소스 소프트웨어 이야기](http://bit.ly/2yZxeqU)
 --------------------------------------
