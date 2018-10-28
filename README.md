@@ -42,17 +42,16 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2018년 10월 26일
-- [프로그래밍의 정석 리뷰](https://www.popit.kr/bookreview-principlesofprogramming/?fbclid=IwAR0JR3FKXMdOeciOMZnQFazxRopBAXyHuMYaj7gD8Vh6pEzqxRWY6y_GGqA)
-- [카카오 경력 인터뷰 후기](https://encyphered.github.io/blog/note/2018/09/26/kakao-interview-review.html)
-- [[만화] 리눅스 이야기: 리누스 토발즈의 어린 시절](http://bit.ly/2qbN3GI)
-- [베를린 Software engineer 취업기 (독일 개발자 취업) [영상]](http://bit.ly/2SifdwI)
-- [Pull Request를 보내기 전에, Rebase를 해야 할까요 혹은 merge commit을 만들어야 할까요?](http://bit.ly/2z1EGBO)
-- [구글 클라우드 서밋 2018 후기](https://futurecreator.github.io/2018/10/25/google-cloud-summit-seoul-2018/)
 
-#### 2018년 10월 27일
+#### 2018년 10월 27일 토요일
+- [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
+- [신입개발자 생활백서 [슬라이드]](https://www.slideshare.net/jayjin0427/ss-71896768%20)
+- [카카오 면접 시 듣게 되는 70가지 질문](http://www.bloter.net/archives/245529)
+- [웹크롤링 좀 더 잘하기 [슬라이드]](http://bit.ly/2CHNeBf)
+- [마크업개발자가 UX를 알아야 하는 이유 [슬라이드]](http://bit.ly/2CKrswV)
+
+#### 2018년 10월 28일 일요일
 - 이 곳에 공유 부탁드립니다 :)
-
 --------------------------------------
 </br>
 </br>
@@ -118,7 +117,7 @@
 - [실제 있을법한 예제를 TDD로 구현하는 과정 라이브로 시연 - 최범균님 [영상]](http://bit.ly/2yWXrpR)
 - [당신이 좋은 개발자라는 징표](http://bit.ly/2O1HVyE)
 - [사기 높은 팀을 만드는 해피아워](http://bit.ly/2D3kns2)
-
+- [프로그래밍의 정석 리뷰](https://www.popit.kr/bookreview-principlesofprogramming/?fbclid=IwAR0JR3FKXMdOeciOMZnQFazxRopBAXyHuMYaj7gD8Vh6pEzqxRWY6y_GGqA)
 --------------------------------------
 
 ### 개발자 성장
@@ -129,7 +128,7 @@
 - [회사 밖에서 성장하기 [슬라이드]](http://bit.ly/2RWJdhA)
 - [개발자 필독서 50 선](http://bit.ly/2PaCiTs)
 - [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT기업 도전기](https://jojoldu.tistory.com/280#ref=github)
-
+- [베를린 Software engineer 취업기 (독일 개발자 취업) [영상]](http://bit.ly/2SifdwI)
 --------------------------------------
 
 ### 비전공자 & 신입
@@ -153,6 +152,7 @@
 - [NAVER DEVIEW 2018 2일차 후기](http://bit.ly/2PxAUHw)
 - [OKKYCON 2018 TDD 컨퍼런스 후기](http://bit.ly/2RTRNxD)
 - [테크니컬 라이팅 컨퍼런스: Write the Docs Prague 2018 방문기](http://bit.ly/2RWocDA)
+- [구글 클라우드 서밋 2018 후기](https://futurecreator.github.io/2018/10/25/google-cloud-summit-seoul-2018/)
 
 --------------------------------------
 
@@ -323,6 +323,7 @@
 - [팀에서 깃헙 Enterprise Plan을 써야하는 이유(Developer Plan과의 비교)](http://bit.ly/2RFSslU)
 - [GitHub에서 사용할 수 있는 이모지(emoji) 목록](http://bit.ly/2CE6X5G)
 - [초보자를 위한 Git 텍스트 강의](http://bit.ly/2RbYyJJ)
+- [Pull Request를 보내기 전에, Rebase를 해야 할까요 혹은 merge commit을 만들어야 할까요?](http://bit.ly/2z1EGBO)
 
 --------------------------------------
 
