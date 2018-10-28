@@ -51,6 +51,12 @@
 
 #### 2018년 10월 28일 일요일
 - 이 곳에 공유 부탁드립니다 :)
+- [마음대로 일하기 위한 규칙들 -  멋쟁이 사자처럼](https://brunch.co.kr/@likelion/11)
+- [Docker 교실 [영문]](https://training.play-with-docker.com/)
+- [Octoverse (분야별 인기있는 오픈소스 프로젝트 리스트 사이트)](http://bit.ly/2CFNGjv)
+- [Java 학습에 도움이되는 9가지 개발서적 [영문]](https://dzone.com/articles/top-9-java-programming-books-best-of-lot-must-read)
+- [월간 300억 동접자 수를 처리한 방법 (번역글)](http://bit.ly/2IMJZts)
+
 --------------------------------------
 </br>
 </br>
