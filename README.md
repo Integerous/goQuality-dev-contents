@@ -49,7 +49,20 @@
 - [월간 300억 동접자 수를 처리한 방법 (번역글)](http://bit.ly/2IMJZts)
 
 #### 2018년 10월 29일 월요일
-- 이 곳에 공유 부탁드립니다 :)
+- [로그백을 사용 해야 하는 이유](https://lalwr.blogspot.com/2016/03/logback.html)
+- [2018년에 배워야 할 최고의 자바스크립트 라이브러리와 기술 [번역]](https://rhostem.github.io/posts/2018-01-25-top-java-script-libraries-tech-to-learn-in-2018)
+- [웹 아키텍쳐 입문 [번역]](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
+- [Reactor를 사용한 Java reactive programming 예제](http://tech.kakao.com/2018/05/29/reactor-programming/)
+- [서버 성능에 대한 정의와 이해 [슬라이드]](https://www.slideshare.net/sunnykwak90/ss-44875669)
+- [테알못 신입은 어떻게 테스트를 시작했을까? [슬라이드]](https://www.slideshare.net/mobile/OKJSP/okkycon-120498066?fbclid=IwAR0Ks5Vk6GrlxI7e2Y_zk7t6hMbsp2tR4ebznBtbS5XoAhwr1vlm7qQvKKY)
+- [Github vs Bitbucket vs Gitlab 비교](http://www.itworld.co.kr/news/109976)
+- [Restful API를 설계하기 위한 디자인 팁](https://spoqa.github.io/2013/06/11/more-restful-interface.html)
+- [JS에서 조건문을 더 낫게 쓰기 위한 5가지 팁](https://code-200.tistory.com/14)
+- [프로듀스48과 함께하는 GraphQL(그래프큐엘)](https://medium.com/@khwsc1/%ED%94%84%EB%A1%9C%EB%93%80%EC%8A%A448%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-graphql-%EA%B7%B8%EB%9E%98%ED%94%84%ED%81%90%EC%97%98-10c3e5da2f7b)
+- [새로운 디자인 트렌드의 위험요소 [번역]](https://m.blog.naver.com/PostView.nhn?blogId=fastcampus&logNo=221356914652&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Ffastcampus%2F221356914652)
+
+#### 2018년 10월 30일 화요일
+- 컨텐츠 공유 부탁드립니다 :)
 
 --------------------------------------
 </br>
