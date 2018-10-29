@@ -41,21 +41,15 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-
-#### 2018년 10월 27일 토요일
-- [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
-- [신입개발자 생활백서 [슬라이드]](https://www.slideshare.net/jayjin0427/ss-71896768%20)
-- [카카오 면접 시 듣게 되는 70가지 질문](http://www.bloter.net/archives/245529)
-- [웹크롤링 좀 더 잘하기 [슬라이드]](http://bit.ly/2CHNeBf)
-- [마크업개발자가 UX를 알아야 하는 이유 [슬라이드]](http://bit.ly/2CKrswV)
-
 #### 2018년 10월 28일 일요일
-- 이 곳에 공유 부탁드립니다 :)
 - [마음대로 일하기 위한 규칙들 -  멋쟁이 사자처럼](https://brunch.co.kr/@likelion/11)
 - [Docker 교실 [영문]](https://training.play-with-docker.com/)
 - [Octoverse (분야별 인기있는 오픈소스 프로젝트 리스트 사이트)](http://bit.ly/2CFNGjv)
 - [Java 학습에 도움이되는 9가지 개발서적 [영문]](https://dzone.com/articles/top-9-java-programming-books-best-of-lot-must-read)
 - [월간 300억 동접자 수를 처리한 방법 (번역글)](http://bit.ly/2IMJZts)
+
+#### 2018년 10월 29일 월요일
+- 이 곳에 공유 부탁드립니다 :)
 
 --------------------------------------
 </br>
@@ -134,6 +128,7 @@
 - [개발자 필독서 50 선](http://bit.ly/2PaCiTs)
 - [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT기업 도전기](https://jojoldu.tistory.com/280#ref=github)
 - [베를린 Software engineer 취업기 (독일 개발자 취업) [영상]](http://bit.ly/2SifdwI)
+- [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
 --------------------------------------
 
 ### 비전공자 & 신입
@@ -146,6 +141,7 @@
 - [백엔드 개발자를 꿈꾸는 학생개발자에게](http://bit.ly/2S0PLvt)
 - [신입사원을 위한 웹서비스 확장 전략 [슬라이드]](http://bit.ly/2q2LgEb)
 - [초보개발자가 알아야 할 5가지 핵심 가치 (영문)](http://bit.ly/2yYXwcE)
+- [신입개발자 생활백서 [슬라이드]](https://www.slideshare.net/jayjin0427/ss-71896768%20)
 
 --------------------------------------
 
@@ -174,6 +170,7 @@
 - [웹개발(JAVA,JSP,Spring) 관련 예상 면접 질문](http://bit.ly/2Cbf60r)
 - [넥슨 면접에서 듣게 되는 질문 63가지(2018년 ver.)](http://bit.ly/2OXv0lZ)
 - [카카오 경력공채 면접 후기](http://bit.ly/2ynKQNf)
+- [카카오 면접 시 듣게 되는 70가지 질문](http://www.bloter.net/archives/245529)
 
 --------------------------------------
 </br>
@@ -302,6 +299,7 @@
 - [실무에 바로 적용하는 UI 디자인 팁 7가지 [영문]](http://bit.ly/2RQYfVY)
 - [2018년 한글날 배포된 무료 한글 폰트들](http://bit.ly/2z5Gz0v)
 - [다양한 브랜드의 로고를 주요 컬러에 맞춰 다운로드 받을 수 있다면?](http://bit.ly/2Ra5lnc)
+- [마크업개발자가 UX를 알아야 하는 이유 [슬라이드]](http://bit.ly/2CKrswV)
 
 --------------------------------------
 
@@ -378,6 +376,7 @@
 - [브라우저는 어떻게 동작하는가?[번역]](http://bit.ly/2Sdf5Pc)
 - [컴퓨터의 원리를 25분만에 간단하고 깔끔하게 설명하는 강의](http://bit.ly/2yVLPn2)
 - [만화로 나누는 오픈소스 소프트웨어 이야기](http://bit.ly/2yZxeqU)
+- [웹크롤링 좀 더 잘하기 [슬라이드]](http://bit.ly/2CHNeBf)
 --------------------------------------
 </br>
 </br>
