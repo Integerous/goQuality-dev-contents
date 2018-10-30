@@ -41,13 +41,6 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2018년 10월 28일 일요일
-- [마음대로 일하기 위한 규칙들 -  멋쟁이 사자처럼](https://brunch.co.kr/@likelion/11)
-- [Docker 교실 [영문]](https://training.play-with-docker.com/)
-- [Octoverse (분야별 인기있는 오픈소스 프로젝트 리스트 사이트)](http://bit.ly/2CFNGjv)
-- [Java 학습에 도움이되는 9가지 개발서적 [영문]](https://dzone.com/articles/top-9-java-programming-books-best-of-lot-must-read)
-- [월간 300억 동접자 수를 처리한 방법 (번역글)](http://bit.ly/2IMJZts)
-
 #### 2018년 10월 29일 월요일
 - [로그백을 사용 해야 하는 이유](https://lalwr.blogspot.com/2016/03/logback.html)
 - [2018년에 배워야 할 최고의 자바스크립트 라이브러리와 기술 [번역]](https://rhostem.github.io/posts/2018-01-25-top-java-script-libraries-tech-to-learn-in-2018)
@@ -138,6 +131,7 @@
 - [당신이 좋은 개발자라는 징표](http://bit.ly/2O1HVyE)
 - [사기 높은 팀을 만드는 해피아워](http://bit.ly/2D3kns2)
 - [프로그래밍의 정석 리뷰](https://www.popit.kr/bookreview-principlesofprogramming/?fbclid=IwAR0JR3FKXMdOeciOMZnQFazxRopBAXyHuMYaj7gD8Vh6pEzqxRWY6y_GGqA)
+- [마음대로 일하기 위한 규칙들 -  멋쟁이 사자처럼](https://brunch.co.kr/@likelion/11)
 --------------------------------------
 
 ### 개발자 성장
@@ -213,6 +207,7 @@
 - [토비님 발표 - 스프링5 웹플럭스와 테스트 전략 [영상]](http://bit.ly/2QSeLnq)
 - [Maven과 Gradle 비교](http://bit.ly/2NRYbST)
 - [왜 자바에서 static의 사용을 지양해야 하는가?](http://bit.ly/2q1PprF)
+- [Java 학습에 도움이되는 9가지 개발서적 [영문]](https://dzone.com/articles/top-9-java-programming-books-best-of-lot-must-read)
 
 --------------------------------------
 
@@ -256,6 +251,7 @@
 - [AWS를 슬랙으로 모니터링하기](http://bit.ly/2yWpWUW)
 - [Kubernetes 개념 설명 영상](http://bit.ly/2yWgxwl)
 - [10가지 소프트웨어 아키텍처 패턴 요약 [번역]](http://bit.ly/2RazjYh)
+- [Docker 교실 [영문]](https://training.play-with-docker.com/)
 
 --------------------------------------
 
@@ -398,6 +394,7 @@
 - [컴퓨터의 원리를 25분만에 간단하고 깔끔하게 설명하는 강의](http://bit.ly/2yVLPn2)
 - [만화로 나누는 오픈소스 소프트웨어 이야기](http://bit.ly/2yZxeqU)
 - [웹크롤링 좀 더 잘하기 [슬라이드]](http://bit.ly/2CHNeBf)
+- [Octoverse (분야별 인기있는 오픈소스 프로젝트 리스트 사이트)](http://bit.ly/2CFNGjv)
 --------------------------------------
 </br>
 </br>
