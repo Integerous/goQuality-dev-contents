@@ -62,6 +62,14 @@
 - [새로운 디자인 트렌드의 위험요소 [번역]](https://m.blog.naver.com/PostView.nhn?blogId=fastcampus&logNo=221356914652&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Ffastcampus%2F221356914652)
 
 #### 2018년 10월 30일 화요일
+- [안전한 SSL/TLS운영 하기위해 알아야 할 것들](bit.ly/2OcxHLR)
+- [Node.js 동작 원리](http://sjh836.tistory.com/149)
+- [로컬 Spring Boot에 SSL 적용하기](https://jojoldu.tistory.com/350)
+- [지난 5년 동안 소프트웨어 개발자로서 배운 것들 [번역]](http://bit.ly/2qikyYh)
+- [자바스크립트 개발자가 반드시 알아야 할 33가지 개념 [영문]](http://bit.ly/2qhVMaz)
+- [GraphQL과 RESTful API](http://bit.ly/2Q3ZK1H)
+
+#### 2018년 10월 31일 수요일
 - 컨텐츠 공유 부탁드립니다 :)
 
 --------------------------------------
