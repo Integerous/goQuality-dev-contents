@@ -4,7 +4,6 @@
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
 # { 고퀄리티:zap:개발 컨텐츠 모음 }
->유익하셨다면 :star:Star 부탁드립니다 :)
 
 <div align=center>
 <a href="https://github.com/Integerous/goQuality-dev-contents/graphs/contributors"><img src="https://opencollective.com/goquality-dev-contents/contributors.svg?width=720"></a>
@@ -17,6 +16,7 @@
 
 ## :mega: 소개
 >고퀄리티 ***개발 관련 컨텐츠*** 를 모으는 저장소입니다!  
+>유익하셨다면 :star:Star 부탁드립니다 :)
 
 --------------------------------------
 ### :family: 누구나 Contributor가 될 수 있습니다!
