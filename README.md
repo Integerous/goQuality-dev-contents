@@ -50,6 +50,16 @@
 - [GraphQL과 RESTful API](http://bit.ly/2Q3ZK1H)
 
 #### 2018년 10월 31일 수요일
+- [프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM](http://bit.ly/2OZE0aL)
+- [React 17 에 추가된 새로운 것들](http://bit.ly/2qnCPDf)
+- [웹서버 트래픽 폭주 대비 아파치 웹, 톰캣 서버 설정](bit.ly/2Q2a3U2)
+- [1000 개의 코드 리뷰를 통해 배운 점 [번역]](http://bit.ly/2zdO0CI)
+- [프로토파이 무료 학습 링크 모음](https://brunch.co.kr/@uxhaaz/38)
+- [비둘기로 설명하는 HTTPS [번역]](http://bit.ly/2zggUlF)
+- [내가 웹개발자로써 첫 직장을 잡은 방법 [영문]](http://bit.ly/2qmdvxE)
+- [초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 [번역]](http://bit.ly/2qmdaem)
+
+#### 2018년 11월 1일 목요일
 - 컨텐츠 공유 부탁드립니다 :)
 
 --------------------------------------
