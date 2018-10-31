@@ -41,19 +41,6 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2018년 10월 29일 월요일
-- [로그백을 사용 해야 하는 이유](https://lalwr.blogspot.com/2016/03/logback.html)
-- [2018년에 배워야 할 최고의 자바스크립트 라이브러리와 기술 [번역]](https://rhostem.github.io/posts/2018-01-25-top-java-script-libraries-tech-to-learn-in-2018)
-- [웹 아키텍쳐 입문 [번역]](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
-- [Reactor를 사용한 Java reactive programming 예제](http://tech.kakao.com/2018/05/29/reactor-programming/)
-- [서버 성능에 대한 정의와 이해 [슬라이드]](https://www.slideshare.net/sunnykwak90/ss-44875669)
-- [테알못 신입은 어떻게 테스트를 시작했을까? [슬라이드]](https://www.slideshare.net/mobile/OKJSP/okkycon-120498066?fbclid=IwAR0Ks5Vk6GrlxI7e2Y_zk7t6hMbsp2tR4ebznBtbS5XoAhwr1vlm7qQvKKY)
-- [Github vs Bitbucket vs Gitlab 비교](http://www.itworld.co.kr/news/109976)
-- [Restful API를 설계하기 위한 디자인 팁](https://spoqa.github.io/2013/06/11/more-restful-interface.html)
-- [JS에서 조건문을 더 낫게 쓰기 위한 5가지 팁](https://code-200.tistory.com/14)
-- [프로듀스48과 함께하는 GraphQL(그래프큐엘)](https://medium.com/@khwsc1/%ED%94%84%EB%A1%9C%EB%93%80%EC%8A%A448%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-graphql-%EA%B7%B8%EB%9E%98%ED%94%84%ED%81%90%EC%97%98-10c3e5da2f7b)
-- [새로운 디자인 트렌드의 위험요소 [번역]](https://m.blog.naver.com/PostView.nhn?blogId=fastcampus&logNo=221356914652&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Ffastcampus%2F221356914652)
-
 #### 2018년 10월 30일 화요일
 - [안전한 SSL/TLS운영 하기위해 알아야 할 것들](bit.ly/2OcxHLR)
 - [Node.js 동작 원리](http://sjh836.tistory.com/149)
@@ -157,6 +144,7 @@
 - [신입사원을 위한 웹서비스 확장 전략 [슬라이드]](http://bit.ly/2q2LgEb)
 - [초보개발자가 알아야 할 5가지 핵심 가치 (영문)](http://bit.ly/2yYXwcE)
 - [신입개발자 생활백서 [슬라이드]](https://www.slideshare.net/jayjin0427/ss-71896768%20)
+- [테알못 신입은 어떻게 테스트를 시작했을까? [슬라이드]](https://www.slideshare.net/mobile/OKJSP/okkycon-120498066?fbclid=IwAR0Ks5Vk6GrlxI7e2Y_zk7t6hMbsp2tR4ebznBtbS5XoAhwr1vlm7qQvKKY)
 
 --------------------------------------
 
@@ -208,6 +196,8 @@
 - [Maven과 Gradle 비교](http://bit.ly/2NRYbST)
 - [왜 자바에서 static의 사용을 지양해야 하는가?](http://bit.ly/2q1PprF)
 - [Java 학습에 도움이되는 9가지 개발서적 [영문]](https://dzone.com/articles/top-9-java-programming-books-best-of-lot-must-read)
+- [Logback을 사용 해야 하는 이유](https://lalwr.blogspot.com/2016/03/logback.html)
+- [Reactor를 사용한 Java reactive programming 예제](http://tech.kakao.com/2018/05/29/reactor-programming/)
 
 --------------------------------------
 
@@ -252,6 +242,9 @@
 - [Kubernetes 개념 설명 영상](http://bit.ly/2yWgxwl)
 - [10가지 소프트웨어 아키텍처 패턴 요약 [번역]](http://bit.ly/2RazjYh)
 - [Docker 교실 [영문]](https://training.play-with-docker.com/)
+- [웹 아키텍쳐 입문 [번역]](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
+- [서버 성능에 대한 정의와 이해 [슬라이드]](https://www.slideshare.net/sunnykwak90/ss-44875669)
+- [프로듀스48과 함께하는 GraphQL(그래프큐엘)](http://bit.ly/2qkVjVh)
 
 --------------------------------------
 
@@ -298,6 +291,8 @@
 - [자바스크립트 기본서 비교](http://bit.ly/2q4bRRe)
 - [자바스크립트 반응형에 대한 좋은 설명 [번역]](http://bit.ly/2qbjqpn)
 - [자바스크립트의 함수를 배워보자](http://bit.ly/2S7njZ2)
+- [2018년에 배워야 할 최고의 자바스크립트 라이브러리와 기술 [번역]](https://rhostem.github.io/posts/2018-01-25-top-java-script-libraries-tech-to-learn-in-2018)
+- [JS에서 조건문을 더 낫게 쓰기 위한 5가지 팁](https://code-200.tistory.com/14)
 
 --------------------------------------
 
@@ -317,6 +312,7 @@
 - [2018년 한글날 배포된 무료 한글 폰트들](http://bit.ly/2z5Gz0v)
 - [다양한 브랜드의 로고를 주요 컬러에 맞춰 다운로드 받을 수 있다면?](http://bit.ly/2Ra5lnc)
 - [마크업개발자가 UX를 알아야 하는 이유 [슬라이드]](http://bit.ly/2CKrswV)
+- [새로운 디자인 트렌드의 위험요소 [번역]](http://bit.ly/2qkxInD)
 
 --------------------------------------
 
@@ -344,6 +340,7 @@
 - [GitHub에서 사용할 수 있는 이모지(emoji) 목록](http://bit.ly/2CE6X5G)
 - [초보자를 위한 Git 텍스트 강의](http://bit.ly/2RbYyJJ)
 - [Pull Request를 보내기 전에, Rebase를 해야 할까요 혹은 merge commit을 만들어야 할까요?](http://bit.ly/2z1EGBO)
+- [Github vs Bitbucket vs Gitlab 비교](http://www.itworld.co.kr/news/109976)
 
 --------------------------------------
 
@@ -395,6 +392,8 @@
 - [만화로 나누는 오픈소스 소프트웨어 이야기](http://bit.ly/2yZxeqU)
 - [웹크롤링 좀 더 잘하기 [슬라이드]](http://bit.ly/2CHNeBf)
 - [Octoverse (분야별 인기있는 오픈소스 프로젝트 리스트 사이트)](http://bit.ly/2CFNGjv)
+- [Restful API를 설계하기 위한 디자인 팁](https://spoqa.github.io/2013/06/11/more-restful-interface.html)
+
 --------------------------------------
 </br>
 </br>
