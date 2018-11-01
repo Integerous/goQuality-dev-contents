@@ -42,7 +42,7 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 #### 2018년 10월 30일 화요일
-- [안전한 SSL/TLS운영 하기위해 알아야 할 것들](bit.ly/2OcxHLR)
+- [안전한 SSL/TLS운영 하기위해 알아야 할 것들](http://bit.ly/2OcxHLR)
 - [Node.js 동작 원리](http://sjh836.tistory.com/149)
 - [로컬 Spring Boot에 SSL 적용하기](https://jojoldu.tistory.com/350)
 - [지난 5년 동안 소프트웨어 개발자로서 배운 것들 [번역]](http://bit.ly/2qikyYh)
