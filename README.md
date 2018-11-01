@@ -54,6 +54,18 @@
 - [초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 [번역]](http://bit.ly/2qmdaem)
 
 #### 2018년 11월 1일 목요일
+- [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
+- [스프링 Rest API 문서 자동화](https://github.com/cheese10yun/springboot-restdocs)
+- [Angular 기본 개념 잡기](http://han41858.tistory.com/40)
+- [Spring-Jpa Best Practices 쳅터 별로 정리](https://github.com/cheese10yun/spring-jpa-best-practices)
+- [우린 Git-flow를 사용하고 있어요 - 우아한형제들](http://bit.ly/2Q8ci8l)
+- [Java의 10가지 OOP 개념 [영문]](https://dzone.com/articles/10-oops-concepts-in-java)
+- [github 사용법 이슈 발급부터 코드 리뷰까지](https://github.com/cheese10yun/github-project-management)
+- [코딩 인터뷰를 깨부술 10가지 자료구조/알고리즘 강의 [영문]](http://bit.ly/2SzcYVW)
+- [Java 대용량 엑셀 다운로드 기능 구현](http://bit.ly/2SBgK1a)
+- [IntelliJ 활용법](https://github.com/cheese10yun/IntelliJ)
+
+#### 2018년 11월 2일 금요일
 - 컨텐츠 공유 부탁드립니다 :)
 
 --------------------------------------
