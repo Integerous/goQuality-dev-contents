@@ -41,13 +41,6 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2018년 10월 30일 화요일
-- [안전한 SSL/TLS운영 하기위해 알아야 할 것들](http://bit.ly/2OcxHLR)
-- [Node.js 동작 원리](http://sjh836.tistory.com/149)
-- [로컬 Spring Boot에 SSL 적용하기](https://jojoldu.tistory.com/350)
-- [지난 5년 동안 소프트웨어 개발자로서 배운 것들 [번역]](http://bit.ly/2qikyYh)
-- [자바스크립트 개발자가 반드시 알아야 할 33가지 개념 [영문]](http://bit.ly/2qhVMaz)
-- [GraphQL과 RESTful API](http://bit.ly/2Q3ZK1H)
 
 #### 2018년 10월 31일 수요일
 - [FE개발랩 자바스크립트 개발 가이드](https://github.com/nhnent/fe.javascript/wiki)
@@ -142,6 +135,7 @@
 - [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT기업 도전기](https://jojoldu.tistory.com/280#ref=github)
 - [베를린 Software engineer 취업기 (독일 개발자 취업) [영상]](http://bit.ly/2SifdwI)
 - [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
+- [지난 5년 동안 소프트웨어 개발자로서 배운 것들 [번역]](http://bit.ly/2qikyYh)
 --------------------------------------
 
 ### 비전공자 & 신입
@@ -209,6 +203,7 @@
 - [Java 학습에 도움이되는 9가지 개발서적 [영문]](https://dzone.com/articles/top-9-java-programming-books-best-of-lot-must-read)
 - [Logback을 사용 해야 하는 이유](https://lalwr.blogspot.com/2016/03/logback.html)
 - [Reactor를 사용한 Java reactive programming 예제](http://tech.kakao.com/2018/05/29/reactor-programming/)
+- [로컬 Spring Boot에 SSL 적용하기](https://jojoldu.tistory.com/350)
 
 --------------------------------------
 
@@ -256,6 +251,8 @@
 - [웹 아키텍쳐 입문 [번역]](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
 - [서버 성능에 대한 정의와 이해 [슬라이드]](https://www.slideshare.net/sunnykwak90/ss-44875669)
 - [프로듀스48과 함께하는 GraphQL(그래프큐엘)](http://bit.ly/2qkVjVh)
+- [안전한 SSL/TLS운영 하기위해 알아야 할 것들](http://bit.ly/2OcxHLR)
+- [GraphQL과 RESTful API](http://bit.ly/2Q3ZK1H)
 
 --------------------------------------
 
@@ -304,6 +301,8 @@
 - [자바스크립트의 함수를 배워보자](http://bit.ly/2S7njZ2)
 - [2018년에 배워야 할 최고의 자바스크립트 라이브러리와 기술 [번역]](https://rhostem.github.io/posts/2018-01-25-top-java-script-libraries-tech-to-learn-in-2018)
 - [JS에서 조건문을 더 낫게 쓰기 위한 5가지 팁](https://code-200.tistory.com/14)
+- [Node.js 동작 원리](http://sjh836.tistory.com/149)
+- [자바스크립트 개발자가 반드시 알아야 할 33가지 개념 [영문]](http://bit.ly/2qhVMaz)
 
 --------------------------------------
 
