@@ -50,6 +50,7 @@
 - [GraphQL과 RESTful API](http://bit.ly/2Q3ZK1H)
 
 #### 2018년 10월 31일 수요일
+- [FE개발랩 자바스크립트 개발 가이드](https://github.com/nhnent/fe.javascript/wiki)
 - [프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM](http://bit.ly/2OZE0aL)
 - [React 17 에 추가된 새로운 것들](http://bit.ly/2qnCPDf)
 - [웹서버 트래픽 폭주 대비 아파치 웹, 톰캣 서버 설정](bit.ly/2Q2a3U2)
