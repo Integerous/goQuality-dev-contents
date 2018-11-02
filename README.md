@@ -56,7 +56,7 @@
 
 #### 2018년 11월 2일 금요일
 - [개발이라는 세계에 첫 발 내딛기](http://asfirstalways.tistory.com/153)
-- [웹 프로그래밍 튜토리얼 Poiemaweb [학습사이트](poiemaweb.com)
+- [웹 프로그래밍 튜토리얼 Poiemaweb [학습사이트]](poiemaweb.com)
 - [데이터 분석, 먹고 들어가기 위한 SQL 공부법 1편](https://brunch.co.kr/@minu-log/5)
 - [이펙티브 자바3 저자 직강 [영상]](http://bit.ly/2SClKlX)
 - [스프링 예제로 보는 SOLID](https://github.com/cheese10yun/spring-SOLID)
