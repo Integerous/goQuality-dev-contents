@@ -132,7 +132,6 @@
 - [박재성 - 의식적인 연습으로 TDD, 리팩토링 연습하기[슬라이드]](http://bit.ly/2yZhlAN)
 - [실제 있을법한 예제를 TDD로 구현하는 과정 라이브로 시연 - 최범균님 [영상]](http://bit.ly/2yWXrpR)
 - [당신이 좋은 개발자라는 징표](http://bit.ly/2O1HVyE)
-- [사기 높은 팀을 만드는 해피아워](http://bit.ly/2D3kns2)
 - [프로그래밍의 정석 리뷰](https://www.popit.kr/bookreview-principlesofprogramming/?fbclid=IwAR0JR3FKXMdOeciOMZnQFazxRopBAXyHuMYaj7gD8Vh6pEzqxRWY6y_GGqA)
 - [마음대로 일하기 위한 규칙들 -  멋쟁이 사자처럼](https://brunch.co.kr/@likelion/11)
 --------------------------------------
