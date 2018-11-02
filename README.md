@@ -42,17 +42,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 10월 31일 수요일
-- [FE개발랩 자바스크립트 개발 가이드](https://github.com/nhnent/fe.javascript/wiki)
-- [프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM](http://bit.ly/2OZE0aL)
-- [React 17 에 추가된 새로운 것들](http://bit.ly/2qnCPDf)
-- [웹서버 트래픽 폭주 대비 아파치 웹, 톰캣 서버 설정](bit.ly/2Q2a3U2)
-- [1000 개의 코드 리뷰를 통해 배운 점 [번역]](http://bit.ly/2zdO0CI)
-- [프로토파이 무료 학습 링크 모음](https://brunch.co.kr/@uxhaaz/38)
-- [비둘기로 설명하는 HTTPS [번역]](http://bit.ly/2zggUlF)
-- [내가 웹개발자로써 첫 직장을 잡은 방법 [영문]](http://bit.ly/2qmdvxE)
-- [초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 [번역]](http://bit.ly/2qmdaem)
-
 #### 2018년 11월 1일 목요일
 - [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
 - [스프링 Rest API 문서 자동화](https://github.com/cheese10yun/springboot-restdocs)
@@ -147,6 +136,7 @@
 - [베를린 Software engineer 취업기 (독일 개발자 취업) [영상]](http://bit.ly/2SifdwI)
 - [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
 - [지난 5년 동안 소프트웨어 개발자로서 배운 것들 [번역]](http://bit.ly/2qikyYh)
+- [1000 개의 코드 리뷰를 통해 배운 점 [번역]](http://bit.ly/2zdO0CI)
 --------------------------------------
 
 ### 비전공자 & 신입
@@ -160,8 +150,8 @@
 - [신입사원을 위한 웹서비스 확장 전략 [슬라이드]](http://bit.ly/2q2LgEb)
 - [초보개발자가 알아야 할 5가지 핵심 가치 (영문)](http://bit.ly/2yYXwcE)
 - [신입개발자 생활백서 [슬라이드]](https://www.slideshare.net/jayjin0427/ss-71896768%20)
-- [테알못 신입은 어떻게 테스트를 시작했을까? [슬라이드]](https://www.slideshare.net/mobile/OKJSP/okkycon-120498066?fbclid=IwAR0Ks5Vk6GrlxI7e2Y_zk7t6hMbsp2tR4ebznBtbS5XoAhwr1vlm7qQvKKY)
-
+- [테알못 신입은 어떻게 테스트를 시작했을까? [슬라이드]](http://bit.ly/2QcxtGk)
+- [내가 웹개발자로써 첫 직장을 잡은 방법 [영문]](http://bit.ly/2qmdvxE)
 --------------------------------------
 
 ### 세미나/컨퍼런스 후기
@@ -264,6 +254,7 @@
 - [프로듀스48과 함께하는 GraphQL(그래프큐엘)](http://bit.ly/2qkVjVh)
 - [안전한 SSL/TLS운영 하기위해 알아야 할 것들](http://bit.ly/2OcxHLR)
 - [GraphQL과 RESTful API](http://bit.ly/2Q3ZK1H)
+- [웹서버 트래픽 폭주 대비 아파치 웹, 톰캣 서버 설정](bit.ly/2Q2a3U2)
 
 --------------------------------------
 
@@ -314,6 +305,10 @@
 - [JS에서 조건문을 더 낫게 쓰기 위한 5가지 팁](https://code-200.tistory.com/14)
 - [Node.js 동작 원리](http://sjh836.tistory.com/149)
 - [자바스크립트 개발자가 반드시 알아야 할 33가지 개념 [영문]](http://bit.ly/2qhVMaz)
+- [NHN엔터 자바스크립트 개발 가이드](https://github.com/nhnent/fe.javascript/wiki)
+- [프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM](http://bit.ly/2OZE0aL)
+- [React 17 에 추가된 새로운 것들](http://bit.ly/2qnCPDf)
+- [초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 [번역]](http://bit.ly/2qmdaem)
 
 --------------------------------------
 
@@ -334,7 +329,7 @@
 - [다양한 브랜드의 로고를 주요 컬러에 맞춰 다운로드 받을 수 있다면?](http://bit.ly/2Ra5lnc)
 - [마크업개발자가 UX를 알아야 하는 이유 [슬라이드]](http://bit.ly/2CKrswV)
 - [새로운 디자인 트렌드의 위험요소 [번역]](http://bit.ly/2qkxInD)
-
+- [프로토파이 무료 학습 링크 모음](https://brunch.co.kr/@uxhaaz/38)
 --------------------------------------
 
 ### 모바일 & iOS & 안드로이드
@@ -414,6 +409,7 @@
 - [웹크롤링 좀 더 잘하기 [슬라이드]](http://bit.ly/2CHNeBf)
 - [Octoverse (분야별 인기있는 오픈소스 프로젝트 리스트 사이트)](http://bit.ly/2CFNGjv)
 - [Restful API를 설계하기 위한 디자인 팁](https://spoqa.github.io/2013/06/11/more-restful-interface.html)
+- [비둘기로 설명하는 HTTPS [번역]](http://bit.ly/2zggUlF)
 
 --------------------------------------
 </br>
