@@ -44,20 +44,23 @@
 #### 2018년 11월 2일 금요일
 - [개발이라는 세계에 첫 발 내딛기](http://asfirstalways.tistory.com/153)
 - [웹 프로그래밍 튜토리얼 Poiemaweb [학습사이트]](poiemaweb.com)
-- [데이터 분석, 먹고 들어가기 위한 SQL 공부법 1편](https://brunch.co.kr/@minu-log/5)
 - [이펙티브 자바3 저자 직강 [영상]](http://bit.ly/2SClKlX)
 - [스프링 예제로 보는 SOLID](https://github.com/cheese10yun/spring-SOLID)
 - [Git fight rules (Git 사용하다 문제 발생시 해결책 모음)[번역]](https://github.com/k88hudson/git-flight-rules/blob/master/README_kr.md)
 - [시스템 구축 후 성능, 부하, 스트레스 테스트](bit.ly/2PyoqT7)
-- [단위 테스트는 왜 할까?](bit.ly/2QdsdlM)
+- [단위 테스트는 왜 할까?](https://feel5ny.github.io/2017/12/08/TDD_01/)
 - [웹 캐싱의 숨겨진 요소들 [번역]](http://bit.ly/2SDUDaf)
 - [초보 웹 개발자를 위한 조언글](http://bit.ly/2qno6bN)
 
 #### 2018년 11월 3일 토요일
-- 컨텐츠 공유 부탁드립니다 :)
+- [웹 개발자로서의 첫 달 회고 [영문]](http://bit.ly/2Qf5mq1)
+- [내가 구글 인터뷰를 풀 타임으로 8 개월 동안 공부한 이유 [번역]](http://bit.ly/2qppx9l)
+- [머신 러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
 
 #### 2018년 11월 4일 일요일
 - 컨텐츠 공유 부탁드립니다 :)
+- [프론트엔드 개발자 컨퍼런스 FE CONF 2018 후기](https://ideveloper2.tistory.com/157?fbclid=IwAR3ToKeMUQN_6_hgT5ey4_UBHzp3KvulvuaK80lF9QfHOIO7CDnPH-e36M4)
+- [Github의 역대급 사고(10월21일) 사후 분석 [영문]](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/)
 
 --------------------------------------
 </br>
