@@ -369,7 +369,6 @@
 - [Pull Request를 보내기 전에, Rebase를 해야 할까요 혹은 merge commit을 만들어야 할까요?](http://bit.ly/2z1EGBO)
 - [Github vs Bitbucket vs Gitlab 비교](http://www.itworld.co.kr/news/109976)
 - [우린 Git-flow를 사용하고 있어요 - 우아한형제들](http://bit.ly/2Q8ci8l)
-- [github 사용법 이슈 발급부터 코드 리뷰까지](https://github.com/cheese10yun/github-project-management)
 
 --------------------------------------
 
@@ -413,7 +412,6 @@
 - [JWT(JSON Web Token)을 이용한 API 인증 [시리즈]](http://bit.ly/2pQNBSy)
 - [REST API에서 Put 과 Post 의 차이](http://bit.ly/2CFGzIM)
 - [블락킹/논블락킹, 동기/비동기 정리](http://bit.ly/2NLAjQK)
-- [블락킹/논블락킹, 동기/비동기 간단 정리](http://bit.ly/2yoqDqk)
 - [REST API의 이해와 설계  1편 - 개념 소개](http://bit.ly/2QX4lD8)
 - [Top 10 DevOps 블로그와 웹사이트 2018 [영문]](http://bit.ly/2REfeLe)
 - [모던 웹 브라우저의 내부 살펴보기 1편 [시리즈]](http://bit.ly/2CrD6MO)
