@@ -25,7 +25,7 @@
 
 방법 1 - 아래 :mailbox:**Queue** 에 링크 추가하고 **Pull Request**  
 방법 2 - **Issue 등록**하여 링크 공유 [(Issue 등록 방법)](https://github.com/Integerous/goQuality-dev-contents/issues/1)  
-방법 3 - [오픈채팅방](http://bit.ly/2QxBmW5)에 링크 공유
+방법 3 - [오픈채팅방](http://bit.ly/2QxBmW5)에 링크 공유 (참여코드: 1007)
 
 --------------------------------------
 ### :mute: 공유 규칙
@@ -41,19 +41,6 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-
-#### 2018년 11월 1일 목요일
-- [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
-- [스프링 Rest API 문서 자동화](https://github.com/cheese10yun/springboot-restdocs)
-- [Angular 기본 개념 잡기](http://han41858.tistory.com/40)
-- [Spring-Jpa Best Practices 쳅터 별로 정리](https://github.com/cheese10yun/spring-jpa-best-practices)
-- [우린 Git-flow를 사용하고 있어요 - 우아한형제들](http://bit.ly/2Q8ci8l)
-- [Java의 10가지 OOP 개념 [영문]](https://dzone.com/articles/10-oops-concepts-in-java)
-- [github 사용법 이슈 발급부터 코드 리뷰까지](https://github.com/cheese10yun/github-project-management)
-- [코딩 인터뷰를 깨부술 10가지 자료구조/알고리즘 강의 [영문]](http://bit.ly/2SzcYVW)
-- [Java 대용량 엑셀 다운로드 기능 구현](http://bit.ly/2SBgK1a)
-- [IntelliJ 활용법](https://github.com/cheese10yun/IntelliJ)
-
 #### 2018년 11월 2일 금요일
 - [개발이라는 세계에 첫 발 내딛기](http://asfirstalways.tistory.com/153)
 - [웹 프로그래밍 튜토리얼 Poiemaweb [학습사이트]](poiemaweb.com)
@@ -67,6 +54,9 @@
 - [초보 웹 개발자를 위한 조언글](http://bit.ly/2qno6bN)
 
 #### 2018년 11월 3일 토요일
+- 컨텐츠 공유 부탁드립니다 :)
+
+#### 2018년 11월 4일 일요일
 - 컨텐츠 공유 부탁드립니다 :)
 
 --------------------------------------
@@ -217,6 +207,10 @@
 - [Logback을 사용 해야 하는 이유](https://lalwr.blogspot.com/2016/03/logback.html)
 - [Reactor를 사용한 Java reactive programming 예제](http://tech.kakao.com/2018/05/29/reactor-programming/)
 - [로컬 Spring Boot에 SSL 적용하기](https://jojoldu.tistory.com/350)
+- [스프링 Rest API 문서 자동화](https://github.com/cheese10yun/springboot-restdocs)
+- [Spring-Jpa Best Practices 쳅터 별로 정리](https://github.com/cheese10yun/spring-jpa-best-practices)
+- [Java의 10가지 OOP 개념 [영문]](https://dzone.com/articles/10-oops-concepts-in-java)
+- [Java 대용량 엑셀 다운로드 기능 구현](http://bit.ly/2SBgK1a)
 
 --------------------------------------
 
@@ -321,6 +315,7 @@
 - [프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM](http://bit.ly/2OZE0aL)
 - [React 17 에 추가된 새로운 것들](http://bit.ly/2qnCPDf)
 - [초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 [번역]](http://bit.ly/2qmdaem)
+- [Angular 기본 개념 잡기](http://han41858.tistory.com/40)
 
 --------------------------------------
 
@@ -342,6 +337,7 @@
 - [마크업개발자가 UX를 알아야 하는 이유 [슬라이드]](http://bit.ly/2CKrswV)
 - [새로운 디자인 트렌드의 위험요소 [번역]](http://bit.ly/2qkxInD)
 - [프로토파이 무료 학습 링크 모음](https://brunch.co.kr/@uxhaaz/38)
+
 --------------------------------------
 
 ### 모바일 & iOS & 안드로이드
@@ -369,12 +365,15 @@
 - [초보자를 위한 Git 텍스트 강의](http://bit.ly/2RbYyJJ)
 - [Pull Request를 보내기 전에, Rebase를 해야 할까요 혹은 merge commit을 만들어야 할까요?](http://bit.ly/2z1EGBO)
 - [Github vs Bitbucket vs Gitlab 비교](http://www.itworld.co.kr/news/109976)
+- [우린 Git-flow를 사용하고 있어요 - 우아한형제들](http://bit.ly/2Q8ci8l)
+- [github 사용법 이슈 발급부터 코드 리뷰까지](https://github.com/cheese10yun/github-project-management)
 
 --------------------------------------
 
 ### 알고리즘 & 자료구조
 - [영상을 통한 자료구조와 알고리즘의 시각화 [번역]](http://bit.ly/2yvC9Q9)
 - [알고리즘 & 자료구조 온라인 사전 [영문]](http://bit.ly/2q9WiaN)
+- [코딩 인터뷰를 깨부술 10가지 자료구조/알고리즘 강의 [영문]](http://bit.ly/2SzcYVW)
 
 --------------------------------------
 
@@ -386,6 +385,7 @@
 
 ### 데이터 사이언스
 - [데이터 사이언스 인터뷰 질문 모음집](http://bit.ly/2Ea19m7)
+- [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
 
 ### 머신러닝 & 딥러닝 & AI
 
