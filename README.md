@@ -41,16 +41,6 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2018년 11월 2일 금요일
-- [개발이라는 세계에 첫 발 내딛기](http://asfirstalways.tistory.com/153)
-- [웹 프로그래밍 튜토리얼 Poiemaweb [학습사이트]](poiemaweb.com)
-- [이펙티브 자바3 저자 직강 [영상]](http://bit.ly/2SClKlX)
-- [스프링 예제로 보는 SOLID](https://github.com/cheese10yun/spring-SOLID)
-- [Git fight rules (Git 사용하다 문제 발생시 해결책 모음)[번역]](https://github.com/k88hudson/git-flight-rules/blob/master/README_kr.md)
-- [시스템 구축 후 성능, 부하, 스트레스 테스트](bit.ly/2PyoqT7)
-- [단위 테스트는 왜 할까?](https://feel5ny.github.io/2017/12/08/TDD_01/)
-- [웹 캐싱의 숨겨진 요소들 [번역]](http://bit.ly/2SDUDaf)
-- [초보 웹 개발자를 위한 조언글](http://bit.ly/2qno6bN)
 
 #### 2018년 11월 3일 토요일
 - [웹 개발자로서의 첫 달 회고 [영문]](http://bit.ly/2Qf5mq1)
@@ -58,9 +48,13 @@
 - [머신 러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
 
 #### 2018년 11월 4일 일요일
-- 컨텐츠 공유 부탁드립니다 :)
 - [프론트엔드 개발자 컨퍼런스 FE CONF 2018 후기](https://ideveloper2.tistory.com/157?fbclid=IwAR3ToKeMUQN_6_hgT5ey4_UBHzp3KvulvuaK80lF9QfHOIO7CDnPH-e36M4)
 - [Github의 역대급 사고(10월21일) 사후 분석 [영문]](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/)
+- [파이썬으로 테스트 시작하기 [영문]](https://realpython.com/python-testing/)
+- [UI 와 UX의 차이 간단 설명](http://blog.weirdx.io/post/18969?fbclid=IwAR0ZBdl61bwYgKxylU15oJDcdioFHCTmVV-Yp1aDGQG6wS5_ZJz_0em-tr0)
+- [카카오 개발자 컨퍼런스 if(Kakao) dev 2018 발표 자료(PDF+영상) 모음](https://if.kakao.com/program)
+
+
 
 --------------------------------------
 </br>
@@ -128,6 +122,8 @@
 - [당신이 좋은 개발자라는 징표](http://bit.ly/2O1HVyE)
 - [프로그래밍의 정석 리뷰](https://www.popit.kr/bookreview-principlesofprogramming/?fbclid=IwAR0JR3FKXMdOeciOMZnQFazxRopBAXyHuMYaj7gD8Vh6pEzqxRWY6y_GGqA)
 - [마음대로 일하기 위한 규칙들 -  멋쟁이 사자처럼](https://brunch.co.kr/@likelion/11)
+- [단위 테스트는 왜 할까?](https://feel5ny.github.io/2017/12/08/TDD_01/)
+
 --------------------------------------
 
 ### 개발자 성장
@@ -157,6 +153,9 @@
 - [신입개발자 생활백서 [슬라이드]](https://www.slideshare.net/jayjin0427/ss-71896768%20)
 - [테알못 신입은 어떻게 테스트를 시작했을까? [슬라이드]](http://bit.ly/2QcxtGk)
 - [내가 웹개발자로써 첫 직장을 잡은 방법 [영문]](http://bit.ly/2qmdvxE)
+- [개발이라는 세계에 첫 발 내딛기](http://asfirstalways.tistory.com/153)
+- [초보 웹 개발자를 위한 조언글](http://bit.ly/2qno6bN)
+
 --------------------------------------
 
 ### 세미나/컨퍼런스 후기
@@ -214,6 +213,8 @@
 - [Spring-Jpa Best Practices 쳅터 별로 정리](https://github.com/cheese10yun/spring-jpa-best-practices)
 - [Java의 10가지 OOP 개념 [영문]](https://dzone.com/articles/10-oops-concepts-in-java)
 - [Java 대용량 엑셀 다운로드 기능 구현](http://bit.ly/2SBgK1a)
+- [이펙티브 자바3 저자 직강 [영상]](http://bit.ly/2SClKlX)
+- [스프링 예제로 보는 SOLID](https://github.com/cheese10yun/spring-SOLID)
 
 --------------------------------------
 
@@ -264,6 +265,7 @@
 - [안전한 SSL/TLS운영 하기위해 알아야 할 것들](http://bit.ly/2OcxHLR)
 - [GraphQL과 RESTful API](http://bit.ly/2Q3ZK1H)
 - [웹서버 트래픽 폭주 대비 아파치 웹, 톰캣 서버 설정](bit.ly/2Q2a3U2)
+- [시스템 구축 후 성능, 부하, 스트레스 테스트](bit.ly/2PyoqT7)
 
 --------------------------------------
 
@@ -369,6 +371,7 @@
 - [Pull Request를 보내기 전에, Rebase를 해야 할까요 혹은 merge commit을 만들어야 할까요?](http://bit.ly/2z1EGBO)
 - [Github vs Bitbucket vs Gitlab 비교](http://www.itworld.co.kr/news/109976)
 - [우린 Git-flow를 사용하고 있어요 - 우아한형제들](http://bit.ly/2Q8ci8l)
+- [Git fight rules (Git 사용하다 문제 발생시 해결책 모음)[번역]](https://github.com/k88hudson/git-flight-rules/blob/master/README_kr.md)
 
 --------------------------------------
 
@@ -423,6 +426,7 @@
 - [Octoverse (분야별 인기있는 오픈소스 프로젝트 리스트 사이트)](http://bit.ly/2CFNGjv)
 - [Restful API를 설계하기 위한 디자인 팁](https://spoqa.github.io/2013/06/11/more-restful-interface.html)
 - [비둘기로 설명하는 HTTPS [번역]](http://bit.ly/2zggUlF)
+- [웹 캐싱의 숨겨진 요소들 [번역]](http://bit.ly/2SDUDaf)
 
 --------------------------------------
 </br>
