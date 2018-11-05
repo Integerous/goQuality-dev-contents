@@ -42,17 +42,13 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 3일 토요일
-- [웹 개발자로서의 첫 달 회고 [영문]](http://bit.ly/2Qf5mq1)
-- [내가 구글 인터뷰를 풀 타임으로 8 개월 동안 공부한 이유 [번역]](http://bit.ly/2qppx9l)
-- [머신 러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
-
 #### 2018년 11월 4일 일요일
 - [프론트엔드 개발자 컨퍼런스 FE CONF 2018 후기](https://ideveloper2.tistory.com/157?fbclid=IwAR3ToKeMUQN_6_hgT5ey4_UBHzp3KvulvuaK80lF9QfHOIO7CDnPH-e36M4)
 - [Github의 역대급 사고(10월21일) 사후 분석 [영문]](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/)
 - [파이썬으로 테스트 시작하기 [영문]](https://realpython.com/python-testing/)
 - [UI 와 UX의 차이 간단 설명](http://blog.weirdx.io/post/18969?fbclid=IwAR0ZBdl61bwYgKxylU15oJDcdioFHCTmVV-Yp1aDGQG6wS5_ZJz_0em-tr0)
 - [카카오 개발자 컨퍼런스 if(Kakao) dev 2018 발표 자료(PDF+영상) 모음](https://if.kakao.com/program)
+
 
 
 
@@ -138,6 +134,8 @@
 - [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
 - [지난 5년 동안 소프트웨어 개발자로서 배운 것들 [번역]](http://bit.ly/2qikyYh)
 - [1000 개의 코드 리뷰를 통해 배운 점 [번역]](http://bit.ly/2zdO0CI)
+- [내가 구글 인터뷰를 풀 타임으로 8 개월 동안 공부한 이유 [번역]](http://bit.ly/2qppx9l)
+
 --------------------------------------
 
 ### 비전공자 & 신입
@@ -155,6 +153,7 @@
 - [내가 웹개발자로써 첫 직장을 잡은 방법 [영문]](http://bit.ly/2qmdvxE)
 - [개발이라는 세계에 첫 발 내딛기](http://asfirstalways.tistory.com/153)
 - [초보 웹 개발자를 위한 조언글](http://bit.ly/2qno6bN)
+- [웹 개발자로서의 첫 달 회고 [영문]](http://bit.ly/2Qf5mq1)
 
 --------------------------------------
 
@@ -393,6 +392,7 @@
 - [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
 
 ### 머신러닝 & 딥러닝 & AI
+- [머신러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
 
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
