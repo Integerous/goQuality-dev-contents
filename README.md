@@ -49,7 +49,16 @@
 - [UI 와 UX의 차이 간단 설명](http://blog.weirdx.io/post/18969?fbclid=IwAR0ZBdl61bwYgKxylU15oJDcdioFHCTmVV-Yp1aDGQG6wS5_ZJz_0em-tr0)
 - [카카오 개발자 컨퍼런스 if(Kakao) dev 2018 발표 자료(PDF+영상) 모음](https://if.kakao.com/program)
 
+#### 2018년 11월 5일 월요일
+- [Node.js 와 PostgreSQL로 RESTfyl API 만들기](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
+- [DDD (Domain-Driven-Design) 정복기 1탄 [슬라이드]](https://www.slideshare.net/SuhyeonJo1/domaindrivendesign-1-108176535)
+- [리멤버 앱 개발자의 1년간 성장기](http://blog.dramancompany.com/2016/08/%EB%93%9C%EB%9D%BC%EB%A7%88%EC%97%90%EC%84%9C-1%EB%85%84%EC%9D%98-%EC%84%B1%EC%9E%A5%EA%B8%B0/)
+- [비프로 API 서버 개발기](https://brunch.co.kr/%40sebatyler/9)
+- [70세 현역 개발자에게 듣는 개발자의 길 [영상]](https://m.youtube.com/watch?v=E2P9MXvMgAI&feature=youtu.be)
+- [Git Submodule 이해하기](http://ohgyun.com/711)
 
+#### 2018년 11월 6일 화요일
+- 개발 관련 글/영상/슬라이드를 공유해주세요 :)
 
 
 --------------------------------------
