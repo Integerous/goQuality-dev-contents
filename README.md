@@ -43,11 +43,11 @@
 
 
 #### 2018년 11월 4일 일요일
-- [프론트엔드 개발자 컨퍼런스 FE CONF 2018 후기](https://ideveloper2.tistory.com/157?fbclid=IwAR3ToKeMUQN_6_hgT5ey4_UBHzp3KvulvuaK80lF9QfHOIO7CDnPH-e36M4)
-- [Github의 역대급 사고(10월21일) 사후 분석 [영문]](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/)
-- [파이썬으로 테스트 시작하기 [영문]](https://realpython.com/python-testing/)
-- [UI 와 UX의 차이 간단 설명](http://blog.weirdx.io/post/18969?fbclid=IwAR0ZBdl61bwYgKxylU15oJDcdioFHCTmVV-Yp1aDGQG6wS5_ZJz_0em-tr0)
-- [카카오 개발자 컨퍼런스 if(Kakao) dev 2018 발표 자료(PDF+영상) 모음](https://if.kakao.com/program)
+
+
+
+
+
 
 #### 2018년 11월 5일 월요일
 - [Node.js 와 PostgreSQL로 RESTful API 만들기](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
@@ -175,6 +175,8 @@
 - [OKKYCON 2018 TDD 컨퍼런스 후기](http://bit.ly/2RTRNxD)
 - [테크니컬 라이팅 컨퍼런스: Write the Docs Prague 2018 방문기](http://bit.ly/2RWocDA)
 - [구글 클라우드 서밋 2018 후기](https://futurecreator.github.io/2018/10/25/google-cloud-summit-seoul-2018/)
+- [프론트엔드 개발자 컨퍼런스 FE CONF 2018 후기](https://ideveloper2.tistory.com/157?fbclid=IwAR3ToKeMUQN_6_hgT5ey4_UBHzp3KvulvuaK80lF9QfHOIO7CDnPH-e36M4)
+- [카카오 개발자 컨퍼런스 if(Kakao) dev 2018 발표 자료(PDF+영상) 모음](https://if.kakao.com/program)
 
 --------------------------------------
 
@@ -230,6 +232,7 @@
 - [알고리즘 시각화 라이브러리 ipytracer 개발기](http://bit.ly/2P8drPV)
 - [장고 ORM 요리책 [번역]](http://bit.ly/2P6bUKg)
 - [PEP 8 파이썬 코드 스타일 가이드 번역 및 요약](http://bit.ly/2z10GMW)
+- [파이썬으로 테스트 시작하기 [영문]](https://realpython.com/python-testing/)
 
 --------------------------------------
 
@@ -350,6 +353,7 @@
 - [마크업개발자가 UX를 알아야 하는 이유 [슬라이드]](http://bit.ly/2CKrswV)
 - [새로운 디자인 트렌드의 위험요소 [번역]](http://bit.ly/2qkxInD)
 - [프로토파이 무료 학습 링크 모음](https://brunch.co.kr/@uxhaaz/38)
+- [UI 와 UX의 차이 간단 설명](http://blog.weirdx.io/post/18969?fbclid=IwAR0ZBdl61bwYgKxylU15oJDcdioFHCTmVV-Yp1aDGQG6wS5_ZJz_0em-tr0)
 
 --------------------------------------
 
@@ -380,6 +384,7 @@
 - [Github vs Bitbucket vs Gitlab 비교](http://www.itworld.co.kr/news/109976)
 - [우린 Git-flow를 사용하고 있어요 - 우아한형제들](http://bit.ly/2Q8ci8l)
 - [Git fight rules (Git 사용하다 문제 발생시 해결책 모음)[번역]](https://github.com/k88hudson/git-flight-rules/blob/master/README_kr.md)
+- [Github의 역대급 사고(10월21일) 사후 분석 [영문]](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/)
 
 --------------------------------------
 
