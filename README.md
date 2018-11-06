@@ -42,13 +42,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 4일 일요일
-
-
-
-
-
-
 #### 2018년 11월 5일 월요일
 - [Node.js 와 PostgreSQL로 RESTful API 만들기](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
 - [DDD (Domain-Driven-Design) 정복기 1탄 [슬라이드]](https://www.slideshare.net/SuhyeonJo1/domaindrivendesign-1-108176535)
@@ -58,9 +51,23 @@
 - [Git Submodule 이해하기](http://ohgyun.com/711)
 
 #### 2018년 11월 6일 화요일
+- [마이크로서비스 아키텍쳐. 그것이 뭣이 중헌디?](http://guruble.com/마이크로서비스microservice-아키텍처-그것이-뭣이-중헌디/)
+- [Nginx ingress를 이용해 이벤트 트래픽 대비하기](https://dailyhotel.io/nginx-ingress를-이용해-마케팅-이벤트를-대비하기-27ac73afaaf6)
+- [오픈소스의 네이밍 특징들](https://brunch.co.kr/@goodvc78/12)
+- [리눅스 I/O 리다이렉션 작동 원리 배우기](https://www.tecmint.com/linux-io-input-output-redirection-operators/)
+- [검색엔진최적화(SEO) 총정리](https://www.twinword.co.kr/blog/search-engine-optimization-guide/)
+- [Java 예외(Exception)처리의 짧고 알찬 정리](http://www.nextree.co.kr/p3239/)
+- [배달의민족 오프라인 모드 적용기](http://woowabros.github.io/experience/2018/11/05/about_offline_mode.html)
+- [YouTube Go (오프라인 모드 유튜브)는 왜 출시되었을까?](https://brunch.co.kr/@yeslee/24)
+- [구글 디자인 가이드 - 오프라인 디자인 [영문]](https://design.google/library/offline-design/)
+- [깃헙 저장소를 분석해서 대시보드로 만들어주는 서비스](https://sourcerer.io/start)
+- [Effective Go 한글 번역본](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
+- [Effective Go 정리 발표 [영상]](https://www.youtube.com/playlist?list=PLbdtsbZUwdeTVZcV5ah9baXyDaxbBTE6t)
+- [리액티브 웹, 세상을 탐험하다 1부 [슬라이드]](https://www.slideshare.net/arawnkr/reactive-web-servlet-async-nonblocking-io-73838876)
+- [Git 사용 팁 저장소 [한국어 버전]](https://github.com/mingrammer/git-tips)
+
+#### 2018년 11월 7일 수요일
 - 개발 관련 글/영상/슬라이드를 공유해주세요 :)
-
-
 --------------------------------------
 </br>
 </br>
