@@ -3,7 +3,7 @@
 [![author](https://img.shields.io/badge/author-Integerous-lightgray.svg?style=flat-square)](https://ryan-han.com)
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
-[![Contents](https://img.shields.io/badge/contents-226-orange.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents)
+[![Contents](https://img.shields.io/badge/contents-230-orange.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents)
 # { 고퀄리티:zap:개발 컨텐츠 모음 }
 
 <div align=center>
@@ -60,7 +60,17 @@
 - [Git 사용 팁 저장소 [한국어 버전]](https://github.com/mingrammer/git-tips)
 
 #### 2018년 11월 7일 수요일
+- [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
+- [Angular 데이터 바인딩](https://poiemaweb.com/angular-component-data-binding)
+- [쿠키와 세션 개념](http://interconnection.tistory.com/m/74)
+- [“프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM”](https://link.medium.com/5F2ip5dKDR)
+- [리눅스/유닉스 보안감사 도구](https://www.kitploit.com/2018/10/lynis-270-security-auditing-tool-for.html)
+- [자바스크립트 할당연산자 고찰](https://www.bsidesoft.com/?p=1975)
+- [PostgreSQL로 배우는 SQL 기초 [슬라이드]](https://www.slideshare.net/mobile/JiHoLee4/postgresql-sql-121859670?fbclid=IwAR35t9ZqcON_2EXBu-xUuVhbQTHNNbqYWeArGWUh-IKKctotkXoQoKQtkKY)
+
+#### 2018년 11월 8일 목요일
 - 개발 관련 글/영상/슬라이드를 공유해주세요 :)
+
 --------------------------------------
 </br>
 </br>
