@@ -43,14 +43,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 5일 월요일
-- [Node.js 와 PostgreSQL로 RESTful API 만들기](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
-- [DDD (Domain-Driven-Design) 정복기 1탄 [슬라이드]](https://www.slideshare.net/SuhyeonJo1/domaindrivendesign-1-108176535)
-- [리멤버 앱 개발자의 1년간 성장기](http://blog.dramancompany.com/2016/08/%EB%93%9C%EB%9D%BC%EB%A7%88%EC%97%90%EC%84%9C-1%EB%85%84%EC%9D%98-%EC%84%B1%EC%9E%A5%EA%B8%B0/)
-- [비프로 API 서버 개발기](https://brunch.co.kr/%40sebatyler/9)
-- [70세 현역 개발자에게 듣는 개발자의 길 [영상]](https://m.youtube.com/watch?v=E2P9MXvMgAI&feature=youtu.be)
-- [Git Submodule 이해하기](http://ohgyun.com/711)
-
 #### 2018년 11월 6일 화요일
 - [마이크로서비스 아키텍쳐. 그것이 뭣이 중헌디?](http://guruble.com/마이크로서비스microservice-아키텍처-그것이-뭣이-중헌디/)
 - [Nginx ingress를 이용해 이벤트 트래픽 대비하기](https://dailyhotel.io/nginx-ingress를-이용해-마케팅-이벤트를-대비하기-27ac73afaaf6)
@@ -136,6 +128,7 @@
 - [프로그래밍의 정석 리뷰](https://www.popit.kr/bookreview-principlesofprogramming/?fbclid=IwAR0JR3FKXMdOeciOMZnQFazxRopBAXyHuMYaj7gD8Vh6pEzqxRWY6y_GGqA)
 - [마음대로 일하기 위한 규칙들 -  멋쟁이 사자처럼](https://brunch.co.kr/@likelion/11)
 - [단위 테스트는 왜 할까?](https://feel5ny.github.io/2017/12/08/TDD_01/)
+- [DDD (Domain-Driven-Design) 정복기 1탄 [슬라이드]](https://www.slideshare.net/SuhyeonJo1/domaindrivendesign-1-108176535)
 
 --------------------------------------
 
@@ -152,6 +145,7 @@
 - [지난 5년 동안 소프트웨어 개발자로서 배운 것들 [번역]](http://bit.ly/2qikyYh)
 - [1000 개의 코드 리뷰를 통해 배운 점 [번역]](http://bit.ly/2zdO0CI)
 - [내가 구글 인터뷰를 풀 타임으로 8 개월 동안 공부한 이유 [번역]](http://bit.ly/2qppx9l)
+- [70세 현역 개발자에게 듣는 개발자의 길 [영상]](https://m.youtube.com/watch?v=E2P9MXvMgAI&feature=youtu.be)
 
 --------------------------------------
 
@@ -293,7 +287,7 @@
 - [JDBC로 실행되는 SQL에 자동으로 프로젝트 정보 주석 남기기](http://bit.ly/2Rz7lql)
 - [RDB부터 검색엔진까지··· 내게 꼭 맞는 DB 고르기](http://bit.ly/2q1l24E)
 - [CockroachDB 안녕?](http://bit.ly/2yXOWe6)
-
+- [Node.js 와 PostgreSQL로 RESTful API 만들기](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
 --------------------------------------
 
 ### 운영체제 (리눅스, MacOS, 윈도우)
@@ -393,6 +387,7 @@
 - [우린 Git-flow를 사용하고 있어요 - 우아한형제들](http://bit.ly/2Q8ci8l)
 - [Git fight rules (Git 사용하다 문제 발생시 해결책 모음)[번역]](https://github.com/k88hudson/git-flight-rules/blob/master/README_kr.md)
 - [Github의 역대급 사고(10월21일) 사후 분석 [영문]](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/)
+- [Git Submodule 이해하기](http://ohgyun.com/711)
 
 --------------------------------------
 
