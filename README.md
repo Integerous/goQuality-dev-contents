@@ -3,7 +3,7 @@
 [![author](https://img.shields.io/badge/author-Integerous-lightgray.svg?style=flat-square)](https://ryan-han.com)
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
-[![Contents](https://img.shields.io/badge/contents-230-orange.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents)
+[![Contents](https://img.shields.io/badge/contents-244-orange.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents)
 # { 고퀄리티:zap:개발 컨텐츠 모음 }
 
 <div align=center>
@@ -42,22 +42,6 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-
-#### 2018년 11월 6일 화요일
-- [마이크로서비스 아키텍쳐. 그것이 뭣이 중헌디?](http://guruble.com/마이크로서비스microservice-아키텍처-그것이-뭣이-중헌디/)
-- [Nginx ingress를 이용해 이벤트 트래픽 대비하기](https://dailyhotel.io/nginx-ingress를-이용해-마케팅-이벤트를-대비하기-27ac73afaaf6)
-- [오픈소스의 네이밍 특징들](https://brunch.co.kr/@goodvc78/12)
-- [리눅스 I/O 리다이렉션 작동 원리 배우기](https://www.tecmint.com/linux-io-input-output-redirection-operators/)
-- [검색엔진최적화(SEO) 총정리](https://www.twinword.co.kr/blog/search-engine-optimization-guide/)
-- [Java 예외(Exception)처리의 짧고 알찬 정리](http://www.nextree.co.kr/p3239/)
-- [배달의민족 오프라인 모드 적용기](http://woowabros.github.io/experience/2018/11/05/about_offline_mode.html)
-- [YouTube Go (오프라인 모드 유튜브)는 왜 출시되었을까?](https://brunch.co.kr/@yeslee/24)
-- [구글 디자인 가이드 - 오프라인 디자인 [영문]](https://design.google/library/offline-design/)
-- [깃헙 저장소를 분석해서 대시보드로 만들어주는 서비스](https://sourcerer.io/start)
-- [Effective Go 한글 번역본](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
-- [Effective Go 정리 발표 [영상]](https://www.youtube.com/playlist?list=PLbdtsbZUwdeTVZcV5ah9baXyDaxbBTE6t)
-- [리액티브 웹, 세상을 탐험하다 1부 [슬라이드]](https://www.slideshare.net/arawnkr/reactive-web-servlet-async-nonblocking-io-73838876)
-- [Git 사용 팁 저장소 [한국어 버전]](https://github.com/mingrammer/git-tips)
 
 #### 2018년 11월 7일 수요일
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
@@ -237,6 +221,7 @@
 - [Java 대용량 엑셀 다운로드 기능 구현](http://bit.ly/2SBgK1a)
 - [이펙티브 자바3 저자 직강 [영상]](http://bit.ly/2SClKlX)
 - [스프링 예제로 보는 SOLID](https://github.com/cheese10yun/spring-SOLID)
+- [Java 예외(Exception)처리의 짧고 알찬 정리](http://www.nextree.co.kr/p3239/)
 
 --------------------------------------
 
@@ -251,6 +236,9 @@
 ### Go
 - [GO 언어를 처음 접하는 사람들을 위한 GOLANG 안내서](http://bit.ly/2pKjqME)
 - [왜 Go가 CockroachDB에 올바른 선택인가 [번역]](http://bit.ly/2RbDSBD)
+- [Effective Go 한글 번역본](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
+- [Effective Go 정리 발표 [영상]](https://www.youtube.com/playlist?list=PLbdtsbZUwdeTVZcV5ah9baXyDaxbBTE6t)
+
 --------------------------------------
 </br>
 </br>
@@ -289,6 +277,10 @@
 - [GraphQL과 RESTful API](http://bit.ly/2Q3ZK1H)
 - [웹서버 트래픽 폭주 대비 아파치 웹, 톰캣 서버 설정](bit.ly/2Q2a3U2)
 - [시스템 구축 후 성능, 부하, 스트레스 테스트](bit.ly/2PyoqT7)
+- [마이크로서비스 아키텍쳐. 그것이 뭣이 중헌디?](http://guruble.com/마이크로서비스microservice-아키텍처-그것이-뭣이-중헌디/)
+- [Nginx ingress를 이용해 이벤트 트래픽 대비하기](https://dailyhotel.io/nginx-ingress를-이용해-마케팅-이벤트를-대비하기-27ac73afaaf6)
+- [배달의민족 오프라인 모드 적용기](http://woowabros.github.io/experience/2018/11/05/about_offline_mode.html)
+- [YouTube Go (오프라인 모드 유튜브)는 왜 출시되었을까?](https://brunch.co.kr/@yeslee/24)
 
 --------------------------------------
 
@@ -306,6 +298,7 @@
 - [유닉스 또는 리눅스 커널 환경에서 빠르게 일하는 10가지 기초 팁 [영문]](http://bit.ly/2ytT5Yb)
 - [리눅스 서버 기본 설정 [영상]](http://bit.ly/2ymMgrb)
 - [리눅스 open files, max user processes 설정 정리글](bit.ly/2R39Znl)
+- [리눅스 I/O 리다이렉션 작동 원리 배우기](https://www.tecmint.com/linux-io-input-output-redirection-operators/)
 
 --------------------------------------
 </br>
@@ -366,6 +359,7 @@
 - [새로운 디자인 트렌드의 위험요소 [번역]](http://bit.ly/2qkxInD)
 - [프로토파이 무료 학습 링크 모음](https://brunch.co.kr/@uxhaaz/38)
 - [UI 와 UX의 차이 간단 설명](http://blog.weirdx.io/post/18969?fbclid=IwAR0ZBdl61bwYgKxylU15oJDcdioFHCTmVV-Yp1aDGQG6wS5_ZJz_0em-tr0)
+- [구글 디자인 가이드 - 오프라인 디자인 [영문]](https://design.google/library/offline-design/)
 
 --------------------------------------
 
@@ -398,6 +392,8 @@
 - [Git fight rules (Git 사용하다 문제 발생시 해결책 모음)[번역]](https://github.com/k88hudson/git-flight-rules/blob/master/README_kr.md)
 - [Github의 역대급 사고(10월21일) 사후 분석 [영문]](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/)
 - [Git Submodule 이해하기](http://ohgyun.com/711)
+- [깃헙 저장소를 분석해서 대시보드로 만들어주는 서비스](https://sourcerer.io/start)
+- [Git 사용 팁 저장소 [한국어 버전]](https://github.com/mingrammer/git-tips)
 
 --------------------------------------
 
@@ -454,6 +450,9 @@
 - [Restful API를 설계하기 위한 디자인 팁](https://spoqa.github.io/2013/06/11/more-restful-interface.html)
 - [비둘기로 설명하는 HTTPS [번역]](http://bit.ly/2zggUlF)
 - [웹 캐싱의 숨겨진 요소들 [번역]](http://bit.ly/2SDUDaf)
+- [오픈소스의 네이밍 특징들](https://brunch.co.kr/@goodvc78/12)
+- [검색엔진최적화(SEO) 총정리](https://www.twinword.co.kr/blog/search-engine-optimization-guide/)
+- [리액티브 웹, 세상을 탐험하다 1부 [슬라이드]](https://www.slideshare.net/arawnkr/reactive-web-servlet-async-nonblocking-io-73838876)
 
 --------------------------------------
 </br>
