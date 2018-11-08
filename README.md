@@ -53,7 +53,20 @@
 - [PostgreSQL로 배우는 SQL 기초 [슬라이드]](https://www.slideshare.net/mobile/JiHoLee4/postgresql-sql-121859670?fbclid=IwAR35t9ZqcON_2EXBu-xUuVhbQTHNNbqYWeArGWUh-IKKctotkXoQoKQtkKY)
 
 #### 2018년 11월 8일 목요일
+- [Git 에서 사용하는 3종류의 merge](https://meetup.toast.com/posts/122)
+- [샌프란시스코 테크 업계 인터뷰1: Facebook, Fivestars](https://spoqa.github.io/2018/11/07/pm-interview-fb-and-fivestars.html)
+- [Jersey 2.x에 내장된 의존성 주입 기능 사용하기](https://blog.sapzil.org/2016/08/04/jersey-hk2/)
+- [RESTful API 서버 테스트하기](https://blog.sapzil.org/2017/03/12/testing-restful-api-servers/)
+- [Github Universe 2018 참석기 1편](https://blog.outsider.ne.kr/1407)
+- [Spring만 알고 계시다면 꼭 보세요. 3가지 DI 컨테이너 비교](http://www.nextree.co.kr/p11247/)
+- [Airbnb의 디자인 시스템 발표 후기](https://brunch.co.kr/@eunlune/15)
+- [340만 동시접속으로 서비스 다운 사후분석 - 포트나이트](https://www.epicgames.com/fortnite/ko/news/postmortem-of-service-outage-at-3-4m-ccu?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
+- [나는 과연 SW Engineer라고 말할 수 있을까?](http://kimjmin.net/2018/10/2018-10-am-i-engineer/)
+- [1500개의 테스트를 작성하며 나는 무엇을 얻었나](https://medium.com/@minhyeok4dev/1500%EA%B0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EB%A9%B0-%EB%82%98%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%96%BB%EC%97%88%EB%82%98-62b9facd53d8?fbclid=IwAR0xF7minhGTfScfOpRJgYn4exKZ34V-iJql8uRf5PxHwn51M5fItZdATKE)
+
+#### 2018년 11월 9일 금요일
 - 개발 관련 글/영상/슬라이드를 공유해주세요 :)
+
 
 --------------------------------------
 </br>
