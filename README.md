@@ -3,7 +3,7 @@
 [![author](https://img.shields.io/badge/author-Integerous-lightgray.svg?style=flat-square)](https://ryan-han.com)
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
-[![Contents](https://img.shields.io/badge/contents-244-orange.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents)
+[![Contents](https://img.shields.io/badge/contents-249-green.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents)
 # { 고퀄리티:zap:개발 컨텐츠 모음 }
 
 <div align=center>
@@ -56,8 +56,13 @@
 - [1500개의 테스트를 작성하며 나는 무엇을 얻었나](https://medium.com/@minhyeok4dev/1500%EA%B0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EB%A9%B0-%EB%82%98%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%96%BB%EC%97%88%EB%82%98-62b9facd53d8?fbclid=IwAR0xF7minhGTfScfOpRJgYn4exKZ34V-iJql8uRf5PxHwn51M5fItZdATKE)
 
 #### 2018년 11월 9일 금요일
-- 개발 관련 글/영상/슬라이드를 공유해주세요 :)
+- [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
+- [Docker 기반 웹 호스팅하기 [슬라이드]](https://code.shoplic.kr/docker-based-web-hosting/)
+- [PHP 예외 처리(Exception Handling)](http://jun.hansung.ac.kr/SWP/PHP/PHP%20Exception%20Handling.html)
+- [쿠버네티스(Kubernetes) 잘 설명된 글](https://www.popit.kr/kubernetes-introduction/)
 
+#### 2018년 11월 10일 토요일
+- 개발 관련 글/영상/슬라이드를 공유해주세요 :)
 
 --------------------------------------
 </br>
