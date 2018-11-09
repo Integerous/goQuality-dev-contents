@@ -306,6 +306,7 @@
 ### 운영체제 (리눅스, MacOS, 윈도우)
 - [운영체제 기본서의 끝판왕 "공룡책" 강의노트 [영문]](http://bit.ly/2pOnHib)
 - [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](http://bit.ly/2zZ0dNg)
+- [개발환경을 한 방에! 쉘 스크립트의 힘](http://bit.ly/2yiDVVn)
 - [유닉스 또는 리눅스 커널 환경에서 빠르게 일하는 10가지 기초 팁 [영문]](http://bit.ly/2ytT5Yb)
 - [리눅스 서버 기본 설정 [영상]](http://bit.ly/2ymMgrb)
 - [리눅스 open files, max user processes 설정 정리글](bit.ly/2R39Znl)
@@ -390,6 +391,22 @@
 
 # 5. 기타
 
+### 웹 관련
+- [JWT(JSON Web Token)을 이용한 API 인증 [시리즈]](http://bit.ly/2pQNBSy)
+- [REST API에서 Put 과 Post 의 차이](http://bit.ly/2CFGzIM)
+- [REST API의 이해와 설계  1편 - 개념 소개](http://bit.ly/2QX4lD8)
+- [모던 웹 브라우저의 내부 살펴보기 1편 [시리즈]](http://bit.ly/2CrD6MO)
+- [Tinder의 프로그래시브 웹 앱 성능 케이스 스터디 [번역]](http://bit.ly/2IMxbmH)
+- [브라우저는 어떻게 동작하는가? [번역]](http://bit.ly/2Sdf5Pc)
+- [웹크롤링 좀 더 잘하기 [슬라이드]](http://bit.ly/2CHNeBf)
+- [Restful API를 설계하기 위한 디자인 팁](https://spoqa.github.io/2013/06/11/more-restful-interface.html)
+- [비둘기로 설명하는 HTTPS [번역]](http://bit.ly/2zggUlF)
+- [웹 캐싱의 숨겨진 요소들 [번역]](http://bit.ly/2SDUDaf)
+- [리액티브 웹, 세상을 탐험하다 1부 [슬라이드]](https://www.slideshare.net/arawnkr/reactive-web-servlet-async-nonblocking-io-73838876)
+- [쿠키와 세션 개념](http://interconnection.tistory.com/m/74)
+
+--------------------------------------
+
 ### Git
 - [Git 브랜칭 실습사이트! (한국어판)](http://bit.ly/2NzKcRa)
 - [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우 [번역]](http://bit.ly/2pZMJLj)
@@ -434,39 +451,24 @@
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
 - [문돌이도 이해하는 스팀 디앱 (DApp)의 세계](http://bit.ly/2IORFuV)
 - [모두를 위한 블록체인(블록체인에 대한 이해도를 높이고 사기를 막고자 공개한 깃헙저장소)](http://bit.ly/2z02OEP)
---------------------------------------
-
-### 유용한 도구
-- [AI 기술로 스케치를 HTML 코드로 변환해주는 Sketch2Code](http://bit.ly/2zZCxrX)
-- [유튜브, 트위터 등에서 SNS 파워와 수입을 측정해주는 사이트](http://bit.ly/2yKfIXp)
 
 --------------------------------------
 
 ### 기타
 - [정규표현식의 개념과 패턴 사용법 총정리](http://bit.ly/2CaEmnl)
-- [개발환경을 한 방에! 쉘 스크립트의 힘](http://bit.ly/2yiDVVn)
 - [스타트업에서 전화응대 고객센터 간단히 구축하기](http://bit.ly/2pMht2g)
 - [GIF를 쓰지 말아야 하는 이유](http://bit.ly/2PlWEpr)
 - [라이브러리, 프레임워크, 아키텍처, 플래폼이란?](http://bit.ly/2CBnTKf)
-- [JWT(JSON Web Token)을 이용한 API 인증 [시리즈]](http://bit.ly/2pQNBSy)
-- [REST API에서 Put 과 Post 의 차이](http://bit.ly/2CFGzIM)
 - [블락킹/논블락킹, 동기/비동기 정리](http://bit.ly/2NLAjQK)
-- [REST API의 이해와 설계  1편 - 개념 소개](http://bit.ly/2QX4lD8)
 - [Top 10 DevOps 블로그와 웹사이트 2018 [영문]](http://bit.ly/2REfeLe)
-- [모던 웹 브라우저의 내부 살펴보기 1편 [시리즈]](http://bit.ly/2CrD6MO)
-- [Tinder의 프로그래시브 웹 앱 성능 케이스 스터디 [번역]](http://bit.ly/2IMxbmH)
-- [브라우저는 어떻게 동작하는가?[번역]](http://bit.ly/2Sdf5Pc)
 - [컴퓨터의 원리를 25분만에 간단하고 깔끔하게 설명하는 강의](http://bit.ly/2yVLPn2)
+- [AI 기술로 스케치를 HTML 코드로 변환해주는 Sketch2Code](http://bit.ly/2zZCxrX)
+- [유튜브, 트위터 등에서 SNS 파워와 수입을 측정해주는 사이트](http://bit.ly/2yKfIXp)
 - [만화로 나누는 오픈소스 소프트웨어 이야기](http://bit.ly/2yZxeqU)
-- [웹크롤링 좀 더 잘하기 [슬라이드]](http://bit.ly/2CHNeBf)
 - [Octoverse (분야별 인기있는 오픈소스 프로젝트 리스트 사이트)](http://bit.ly/2CFNGjv)
-- [Restful API를 설계하기 위한 디자인 팁](https://spoqa.github.io/2013/06/11/more-restful-interface.html)
-- [비둘기로 설명하는 HTTPS [번역]](http://bit.ly/2zggUlF)
-- [웹 캐싱의 숨겨진 요소들 [번역]](http://bit.ly/2SDUDaf)
 - [오픈소스의 네이밍 특징들](https://brunch.co.kr/@goodvc78/12)
 - [검색엔진최적화(SEO) 총정리](https://www.twinword.co.kr/blog/search-engine-optimization-guide/)
-- [리액티브 웹, 세상을 탐험하다 1부 [슬라이드]](https://www.slideshare.net/arawnkr/reactive-web-servlet-async-nonblocking-io-73838876)
-- [쿠키와 세션 개념](http://interconnection.tistory.com/m/74)
+
 
 --------------------------------------
 </br>
