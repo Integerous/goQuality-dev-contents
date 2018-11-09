@@ -43,15 +43,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 7일 수요일
-- [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
-- [Angular 데이터 바인딩](https://poiemaweb.com/angular-component-data-binding)
-- [쿠키와 세션 개념](http://interconnection.tistory.com/m/74)
-- [“프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM”](https://link.medium.com/5F2ip5dKDR)
-- [리눅스/유닉스 보안감사 도구](https://www.kitploit.com/2018/10/lynis-270-security-auditing-tool-for.html)
-- [자바스크립트 할당연산자 고찰](https://www.bsidesoft.com/?p=1975)
-- [PostgreSQL로 배우는 SQL 기초 [슬라이드]](https://www.slideshare.net/mobile/JiHoLee4/postgresql-sql-121859670?fbclid=IwAR35t9ZqcON_2EXBu-xUuVhbQTHNNbqYWeArGWUh-IKKctotkXoQoKQtkKY)
-
 #### 2018년 11월 8일 목요일
 - [Git 에서 사용하는 3종류의 merge](https://meetup.toast.com/posts/122)
 - [샌프란시스코 테크 업계 인터뷰1: Facebook, Fivestars](https://spoqa.github.io/2018/11/07/pm-interview-fb-and-fivestars.html)
@@ -294,6 +285,7 @@
 - [Nginx ingress를 이용해 이벤트 트래픽 대비하기](https://dailyhotel.io/nginx-ingress를-이용해-마케팅-이벤트를-대비하기-27ac73afaaf6)
 - [배달의민족 오프라인 모드 적용기](http://woowabros.github.io/experience/2018/11/05/about_offline_mode.html)
 - [YouTube Go (오프라인 모드 유튜브)는 왜 출시되었을까?](https://brunch.co.kr/@yeslee/24)
+- [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 
 --------------------------------------
 
@@ -303,6 +295,7 @@
 - [RDB부터 검색엔진까지··· 내게 꼭 맞는 DB 고르기](http://bit.ly/2q1l24E)
 - [CockroachDB 안녕?](http://bit.ly/2yXOWe6)
 - [Node.js 와 PostgreSQL로 RESTful API 만들기](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
+- [PostgreSQL로 배우는 SQL 기초 [슬라이드]](https://www.slideshare.net/mobile/JiHoLee4/postgresql-sql-121859670?fbclid=IwAR35t9ZqcON_2EXBu-xUuVhbQTHNNbqYWeArGWUh-IKKctotkXoQoKQtkKY)
 --------------------------------------
 
 ### 운영체제 (리눅스, MacOS, 윈도우)
@@ -350,6 +343,8 @@
 - [React 17 에 추가된 새로운 것들](http://bit.ly/2qnCPDf)
 - [초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 [번역]](http://bit.ly/2qmdaem)
 - [Angular 기본 개념 잡기](http://han41858.tistory.com/40)
+- [Angular 데이터 바인딩](https://poiemaweb.com/angular-component-data-binding)
+- [“프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM”](https://link.medium.com/5F2ip5dKDR)
 
 --------------------------------------
 
@@ -466,6 +461,7 @@
 - [오픈소스의 네이밍 특징들](https://brunch.co.kr/@goodvc78/12)
 - [검색엔진최적화(SEO) 총정리](https://www.twinword.co.kr/blog/search-engine-optimization-guide/)
 - [리액티브 웹, 세상을 탐험하다 1부 [슬라이드]](https://www.slideshare.net/arawnkr/reactive-web-servlet-async-nonblocking-io-73838876)
+- [쿠키와 세션 개념](http://interconnection.tistory.com/m/74)
 
 --------------------------------------
 </br>
