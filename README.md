@@ -94,6 +94,7 @@
 - [모바일 & iOS & 안드로이드](https://github.com/Integerous/goQuality-dev-contents#%EB%AA%A8%EB%B0%94%EC%9D%BC--ios--%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 
 ### 5. [기타](https://github.com/Integerous/goQuality-dev-contents#5-%EA%B8%B0%ED%83%80-1)
+- [웹 관련](https://github.com/Integerous/goQuality-dev-contents#%EC%9B%B9-%EA%B4%80%EB%A0%A8)
 - [Git](https://github.com/Integerous/goQuality-dev-contents#git)
 - [알고리즘 & 자료구조](https://github.com/Integerous/goQuality-dev-contents#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98--%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 - [보안](https://github.com/Integerous/goQuality-dev-contents#%EB%B3%B4%EC%95%88)
