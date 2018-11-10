@@ -3,7 +3,7 @@
 [![author](https://img.shields.io/badge/author-Integerous-lightgray.svg?style=flat-square)](https://ryan-han.com)
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
-[![Contents](https://img.shields.io/badge/contents-249-green.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents)
+[![Contents](https://img.shields.io/badge/contents-256-green.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents)
 # { 고퀄리티:zap:개발 컨텐츠 모음 }
 
 <div align=center>
@@ -50,6 +50,14 @@
 - [쿠버네티스(Kubernetes) 잘 설명된 글](https://www.popit.kr/kubernetes-introduction/)
 
 #### 2018년 11월 10일 토요일
+- [테스트 환경 개선하기 [슬라이드]](https://www.ridicorp.com/slides/improving-test-environment/)
+- [2019년을 지배할 웹 개발 트렌드 10가지 [영문]](https://dashbouquet.com/blog/web-development/web-development-trends-that-will-dominate-in-2019)
+- [클린코드 체크리스트 in Angular [영문]](https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74)
+- [프로그래머로 살아남기 위해 필요한 2가지 언어 [영상]](https://www.youtube.com/watch?v=ESU2IkFj9VM)
+- [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
+- [백기선님 Spring 세미나 발표자료 [슬라이드]](https://www.slideshare.net/whiteship/rest-api-development-with-spring?fbclid=IwAR0Bj03PqdcEiAxTmtZmxpHpsHTITZNHeEJh89-3gTwHGPY5nL6HLTVuzsU)
+
+#### 2018년 11월 11일 일요일
 - 개발 관련 글/영상/슬라이드를 공유해주세요 :)
 
 --------------------------------------
