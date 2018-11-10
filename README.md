@@ -43,18 +43,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 8일 목요일
-- [Git 에서 사용하는 3종류의 merge](https://meetup.toast.com/posts/122)
-- [샌프란시스코 테크 업계 인터뷰1: Facebook, Fivestars](https://spoqa.github.io/2018/11/07/pm-interview-fb-and-fivestars.html)
-- [Jersey 2.x에 내장된 의존성 주입 기능 사용하기](https://blog.sapzil.org/2016/08/04/jersey-hk2/)
-- [RESTful API 서버 테스트하기](https://blog.sapzil.org/2017/03/12/testing-restful-api-servers/)
-- [Github Universe 2018 참석기 1편](https://blog.outsider.ne.kr/1407)
-- [Spring만 알고 계시다면 꼭 보세요. 3가지 DI 컨테이너 비교](http://www.nextree.co.kr/p11247/)
-- [Airbnb의 디자인 시스템 발표 후기](https://brunch.co.kr/@eunlune/15)
-- [340만 동시접속으로 서비스 다운 사후분석 - 포트나이트](https://www.epicgames.com/fortnite/ko/news/postmortem-of-service-outage-at-3-4m-ccu?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
-- [나는 과연 SW Engineer라고 말할 수 있을까?](http://kimjmin.net/2018/10/2018-10-am-i-engineer/)
-- [1500개의 테스트를 작성하며 나는 무엇을 얻었나](https://medium.com/@minhyeok4dev/1500%EA%B0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EB%A9%B0-%EB%82%98%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%96%BB%EC%97%88%EB%82%98-62b9facd53d8?fbclid=IwAR0xF7minhGTfScfOpRJgYn4exKZ34V-iJql8uRf5PxHwn51M5fItZdATKE)
-
 #### 2018년 11월 9일 금요일
 - [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
 - [Docker 기반 웹 호스팅하기 [슬라이드]](https://code.shoplic.kr/docker-based-web-hosting/)
@@ -133,6 +121,7 @@
 - [마음대로 일하기 위한 규칙들 -  멋쟁이 사자처럼](https://brunch.co.kr/@likelion/11)
 - [단위 테스트는 왜 할까?](https://feel5ny.github.io/2017/12/08/TDD_01/)
 - [DDD (Domain-Driven-Design) 정복기 1탄 [슬라이드]](https://www.slideshare.net/SuhyeonJo1/domaindrivendesign-1-108176535)
+- [1500개의 테스트를 작성하며 나는 무엇을 얻었나](https://medium.com/@minhyeok4dev/1500%EA%B0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EB%A9%B0-%EB%82%98%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%96%BB%EC%97%88%EB%82%98-62b9facd53d8?fbclid=IwAR0xF7minhGTfScfOpRJgYn4exKZ34V-iJql8uRf5PxHwn51M5fItZdATKE)
 
 --------------------------------------
 
@@ -150,6 +139,7 @@
 - [1000 개의 코드 리뷰를 통해 배운 점 [번역]](http://bit.ly/2zdO0CI)
 - [내가 구글 인터뷰를 풀 타임으로 8 개월 동안 공부한 이유 [번역]](http://bit.ly/2qppx9l)
 - [70세 현역 개발자에게 듣는 개발자의 길 [영상]](https://m.youtube.com/watch?v=E2P9MXvMgAI&feature=youtu.be)
+- [나는 과연 SW Engineer라고 말할 수 있을까?](http://kimjmin.net/2018/10/2018-10-am-i-engineer/)
 
 --------------------------------------
 
@@ -183,6 +173,8 @@
 - [구글 클라우드 서밋 2018 후기](https://futurecreator.github.io/2018/10/25/google-cloud-summit-seoul-2018/)
 - [프론트엔드 개발자 컨퍼런스 FE CONF 2018 후기](https://ideveloper2.tistory.com/157?fbclid=IwAR3ToKeMUQN_6_hgT5ey4_UBHzp3KvulvuaK80lF9QfHOIO7CDnPH-e36M4)
 - [카카오 개발자 컨퍼런스 if(Kakao) dev 2018 발표 자료(PDF+영상) 모음](https://if.kakao.com/program)
+- [Github Universe 2018 참석기 1편](https://blog.outsider.ne.kr/1407)
+- [Airbnb의 디자인 시스템 발표 후기](https://brunch.co.kr/@eunlune/15)
 
 --------------------------------------
 
@@ -232,6 +224,7 @@
 - [이펙티브 자바3 저자 직강 [영상]](http://bit.ly/2SClKlX)
 - [스프링 예제로 보는 SOLID](https://github.com/cheese10yun/spring-SOLID)
 - [Java 예외(Exception)처리의 짧고 알찬 정리](http://www.nextree.co.kr/p3239/)
+- [Spring만 알고 계시다면 꼭 보세요. 3가지 DI 컨테이너 비교](http://www.nextree.co.kr/p11247/)
 
 --------------------------------------
 
@@ -292,6 +285,7 @@
 - [배달의민족 오프라인 모드 적용기](http://woowabros.github.io/experience/2018/11/05/about_offline_mode.html)
 - [YouTube Go (오프라인 모드 유튜브)는 왜 출시되었을까?](https://brunch.co.kr/@yeslee/24)
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
+- [340만 동시접속으로 서비스 다운 사후분석 - 포트나이트](https://www.epicgames.com/fortnite/ko/news/postmortem-of-service-outage-at-3-4m-ccu?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 
 --------------------------------------
 
@@ -425,7 +419,8 @@
 - [Git Submodule 이해하기](http://ohgyun.com/711)
 - [깃헙 저장소를 분석해서 대시보드로 만들어주는 서비스](https://sourcerer.io/start)
 - [Git 사용 팁 저장소 [한국어 버전]](https://github.com/mingrammer/git-tips)
-
+- [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.toast.com/posts/122)
+- [Github Universe 2018 참석기 1편](https://blog.outsider.ne.kr/1407)
 --------------------------------------
 
 ### 알고리즘 & 자료구조
