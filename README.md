@@ -3,7 +3,7 @@
 [![author](https://img.shields.io/badge/author-Integerous-lightgray.svg?style=flat-square)](https://ryan-han.com)
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
-[![Contents](https://img.shields.io/badge/contents-256-green.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents)
+[![Contents](https://img.shields.io/badge/contents-259-green.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents)
 # { 고퀄리티:zap:개발 컨텐츠 모음 }
 
 <div align=center>
@@ -42,12 +42,6 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-
-#### 2018년 11월 9일 금요일
-- [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
-- [Docker 기반 웹 호스팅하기 [슬라이드]](https://code.shoplic.kr/docker-based-web-hosting/)
-- [PHP 예외 처리(Exception Handling)](http://jun.hansung.ac.kr/SWP/PHP/PHP%20Exception%20Handling.html)
-- [쿠버네티스(Kubernetes) 잘 설명된 글](https://www.popit.kr/kubernetes-introduction/)
 
 #### 2018년 11월 10일 토요일
 - [테스트 환경 개선하기 [슬라이드]](https://www.ridicorp.com/slides/improving-test-environment/)
@@ -294,6 +288,9 @@
 - [YouTube Go (오프라인 모드 유튜브)는 왜 출시되었을까?](https://brunch.co.kr/@yeslee/24)
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 - [340만 동시접속으로 서비스 다운 사후분석 - 포트나이트](https://www.epicgames.com/fortnite/ko/news/postmortem-of-service-outage-at-3-4m-ccu?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
+- [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
+- [Docker 기반 웹 호스팅하기 [슬라이드]](https://code.shoplic.kr/docker-based-web-hosting/)
+- [쿠버네티스(Kubernetes) 잘 설명된 글](https://www.popit.kr/kubernetes-introduction/)
 
 --------------------------------------
 
