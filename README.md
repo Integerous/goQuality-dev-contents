@@ -52,6 +52,17 @@
 - [백기선님 Spring 세미나 발표자료 [슬라이드]](https://www.slideshare.net/whiteship/rest-api-development-with-spring?fbclid=IwAR0Bj03PqdcEiAxTmtZmxpHpsHTITZNHeEJh89-3gTwHGPY5nL6HLTVuzsU)
 
 #### 2018년 11월 11일 일요일
+- [TDD 읽은 티 내기](https://brunch.co.kr/@moonjoonyoung/7)
+- [TDD FAQ](http://j.mp/2gMX1sc)
+- [MySQL ‘a’ = ‘a ‘가 true 인가? (PostgreSQL과 비교)](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
+- [LINE에 사용하는 수많은 서버를 모니터링하는 도구, Promgen을 소개합니다.](https://engineering.linecorp.com/ko/blog/how-promgen-routes-notifications/?fbclid=IwAR2MULBGdhSHN31vjX61dHLKGJII2-0hkRiRkMc1oiSF0RUELHN1jx0GwEg)
+- [CRUD로 빈틈없고 매끈하게 인터페이스 설계하기](https://github.com/Integerous/goQuality-dev-contents/edit/master/README.md)
+- [모션 디자인이 어려울 필요는 없습니다. [번역]](https://www.vobour.com/%EB%AA%A8%EC%85%98-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%B4-%EC%96%B4%EB%A0%A4%EC%9A%B8-%ED%95%84%EC%9A%94%EB%8A%94-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4-motion-design-does)
+- [개발자는 어떻게 성장해야 할까? [슬라이드]](https://www.slideshare.net/mobile/charsyam2/how-to-become-better-engineer)
+- [백기선님 스프링 기반 REST API 개발 발표 후기](https://github.com/david-learner/java-study/tree/master/%EB%B0%B1%EA%B8%B0%EC%84%A0%EB%8B%98_%EC%8A%A4%ED%94%84%EB%A7%81_%EA%B8%B0%EB%B0%98_REST_API_%EA%B0%9C%EB%B0%9C)
+- [Airbnb 디자이너 정황하님 이야기 [영상]](https://www.facebook.com/breakerskor/videos/2163345637255705/UzpfSTEwMDAwMzM5MjEyMDcxMDpWSzoyNDk2MzIzNjkwNDA4MTUy/)
+
+#### 2018년 11월 12일 월요일
 - 개발 관련 글/영상/슬라이드를 공유해주세요 :)
 
 --------------------------------------
