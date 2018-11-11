@@ -58,7 +58,9 @@
 - [백기선님 Spring 세미나 발표자료 [슬라이드]](https://www.slideshare.net/whiteship/rest-api-development-with-spring?fbclid=IwAR0Bj03PqdcEiAxTmtZmxpHpsHTITZNHeEJh89-3gTwHGPY5nL6HLTVuzsU)
 
 #### 2018년 11월 11일 일요일
-- 개발 관련 글/영상/슬라이드를 공유해주세요 :)
+- [CRUD로 빈틈없고 매끈하게 인터페이스 설계하기](https://medium.com/@kimbellin/crud%EB%A1%9C-%EB%B9%88%ED%8B%88%EC%97%86%EA%B3%A0-%EB%A7%A4%EB%81%88%ED%95%98%EA%B2%8C-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0-97efd89f82fb)
+- [[번역]디자인에서 실제 인용 부호 사용하기 (Start using real quotation marks in Design)](https://www.vobour.com/%EB%94%94%EC%9E%90%EC%9D%B8%EC%97%90%EC%84%9C-%EC%8B%A4%EC%A0%9C-%EC%9D%B8%EC%9A%A9-%EB%B6%80%ED%98%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-start-using-real-qu)
+- [[번역]모션 디자인이 어려울 필요는 없습니다.(Motion Design Doesn’t Have to Be Hard)](https://www.vobour.com/%EB%AA%A8%EC%85%98-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%B4-%EC%96%B4%EB%A0%A4%EC%9A%B8-%ED%95%84%EC%9A%94%EB%8A%94-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4-motion-design-does)
 
 --------------------------------------
 </br>
