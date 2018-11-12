@@ -56,6 +56,15 @@
 
 #### 2018년 11월 12일 월요일
 - [디자인에서 실제 인용 부호 사용하기 [번역]](https://www.vobour.com/%EB%94%94%EC%9E%90%EC%9D%B8%EC%97%90%EC%84%9C-%EC%8B%A4%EC%A0%9C-%EC%9D%B8%EC%9A%A9-%EB%B6%80%ED%98%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-start-using-real-qu)
+- [단일 저장소(repository)의 좋은점 [번역]](https://edykim.com/ko/post/advantages-of-monorepos/?no-cache=1)
+- [이펙티브 자바 3판 2장 정리글](http://sjh836.tistory.com/168)
+- [SpringOne TOUR Seoul 2018후기](https://brunch.co.kr/@springboot/117)
+- [JVM이 깔끔하게 설명된 글](http://asfirstalways.tistory.com/158)
+- [소프트웨어 학습 및 자바 웹 개발자 학습 로드맵 [슬라이드]](https://www.slideshare.net/javajigi/ss-66877363)
+- [웹개발자 기준 비전공자 신입으로서 전공자한테 안 밀리고 살아남는 법](https://okky.kr/article/372485)
+
+#### 2018년 11월 13일 화요일
+- 개발 관련 글/영상/슬라이드를 공유해주세요 :)
 
 --------------------------------------
 </br>
