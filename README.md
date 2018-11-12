@@ -3,7 +3,7 @@
 [![author](https://img.shields.io/badge/author-Integerous-lightgray.svg?style=flat-square)](https://ryan-han.com)
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
-[![Contents](https://img.shields.io/badge/contents-259-green.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents)
+[![Contents](https://img.shields.io/badge/contents-263-green.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents)
 # { 고퀄리티:zap:개발 컨텐츠 모음 }
 
 <div align=center>
@@ -42,14 +42,6 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-
-#### 2018년 11월 10일 토요일
-- [테스트 환경 개선하기 [슬라이드]](https://www.ridicorp.com/slides/improving-test-environment/)
-- [2019년을 지배할 웹 개발 트렌드 10가지 [영문]](https://dashbouquet.com/blog/web-development/web-development-trends-that-will-dominate-in-2019)
-- [클린코드 체크리스트 in Angular [영문]](https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74)
-- [프로그래머로 살아남기 위해 필요한 2가지 언어 [영상]](https://www.youtube.com/watch?v=ESU2IkFj9VM)
-- [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
-- [백기선님 Spring 세미나 발표자료 [슬라이드]](https://www.slideshare.net/whiteship/rest-api-development-with-spring?fbclid=IwAR0Bj03PqdcEiAxTmtZmxpHpsHTITZNHeEJh89-3gTwHGPY5nL6HLTVuzsU)
 
 #### 2018년 11월 11일 일요일
 - [TDD 읽은 티 내기](https://brunch.co.kr/@moonjoonyoung/7)
@@ -153,6 +145,7 @@
 - [내가 구글 인터뷰를 풀 타임으로 8 개월 동안 공부한 이유 [번역]](http://bit.ly/2qppx9l)
 - [70세 현역 개발자에게 듣는 개발자의 길 [영상]](https://m.youtube.com/watch?v=E2P9MXvMgAI&feature=youtu.be)
 - [나는 과연 SW Engineer라고 말할 수 있을까?](http://kimjmin.net/2018/10/2018-10-am-i-engineer/)
+- [프로그래머로 살아남기 위해 필요한 2가지 언어 [영상]](https://www.youtube.com/watch?v=ESU2IkFj9VM)
 
 --------------------------------------
 
@@ -238,6 +231,7 @@
 - [스프링 예제로 보는 SOLID](https://github.com/cheese10yun/spring-SOLID)
 - [Java 예외(Exception)처리의 짧고 알찬 정리](http://www.nextree.co.kr/p3239/)
 - [Spring만 알고 계시다면 꼭 보세요. 3가지 DI 컨테이너 비교](http://www.nextree.co.kr/p11247/)
+- [백기선님 Spring 세미나 발표자료 [슬라이드]](https://www.slideshare.net/whiteship/rest-api-development-with-spring?fbclid=IwAR0Bj03PqdcEiAxTmtZmxpHpsHTITZNHeEJh89-3gTwHGPY5nL6HLTVuzsU)
 
 --------------------------------------
 
@@ -415,7 +409,8 @@
 - [웹 캐싱의 숨겨진 요소들 [번역]](http://bit.ly/2SDUDaf)
 - [리액티브 웹, 세상을 탐험하다 1부 [슬라이드]](https://www.slideshare.net/arawnkr/reactive-web-servlet-async-nonblocking-io-73838876)
 - [쿠키와 세션 개념](http://interconnection.tistory.com/m/74)
-
+- [2019년을 지배할 웹 개발 트렌드 10가지 [영문]](https://dashbouquet.com/blog/web-development/web-development-trends-that-will-dominate-in-2019)
+- [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
 --------------------------------------
 
 ### Git
