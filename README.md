@@ -43,17 +43,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 11일 일요일
-- [TDD 읽은 티 내기](https://brunch.co.kr/@moonjoonyoung/7)
-- [TDD FAQ](http://j.mp/2gMX1sc)
-- [MySQL ‘a’ = ‘a ‘가 true 인가? (PostgreSQL과 비교)](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
-- [LINE에 사용하는 수많은 서버를 모니터링하는 도구, Promgen을 소개합니다.](https://engineering.linecorp.com/ko/blog/how-promgen-routes-notifications/?fbclid=IwAR2MULBGdhSHN31vjX61dHLKGJII2-0hkRiRkMc1oiSF0RUELHN1jx0GwEg)
-- [CRUD로 빈틈없고 매끈하게 인터페이스 설계하기](https://github.com/Integerous/goQuality-dev-contents/edit/master/README.md)
-- [모션 디자인이 어려울 필요는 없습니다. [번역]](https://www.vobour.com/%EB%AA%A8%EC%85%98-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%B4-%EC%96%B4%EB%A0%A4%EC%9A%B8-%ED%95%84%EC%9A%94%EB%8A%94-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4-motion-design-does)
-- [개발자는 어떻게 성장해야 할까? [슬라이드]](https://www.slideshare.net/mobile/charsyam2/how-to-become-better-engineer)
-- [백기선님 스프링 기반 REST API 개발 발표 후기](https://github.com/david-learner/java-study/tree/master/%EB%B0%B1%EA%B8%B0%EC%84%A0%EB%8B%98_%EC%8A%A4%ED%94%84%EB%A7%81_%EA%B8%B0%EB%B0%98_REST_API_%EA%B0%9C%EB%B0%9C)
-- [Airbnb 디자이너 정황하님 이야기 [영상]](https://www.facebook.com/breakerskor/videos/2163345637255705/UzpfSTEwMDAwMzM5MjEyMDcxMDpWSzoyNDk2MzIzNjkwNDA4MTUy/)
-
 #### 2018년 11월 12일 월요일
 - [디자인에서 실제 인용 부호 사용하기 [번역]](https://www.vobour.com/%EB%94%94%EC%9E%90%EC%9D%B8%EC%97%90%EC%84%9C-%EC%8B%A4%EC%A0%9C-%EC%9D%B8%EC%9A%A9-%EB%B6%80%ED%98%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-start-using-real-qu)
 - [단일 저장소(repository)의 좋은점 [번역]](https://edykim.com/ko/post/advantages-of-monorepos/?no-cache=1)
@@ -136,6 +125,8 @@
 - [단위 테스트는 왜 할까?](https://feel5ny.github.io/2017/12/08/TDD_01/)
 - [DDD (Domain-Driven-Design) 정복기 1탄 [슬라이드]](https://www.slideshare.net/SuhyeonJo1/domaindrivendesign-1-108176535)
 - [1500개의 테스트를 작성하며 나는 무엇을 얻었나](https://medium.com/@minhyeok4dev/1500%EA%B0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EB%A9%B0-%EB%82%98%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%96%BB%EC%97%88%EB%82%98-62b9facd53d8?fbclid=IwAR0xF7minhGTfScfOpRJgYn4exKZ34V-iJql8uRf5PxHwn51M5fItZdATKE)
+- [TDD 읽은 티 내기](https://brunch.co.kr/@moonjoonyoung/7)
+- [TDD FAQ](http://j.mp/2gMX1sc)
 
 --------------------------------------
 
@@ -155,6 +146,7 @@
 - [70세 현역 개발자에게 듣는 개발자의 길 [영상]](https://m.youtube.com/watch?v=E2P9MXvMgAI&feature=youtu.be)
 - [나는 과연 SW Engineer라고 말할 수 있을까?](http://kimjmin.net/2018/10/2018-10-am-i-engineer/)
 - [프로그래머로 살아남기 위해 필요한 2가지 언어 [영상]](https://www.youtube.com/watch?v=ESU2IkFj9VM)
+- [개발자는 어떻게 성장해야 할까? [슬라이드]](https://www.slideshare.net/mobile/charsyam2/how-to-become-better-engineer)
 
 --------------------------------------
 
@@ -190,6 +182,7 @@
 - [카카오 개발자 컨퍼런스 if(Kakao) dev 2018 발표 자료(PDF+영상) 모음](https://if.kakao.com/program)
 - [Github Universe 2018 참석기 1편](https://blog.outsider.ne.kr/1407)
 - [Airbnb의 디자인 시스템 발표 후기](https://brunch.co.kr/@eunlune/15)
+- [백기선님 스프링 기반 REST API 개발 발표 후기](https://github.com/david-learner/java-study/tree/master/%EB%B0%B1%EA%B8%B0%EC%84%A0%EB%8B%98_%EC%8A%A4%ED%94%84%EB%A7%81_%EA%B8%B0%EB%B0%98_REST_API_%EA%B0%9C%EB%B0%9C)
 
 --------------------------------------
 
@@ -305,6 +298,7 @@
 - [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
 - [Docker 기반 웹 호스팅하기 [슬라이드]](https://code.shoplic.kr/docker-based-web-hosting/)
 - [쿠버네티스(Kubernetes) 잘 설명된 글](https://www.popit.kr/kubernetes-introduction/)
+- [LINE에 사용하는 수많은 서버를 모니터링하는 도구, Promgen을 소개합니다.](https://engineering.linecorp.com/ko/blog/how-promgen-routes-notifications/?fbclid=IwAR2MULBGdhSHN31vjX61dHLKGJII2-0hkRiRkMc1oiSF0RUELHN1jx0GwEg)
 
 --------------------------------------
 
@@ -315,6 +309,8 @@
 - [CockroachDB 안녕?](http://bit.ly/2yXOWe6)
 - [Node.js 와 PostgreSQL로 RESTful API 만들기](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
 - [PostgreSQL로 배우는 SQL 기초 [슬라이드]](https://www.slideshare.net/mobile/JiHoLee4/postgresql-sql-121859670?fbclid=IwAR35t9ZqcON_2EXBu-xUuVhbQTHNNbqYWeArGWUh-IKKctotkXoQoKQtkKY)
+- [MySQL ‘a’ = ‘a ‘가 true 인가? (PostgreSQL과 비교)](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
+
 --------------------------------------
 
 ### 운영체제 (리눅스, MacOS, 윈도우)
@@ -388,6 +384,8 @@
 - [프로토파이 무료 학습 링크 모음](https://brunch.co.kr/@uxhaaz/38)
 - [UI 와 UX의 차이 간단 설명](http://blog.weirdx.io/post/18969?fbclid=IwAR0ZBdl61bwYgKxylU15oJDcdioFHCTmVV-Yp1aDGQG6wS5_ZJz_0em-tr0)
 - [구글 디자인 가이드 - 오프라인 디자인 [영문]](https://design.google/library/offline-design/)
+- [모션 디자인이 어려울 필요는 없습니다. [번역]](https://www.vobour.com/%EB%AA%A8%EC%85%98-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%B4-%EC%96%B4%EB%A0%A4%EC%9A%B8-%ED%95%84%EC%9A%94%EB%8A%94-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4-motion-design-does)
+- [Airbnb 디자이너 정황하님 이야기 [영상]](https://www.facebook.com/breakerskor/videos/2163345637255705/UzpfSTEwMDAwMzM5MjEyMDcxMDpWSzoyNDk2MzIzNjkwNDA4MTUy/)
 
 --------------------------------------
 
