@@ -53,6 +53,16 @@
 - [웹개발자 기준 비전공자 신입으로서 전공자한테 안 밀리고 살아남는 법](https://okky.kr/article/372485)
 
 #### 2018년 11월 13일 화요일
+- [Spring Security OAtuh2 기반 정리글](https://github.com/cheese10yun/springboot-oauth2)
+- [MySQL Lock 상황 문제 해결](https://www.popit.kr/mysql-lock-%EC%83%81%ED%99%A9-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
+- [HTTP프로토콜의 두번째 버전 - HTTP/2 에 대한 정리 글](https://www.popit.kr/나만-모르고-있던-http2/)
+- [Go언어의 가비지콜렉터 이해하기](https://engineering.linecorp.com/ko/blog/go-gc/?fbclid=IwAR3n-6l4p2MToOZw-b2eROdbBRA9SOn4ENPpgEXz-jSSsiASrXRGDm94mhk)
+- [Python GC가 작동하는 원리](https://winterj.me/python-gc/)
+- [토이 프로젝트를 해야하는 이유](http://woowabros.github.io/experience/2018/11/12/toy-project.html)
+- [개발자가 처음 Docker 접할 때 오는 멘붕 몇가지](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-docker-%EC%A0%91%ED%95%A0%EB%95%8C-%EC%98%A4%EB%8A%94-%EB%A9%98%EB%B6%95-%EB%AA%87%EA%B0%80%EC%A7%80/?utm_source=dable)
+- [트렐로 프로젝트 매니져가 일하는 방법](http://bridge.500startups.co.kr/%ED%8A%B8%EB%A0%90%EB%A1%9C%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
+
+#### 2018년 11월 13일 화요일
 - 개발 관련 글/영상/슬라이드를 공유해주세요 :)
 
 --------------------------------------
