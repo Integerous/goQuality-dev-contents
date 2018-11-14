@@ -41,8 +41,7 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2018년 11월 14일 수요일
-- [5분만에 GitHub Contributor 되기](https://github.com/firstcontributions/first-contributions)
+
 
 #### 2018년 11월 13일 화요일
 - [Spring Security OAtuh2 기반 정리글](https://github.com/cheese10yun/springboot-oauth2)
@@ -55,7 +54,19 @@
 - [트렐로 프로젝트 매니져가 일하는 방법](http://bridge.500startups.co.kr/%ED%8A%B8%EB%A0%90%EB%A1%9C%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 
 #### 2018년 11월 13일 화요일
+- [개발자의 평생 공부 - 임백준님 칼럼](http://www.zdnet.co.kr/column/column_view.asp?artice_id=20170616090644)
+- [Node.js Stream 당신이 알아야할 모든 것](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html)
+- [단위 테스트 사용 방법: JUnit 참조 가이드](https://brunch.co.kr/@pubjinson/16)
+- [자바 프로그래머가 자주 실수하는 10가지 1편 [번역]](https://bestalign.github.io/2015/08/31/top-10-mistakes-java-developers-make-1/)
+- [객체 지향 연습을 위한 간단한 방법](https://developerfarm.wordpress.com/2012/02/03/object_calisthenics_summary/)
+- [Maven vs Gradle 비교 정리](https://bkim.tistory.com/13)
+- [40대 개발자의 독일 회사 취업기 (3)](https://brunch.co.kr/@nashorn74/8)
+
+#### 2018년 11월 14일 수요일
 - 개발 관련 글/영상/슬라이드를 공유해주세요 :)
+- [5분만에 GitHub Contributor 되기](https://github.com/firstcontributions/first-contributions)
+- [무한스크롤, 페이징, 더보기. 어떤걸 써야할까?](http://cyberx.tistory.com/82)
+- [웹페이지 성능 테스트를 위해 알아야할 사이트들](https://m.blog.naver.com/PostView.nhn?blogId=didim365_&logNo=221387090765&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Fdidim365_%2F221387090765)
 
 --------------------------------------
 </br>
