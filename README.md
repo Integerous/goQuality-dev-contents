@@ -41,6 +41,8 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 11월 14일 수요일
+- [5분만에 GitHub Contributor 되기](https://github.com/firstcontributions/first-contributions)
 
 #### 2018년 11월 13일 화요일
 - [Spring Security OAtuh2 기반 정리글](https://github.com/cheese10yun/springboot-oauth2)
