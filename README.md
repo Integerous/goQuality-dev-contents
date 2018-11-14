@@ -3,7 +3,6 @@
 [![author](https://img.shields.io/badge/author-Integerous-lightgray.svg?style=flat-square)](https://ryan-han.com)
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
-[![Contents](https://img.shields.io/badge/contents-263-green.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents)
 # { 고퀄리티:zap:개발 컨텐츠 모음 }
 
 <div align=center>
@@ -42,15 +41,6 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-
-#### 2018년 11월 12일 월요일
-- [디자인에서 실제 인용 부호 사용하기 [번역]](https://www.vobour.com/%EB%94%94%EC%9E%90%EC%9D%B8%EC%97%90%EC%84%9C-%EC%8B%A4%EC%A0%9C-%EC%9D%B8%EC%9A%A9-%EB%B6%80%ED%98%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-start-using-real-qu)
-- [단일 저장소(repository)의 좋은점 [번역]](https://edykim.com/ko/post/advantages-of-monorepos/?no-cache=1)
-- [이펙티브 자바 3판 2장 정리글](http://sjh836.tistory.com/168)
-- [SpringOne TOUR Seoul 2018후기](https://brunch.co.kr/@springboot/117)
-- [JVM이 깔끔하게 설명된 글](http://asfirstalways.tistory.com/158)
-- [소프트웨어 학습 및 자바 웹 개발자 학습 로드맵 [슬라이드]](https://www.slideshare.net/javajigi/ss-66877363)
-- [웹개발자 기준 비전공자 신입으로서 전공자한테 안 밀리고 살아남는 법](https://okky.kr/article/372485)
 
 #### 2018년 11월 13일 화요일
 - [Spring Security OAtuh2 기반 정리글](https://github.com/cheese10yun/springboot-oauth2)
@@ -176,6 +166,8 @@
 - [개발이라는 세계에 첫 발 내딛기](http://asfirstalways.tistory.com/153)
 - [초보 웹 개발자를 위한 조언글](http://bit.ly/2qno6bN)
 - [웹 개발자로서의 첫 달 회고 [영문]](http://bit.ly/2Qf5mq1)
+- [소프트웨어 학습 및 자바 웹 개발자 학습 로드맵 [슬라이드]](https://www.slideshare.net/javajigi/ss-66877363)
+- [웹개발자 기준 비전공자 신입으로서 전공자한테 안 밀리고 살아남는 법](https://okky.kr/article/372485)
 
 --------------------------------------
 
@@ -193,6 +185,7 @@
 - [Github Universe 2018 참석기 1편](https://blog.outsider.ne.kr/1407)
 - [Airbnb의 디자인 시스템 발표 후기](https://brunch.co.kr/@eunlune/15)
 - [백기선님 스프링 기반 REST API 개발 발표 후기](https://github.com/david-learner/java-study/tree/master/%EB%B0%B1%EA%B8%B0%EC%84%A0%EB%8B%98_%EC%8A%A4%ED%94%84%EB%A7%81_%EA%B8%B0%EB%B0%98_REST_API_%EA%B0%9C%EB%B0%9C)
+- [SpringOne TOUR Seoul 2018 후기](https://brunch.co.kr/@springboot/117)
 
 --------------------------------------
 
@@ -244,6 +237,7 @@
 - [Java 예외(Exception)처리의 짧고 알찬 정리](http://www.nextree.co.kr/p3239/)
 - [Spring만 알고 계시다면 꼭 보세요. 3가지 DI 컨테이너 비교](http://www.nextree.co.kr/p11247/)
 - [백기선님 Spring 세미나 발표자료 [슬라이드]](https://www.slideshare.net/whiteship/rest-api-development-with-spring?fbclid=IwAR0Bj03PqdcEiAxTmtZmxpHpsHTITZNHeEJh89-3gTwHGPY5nL6HLTVuzsU)
+- [JVM이 깔끔하게 설명된 글](http://asfirstalways.tistory.com/158)
 
 --------------------------------------
 
@@ -309,6 +303,7 @@
 - [Docker 기반 웹 호스팅하기 [슬라이드]](https://code.shoplic.kr/docker-based-web-hosting/)
 - [쿠버네티스(Kubernetes) 잘 설명된 글](https://www.popit.kr/kubernetes-introduction/)
 - [LINE에 사용하는 수많은 서버를 모니터링하는 도구, Promgen을 소개합니다.](https://engineering.linecorp.com/ko/blog/how-promgen-routes-notifications/?fbclid=IwAR2MULBGdhSHN31vjX61dHLKGJII2-0hkRiRkMc1oiSF0RUELHN1jx0GwEg)
+- [단일 저장소(repository)의 좋은점 [번역]](https://edykim.com/ko/post/advantages-of-monorepos/?no-cache=1)
 
 --------------------------------------
 
@@ -396,6 +391,7 @@
 - [구글 디자인 가이드 - 오프라인 디자인 [영문]](https://design.google/library/offline-design/)
 - [모션 디자인이 어려울 필요는 없습니다. [번역]](https://www.vobour.com/%EB%AA%A8%EC%85%98-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%B4-%EC%96%B4%EB%A0%A4%EC%9A%B8-%ED%95%84%EC%9A%94%EB%8A%94-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4-motion-design-does)
 - [Airbnb 디자이너 정황하님 이야기 [영상]](https://www.facebook.com/breakerskor/videos/2163345637255705/UzpfSTEwMDAwMzM5MjEyMDcxMDpWSzoyNDk2MzIzNjkwNDA4MTUy/)
+- [디자인에서 실제 인용 부호 사용하기 [번역]](https://www.vobour.com/%EB%94%94%EC%9E%90%EC%9D%B8%EC%97%90%EC%84%9C-%EC%8B%A4%EC%A0%9C-%EC%9D%B8%EC%9A%A9-%EB%B6%80%ED%98%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-start-using-real-qu)
 
 --------------------------------------
 
