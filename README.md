@@ -53,7 +53,7 @@
 - [개발자가 처음 Docker 접할 때 오는 멘붕 몇가지](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-docker-%EC%A0%91%ED%95%A0%EB%95%8C-%EC%98%A4%EB%8A%94-%EB%A9%98%EB%B6%95-%EB%AA%87%EA%B0%80%EC%A7%80/?utm_source=dable)
 - [트렐로 프로젝트 매니져가 일하는 방법](http://bridge.500startups.co.kr/%ED%8A%B8%EB%A0%90%EB%A1%9C%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 
-#### 2018년 11월 13일 화요일
+#### 2018년 11월 14일 수요일
 - [개발자의 평생 공부 - 임백준님 칼럼](http://www.zdnet.co.kr/column/column_view.asp?artice_id=20170616090644)
 - [Node.js Stream 당신이 알아야할 모든 것](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html)
 - [단위 테스트 사용 방법: JUnit 참조 가이드](https://brunch.co.kr/@pubjinson/16)
@@ -62,7 +62,7 @@
 - [Maven vs Gradle 비교 정리](https://bkim.tistory.com/13)
 - [40대 개발자의 독일 회사 취업기 (3)](https://brunch.co.kr/@nashorn74/8)
 
-#### 2018년 11월 14일 수요일
+#### 2018년 11월 15일 목요일
 - 개발 관련 글/영상/슬라이드를 공유해주세요 :)
 - [5분만에 GitHub Contributor 되기](https://github.com/firstcontributions/first-contributions)
 - [무한스크롤, 페이징, 더보기. 어떤걸 써야할까?](http://cyberx.tistory.com/82)
