@@ -9,19 +9,23 @@
 <a href="https://github.com/Integerous/goQuality-dev-contents/graphs/contributors"><img src="https://opencollective.com/goquality-dev-contents/contributors.svg?width=720"></a>
 </div>
 
->컨텐츠를 공유해주신 분들입니다! 감사합니다 :pray:  
 
 
 </br>
 
 ## :mega: 소개
->고퀄리티 ***개발 관련 컨텐츠*** 를 모으는 저장소입니다!  
->유익하셨다면 :star:Star 부탁드립니다 :)
+>**유익한 컨텐츠를 비추어주는 카메라** 입니다.  
+>좋은 컨텐츠는 널리 알려져야 합니다.  
+>더 많은 사람들이 소비해야, 더 많이 생산되기 때문입니다.  
+>유익한 개발 컨텐츠가 많아지는 것은 개발자 모두에게 좋은 일입니다.  
+>  
+>누구나 카메라맨이 될 수 있습니다!  
+>유익한 개발 관련 글, 영상, 슬라이드를 공유해주세요 :pray:
 
 --------------------------------------
 ### :family: 누구나 Contributor가 될 수 있습니다!
->검색하다 발견한 개발 관련 **글/영상/슬라이드**의 링크를 공유해주세요:pray:  
-밑에 3가지 방법 중 선택!
+>검색하다 발견한 개발 관련 **글/영상/슬라이드**의 링크를 공유해주세요  
+아래 세 가지 방법이 있습니다!
 
 방법 1 - 아래 :mailbox:**Queue** 에 링크 추가하고 **Pull Request**  
 방법 2 - **Issue 등록**하여 링크 공유 [(Issue 등록 방법)](https://github.com/Integerous/goQuality-dev-contents/issues/1)  
