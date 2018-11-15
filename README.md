@@ -42,17 +42,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-
-#### 2018년 11월 13일 화요일
-- [Spring Security OAtuh2 기반 정리글](https://github.com/cheese10yun/springboot-oauth2)
-- [MySQL Lock 상황 문제 해결](https://www.popit.kr/mysql-lock-%EC%83%81%ED%99%A9-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
-- [HTTP프로토콜의 두번째 버전 - HTTP/2 에 대한 정리 글](https://www.popit.kr/나만-모르고-있던-http2/)
-- [Go언어의 가비지콜렉터 이해하기](https://engineering.linecorp.com/ko/blog/go-gc/?fbclid=IwAR3n-6l4p2MToOZw-b2eROdbBRA9SOn4ENPpgEXz-jSSsiASrXRGDm94mhk)
-- [Python GC가 작동하는 원리](https://winterj.me/python-gc/)
-- [토이 프로젝트를 해야하는 이유](http://woowabros.github.io/experience/2018/11/12/toy-project.html)
-- [개발자가 처음 Docker 접할 때 오는 멘붕 몇가지](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-docker-%EC%A0%91%ED%95%A0%EB%95%8C-%EC%98%A4%EB%8A%94-%EB%A9%98%EB%B6%95-%EB%AA%87%EA%B0%80%EC%A7%80/?utm_source=dable)
-- [트렐로 프로젝트 매니져가 일하는 방법](http://bridge.500startups.co.kr/%ED%8A%B8%EB%A0%90%EB%A1%9C%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
-
 #### 2018년 11월 14일 수요일
 - [개발자의 평생 공부 - 임백준님 칼럼](http://www.zdnet.co.kr/column/column_view.asp?artice_id=20170616090644)
 - [Node.js Stream 당신이 알아야할 모든 것](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html)
@@ -63,10 +52,14 @@
 - [40대 개발자의 독일 회사 취업기 (3)](https://brunch.co.kr/@nashorn74/8)
 
 #### 2018년 11월 15일 목요일
-- 개발 관련 글/영상/슬라이드를 공유해주세요 :)
 - [5분만에 GitHub Contributor 되기](https://github.com/firstcontributions/first-contributions)
 - [무한스크롤, 페이징, 더보기. 어떤걸 써야할까?](http://cyberx.tistory.com/82)
 - [웹페이지 성능 테스트를 위해 알아야할 사이트들](https://m.blog.naver.com/PostView.nhn?blogId=didim365_&logNo=221387090765&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Fdidim365_%2F221387090765)
+- [2018 광군제 운영 후기](https://www.popit.kr/2018-%EA%B4%91%EA%B5%B0%EC%A0%9C%E5%8F%8C%E5%8D%81%E4%B8%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9A%B4%EC%98%81-%ED%9B%84%EA%B8%B0/)
+- [최고의 프로그래밍 폰트는?](https://futurecreator.github.io/2018/11/12/my-best-programming-font-top-3/)
+
+#### 2018년 11월 16일 금요일
+- 개발 관련 글/영상/슬라이드를 이 곳에 공유해주세요:)
 
 --------------------------------------
 </br>
@@ -140,7 +133,7 @@
 - [1500개의 테스트를 작성하며 나는 무엇을 얻었나](https://medium.com/@minhyeok4dev/1500%EA%B0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EB%A9%B0-%EB%82%98%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%96%BB%EC%97%88%EB%82%98-62b9facd53d8?fbclid=IwAR0xF7minhGTfScfOpRJgYn4exKZ34V-iJql8uRf5PxHwn51M5fItZdATKE)
 - [TDD 읽은 티 내기](https://brunch.co.kr/@moonjoonyoung/7)
 - [TDD FAQ](http://j.mp/2gMX1sc)
-
+- [트렐로 프로젝트 매니져가 일하는 방법 [번역]](http://bridge.500startups.co.kr/%ED%8A%B8%EB%A0%90%EB%A1%9C%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 --------------------------------------
 
 ### 개발자 성장
@@ -160,6 +153,7 @@
 - [나는 과연 SW Engineer라고 말할 수 있을까?](http://kimjmin.net/2018/10/2018-10-am-i-engineer/)
 - [프로그래머로 살아남기 위해 필요한 2가지 언어 [영상]](https://www.youtube.com/watch?v=ESU2IkFj9VM)
 - [개발자는 어떻게 성장해야 할까? [슬라이드]](https://www.slideshare.net/mobile/charsyam2/how-to-become-better-engineer)
+- [토이 프로젝트를 해야하는 이유](http://woowabros.github.io/experience/2018/11/12/toy-project.html)
 
 --------------------------------------
 
@@ -251,6 +245,7 @@
 - [Spring만 알고 계시다면 꼭 보세요. 3가지 DI 컨테이너 비교](http://www.nextree.co.kr/p11247/)
 - [백기선님 Spring 세미나 발표자료 [슬라이드]](https://www.slideshare.net/whiteship/rest-api-development-with-spring?fbclid=IwAR0Bj03PqdcEiAxTmtZmxpHpsHTITZNHeEJh89-3gTwHGPY5nL6HLTVuzsU)
 - [JVM이 깔끔하게 설명된 글](http://asfirstalways.tistory.com/158)
+- [Spring Security OAtuh2 기반 정리글](https://github.com/cheese10yun/springboot-oauth2)
 
 --------------------------------------
 
@@ -259,6 +254,7 @@
 - [장고 ORM 요리책 [번역]](http://bit.ly/2P6bUKg)
 - [PEP 8 파이썬 코드 스타일 가이드 번역 및 요약](http://bit.ly/2z10GMW)
 - [파이썬으로 테스트 시작하기 [영문]](https://realpython.com/python-testing/)
+- [Python GC가 작동하는 원리](https://winterj.me/python-gc/)
 
 --------------------------------------
 
@@ -267,6 +263,7 @@
 - [왜 Go가 CockroachDB에 올바른 선택인가 [번역]](http://bit.ly/2RbDSBD)
 - [Effective Go 한글 번역본](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
 - [Effective Go 정리 발표 [영상]](https://www.youtube.com/playlist?list=PLbdtsbZUwdeTVZcV5ah9baXyDaxbBTE6t)
+- [Go언어의 가비지콜렉터 이해하기](https://engineering.linecorp.com/ko/blog/go-gc/?fbclid=IwAR3n-6l4p2MToOZw-b2eROdbBRA9SOn4ENPpgEXz-jSSsiASrXRGDm94mhk)
 
 --------------------------------------
 </br>
@@ -317,6 +314,7 @@
 - [쿠버네티스(Kubernetes) 잘 설명된 글](https://www.popit.kr/kubernetes-introduction/)
 - [LINE에 사용하는 수많은 서버를 모니터링하는 도구, Promgen을 소개합니다.](https://engineering.linecorp.com/ko/blog/how-promgen-routes-notifications/?fbclid=IwAR2MULBGdhSHN31vjX61dHLKGJII2-0hkRiRkMc1oiSF0RUELHN1jx0GwEg)
 - [단일 저장소(repository)의 좋은점 [번역]](https://edykim.com/ko/post/advantages-of-monorepos/?no-cache=1)
+- [개발자가 처음 Docker 접할 때 오는 멘붕 몇가지](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-docker-%EC%A0%91%ED%95%A0%EB%95%8C-%EC%98%A4%EB%8A%94-%EB%A9%98%EB%B6%95-%EB%AA%87%EA%B0%80%EC%A7%80/?utm_source=dable)
 
 --------------------------------------
 
@@ -328,6 +326,7 @@
 - [Node.js 와 PostgreSQL로 RESTful API 만들기](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
 - [PostgreSQL로 배우는 SQL 기초 [슬라이드]](https://www.slideshare.net/mobile/JiHoLee4/postgresql-sql-121859670?fbclid=IwAR35t9ZqcON_2EXBu-xUuVhbQTHNNbqYWeArGWUh-IKKctotkXoQoKQtkKY)
 - [MySQL ‘a’ = ‘a ‘가 true 인가? (PostgreSQL과 비교)](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
+- [MySQL Lock 상황 문제 해결](https://www.popit.kr/mysql-lock-%EC%83%81%ED%99%A9-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
 
 --------------------------------------
 
@@ -437,6 +436,8 @@
 - [쿠키와 세션 개념](http://interconnection.tistory.com/m/74)
 - [2019년을 지배할 웹 개발 트렌드 10가지 [영문]](https://dashbouquet.com/blog/web-development/web-development-trends-that-will-dominate-in-2019)
 - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
+- [HTTP프로토콜의 두번째 버전 - HTTP/2 에 대한 정리 글](https://www.popit.kr/나만-모르고-있던-http2/)
+
 --------------------------------------
 
 ### Git
