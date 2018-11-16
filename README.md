@@ -54,6 +54,13 @@
 - [최고의 프로그래밍 폰트는?](https://futurecreator.github.io/2018/11/12/my-best-programming-font-top-3/)
 
 #### 2018년 11월 16일 금요일
+- [AMP가 어떻게 웹의 성능을 올려줄까?](https://d2.naver.com/helloworld/6856597)
+- [자바스크립트 피로감을 줄여주기 위한 학습 계획[번역]](https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/)
+- [DBMS는 어떻게 트랜잭션을 관리할까?](https://d2.naver.com/helloworld/407507)
+- [넷플릭스 웹 성능 케이스 스터디 [영문]](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+- [Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics/)
+
+#### 2018년 11월 17일 토요일
 - 개발 관련 글/영상/슬라이드를 이 곳에 공유해주세요:)
 
 --------------------------------------
