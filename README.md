@@ -46,13 +46,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 15일 목요일
-- [5분만에 GitHub Contributor 되기](https://github.com/firstcontributions/first-contributions)
-- [무한스크롤, 페이징, 더보기. 어떤걸 써야할까?](http://cyberx.tistory.com/82)
-- [웹페이지 성능 테스트를 위해 알아야할 사이트들](https://m.blog.naver.com/PostView.nhn?blogId=didim365_&logNo=221387090765&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Fdidim365_%2F221387090765)
-- [2018 광군제 운영 후기](https://www.popit.kr/2018-%EA%B4%91%EA%B5%B0%EC%A0%9C%E5%8F%8C%E5%8D%81%E4%B8%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9A%B4%EC%98%81-%ED%9B%84%EA%B8%B0/)
-- [최고의 프로그래밍 폰트는?](https://futurecreator.github.io/2018/11/12/my-best-programming-font-top-3/)
-
 #### 2018년 11월 16일 금요일
 - [AMP가 어떻게 웹의 성능을 올려줄까?](https://d2.naver.com/helloworld/6856597)
 - [자바스크립트 피로감을 줄여주기 위한 학습 계획[번역]](https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/)
@@ -137,6 +130,7 @@
 - [TDD FAQ](http://j.mp/2gMX1sc)
 - [트렐로 프로젝트 매니져가 일하는 방법 [번역]](http://bridge.500startups.co.kr/%ED%8A%B8%EB%A0%90%EB%A1%9C%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 - [단위 테스트 사용 방법: JUnit 참조 가이드](https://brunch.co.kr/@pubjinson/16)
+- [2018 광군제 운영 후기](https://www.popit.kr/2018-%EA%B4%91%EA%B5%B0%EC%A0%9C%E5%8F%8C%E5%8D%81%E4%B8%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9A%B4%EC%98%81-%ED%9B%84%EA%B8%B0/)
 
 --------------------------------------
 
@@ -413,6 +407,7 @@
 - [모션 디자인이 어려울 필요는 없습니다. [번역]](https://www.vobour.com/%EB%AA%A8%EC%85%98-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%B4-%EC%96%B4%EB%A0%A4%EC%9A%B8-%ED%95%84%EC%9A%94%EB%8A%94-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4-motion-design-does)
 - [Airbnb 디자이너 정황하님 이야기 [영상]](https://www.facebook.com/breakerskor/videos/2163345637255705/UzpfSTEwMDAwMzM5MjEyMDcxMDpWSzoyNDk2MzIzNjkwNDA4MTUy/)
 - [디자인에서 실제 인용 부호 사용하기 [번역]](https://www.vobour.com/%EB%94%94%EC%9E%90%EC%9D%B8%EC%97%90%EC%84%9C-%EC%8B%A4%EC%A0%9C-%EC%9D%B8%EC%9A%A9-%EB%B6%80%ED%98%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-start-using-real-qu)
+- [무한스크롤, 페이징, 더보기. 어떤걸 써야할까?](http://cyberx.tistory.com/82)
 
 --------------------------------------
 
@@ -446,6 +441,7 @@
 - [2019년을 지배할 웹 개발 트렌드 10가지 [영문]](https://dashbouquet.com/blog/web-development/web-development-trends-that-will-dominate-in-2019)
 - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
 - [HTTP프로토콜의 두번째 버전 - HTTP/2 에 대한 정리 글](https://www.popit.kr/나만-모르고-있던-http2/)
+- [웹페이지 성능 테스트를 위해 알아야할 사이트들](https://m.blog.naver.com/PostView.nhn?blogId=didim365_&logNo=221387090765&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Fdidim365_%2F221387090765)
 
 --------------------------------------
 
@@ -511,7 +507,7 @@
 - [Octoverse (분야별 인기있는 오픈소스 프로젝트 리스트 사이트)](http://bit.ly/2CFNGjv)
 - [오픈소스의 네이밍 특징들](https://brunch.co.kr/@goodvc78/12)
 - [검색엔진최적화(SEO) 총정리](https://www.twinword.co.kr/blog/search-engine-optimization-guide/)
-
+- [최고의 프로그래밍 폰트는?](https://futurecreator.github.io/2018/11/12/my-best-programming-font-top-3/)
 
 --------------------------------------
 </br>
