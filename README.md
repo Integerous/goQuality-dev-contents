@@ -54,6 +54,14 @@
 - [페이스북 개발자의 면접 준비과정 [영문]](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)
 
 #### 2018년 11월 18일 일요일
+- [React의 탄생배경과 특징](https://medium.com/@RianCommunity/react의-탄생배경과-특징-4190d47a28f)
+- [프로그래머 추천도서 64선](https://iostream.tistory.com/64)
+- [프로그래밍 어떻게 공부할 것인가? (강의 정리)](https://github.com/Gyubin/TIL/blob/master/ETC/how_to_study_programming.md)
+- [디자인하면 코드는 거저로](http://www.bloter.net/archives/323770)
+- [스타트업 취업의 고수가 되는 방법](https://platum.kr/archives/109446)
+- [클라우드 컴퓨팅 깔끔정리](https://www.hpe.com/kr/ko/what-is/cloud-computing.html)
+
+#### 2018년 11월 19일 월요일
 - 개발 관련 글/영상/슬라이드를 이 곳에 공유해주세요:)
 
 --------------------------------------
