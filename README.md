@@ -46,13 +46,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 16일 금요일
-- [AMP가 어떻게 웹의 성능을 올려줄까?](https://d2.naver.com/helloworld/6856597)
-- [자바스크립트 피로감을 줄여주기 위한 학습 계획[번역]](https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/)
-- [DBMS는 어떻게 트랜잭션을 관리할까?](https://d2.naver.com/helloworld/407507)
-- [넷플릭스 웹 성능 케이스 스터디 [영문]](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
-- [Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics/)
-
 #### 2018년 11월 17일 토요일
 - [카카오뱅크 모바일앱 개발 이야기](https://brunch.co.kr/@kakao-it/278)
 - [node.js의 내부 동작 원리](http://sjh836.tistory.com/149)
@@ -324,6 +317,7 @@
 - [LINE에 사용하는 수많은 서버를 모니터링하는 도구, Promgen을 소개합니다.](https://engineering.linecorp.com/ko/blog/how-promgen-routes-notifications/?fbclid=IwAR2MULBGdhSHN31vjX61dHLKGJII2-0hkRiRkMc1oiSF0RUELHN1jx0GwEg)
 - [단일 저장소(repository)의 좋은점 [번역]](https://edykim.com/ko/post/advantages-of-monorepos/?no-cache=1)
 - [개발자가 처음 Docker 접할 때 오는 멘붕 몇가지](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-docker-%EC%A0%91%ED%95%A0%EB%95%8C-%EC%98%A4%EB%8A%94-%EB%A9%98%EB%B6%95-%EB%AA%87%EA%B0%80%EC%A7%80/?utm_source=dable)
+- [Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics/)
 
 --------------------------------------
 
@@ -336,6 +330,7 @@
 - [PostgreSQL로 배우는 SQL 기초 [슬라이드]](https://www.slideshare.net/mobile/JiHoLee4/postgresql-sql-121859670?fbclid=IwAR35t9ZqcON_2EXBu-xUuVhbQTHNNbqYWeArGWUh-IKKctotkXoQoKQtkKY)
 - [MySQL ‘a’ = ‘a ‘가 true 인가? (PostgreSQL과 비교)](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
 - [MySQL Lock 상황 문제 해결](https://www.popit.kr/mysql-lock-%EC%83%81%ED%99%A9-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
+- [DBMS는 어떻게 트랜잭션을 관리할까?](https://d2.naver.com/helloworld/407507)
 
 --------------------------------------
 
@@ -388,6 +383,7 @@
 - [Angular 데이터 바인딩](https://poiemaweb.com/angular-component-data-binding)
 - [“프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM”](https://link.medium.com/5F2ip5dKDR)
 - [Node.js Stream 당신이 알아야할 모든 것](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html)
+- [자바스크립트 피로감을 줄여주기 위한 학습 계획[번역]](https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/)
 
 --------------------------------------
 
@@ -449,6 +445,8 @@
 - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
 - [HTTP프로토콜의 두번째 버전 - HTTP/2 에 대한 정리 글](https://www.popit.kr/나만-모르고-있던-http2/)
 - [웹페이지 성능 테스트를 위해 알아야할 사이트들](https://m.blog.naver.com/PostView.nhn?blogId=didim365_&logNo=221387090765&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Fdidim365_%2F221387090765)
+- [AMP가 어떻게 웹의 성능을 올려줄까?](https://d2.naver.com/helloworld/6856597)
+- [넷플릭스 웹 성능 케이스 스터디 [영문]](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 
 --------------------------------------
 
