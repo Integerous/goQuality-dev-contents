@@ -55,6 +55,15 @@
 - [클라우드 컴퓨팅 깔끔정리](https://www.hpe.com/kr/ko/what-is/cloud-computing.html)
 
 #### 2018년 11월 19일 월요일
+- [Spring 에제로 보는 SOLID 단일 책임원칙](https://github.com/cheese10yun/spring-SOLID/blob/master/docs/SRP.md)
+- [웹 사이트 이탈율 줄이기](http://www.openads.co.kr/nTrend/article/4238/세계1주웹사이트-이탈율을-줄이는-10가지-체크리스트)
+- [누구나 불만을 말하고, 대안을 제시할 수 있는 팀이 되기까지 - 리멤버 개발팀](https://m.post.naver.com/viewer/postView.nhn?volumeNo=17104973&memberNo=39874958)
+- [Flutter(모바일앱 SDK)는 왜 혁명적인가 [번역]](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
+- [정규표현식, 이렇게 시작하자!](https://heropy.blog/2018/10/28/regexp/)
+- [Commons dbcp 이해하기](https://d2.naver.com/helloworld/5102792)
+- [토종한국인의 구글 취업 후기 [영상]](https://youtu.be/YXf8IuBfxPo)
+
+#### 2018년 11월 20일 화요일
 - 개발 관련 글/영상/슬라이드를 이 곳에 공유해주세요:)
 
 --------------------------------------
