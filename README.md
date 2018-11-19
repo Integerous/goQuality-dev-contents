@@ -46,13 +46,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 17일 토요일
-- [카카오뱅크 모바일앱 개발 이야기](https://brunch.co.kr/@kakao-it/278)
-- [node.js의 내부 동작 원리](http://sjh836.tistory.com/149)
-- [자바스크립트는 어떻게 작동하는가: V8 엔진의 내부 + 최적화된 코드를 작성을 위한 다섯 가지 팁](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%82%B4%EB%B6%80-%EC%B5%9C%EC%A0%81%ED%99%94%EB%90%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-%ED%8C%81-6c6f9832c1d9)
-- [리디북스 뷰어 형광펜 개선 후기](https://www.ridicorp.com/blog/2016/11/10/highlight/)
-- [페이스북 개발자의 면접 준비과정 [영문]](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)
-
 #### 2018년 11월 18일 일요일
 - [React의 탄생배경과 특징](https://medium.com/@RianCommunity/react의-탄생배경과-특징-4190d47a28f)
 - [프로그래머 추천도서 64선](https://iostream.tistory.com/64)
@@ -76,7 +69,7 @@
 - [비전공자 & 신입](https://github.com/Integerous/goQuality-dev-contents#%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90--%EC%8B%A0%EC%9E%85)
 - [세미나/컨퍼런스 후기](https://github.com/Integerous/goQuality-dev-contents#%EC%84%B8%EB%AF%B8%EB%82%98%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0)
 - [개발자 회고](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EA%B3%A0)
-- [면접 정보](https://github.com/Integerous/goQuality-dev-contents#%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%B3%B4)
+- [면접 관련](https://github.com/Integerous/goQuality-dev-contents#%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%B3%B4)
 
 ### 2. [언어 & 프레임워크](https://github.com/Integerous/goQuality-dev-contents#2-%EC%96%B8%EC%96%B4--%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-1)
 - [Java & Spring](https://github.com/Integerous/goQuality-dev-contents#java--spring)
@@ -163,6 +156,7 @@
 - [개발자의 평생 공부 - 임백준님 칼럼](http://www.zdnet.co.kr/column/column_view.asp?artice_id=20170616090644)
 - [40대 개발자의 독일 회사 취업기 (3)](https://brunch.co.kr/@nashorn74/8)
 
+
 --------------------------------------
 
 ### 비전공자 & 신입
@@ -201,6 +195,7 @@
 - [Airbnb의 디자인 시스템 발표 후기](https://brunch.co.kr/@eunlune/15)
 - [백기선님 스프링 기반 REST API 개발 발표 후기](https://github.com/david-learner/java-study/tree/master/%EB%B0%B1%EA%B8%B0%EC%84%A0%EB%8B%98_%EC%8A%A4%ED%94%84%EB%A7%81_%EA%B8%B0%EB%B0%98_REST_API_%EA%B0%9C%EB%B0%9C)
 - [SpringOne TOUR Seoul 2018 후기](https://brunch.co.kr/@springboot/117)
+- [카카오뱅크 모바일앱 개발 이야기](https://brunch.co.kr/@kakao-it/278)
 
 --------------------------------------
 
@@ -210,7 +205,7 @@
 
 --------------------------------------
 
-### 면접 정보
+### 면접 
 >[주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler) 와 [Tech Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)에서 체계적인 면접 관련 정보를 얻을 수 있습니다!  
 여기에는 면접 관련 **글/영상/슬라이드** 만 공유해주세요! :pray:
 
@@ -218,6 +213,7 @@
 - [넥슨 면접에서 듣게 되는 질문 63가지(2018년 ver.)](http://bit.ly/2OXv0lZ)
 - [카카오 경력공채 면접 후기](http://bit.ly/2ynKQNf)
 - [카카오 면접 시 듣게 되는 70가지 질문](http://www.bloter.net/archives/245529)
+- [페이스북 개발자의 면접 준비과정 [영문]](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)
 
 --------------------------------------
 </br>
@@ -392,6 +388,8 @@
 - [“프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM”](https://link.medium.com/5F2ip5dKDR)
 - [Node.js Stream 당신이 알아야할 모든 것](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html)
 - [자바스크립트 피로감을 줄여주기 위한 학습 계획[번역]](https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/)
+- [node.js의 내부 동작 원리](http://sjh836.tistory.com/149)
+- [자바스크립트는 어떻게 작동하는가: V8 엔진의 내부 + 최적화된 코드를 작성을 위한 다섯 가지 팁](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%82%B4%EB%B6%80-%EC%B5%9C%EC%A0%81%ED%99%94%EB%90%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-%ED%8C%81-6c6f9832c1d9)
 
 --------------------------------------
 
@@ -419,6 +417,7 @@
 - [Airbnb 디자이너 정황하님 이야기 [영상]](https://www.facebook.com/breakerskor/videos/2163345637255705/UzpfSTEwMDAwMzM5MjEyMDcxMDpWSzoyNDk2MzIzNjkwNDA4MTUy/)
 - [디자인에서 실제 인용 부호 사용하기 [번역]](https://www.vobour.com/%EB%94%94%EC%9E%90%EC%9D%B8%EC%97%90%EC%84%9C-%EC%8B%A4%EC%A0%9C-%EC%9D%B8%EC%9A%A9-%EB%B6%80%ED%98%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-start-using-real-qu)
 - [무한스크롤, 페이징, 더보기. 어떤걸 써야할까?](http://cyberx.tistory.com/82)
+- [리디북스 뷰어 형광펜 개선 후기](https://www.ridicorp.com/blog/2016/11/10/highlight/)
 
 --------------------------------------
 
