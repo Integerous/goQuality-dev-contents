@@ -64,7 +64,7 @@
 - [토종한국인의 구글 취업 후기 [영상]](https://youtu.be/YXf8IuBfxPo)
 
 #### 2018년 11월 20일 화요일
-- [로버트 C. 마틴의 Clean Code를 읽고 정리를 한 글] (https://sungjk.github.io/2017/07/27/clean-code.html?fbclid=IwAR2I8k1h_kkaD-Xb3VvGq6FB5ntYn6Ab3Zd_BQ42SaRYsRW3rf7VL0QeTsU)
+- [로버트 C. 마틴의 Clean Code를 읽고 정리를 한 글](https://sungjk.github.io/2017/07/27/clean-code.html?fbclid=IwAR2I8k1h_kkaD-Xb3VvGq6FB5ntYn6Ab3Zd_BQ42SaRYsRW3rf7VL0QeTsU)
 - 개발 관련 글/영상/슬라이드를 이 곳에 공유해주세요:)
 
 --------------------------------------
