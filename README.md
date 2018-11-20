@@ -46,14 +46,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 18일 일요일
-- [React의 탄생배경과 특징](https://medium.com/@RianCommunity/react의-탄생배경과-특징-4190d47a28f)
-- [프로그래머 추천도서 64선](https://iostream.tistory.com/64)
-- [프로그래밍 어떻게 공부할 것인가? (강의 정리)](https://github.com/Gyubin/TIL/blob/master/ETC/how_to_study_programming.md)
-- [디자인하면 코드는 거저로](http://www.bloter.net/archives/323770)
-- [스타트업 취업의 고수가 되는 방법](https://platum.kr/archives/109446)
-- [클라우드 컴퓨팅 깔끔정리](https://www.hpe.com/kr/ko/what-is/cloud-computing.html)
-
 #### 2018년 11월 19일 월요일
 - [Spring 에제로 보는 SOLID 단일 책임원칙](https://github.com/cheese10yun/spring-SOLID/blob/master/docs/SRP.md)
 - [웹 사이트 이탈율 줄이기](http://www.openads.co.kr/nTrend/article/4238/세계1주웹사이트-이탈율을-줄이는-10가지-체크리스트)
@@ -165,7 +157,7 @@
 - [토이 프로젝트를 해야하는 이유](http://woowabros.github.io/experience/2018/11/12/toy-project.html)
 - [개발자의 평생 공부 - 임백준님 칼럼](http://www.zdnet.co.kr/column/column_view.asp?artice_id=20170616090644)
 - [40대 개발자의 독일 회사 취업기 (3)](https://brunch.co.kr/@nashorn74/8)
-
+- [프로그래머 추천도서 64선](https://iostream.tistory.com/64)
 
 --------------------------------------
 
@@ -187,6 +179,7 @@
 - [웹 개발자로서의 첫 달 회고 [영문]](http://bit.ly/2Qf5mq1)
 - [소프트웨어 학습 및 자바 웹 개발자 학습 로드맵 [슬라이드]](https://www.slideshare.net/javajigi/ss-66877363)
 - [웹개발자 기준 비전공자 신입으로서 전공자한테 안 밀리고 살아남는 법](https://okky.kr/article/372485)
+- [프로그래밍 어떻게 공부할 것인가? (강의 정리)](https://github.com/Gyubin/TIL/blob/master/ETC/how_to_study_programming.md)
 
 --------------------------------------
 
@@ -224,6 +217,7 @@
 - [카카오 경력공채 면접 후기](http://bit.ly/2ynKQNf)
 - [카카오 면접 시 듣게 되는 70가지 질문](http://www.bloter.net/archives/245529)
 - [페이스북 개발자의 면접 준비과정 [영문]](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)
+- [스타트업 취업의 고수가 되는 방법](https://platum.kr/archives/109446)
 
 --------------------------------------
 </br>
@@ -332,6 +326,7 @@
 - [단일 저장소(repository)의 좋은점 [번역]](https://edykim.com/ko/post/advantages-of-monorepos/?no-cache=1)
 - [개발자가 처음 Docker 접할 때 오는 멘붕 몇가지](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-docker-%EC%A0%91%ED%95%A0%EB%95%8C-%EC%98%A4%EB%8A%94-%EB%A9%98%EB%B6%95-%EB%AA%87%EA%B0%80%EC%A7%80/?utm_source=dable)
 - [Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics/)
+- [클라우드 컴퓨팅 깔끔 정리](https://www.hpe.com/kr/ko/what-is/cloud-computing.html)
 
 --------------------------------------
 
@@ -400,6 +395,8 @@
 - [자바스크립트 피로감을 줄여주기 위한 학습 계획[번역]](https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/)
 - [node.js의 내부 동작 원리](http://sjh836.tistory.com/149)
 - [자바스크립트는 어떻게 작동하는가: V8 엔진의 내부 + 최적화된 코드를 작성을 위한 다섯 가지 팁](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%82%B4%EB%B6%80-%EC%B5%9C%EC%A0%81%ED%99%94%EB%90%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-%ED%8C%81-6c6f9832c1d9)
+- [React의 탄생 배경과 특징](https://medium.com/@RianCommunity/react의-탄생배경과-특징-4190d47a28f)
+
 
 --------------------------------------
 
