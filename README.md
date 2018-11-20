@@ -56,7 +56,15 @@
 - [토종한국인의 구글 취업 후기 [영상]](https://youtu.be/YXf8IuBfxPo)
 
 #### 2018년 11월 20일 화요일
+- [JPA 변경 감지와 스프링 데이터](https://www.popit.kr/jpa-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0/)
+- [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다.](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
 - [로버트 C. 마틴의 Clean Code를 읽고 정리를 한 글](https://sungjk.github.io/2017/07/27/clean-code.html?fbclid=IwAR2I8k1h_kkaD-Xb3VvGq6FB5ntYn6Ab3Zd_BQ42SaRYsRW3rf7VL0QeTsU)
+- [Async-await는 어떻게 구현하는가](https://medium.com/@la.place/async-await%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%EA%B0%80-fa08a3157647)
+- [Java+Spring 환경에서 웹 스크랩핑 하기 - Selenium으로 Web Scraping 아이해봤니?](https://www.popit.kr/web-scraping-by-selenium/)
+- [nginx 설정 자동으로 하는 사이트](https://nginxconfig.io/)
+- [URL, URI, URN 차이 [영문]](https://danielmiessler.com/study/url-uri/)
+
+#### 2018년 11월 21일 수요일
 - 개발 관련 글/영상/슬라이드를 이 곳에 공유해주세요:)
 
 --------------------------------------
