@@ -56,10 +56,18 @@
 - [URL, URI, URN 차이 [영문]](https://danielmiessler.com/study/url-uri/)
 
 #### 2018년 11월 21일 수요일
+- [자바 직렬화, 그것이 알고싶다. (훑어보기편)](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
+- [바람직한 멀티스레딩 구조 [영상]](https://www.youtube.com/watch?v=M1e9nmmD3II)
+- [좋은 개발자가 되는법 -  패스트캠퍼스 개발 총괄 장동수님 [영상]](https://www.facebook.com/306660186475656/posts/549447715530234/)
+- [리얼타임 서비스 개발 후기](http://woowabros.github.io/woowabros/2017/09/12/realtime-service.html)
+- [애니메이션이 어떻게 최적화를 달성하는지 이해하는데 도움이 되는 글](http://cyberx.tistory.com/133)
+- [한 눈에 살펴보는 PostgreSQL](https://d2.naver.com/helloworld/227936)
 - [마이크로 서비스(MSA)를 어떻게 나눌까?](https://www.vobour.com/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C-ii-hj0fqxn3g)
 
 #### 2018년 11월 22일 목요일
-- 개발 관련 글/영상/슬라이드를 이 곳에 공유해주세요:)
+- 개발 관련 글/영상/슬라이드를 아래에 공유해주세요:)
+-
+-
 
 --------------------------------------
 </br>
