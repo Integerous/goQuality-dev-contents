@@ -46,15 +46,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 19일 월요일
-- [Spring 에제로 보는 SOLID 단일 책임원칙](https://github.com/cheese10yun/spring-SOLID/blob/master/docs/SRP.md)
-- [웹 사이트 이탈율 줄이기](http://www.openads.co.kr/nTrend/article/4238/세계1주웹사이트-이탈율을-줄이는-10가지-체크리스트)
-- [누구나 불만을 말하고, 대안을 제시할 수 있는 팀이 되기까지 - 리멤버 개발팀](https://m.post.naver.com/viewer/postView.nhn?volumeNo=17104973&memberNo=39874958)
-- [Flutter(모바일앱 SDK)는 왜 혁명적인가 [번역]](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
-- [정규표현식, 이렇게 시작하자!](https://heropy.blog/2018/10/28/regexp/)
-- [Commons dbcp 이해하기](https://d2.naver.com/helloworld/5102792)
-- [토종한국인의 구글 취업 후기 [영상]](https://youtu.be/YXf8IuBfxPo)
-
 #### 2018년 11월 20일 화요일
 - [JPA 변경 감지와 스프링 데이터](https://www.popit.kr/jpa-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0/)
 - [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다.](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
@@ -65,11 +56,11 @@
 - [URL, URI, URN 차이 [영문]](https://danielmiessler.com/study/url-uri/)
 
 #### 2018년 11월 21일 수요일
+- [마이크로 서비스(MSA)를 어떻게 나눌까?](https://www.vobour.com/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C-ii-hj0fqxn3g)
+
+#### 2018년 11월 22일 목요일
 - 개발 관련 글/영상/슬라이드를 이 곳에 공유해주세요:)
 
-
-#### 2018년 11월 21일 수요일
-- [마이크로 서비스(MSA)를 어떻게 나눌까?](https://www.vobour.com/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C-ii-hj0fqxn3g)
 --------------------------------------
 </br>
 </br>
@@ -145,6 +136,7 @@
 - [트렐로 프로젝트 매니져가 일하는 방법 [번역]](http://bridge.500startups.co.kr/%ED%8A%B8%EB%A0%90%EB%A1%9C%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 - [단위 테스트 사용 방법: JUnit 참조 가이드](https://brunch.co.kr/@pubjinson/16)
 - [2018 광군제 운영 후기](https://www.popit.kr/2018-%EA%B4%91%EA%B5%B0%EC%A0%9C%E5%8F%8C%E5%8D%81%E4%B8%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9A%B4%EC%98%81-%ED%9B%84%EA%B8%B0/)
+- [누구나 불만을 말하고, 대안을 제시할 수 있는 팀이 되기까지 - 리멤버 개발팀](https://m.post.naver.com/viewer/postView.nhn?volumeNo=17104973&memberNo=39874958)
 
 --------------------------------------
 
@@ -229,6 +221,7 @@
 - [카카오 면접 시 듣게 되는 70가지 질문](http://www.bloter.net/archives/245529)
 - [페이스북 개발자의 면접 준비과정 [영문]](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)
 - [스타트업 취업의 고수가 되는 방법](https://platum.kr/archives/109446)
+- [토종 한국인의 구글 취업 후기 [영상]](https://youtu.be/YXf8IuBfxPo)
 
 --------------------------------------
 </br>
@@ -267,6 +260,8 @@
 - [Spring Security OAtuh2 기반 정리글](https://github.com/cheese10yun/springboot-oauth2)
 - [자바 프로그래머가 자주 실수하는 10가지 1편 [번역]](https://bestalign.github.io/2015/08/31/top-10-mistakes-java-developers-make-1/)
 - [Maven vs Gradle 비교 정리](https://bkim.tistory.com/13)
+- [Spring 예제로 보는 SOLID 단일 책임원칙](https://github.com/cheese10yun/spring-SOLID/blob/master/docs/SRP.md)
+
 
 --------------------------------------
 
@@ -351,6 +346,7 @@
 - [MySQL ‘a’ = ‘a ‘가 true 인가? (PostgreSQL과 비교)](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
 - [MySQL Lock 상황 문제 해결](https://www.popit.kr/mysql-lock-%EC%83%81%ED%99%A9-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
 - [DBMS는 어떻게 트랜잭션을 관리할까?](https://d2.naver.com/helloworld/407507)
+- [Commons DBCP 이해하기](https://d2.naver.com/helloworld/5102792)
 
 --------------------------------------
 
@@ -446,6 +442,7 @@
 - [안드로이드 모션 레이아웃 설명 [영문]](http://bit.ly/2CSZgsC)
 - [가상화폐 거래소 앱 개발 후기](http://bit.ly/2ExTFcI)
 - [네이버 그린팩토리 주차층 관리앱 개발기](http://bit.ly/2R5MbyQ)
+- [Flutter(모바일앱 SDK)는 왜 혁명적인가 [번역]](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
 
 --------------------------------------
 </br>
@@ -538,6 +535,7 @@
 - [오픈소스의 네이밍 특징들](https://brunch.co.kr/@goodvc78/12)
 - [검색엔진최적화(SEO) 총정리](https://www.twinword.co.kr/blog/search-engine-optimization-guide/)
 - [최고의 프로그래밍 폰트는?](https://futurecreator.github.io/2018/11/12/my-best-programming-font-top-3/)
+- [정규표현식, 이렇게 시작하자!](https://heropy.blog/2018/10/28/regexp/)
 
 --------------------------------------
 </br>
