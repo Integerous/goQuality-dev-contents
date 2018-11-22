@@ -56,6 +56,13 @@
 - [마이크로 서비스(MSA)를 어떻게 나눌까?](https://www.vobour.com/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C-ii-hj0fqxn3g)
 
 #### 2018년 11월 22일 목요일
+- [대규모 분산 스토리지(Kage)의 발전과정](http://tech.kakao.com/2017/01/12/kage/)
+- [카카오 헤어샵 개발 후기 모음](https://brunch.co.kr/@cg4jins/1)
+- [자바스크립트 비동기 처리와 콜백 함수](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
+- [자바스크립트 Promise 쉽게 이해하기](https://joshua1988.github.io/web-development/javascript/promise-for-beginners/)
+- [데이터 구조와 설계 -튜토리얼 [번역]](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86)
+
+#### 2018년 11월 23일 금요일
 - 개발 관련 글/영상/슬라이드를 아래에 공유해주세요:)
 -
 -
