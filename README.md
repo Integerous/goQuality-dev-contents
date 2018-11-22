@@ -46,15 +46,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 20일 화요일
-- [JPA 변경 감지와 스프링 데이터](https://www.popit.kr/jpa-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0/)
-- [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다.](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
-- [로버트 C. 마틴의 Clean Code를 읽고 정리를 한 글](https://sungjk.github.io/2017/07/27/clean-code.html?fbclid=IwAR2I8k1h_kkaD-Xb3VvGq6FB5ntYn6Ab3Zd_BQ42SaRYsRW3rf7VL0QeTsU)
-- [Async-await는 어떻게 구현하는가](https://medium.com/@la.place/async-await%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%EA%B0%80-fa08a3157647)
-- [Java+Spring 환경에서 웹 스크랩핑 하기 - Selenium으로 Web Scraping 아이해봤니?](https://www.popit.kr/web-scraping-by-selenium/)
-- [nginx 설정 자동으로 하는 사이트](https://nginxconfig.io/)
-- [URL, URI, URN 차이 [영문]](https://danielmiessler.com/study/url-uri/)
-
 #### 2018년 11월 21일 수요일
 - [자바 직렬화, 그것이 알고싶다. (훑어보기편)](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
 - [바람직한 멀티스레딩 구조 [영상]](https://www.youtube.com/watch?v=M1e9nmmD3II)
@@ -145,6 +136,7 @@
 - [단위 테스트 사용 방법: JUnit 참조 가이드](https://brunch.co.kr/@pubjinson/16)
 - [2018 광군제 운영 후기](https://www.popit.kr/2018-%EA%B4%91%EA%B5%B0%EC%A0%9C%E5%8F%8C%E5%8D%81%E4%B8%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9A%B4%EC%98%81-%ED%9B%84%EA%B8%B0/)
 - [누구나 불만을 말하고, 대안을 제시할 수 있는 팀이 되기까지 - 리멤버 개발팀](https://m.post.naver.com/viewer/postView.nhn?volumeNo=17104973&memberNo=39874958)
+- [로버트 C. 마틴의 Clean Code를 읽고 정리를 한 글](https://sungjk.github.io/2017/07/27/clean-code.html?fbclid=IwAR2I8k1h_kkaD-Xb3VvGq6FB5ntYn6Ab3Zd_BQ42SaRYsRW3rf7VL0QeTsU)
 
 --------------------------------------
 
@@ -269,7 +261,8 @@
 - [자바 프로그래머가 자주 실수하는 10가지 1편 [번역]](https://bestalign.github.io/2015/08/31/top-10-mistakes-java-developers-make-1/)
 - [Maven vs Gradle 비교 정리](https://bkim.tistory.com/13)
 - [Spring 예제로 보는 SOLID 단일 책임원칙](https://github.com/cheese10yun/spring-SOLID/blob/master/docs/SRP.md)
-
+- [JPA 변경 감지와 스프링 데이터](https://www.popit.kr/jpa-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0/)
+- [Selenium으로 Java+Spring 환경에서 웹 스크랩핑 하기](https://www.popit.kr/web-scraping-by-selenium/)
 
 --------------------------------------
 
@@ -341,6 +334,7 @@
 - [개발자가 처음 Docker 접할 때 오는 멘붕 몇가지](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-docker-%EC%A0%91%ED%95%A0%EB%95%8C-%EC%98%A4%EB%8A%94-%EB%A9%98%EB%B6%95-%EB%AA%87%EA%B0%80%EC%A7%80/?utm_source=dable)
 - [Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics/)
 - [클라우드 컴퓨팅 깔끔 정리](https://www.hpe.com/kr/ko/what-is/cloud-computing.html)
+- [nginx 설정 자동으로 하는 사이트](https://nginxconfig.io/)
 
 --------------------------------------
 
@@ -477,6 +471,7 @@
 - [웹페이지 성능 테스트를 위해 알아야할 사이트들](https://m.blog.naver.com/PostView.nhn?blogId=didim365_&logNo=221387090765&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Fdidim365_%2F221387090765)
 - [AMP가 어떻게 웹의 성능을 올려줄까?](https://d2.naver.com/helloworld/6856597)
 - [넷플릭스 웹 성능 케이스 스터디 [영문]](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+- [URL, URI, URN 차이 [영문]](https://danielmiessler.com/study/url-uri/)
 
 --------------------------------------
 
@@ -544,6 +539,7 @@
 - [검색엔진최적화(SEO) 총정리](https://www.twinword.co.kr/blog/search-engine-optimization-guide/)
 - [최고의 프로그래밍 폰트는?](https://futurecreator.github.io/2018/11/12/my-best-programming-font-top-3/)
 - [정규표현식, 이렇게 시작하자!](https://heropy.blog/2018/10/28/regexp/)
+- [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다.](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
 
 --------------------------------------
 </br>
