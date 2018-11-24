@@ -54,6 +54,14 @@
 - [데이터 구조와 설계 -튜토리얼 [번역]](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86)
 
 #### 2018년 11월 23일 금요일
+- [깃(Git)은 뭐가 다른가?](https://tech.10000lab.xyz/git/how-git-is-different.html)
+- [딥러닝 서적 및 강좌 추천](https://www.slideshare.net/mobile/seonghunchoe7/ss-83893606)
+- [github 휴봇 slack과 연동하기](https://www.slideshare.net/mobile/ssuser8293c3/ss-70421811)
+- [github probot 소개](https://blog.bglee.me/posts/2018/probot/)
+- [Kafka 운영자가 말하는 처음 접하는 Kafka](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/)
+- [초보자를 위한 쿠버네티스(Kubernetes) 소개](https://www.samsungsds.com/global/ko/support/insights/Kubernetes_inform_kr.html)
+
+#### 2018년 11월 24일 토요일
 - 개발 관련 글/영상/슬라이드를 아래에 공유해주세요:)
 -
 -
