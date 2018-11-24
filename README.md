@@ -46,15 +46,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 21일 수요일
-- [자바 직렬화, 그것이 알고싶다. (훑어보기편)](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
-- [바람직한 멀티스레딩 구조 [영상]](https://www.youtube.com/watch?v=M1e9nmmD3II)
-- [좋은 개발자가 되는법 -  패스트캠퍼스 개발 총괄 장동수님 [영상]](https://www.facebook.com/306660186475656/posts/549447715530234/)
-- [리얼타임 서비스 개발 후기](http://woowabros.github.io/woowabros/2017/09/12/realtime-service.html)
-- [애니메이션이 어떻게 최적화를 달성하는지 이해하는데 도움이 되는 글](http://cyberx.tistory.com/133)
-- [한 눈에 살펴보는 PostgreSQL](https://d2.naver.com/helloworld/227936)
-- [마이크로 서비스(MSA)를 어떻게 나눌까?](https://www.vobour.com/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C-ii-hj0fqxn3g)
-
 #### 2018년 11월 22일 목요일
 - [대규모 분산 스토리지(Kage)의 발전과정](http://tech.kakao.com/2017/01/12/kage/)
 - [카카오 헤어샵 개발 후기 모음](https://brunch.co.kr/@cg4jins/1)
@@ -168,6 +159,7 @@
 - [개발자의 평생 공부 - 임백준님 칼럼](http://www.zdnet.co.kr/column/column_view.asp?artice_id=20170616090644)
 - [40대 개발자의 독일 회사 취업기 (3)](https://brunch.co.kr/@nashorn74/8)
 - [프로그래머 추천도서 64선](https://iostream.tistory.com/64)
+- [좋은 개발자가 되는 법 -  패스트캠퍼스 개발 총괄 장동수님 [영상]](https://www.facebook.com/306660186475656/posts/549447715530234/)
 
 --------------------------------------
 
@@ -270,6 +262,7 @@
 - [Spring 예제로 보는 SOLID 단일 책임원칙](https://github.com/cheese10yun/spring-SOLID/blob/master/docs/SRP.md)
 - [JPA 변경 감지와 스프링 데이터](https://www.popit.kr/jpa-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0/)
 - [Selenium으로 Java+Spring 환경에서 웹 스크랩핑 하기](https://www.popit.kr/web-scraping-by-selenium/)
+- [자바 직렬화, 그것이 알고싶다. (훑어보기편)](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
 
 --------------------------------------
 
@@ -342,6 +335,9 @@
 - [Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics/)
 - [클라우드 컴퓨팅 깔끔 정리](https://www.hpe.com/kr/ko/what-is/cloud-computing.html)
 - [nginx 설정 자동으로 하는 사이트](https://nginxconfig.io/)
+- [바람직한 멀티스레딩 구조 [영상]](https://www.youtube.com/watch?v=M1e9nmmD3II)
+- [실시간 서비스 개발 후기](http://woowabros.github.io/woowabros/2017/09/12/realtime-service.html)
+- [마이크로 서비스(MSA)를 어떻게 나눌까?](https://www.vobour.com/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C-ii-hj0fqxn3g)
 
 --------------------------------------
 
@@ -356,6 +352,7 @@
 - [MySQL Lock 상황 문제 해결](https://www.popit.kr/mysql-lock-%EC%83%81%ED%99%A9-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
 - [DBMS는 어떻게 트랜잭션을 관리할까?](https://d2.naver.com/helloworld/407507)
 - [Commons DBCP 이해하기](https://d2.naver.com/helloworld/5102792)
+- [한 눈에 살펴보는 PostgreSQL](https://d2.naver.com/helloworld/227936)
 
 --------------------------------------
 
