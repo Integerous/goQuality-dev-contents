@@ -46,13 +46,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 22일 목요일
-- [대규모 분산 스토리지(Kage)의 발전과정](http://tech.kakao.com/2017/01/12/kage/)
-- [카카오 헤어샵 개발 후기 모음](https://brunch.co.kr/@cg4jins/1)
-- [자바스크립트 비동기 처리와 콜백 함수](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
-- [자바스크립트 Promise 쉽게 이해하기](https://joshua1988.github.io/web-development/javascript/promise-for-beginners/)
-- [데이터 구조와 설계 -튜토리얼 [번역]](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86)
-
 #### 2018년 11월 23일 금요일
 - [깃(Git)은 뭐가 다른가?](https://tech.10000lab.xyz/git/how-git-is-different.html)
 - [딥러닝 서적 및 강좌 추천](https://www.slideshare.net/mobile/seonghunchoe7/ss-83893606)
@@ -62,6 +55,13 @@
 - [초보자를 위한 쿠버네티스(Kubernetes) 소개](https://www.samsungsds.com/global/ko/support/insights/Kubernetes_inform_kr.html)
 
 #### 2018년 11월 24일 토요일
+- [AWS 장애를 바라보며. 클라우드에 대한 단상](https://himskim.wordpress.com/2018/11/23/aws-%ec%9e%a5%ec%95%a0%eb%a5%bc-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%a9%b0-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%eb%8c%80%ed%95%9c-%eb%8b%a8%ec%83%81/)
+- [좋은 코딩을 위한 13가지 간단한 규칙 [번역]](https://mingrammer.com/translation-13-simple-rules-for-good-coding/)
+- [Hash Table은 프로그래머의 기본기 [영상]](https://www.youtube.com/watch?v=S7vni1hdsZE)
+- [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
+- [Spring OAuth2 token mysql 영속화](https://github.com/cheese10yun/springboot-oauth2/blob/master/docs/OAuth2-RDBMSt.md)
+
+#### 2018년 11월 25일 일요일
 - 개발 관련 글/영상/슬라이드를 아래에 공유해주세요:)
 -
 -
@@ -143,6 +143,7 @@
 - [2018 광군제 운영 후기](https://www.popit.kr/2018-%EA%B4%91%EA%B5%B0%EC%A0%9C%E5%8F%8C%E5%8D%81%E4%B8%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9A%B4%EC%98%81-%ED%9B%84%EA%B8%B0/)
 - [누구나 불만을 말하고, 대안을 제시할 수 있는 팀이 되기까지 - 리멤버 개발팀](https://m.post.naver.com/viewer/postView.nhn?volumeNo=17104973&memberNo=39874958)
 - [로버트 C. 마틴의 Clean Code를 읽고 정리를 한 글](https://sungjk.github.io/2017/07/27/clean-code.html?fbclid=IwAR2I8k1h_kkaD-Xb3VvGq6FB5ntYn6Ab3Zd_BQ42SaRYsRW3rf7VL0QeTsU)
+- [카카오 헤어샵 개발 후기 모음](https://brunch.co.kr/@cg4jins/1)
 
 --------------------------------------
 
@@ -346,6 +347,7 @@
 - [바람직한 멀티스레딩 구조 [영상]](https://www.youtube.com/watch?v=M1e9nmmD3II)
 - [실시간 서비스 개발 후기](http://woowabros.github.io/woowabros/2017/09/12/realtime-service.html)
 - [마이크로 서비스(MSA)를 어떻게 나눌까?](https://www.vobour.com/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C-ii-hj0fqxn3g)
+- [대규모 분산 스토리지(Kage)의 발전 과정](http://tech.kakao.com/2017/01/12/kage/)
 
 --------------------------------------
 
@@ -361,6 +363,7 @@
 - [DBMS는 어떻게 트랜잭션을 관리할까?](https://d2.naver.com/helloworld/407507)
 - [Commons DBCP 이해하기](https://d2.naver.com/helloworld/5102792)
 - [한 눈에 살펴보는 PostgreSQL](https://d2.naver.com/helloworld/227936)
+- [데이터 구조와 설계 -튜토리얼 [번역]](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86)
 
 --------------------------------------
 
@@ -417,7 +420,8 @@
 - [node.js의 내부 동작 원리](http://sjh836.tistory.com/149)
 - [자바스크립트는 어떻게 작동하는가: V8 엔진의 내부 + 최적화된 코드를 작성을 위한 다섯 가지 팁](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%82%B4%EB%B6%80-%EC%B5%9C%EC%A0%81%ED%99%94%EB%90%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-%ED%8C%81-6c6f9832c1d9)
 - [React의 탄생 배경과 특징](https://medium.com/@RianCommunity/react의-탄생배경과-특징-4190d47a28f)
-
+- [자바스크립트 비동기 처리와 콜백 함수](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
+- [자바스크립트 Promise 쉽게 이해하기](https://joshua1988.github.io/web-development/javascript/promise-for-beginners/)
 
 --------------------------------------
 
