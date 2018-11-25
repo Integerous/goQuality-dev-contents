@@ -46,14 +46,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 23일 금요일
-- [깃(Git)은 뭐가 다른가?](https://tech.10000lab.xyz/git/how-git-is-different.html)
-- [딥러닝 서적 및 강좌 추천](https://www.slideshare.net/mobile/seonghunchoe7/ss-83893606)
-- [github 휴봇 slack과 연동하기](https://www.slideshare.net/mobile/ssuser8293c3/ss-70421811)
-- [github probot 소개](https://blog.bglee.me/posts/2018/probot/)
-- [Kafka 운영자가 말하는 처음 접하는 Kafka](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/)
-- [초보자를 위한 쿠버네티스(Kubernetes) 소개](https://www.samsungsds.com/global/ko/support/insights/Kubernetes_inform_kr.html)
-
 #### 2018년 11월 24일 토요일
 - [AWS 장애를 바라보며. 클라우드에 대한 단상](https://himskim.wordpress.com/2018/11/23/aws-%ec%9e%a5%ec%95%a0%eb%a5%bc-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%a9%b0-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%eb%8c%80%ed%95%9c-%eb%8b%a8%ec%83%81/)
 - [좋은 코딩을 위한 13가지 간단한 규칙 [번역]](https://mingrammer.com/translation-13-simple-rules-for-good-coding/)
@@ -348,6 +340,7 @@
 - [실시간 서비스 개발 후기](http://woowabros.github.io/woowabros/2017/09/12/realtime-service.html)
 - [마이크로 서비스(MSA)를 어떻게 나눌까?](https://www.vobour.com/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C-ii-hj0fqxn3g)
 - [대규모 분산 스토리지(Kage)의 발전 과정](http://tech.kakao.com/2017/01/12/kage/)
+- [Kafka 운영자가 말하는 처음 접하는 Kafka](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/)
 
 --------------------------------------
 
@@ -510,6 +503,8 @@
 - [Git 사용 팁 저장소 [한국어 버전]](https://github.com/mingrammer/git-tips)
 - [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.toast.com/posts/122)
 - [Github Universe 2018 참석기 1편](https://blog.outsider.ne.kr/1407)
+- [깃(Git)은 뭐가 다른가?](https://tech.10000lab.xyz/git/how-git-is-different.html)
+
 --------------------------------------
 
 ### 알고리즘 & 자료구조
@@ -531,6 +526,7 @@
 
 ### 머신러닝 & 딥러닝 & AI
 - [머신러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
+- [딥러닝 서적 및 강좌 추천](https://www.slideshare.net/mobile/seonghunchoe7/ss-83893606)
 
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
