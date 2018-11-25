@@ -54,6 +54,14 @@
 - [Spring OAuth2 token mysql 영속화](https://github.com/cheese10yun/springboot-oauth2/blob/master/docs/OAuth2-RDBMSt.md)
 
 #### 2018년 11월 25일 일요일
+- [프로덕트 스펙 문서 작성법 스펙 문서는 왜, 어떻게 써야 하는가?](https://webuildproduct.com/%EC%8A%A4%ED%8E%99-%EB%AC%B8%EC%84%9C-%EC%9E%91%EC%84%B1%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-ee61a1fc294f)
+- [Vue.js 기준으로 다른 웹 프레임워크를 비교한 글](http://forwe.tistory.com/1)
+- [Docker Swarm을 이용한 쉽고 빠른 분산 서버 관리](https://subicura.com/2017/02/25/container-orchestration-with-docker-swarm.html)
+- [카카오스토리 웹팀의 코드리뷰 경험](https://www.slideshare.net/OhgyunAhn/ss-61189141)
+- [DEVIEW 2018 [영상]](https://tv.naver.com/v/4577969/list/279844)
+- ['기능 공장'에서 일하고 있다는 12가지 신호 [번역]](https://brunch.co.kr/@cojette/31)
+
+#### 2018년 11월 26일 월요일
 - 개발 관련 글/영상/슬라이드를 아래에 공유해주세요:)
 -
 -
