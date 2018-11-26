@@ -46,13 +46,6 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 24일 토요일
-- [AWS 장애를 바라보며. 클라우드에 대한 단상](https://himskim.wordpress.com/2018/11/23/aws-%ec%9e%a5%ec%95%a0%eb%a5%bc-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%a9%b0-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%eb%8c%80%ed%95%9c-%eb%8b%a8%ec%83%81/)
-- [좋은 코딩을 위한 13가지 간단한 규칙 [번역]](https://mingrammer.com/translation-13-simple-rules-for-good-coding/)
-- [Hash Table은 프로그래머의 기본기 [영상]](https://www.youtube.com/watch?v=S7vni1hdsZE)
-- [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
-- [Spring OAuth2 token mysql 영속화](https://github.com/cheese10yun/springboot-oauth2/blob/master/docs/OAuth2-RDBMSt.md)
-
 #### 2018년 11월 25일 일요일
 - [프로덕트 스펙 문서 작성법 스펙 문서는 왜, 어떻게 써야 하는가?](https://webuildproduct.com/%EC%8A%A4%ED%8E%99-%EB%AC%B8%EC%84%9C-%EC%9E%91%EC%84%B1%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-ee61a1fc294f)
 - [Vue.js 기준으로 다른 웹 프레임워크를 비교한 글](http://forwe.tistory.com/1)
@@ -144,6 +137,7 @@
 - [누구나 불만을 말하고, 대안을 제시할 수 있는 팀이 되기까지 - 리멤버 개발팀](https://m.post.naver.com/viewer/postView.nhn?volumeNo=17104973&memberNo=39874958)
 - [로버트 C. 마틴의 Clean Code를 읽고 정리를 한 글](https://sungjk.github.io/2017/07/27/clean-code.html?fbclid=IwAR2I8k1h_kkaD-Xb3VvGq6FB5ntYn6Ab3Zd_BQ42SaRYsRW3rf7VL0QeTsU)
 - [카카오 헤어샵 개발 후기 모음](https://brunch.co.kr/@cg4jins/1)
+- [좋은 코딩을 위한 13가지 간단한 규칙 [번역]](https://mingrammer.com/translation-13-simple-rules-for-good-coding/)
 
 --------------------------------------
 
@@ -169,6 +163,7 @@
 - [40대 개발자의 독일 회사 취업기 (3)](https://brunch.co.kr/@nashorn74/8)
 - [프로그래머 추천도서 64선](https://iostream.tistory.com/64)
 - [좋은 개발자가 되는 법 -  패스트캠퍼스 개발 총괄 장동수님 [영상]](https://www.facebook.com/306660186475656/posts/549447715530234/)
+- [Hash Table은 프로그래머의 기본기 [영상]](https://www.youtube.com/watch?v=S7vni1hdsZE)
 
 --------------------------------------
 
@@ -349,6 +344,7 @@
 - [마이크로 서비스(MSA)를 어떻게 나눌까?](https://www.vobour.com/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C-ii-hj0fqxn3g)
 - [대규모 분산 스토리지(Kage)의 발전 과정](http://tech.kakao.com/2017/01/12/kage/)
 - [Kafka 운영자가 말하는 처음 접하는 Kafka](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/)
+- [AWS 장애를 바라보며. 클라우드에 대한 단상](https://himskim.wordpress.com/2018/11/23/aws-%ec%9e%a5%ec%95%a0%eb%a5%bc-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%a9%b0-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%eb%8c%80%ed%95%9c-%eb%8b%a8%ec%83%81/)
 
 --------------------------------------
 
