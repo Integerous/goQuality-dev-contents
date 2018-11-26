@@ -55,6 +55,15 @@
 - ['기능 공장'에서 일하고 있다는 12가지 신호 [번역]](https://brunch.co.kr/@cojette/31)
 
 #### 2018년 11월 26일 월요일
+- [네이버 파파고 서비스 2년의 경험 [영상]](https://tv.naver.com/v/4578223/list/279844)
+- [요리사도 종업원도 메뉴도 없는 식당 - 징둥이 꿈꾸는 미래식당은 ?](https://blog.naver.com/china_lab/221396737458)
+- [웹 성능 최적화에 필요한 브라우저의 모든 것 [영상]](https://tv.naver.com/v/4578425/list/279844)
+- [왜 React와 서버 사이드 렌더링인가?](https://subicura.com/2016/06/20/server-side-rendering-with-react.html)
+- [Elastic Stack과 Lambda를 활용한 데이터 모니터링 시스템 구축](https://d2.naver.com/helloworld/9878588)
+- [작은 오픈소스 프로그램을 분석해서 실력을 쌓아 나간 사례](https://okky.kr/article/408595)
+- [카카오미니는 어떻게 스무고개를 맞출까?](https://brunch.co.kr/@kakao-it/157)
+
+#### 2018년 11월 27일 화요일
 - 개발 관련 글/영상/슬라이드를 아래에 공유해주세요:)
 -
 -
