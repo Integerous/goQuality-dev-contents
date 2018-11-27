@@ -56,6 +56,18 @@
 - [카카오미니는 어떻게 스무고개를 맞출까?](https://brunch.co.kr/@kakao-it/157)
 
 #### 2018년 11월 27일 화요일
+- [실무에서 Lombok 사용법](https://github.com/cheese10yun/blog-sample/tree/master/lombok)
+- [JavaScript 배틀그라운드로부터 살아남기 [영상]](https://tv.naver.com/v/4578347/list/279844)
+- [헤이딜러에서는 어떻게 일하나요?](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)
+- [Github Actions 소개](https://blog.outsider.ne.kr/1412?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss_outsider_dev+%28Outsider%27s+Dev+Story%29)
+- [100,000개의 아이템도 거뜬한 셀렉트박스 만들기 (1/2)](https://meetup.toast.com/posts/160)
+- ['7년 걸쳐 AWS로 이전'..넷플릭스 엔지니어가 설명하는 클라우드 여정](http://www.ciokorea.com/news/39567)
+- [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/intro/intro1_1.html?fbclid=IwAR0i2cl1khBuMez9FaWISUBsUN-2DvI5h_lWwnYYRlk4BHAQEnAzKxh8qRQ)
+- [jsp 서블릿 서블릿컨테이너 개요](https://m.blog.naver.com/ljh0326s/220985613855)
+- [전자정부 프레임워크를 java config 방식으로 (총12편)](https://zgundam.tistory.com/79)
+- [후기 - 원티드와 함께하는 개발자 커리어 터치](https://velog.io/@doondoony/%ED%9B%84%EA%B8%B0-%EC%9B%90%ED%8B%B0%EB%93%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%EC%96%B4-%ED%84%B0%EC%B9%98)
+
+#### 2018년 11월 28일 수요일
 - 개발 관련 글/영상/슬라이드를 아래에 공유해주세요:)
 -
 -
