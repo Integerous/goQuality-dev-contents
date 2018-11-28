@@ -14,12 +14,12 @@
 </br>
 
 ## :mega: 소개
->**유익한 컨텐츠를 비추어주는 카메라** 입니다.  
->좋은 컨텐츠는 널리 알려져야 합니다.  
->더 많은 사람들이 소비해야, 더 많이 생산되기 때문입니다.  
->유익한 개발 컨텐츠가 많아지는 것은 개발자 모두에게 좋은 일입니다.  
->  
+>**유익한 개발 컨텐츠를 비추는 카메라** 입니다.  
+>좋은 컨텐츠를 널리 알리면, 더 많이 소비되고, 더 많이 생산된다는 가정 하에,  
+>컨텐츠 생산자와 소비자 모두에게 유익한 선순환을 만들고자 합니다.  
+  
 >누구나 카메라맨이 될 수 있습니다!  
+>양질의 컨텐츠가 충분한 관심을 받을 수 있도록,  
 >유익한 개발 관련 글, 영상, 슬라이드를 공유해주세요 :pray:
 
 --------------------------------------
@@ -45,15 +45,6 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-
-#### 2018년 11월 26일 월요일
-- [네이버 파파고 서비스 2년의 경험 [영상]](https://tv.naver.com/v/4578223/list/279844)
-- [요리사도 종업원도 메뉴도 없는 식당 - 징둥이 꿈꾸는 미래식당은 ?](https://blog.naver.com/china_lab/221396737458)
-- [웹 성능 최적화에 필요한 브라우저의 모든 것 [영상]](https://tv.naver.com/v/4578425/list/279844)
-- [왜 React와 서버 사이드 렌더링인가?](https://subicura.com/2016/06/20/server-side-rendering-with-react.html)
-- [Elastic Stack과 Lambda를 활용한 데이터 모니터링 시스템 구축](https://d2.naver.com/helloworld/9878588)
-- [작은 오픈소스 프로그램을 분석해서 실력을 쌓아 나간 사례](https://okky.kr/article/408595)
-- [카카오미니는 어떻게 스무고개를 맞출까?](https://brunch.co.kr/@kakao-it/157)
 
 #### 2018년 11월 27일 화요일
 - [실무에서 Lombok 사용법](https://github.com/cheese10yun/blog-sample/tree/master/lombok)
@@ -154,6 +145,7 @@
 - [프로덕트 스펙 문서 작성법 스펙 문서는 왜, 어떻게 써야 하는가?](https://webuildproduct.com/%EC%8A%A4%ED%8E%99-%EB%AC%B8%EC%84%9C-%EC%9E%91%EC%84%B1%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-ee61a1fc294f)
 - [카카오스토리 웹팀의 코드리뷰 경험](https://www.slideshare.net/OhgyunAhn/ss-61189141)
 - ['기능 공장'에서 일하고 있다는 12가지 신호 [번역]](https://brunch.co.kr/@cojette/31)
+- [네이버 파파고 서비스 2년의 경험 [영상]](https://tv.naver.com/v/4578223/list/279844)
 
 --------------------------------------
 
@@ -180,6 +172,7 @@
 - [프로그래머 추천도서 64선](https://iostream.tistory.com/64)
 - [좋은 개발자가 되는 법 -  패스트캠퍼스 개발 총괄 장동수님 [영상]](https://www.facebook.com/306660186475656/posts/549447715530234/)
 - [Hash Table은 프로그래머의 기본기 [영상]](https://www.youtube.com/watch?v=S7vni1hdsZE)
+- [작은 오픈소스 프로그램을 분석해서 실력을 쌓아 나간 사례](https://okky.kr/article/408595)
 
 --------------------------------------
 
@@ -363,6 +356,7 @@
 - [Kafka 운영자가 말하는 처음 접하는 Kafka](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/)
 - [AWS 장애를 바라보며. 클라우드에 대한 단상](https://himskim.wordpress.com/2018/11/23/aws-%ec%9e%a5%ec%95%a0%eb%a5%bc-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%a9%b0-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%eb%8c%80%ed%95%9c-%eb%8b%a8%ec%83%81/)
 - [Docker Swarm을 이용한 쉽고 빠른 분산 서버 관리](https://subicura.com/2017/02/25/container-orchestration-with-docker-swarm.html)
+- [Elastic Stack과 Lambda를 활용한 데이터 모니터링 시스템 구축](https://d2.naver.com/helloworld/9878588)
 
 --------------------------------------
 
@@ -438,6 +432,7 @@
 - [자바스크립트 비동기 처리와 콜백 함수](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
 - [자바스크립트 Promise 쉽게 이해하기](https://joshua1988.github.io/web-development/javascript/promise-for-beginners/)
 - [Vue.js 기준으로 다른 웹 프레임워크를 비교한 글](http://forwe.tistory.com/1)
+- [왜 React와 서버 사이드 렌더링인가?](https://subicura.com/2016/06/20/server-side-rendering-with-react.html)
 
 --------------------------------------
 
@@ -504,6 +499,7 @@
 - [AMP가 어떻게 웹의 성능을 올려줄까?](https://d2.naver.com/helloworld/6856597)
 - [넷플릭스 웹 성능 케이스 스터디 [영문]](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 - [URL, URI, URN 차이 [영문]](https://danielmiessler.com/study/url-uri/)
+- [웹 성능 최적화에 필요한 브라우저의 모든 것 [영상]](https://tv.naver.com/v/4578425/list/279844)
 
 --------------------------------------
 
@@ -550,6 +546,7 @@
 ### 머신러닝 & 딥러닝 & AI
 - [머신러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
 - [딥러닝 서적 및 강좌 추천](https://www.slideshare.net/mobile/seonghunchoe7/ss-83893606)
+- [카카오미니는 어떻게 스무고개를 맞출까?](https://brunch.co.kr/@kakao-it/157)
 
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
