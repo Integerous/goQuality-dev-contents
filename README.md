@@ -59,6 +59,13 @@
 - [후기 - 원티드와 함께하는 개발자 커리어 터치](https://velog.io/@doondoony/%ED%9B%84%EA%B8%B0-%EC%9B%90%ED%8B%B0%EB%93%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%EC%96%B4-%ED%84%B0%EC%B9%98)
 
 #### 2018년 11월 28일 수요일
+- [spring batch 소개](http://opennote46.tistory.com/m/71)
+- [넷플릭스 안드로이드 앱 아키텍쳐 [번역]](https://m.blog.naver.com/diablo1031/221406412612)
+- [NAVER Tech Concert 발표 영상 [영상]](https://tv.naver.com/v/4409296/list/272653)
+- ['아마존 웹 서비스를 다루는 기술' 원고 공개](http://pyrasis.com/book/TheArtOfAmazonWebServices)
+- [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속 [번역]](https://meetup.toast.com/posts/106)
+
+#### 2018년 11월 29일 목요일
 - 개발 관련 글/영상/슬라이드를 아래에 공유해주세요:)
 -
 -
