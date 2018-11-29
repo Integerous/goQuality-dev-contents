@@ -45,6 +45,11 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+
+#### 2018년 11월 30일 금요일
+- 
+-
+
 #### 2018년 11월 29일 목요일
 - [Elasticsearch의 색인 별명 활용 팁](http://www.ridicorp.com/blog/2018/11/20/index-aliases/)
 - [야놀자 워크로그 개발기](https://yanolja.github.io/2018/09/Work-Log)
