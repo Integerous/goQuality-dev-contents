@@ -45,6 +45,8 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 11월 29일 목요일
+- [Redis in Action [영문]](https://redislabs.com/community/ebook)
 
 #### 2018년 11월 27일 화요일
 - [실무에서 Lombok 사용법](https://github.com/cheese10yun/blog-sample/tree/master/lombok)
