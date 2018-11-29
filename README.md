@@ -50,18 +50,6 @@
 - [실용주의 프로그래머 갈무리](https://blog.ordinarysimple.com/posts/programming/2018-11-04-the-progmatic-programmer/)
 
 
-#### 2018년 11월 27일 화요일
-- [실무에서 Lombok 사용법](https://github.com/cheese10yun/blog-sample/tree/master/lombok)
-- [JavaScript 배틀그라운드로부터 살아남기 [영상]](https://tv.naver.com/v/4578347/list/279844)
-- [헤이딜러에서는 어떻게 일하나요?](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)
-- [Github Actions 소개](https://blog.outsider.ne.kr/1412?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss_outsider_dev+%28Outsider%27s+Dev+Story%29)
-- [100,000개의 아이템도 거뜬한 셀렉트박스 만들기 (1/2)](https://meetup.toast.com/posts/160)
-- ['7년 걸쳐 AWS로 이전'..넷플릭스 엔지니어가 설명하는 클라우드 여정](http://www.ciokorea.com/news/39567)
-- [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/intro/intro1_1.html?fbclid=IwAR0i2cl1khBuMez9FaWISUBsUN-2DvI5h_lWwnYYRlk4BHAQEnAzKxh8qRQ)
-- [jsp 서블릿 서블릿컨테이너 개요](https://m.blog.naver.com/ljh0326s/220985613855)
-- [전자정부 프레임워크를 java config 방식으로 (총12편)](https://zgundam.tistory.com/79)
-- [후기 - 원티드와 함께하는 개발자 커리어 터치](https://velog.io/@doondoony/%ED%9B%84%EA%B8%B0-%EC%9B%90%ED%8B%B0%EB%93%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%EC%96%B4-%ED%84%B0%EC%B9%98)
-
 #### 2018년 11월 28일 수요일
 - [spring batch 소개](http://opennote46.tistory.com/m/71)
 - [넷플릭스 안드로이드 앱 아키텍쳐 [번역]](https://m.blog.naver.com/diablo1031/221406412612)
@@ -69,10 +57,6 @@
 - ['아마존 웹 서비스를 다루는 기술' 원고 공개](http://pyrasis.com/book/TheArtOfAmazonWebServices)
 - [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속 [번역]](https://meetup.toast.com/posts/106)
 
-#### 2018년 11월 29일 목요일
-- 개발 관련 글/영상/슬라이드를 아래에 공유해주세요:)
--
--
 
 --------------------------------------
 </br>
@@ -157,6 +141,7 @@
 - [카카오스토리 웹팀의 코드리뷰 경험](https://www.slideshare.net/OhgyunAhn/ss-61189141)
 - ['기능 공장'에서 일하고 있다는 12가지 신호 [번역]](https://brunch.co.kr/@cojette/31)
 - [네이버 파파고 서비스 2년의 경험 [영상]](https://tv.naver.com/v/4578223/list/279844)
+- [헤이딜러에서는 어떻게 일하나요?](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)
 
 --------------------------------------
 
@@ -184,6 +169,7 @@
 - [좋은 개발자가 되는 법 -  패스트캠퍼스 개발 총괄 장동수님 [영상]](https://www.facebook.com/306660186475656/posts/549447715530234/)
 - [Hash Table은 프로그래머의 기본기 [영상]](https://www.youtube.com/watch?v=S7vni1hdsZE)
 - [작은 오픈소스 프로그램을 분석해서 실력을 쌓아 나간 사례](https://okky.kr/article/408595)
+- [후기 - 원티드와 함께하는 개발자 커리어 터치](https://velog.io/@doondoony/%ED%9B%84%EA%B8%B0-%EC%9B%90%ED%8B%B0%EB%93%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%EC%96%B4-%ED%84%B0%EC%B9%98)
 
 --------------------------------------
 
@@ -288,6 +274,9 @@
 - [JPA 변경 감지와 스프링 데이터](https://www.popit.kr/jpa-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0/)
 - [Selenium으로 Java+Spring 환경에서 웹 스크랩핑 하기](https://www.popit.kr/web-scraping-by-selenium/)
 - [자바 직렬화, 그것이 알고싶다. (훑어보기편)](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
+- [실무에서 Lombok 사용법](https://github.com/cheese10yun/blog-sample/tree/master/lombok)
+- [jsp 서블릿 서블릿컨테이너 개요](https://m.blog.naver.com/ljh0326s/220985613855)
+- [전자정부 프레임워크를 java config 방식으로 (총12편)](https://zgundam.tistory.com/79)
 
 --------------------------------------
 
@@ -444,6 +433,7 @@
 - [자바스크립트 Promise 쉽게 이해하기](https://joshua1988.github.io/web-development/javascript/promise-for-beginners/)
 - [Vue.js 기준으로 다른 웹 프레임워크를 비교한 글](http://forwe.tistory.com/1)
 - [왜 React와 서버 사이드 렌더링인가?](https://subicura.com/2016/06/20/server-side-rendering-with-react.html)
+- [JavaScript 배틀그라운드로부터 살아남기 [영상]](https://tv.naver.com/v/4578347/list/279844)
 
 --------------------------------------
 
@@ -511,6 +501,7 @@
 - [넷플릭스 웹 성능 케이스 스터디 [영문]](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 - [URL, URI, URN 차이 [영문]](https://danielmiessler.com/study/url-uri/)
 - [웹 성능 최적화에 필요한 브라우저의 모든 것 [영상]](https://tv.naver.com/v/4578425/list/279844)
+- [100,000개의 아이템도 거뜬한 셀렉트박스 만들기 (1/2)](https://meetup.toast.com/posts/160)
 
 --------------------------------------
 
@@ -534,6 +525,8 @@
 - [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.toast.com/posts/122)
 - [Github Universe 2018 참석기 1편](https://blog.outsider.ne.kr/1407)
 - [깃(Git)은 뭐가 다른가?](https://tech.10000lab.xyz/git/how-git-is-different.html)
+- [Github Actions 소개](https://blog.outsider.ne.kr/1412?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss_outsider_dev+%28Outsider%27s+Dev+Story%29)
+- [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/intro/intro1_1.html?fbclid=IwAR0i2cl1khBuMez9FaWISUBsUN-2DvI5h_lWwnYYRlk4BHAQEnAzKxh8qRQ)
 
 --------------------------------------
 
