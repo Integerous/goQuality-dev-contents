@@ -47,6 +47,8 @@
 
 #### 2018년 11월 29일 목요일
 - [Redis in Action [영문]](https://redislabs.com/community/ebook)
+- [실용주의 프로그래머 갈무리](https://blog.ordinarysimple.com/posts/programming/2018-11-04-the-progmatic-programmer/)
+
 
 #### 2018년 11월 27일 화요일
 - [실무에서 Lombok 사용법](https://github.com/cheese10yun/blog-sample/tree/master/lombok)
