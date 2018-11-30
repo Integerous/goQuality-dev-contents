@@ -64,14 +64,6 @@
 - [실용주의 프로그래머 갈무리](https://blog.ordinarysimple.com/posts/programming/2018-11-04-the-progmatic-programmer/)
 
 
-#### 2018년 11월 28일 수요일
-- [spring batch 소개](http://opennote46.tistory.com/m/71)
-- [넷플릭스 안드로이드 앱 아키텍쳐 [번역]](https://m.blog.naver.com/diablo1031/221406412612)
-- [NAVER Tech Concert 발표 영상 [영상]](https://tv.naver.com/v/4409296/list/272653)
-- ['아마존 웹 서비스를 다루는 기술' 원고 공개](http://pyrasis.com/book/TheArtOfAmazonWebServices)
-- [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속 [번역]](https://meetup.toast.com/posts/106)
-
-
 --------------------------------------
 </br>
 </br>
@@ -371,6 +363,7 @@
 - [AWS 장애를 바라보며. 클라우드에 대한 단상](https://himskim.wordpress.com/2018/11/23/aws-%ec%9e%a5%ec%95%a0%eb%a5%bc-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%a9%b0-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%eb%8c%80%ed%95%9c-%eb%8b%a8%ec%83%81/)
 - [Docker Swarm을 이용한 쉽고 빠른 분산 서버 관리](https://subicura.com/2017/02/25/container-orchestration-with-docker-swarm.html)
 - [Elastic Stack과 Lambda를 활용한 데이터 모니터링 시스템 구축](https://d2.naver.com/helloworld/9878588)
+- ['아마존 웹 서비스를 다루는 기술' 원고 공개](http://pyrasis.com/book/TheArtOfAmazonWebServices)
 
 --------------------------------------
 
@@ -487,6 +480,8 @@
 - [가상화폐 거래소 앱 개발 후기](http://bit.ly/2ExTFcI)
 - [네이버 그린팩토리 주차층 관리앱 개발기](http://bit.ly/2R5MbyQ)
 - [Flutter(모바일앱 SDK)는 왜 혁명적인가 [번역]](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
+- [넷플릭스 안드로이드 앱 아키텍쳐 [번역]](https://m.blog.naver.com/diablo1031/221406412612)
+- [NAVER Tech Concert:Android 발표 영상 모음 [영상]](https://tv.naver.com/v/4409296/list/272653)
 
 --------------------------------------
 </br>
@@ -541,6 +536,7 @@
 - [깃(Git)은 뭐가 다른가?](https://tech.10000lab.xyz/git/how-git-is-different.html)
 - [Github Actions 소개](https://blog.outsider.ne.kr/1412?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss_outsider_dev+%28Outsider%27s+Dev+Story%29)
 - [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/intro/intro1_1.html?fbclid=IwAR0i2cl1khBuMez9FaWISUBsUN-2DvI5h_lWwnYYRlk4BHAQEnAzKxh8qRQ)
+- [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속 [번역]](https://meetup.toast.com/posts/106)
 
 --------------------------------------
 
