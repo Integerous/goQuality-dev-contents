@@ -46,9 +46,16 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 11월 30일 금요일
+#### 2018년 12월 1일 토요일
 - 
 -
+
+#### 2018년 11월 30일 금요일
+- ['실용주의 프로그래머' 내용 요약정리](https://blog.ordinarysimple.com/posts/programming/2018-11-04-the-progmatic-programmer/)
+- [GDG DevFest Seoul 2018 발표자료 모음](https://devfest-seoul18.gdg.kr/timetable)
+- [고루틴 vs 쓰레드](https://tech.ssut.me/goroutine-vs-threads/)
+- [개발자처럼 생각하는 방법 [번역]](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
+- [여기어때 면접에서 듣게 되는 질문 112가지](http://www.bloter.net/archives/325304)
 
 #### 2018년 11월 29일 목요일
 - [Elasticsearch의 색인 별명 활용 팁](http://www.ridicorp.com/blog/2018/11/20/index-aliases/)
