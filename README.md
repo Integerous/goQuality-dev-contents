@@ -51,24 +51,10 @@
 -
 
 #### 2018년 11월 30일 금요일
-- ['실용주의 프로그래머' 내용 요약정리](https://blog.ordinarysimple.com/posts/programming/2018-11-04-the-progmatic-programmer/)
 - [GDG DevFest Seoul 2018 발표자료 모음](https://devfest-seoul18.gdg.kr/timetable)
 - [고루틴 vs 쓰레드](https://tech.ssut.me/goroutine-vs-threads/)
 - [개발자처럼 생각하는 방법 [번역]](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
 - [여기어때 면접에서 듣게 되는 질문 112가지](http://www.bloter.net/archives/325304)
-
-#### 2018년 11월 29일 목요일
-- [Elasticsearch의 색인 별명 활용 팁](http://www.ridicorp.com/blog/2018/11/20/index-aliases/)
-- [야놀자 워크로그 개발기](https://yanolja.github.io/2018/09/Work-Log)
-- [bash scripting 간단 정리 [영문]](https://devhints.io/bash.html)
-- [빅데이터 프레임워크를 활용한 데이터 인프라 구축](http://blog.dramancompany.com/2017/08/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95/)
-- [자바스크립트는 어떻게 작동하는가: 메모리 관리 + 4가지 흔한 메모리 누수 대처법](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d)
-- [신입개발자 프로젝트 개발 및 배포 전과정 회고](http://woowabros.github.io/experience/2018/11/29/pilot-project.html)
-- [크롤러를 이용해 우체국 등기우편을 자동으로 정리하기](https://brunch.co.kr/@needleworm/1)
-- [최신 네트워크 로드 밸런싱 및 프록시 소개 [번역]](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
-- [Go 작업 훔치기 스케쥴러 고루틴 스케쥴링 원리](https://hueypark.gitlab.io/post/2018-10-13-go-work-stealing-scheduler/)
-- [Redis in Action [영문]](https://redislabs.com/community/ebook)
-- [실용주의 프로그래머 갈무리](https://blog.ordinarysimple.com/posts/programming/2018-11-04-the-progmatic-programmer/)
 
 
 --------------------------------------
@@ -155,6 +141,7 @@
 - ['기능 공장'에서 일하고 있다는 12가지 신호 [번역]](https://brunch.co.kr/@cojette/31)
 - [네이버 파파고 서비스 2년의 경험 [영상]](https://tv.naver.com/v/4578223/list/279844)
 - [헤이딜러에서는 어떻게 일하나요?](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)
+- [실용주의 프로그래머 내용 요약](https://blog.ordinarysimple.com/posts/programming/2018-11-04-the-progmatic-programmer/)
 
 --------------------------------------
 
@@ -205,6 +192,7 @@
 - [소프트웨어 학습 및 자바 웹 개발자 학습 로드맵 [슬라이드]](https://www.slideshare.net/javajigi/ss-66877363)
 - [웹개발자 기준 비전공자 신입으로서 전공자한테 안 밀리고 살아남는 법](https://okky.kr/article/372485)
 - [프로그래밍 어떻게 공부할 것인가? (강의 정리)](https://github.com/Gyubin/TIL/blob/master/ETC/how_to_study_programming.md)
+- [우아한형제들 신입개발자 파일럿 프로젝트 회고](http://woowabros.github.io/experience/2018/11/29/pilot-project.html)
 
 --------------------------------------
 
@@ -308,6 +296,7 @@
 - [Effective Go 한글 번역본](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
 - [Effective Go 정리 발표 [영상]](https://www.youtube.com/playlist?list=PLbdtsbZUwdeTVZcV5ah9baXyDaxbBTE6t)
 - [Go언어의 가비지콜렉터 이해하기](https://engineering.linecorp.com/ko/blog/go-gc/?fbclid=IwAR3n-6l4p2MToOZw-b2eROdbBRA9SOn4ENPpgEXz-jSSsiASrXRGDm94mhk)
+- [Go 작업 훔치기 스케쥴러 고루틴 스케쥴링 원리[번역]](https://hueypark.gitlab.io/post/2018-10-13-go-work-stealing-scheduler/)
 
 --------------------------------------
 </br>
@@ -371,6 +360,10 @@
 - [Docker Swarm을 이용한 쉽고 빠른 분산 서버 관리](https://subicura.com/2017/02/25/container-orchestration-with-docker-swarm.html)
 - [Elastic Stack과 Lambda를 활용한 데이터 모니터링 시스템 구축](https://d2.naver.com/helloworld/9878588)
 - ['아마존 웹 서비스를 다루는 기술' 원고 공개](http://pyrasis.com/book/TheArtOfAmazonWebServices)
+- [야놀자 워크로그 개발기](https://yanolja.github.io/2018/09/Work-Log)
+- [빅데이터 프레임워크를 활용한 데이터 인프라 구축](http://blog.dramancompany.com/2017/08/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95/)
+- [최신 네트워크 로드 밸런싱 및 프록시 소개 [번역]](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
+- [Redis in Action [영문]](https://redislabs.com/community/ebook)
 
 --------------------------------------
 
@@ -398,6 +391,7 @@
 - [리눅스 서버 기본 설정 [영상]](http://bit.ly/2ymMgrb)
 - [리눅스 open files, max user processes 설정 정리글](bit.ly/2R39Znl)
 - [리눅스 I/O 리다이렉션 작동 원리 배우기](https://www.tecmint.com/linux-io-input-output-redirection-operators/)
+- [bash scripting 간단 정리 [영문]](https://devhints.io/bash.html)
 
 --------------------------------------
 </br>
@@ -448,6 +442,7 @@
 - [Vue.js 기준으로 다른 웹 프레임워크를 비교한 글](http://forwe.tistory.com/1)
 - [왜 React와 서버 사이드 렌더링인가?](https://subicura.com/2016/06/20/server-side-rendering-with-react.html)
 - [JavaScript 배틀그라운드로부터 살아남기 [영상]](https://tv.naver.com/v/4578347/list/279844)
+- [자바스크립트는 어떻게 작동하는가: 메모리 관리 + 4가지 흔한 메모리 누수 대처법 [번역]](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d)
 
 --------------------------------------
 
@@ -518,6 +513,7 @@
 - [URL, URI, URN 차이 [영문]](https://danielmiessler.com/study/url-uri/)
 - [웹 성능 최적화에 필요한 브라우저의 모든 것 [영상]](https://tv.naver.com/v/4578425/list/279844)
 - [100,000개의 아이템도 거뜬한 셀렉트박스 만들기 (1/2)](https://meetup.toast.com/posts/160)
+- [크롤러를 이용해 우체국 등기우편을 자동으로 정리하기](https://brunch.co.kr/@needleworm/1)
 
 --------------------------------------
 
