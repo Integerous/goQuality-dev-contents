@@ -46,9 +46,14 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 12월 1일 토요일
+#### 2018년 12월 2일 일요일
 - 
 -
+
+#### 2018년 12월 1일 토요일
+- [개발자로서 어려운 것을 쉽게 배우기 위한 3단계 학습법 [번역]](http://www.moreagile.net/2016/02/learning-new-stuff.html)
+- [개발 생산성을 올려주는 VSCode의 소소한 기능들](https://www.vobour.com/%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EC%98%AC%EB%A0%A4%EC%A3%BC%EB%8A%94-vscode%EC%9D%98-%EC%86%8C%EC%86%8C-%ED%95%9C-%EA%B8%B0%EB%8A%A5%EB%93%A4)
+- [웹 프로그래머 테크트리](https://www.youtube.com/watch?v=pEE_uJ-joUA)
 
 #### 2018년 11월 30일 금요일
 - [GDG DevFest Seoul 2018 발표자료 모음](https://devfest-seoul18.gdg.kr/timetable)
