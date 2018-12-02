@@ -55,12 +55,6 @@
 - [개발 생산성을 올려주는 VSCode의 소소한 기능들](https://www.vobour.com/%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EC%98%AC%EB%A0%A4%EC%A3%BC%EB%8A%94-vscode%EC%9D%98-%EC%86%8C%EC%86%8C-%ED%95%9C-%EA%B8%B0%EB%8A%A5%EB%93%A4)
 - [웹 프로그래머 테크트리](https://www.youtube.com/watch?v=pEE_uJ-joUA)
 
-#### 2018년 11월 30일 금요일
-- [GDG DevFest Seoul 2018 발표자료 모음](https://devfest-seoul18.gdg.kr/timetable)
-- [고루틴 vs 쓰레드](https://tech.ssut.me/goroutine-vs-threads/)
-- [개발자처럼 생각하는 방법 [번역]](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
-- [여기어때 면접에서 듣게 되는 질문 112가지](http://www.bloter.net/archives/325304)
-
 
 --------------------------------------
 </br>
@@ -147,6 +141,7 @@
 - [네이버 파파고 서비스 2년의 경험 [영상]](https://tv.naver.com/v/4578223/list/279844)
 - [헤이딜러에서는 어떻게 일하나요?](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)
 - [실용주의 프로그래머 내용 요약](https://blog.ordinarysimple.com/posts/programming/2018-11-04-the-progmatic-programmer/)
+- [개발자처럼 생각하는 방법 [번역]](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
 
 --------------------------------------
 
@@ -218,6 +213,7 @@
 - [SpringOne TOUR Seoul 2018 후기](https://brunch.co.kr/@springboot/117)
 - [카카오뱅크 모바일앱 개발 이야기](https://brunch.co.kr/@kakao-it/278)
 - [DEVIEW 2018 영상 모음 [영상]](https://tv.naver.com/v/4577969/list/279844)
+- [GDG DevFest Seoul 2018 발표자료 모음](https://devfest-seoul18.gdg.kr/timetable)
 
 --------------------------------------
 
@@ -238,6 +234,7 @@
 - [페이스북 개발자의 면접 준비과정 [영문]](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)
 - [스타트업 취업의 고수가 되는 방법](https://platum.kr/archives/109446)
 - [토종 한국인의 구글 취업 후기 [영상]](https://youtu.be/YXf8IuBfxPo)
+- [여기어때 면접에서 듣게 되는 질문 112가지](http://www.bloter.net/archives/325304)
 
 --------------------------------------
 </br>
@@ -302,6 +299,7 @@
 - [Effective Go 정리 발표 [영상]](https://www.youtube.com/playlist?list=PLbdtsbZUwdeTVZcV5ah9baXyDaxbBTE6t)
 - [Go언어의 가비지콜렉터 이해하기](https://engineering.linecorp.com/ko/blog/go-gc/?fbclid=IwAR3n-6l4p2MToOZw-b2eROdbBRA9SOn4ENPpgEXz-jSSsiASrXRGDm94mhk)
 - [Go 작업 훔치기 스케쥴러 고루틴 스케쥴링 원리[번역]](https://hueypark.gitlab.io/post/2018-10-13-go-work-stealing-scheduler/)
+- [고루틴 vs 쓰레드](https://tech.ssut.me/goroutine-vs-threads/)
 
 --------------------------------------
 </br>
