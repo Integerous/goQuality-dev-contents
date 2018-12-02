@@ -46,9 +46,14 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 12월 2일 일요일
+#### 2018년 12월 3일 월요일
 - 
 -
+
+#### 2018년 12월 2일 일요일
+- [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
+- [TDD는 죽었는가? [번역]](http://jinson.tistory.com/271)
+- [몇 가지 HTML 팁 [번역]](https://rhostem.github.io/posts/2017-05-29-few-html-tips)
 
 #### 2018년 12월 1일 토요일
 - [개발자로서 어려운 것을 쉽게 배우기 위한 3단계 학습법 [번역]](http://www.moreagile.net/2016/02/learning-new-stuff.html)
