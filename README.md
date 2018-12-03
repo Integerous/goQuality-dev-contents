@@ -55,12 +55,6 @@
 - [TDD는 죽었는가? [번역]](http://jinson.tistory.com/271)
 - [몇 가지 HTML 팁 [번역]](https://rhostem.github.io/posts/2017-05-29-few-html-tips)
 
-#### 2018년 12월 1일 토요일
-- [개발자로서 어려운 것을 쉽게 배우기 위한 3단계 학습법 [번역]](http://www.moreagile.net/2016/02/learning-new-stuff.html)
-- [개발 생산성을 올려주는 VSCode의 소소한 기능들](https://www.vobour.com/%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EC%98%AC%EB%A0%A4%EC%A3%BC%EB%8A%94-vscode%EC%9D%98-%EC%86%8C%EC%86%8C-%ED%95%9C-%EA%B8%B0%EB%8A%A5%EB%93%A4)
-- [웹 프로그래머 테크트리](https://www.youtube.com/watch?v=pEE_uJ-joUA)
-
-
 --------------------------------------
 </br>
 </br>
@@ -175,6 +169,7 @@
 - [Hash Table은 프로그래머의 기본기 [영상]](https://www.youtube.com/watch?v=S7vni1hdsZE)
 - [작은 오픈소스 프로그램을 분석해서 실력을 쌓아 나간 사례](https://okky.kr/article/408595)
 - [후기 - 원티드와 함께하는 개발자 커리어 터치](https://velog.io/@doondoony/%ED%9B%84%EA%B8%B0-%EC%9B%90%ED%8B%B0%EB%93%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%EC%96%B4-%ED%84%B0%EC%B9%98)
+- [웹 프로그래머 테크트리 [영상]](https://www.youtube.com/watch?v=pEE_uJ-joUA)
 
 --------------------------------------
 
@@ -198,6 +193,7 @@
 - [웹개발자 기준 비전공자 신입으로서 전공자한테 안 밀리고 살아남는 법](https://okky.kr/article/372485)
 - [프로그래밍 어떻게 공부할 것인가? (강의 정리)](https://github.com/Gyubin/TIL/blob/master/ETC/how_to_study_programming.md)
 - [우아한형제들 신입개발자 파일럿 프로젝트 회고](http://woowabros.github.io/experience/2018/11/29/pilot-project.html)
+- [개발자로서 어려운 것을 쉽게 배우기 위한 3단계 학습법 [번역]](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 
 --------------------------------------
 
@@ -597,6 +593,7 @@
 - [최고의 프로그래밍 폰트는?](https://futurecreator.github.io/2018/11/12/my-best-programming-font-top-3/)
 - [정규표현식, 이렇게 시작하자!](https://heropy.blog/2018/10/28/regexp/)
 - [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다.](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
+- [개발 생산성을 올려주는 VSCode의 소소한 기능들](https://www.vobour.com/%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EC%98%AC%EB%A0%A4%EC%A3%BC%EB%8A%94-vscode%EC%9D%98-%EC%86%8C%EC%86%8C-%ED%95%9C-%EA%B8%B0%EB%8A%A5%EB%93%A4)
 
 --------------------------------------
 </br>
