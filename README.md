@@ -46,9 +46,17 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 12월 3일 월요일
+#### 2018년 12월 4일 화요일
 - 
 -
+
+#### 2018년 12월 3일 월요일
+- [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/)
+- [MyBatis, Hibernate, JPA 무엇을 선택할 것인가?](http://bky1107.tistory.com/9)
+- [Vue와 NativeScript로 네이티브 모바일 앱 만들기](http://vuejs.kr/vue/nativescript/2017/08/11/introduce-vue-nativescript-01/)
+- [웹 아키텍쳐 입문](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
+- [대규모 서비스를 설계하는 기술 -중급(일반편) [슬라이드]](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance)
+- [도커와 마이크로서비스 아키텍쳐로 만드는 웹 어플리케이션 만들기 실습](https://developer.ibm.com/kr/cloud/container/2018/11/30/microservices-with-docker/)
 
 #### 2018년 12월 2일 일요일
 - [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
