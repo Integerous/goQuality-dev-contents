@@ -47,9 +47,17 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 12월 4일 화요일
+#### 2018년 12월 5일 수요일
 - 
 -
+
+#### 2018년 12월 4일 화요일
+- [깃허브 후크API와 슬랙에 알림 전달하기](https://blog.nacyot.com/articles/2014-01-30-github-hook-api-slack-sample/)
+- [UI/UX Prototype 툴 선택 - Just in mind](http://k2unip.tistory.com/m/184)
+- [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc/)
+- [도커의 궁금증 8가지](http://www.itworld.co.kr/tags/64073/도커/87971)
+- [딥러닝 공부 가이드 2019 (무료 강의, 책)](http://t-robotics.blogspot.com/2018/12/39-2019.html?m=1)
+- [AWS가 re:invent 2018에서 쏟아낸 새 서비스 TOP 10](https://byline.network/2018/12/3-26/amp/)
 
 #### 2018년 12월 3일 월요일
 - [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/)
