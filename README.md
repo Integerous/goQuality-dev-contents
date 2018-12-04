@@ -59,11 +59,6 @@
 - [대규모 서비스를 설계하는 기술 -중급(일반편) [슬라이드]](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance)
 - [도커와 마이크로서비스 아키텍쳐로 만드는 웹 어플리케이션 만들기 실습](https://developer.ibm.com/kr/cloud/container/2018/11/30/microservices-with-docker/)
 
-#### 2018년 12월 2일 일요일
-- [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
-- [TDD는 죽었는가? [번역]](http://jinson.tistory.com/271)
-- [몇 가지 HTML 팁 [번역]](https://rhostem.github.io/posts/2017-05-29-few-html-tips)
-
 --------------------------------------
 </br>
 </br>
@@ -150,6 +145,7 @@
 - [헤이딜러에서는 어떻게 일하나요?](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)
 - [실용주의 프로그래머 내용 요약](https://blog.ordinarysimple.com/posts/programming/2018-11-04-the-progmatic-programmer/)
 - [개발자처럼 생각하는 방법 [번역]](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
+- [TDD는 죽었는가? [번역]](http://jinson.tistory.com/271)
 
 --------------------------------------
 
@@ -245,6 +241,7 @@
 - [스타트업 취업의 고수가 되는 방법](https://platum.kr/archives/109446)
 - [토종 한국인의 구글 취업 후기 [영상]](https://youtu.be/YXf8IuBfxPo)
 - [여기어때 면접에서 듣게 되는 질문 112가지](http://www.bloter.net/archives/325304)
+- [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
 
 --------------------------------------
 </br>
@@ -527,6 +524,7 @@
 - [웹 성능 최적화에 필요한 브라우저의 모든 것 [영상]](https://tv.naver.com/v/4578425/list/279844)
 - [100,000개의 아이템도 거뜬한 셀렉트박스 만들기 (1/2)](https://meetup.toast.com/posts/160)
 - [크롤러를 이용해 우체국 등기우편을 자동으로 정리하기](https://brunch.co.kr/@needleworm/1)
+- [몇 가지 HTML 팁 [번역]](https://rhostem.github.io/posts/2017-05-29-few-html-tips)
 
 --------------------------------------
 
