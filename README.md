@@ -59,13 +59,6 @@
 - [딥러닝 공부 가이드 2019 (무료 강의, 책)](http://t-robotics.blogspot.com/2018/12/39-2019.html?m=1)
 - [AWS가 re:invent 2018에서 쏟아낸 새 서비스 TOP 10](https://byline.network/2018/12/3-26/amp/)
 
-#### 2018년 12월 3일 월요일
-- [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/)
-- [MyBatis, Hibernate, JPA 무엇을 선택할 것인가?](http://bky1107.tistory.com/9)
-- [Vue와 NativeScript로 네이티브 모바일 앱 만들기](http://vuejs.kr/vue/nativescript/2017/08/11/introduce-vue-nativescript-01/)
-- [웹 아키텍쳐 입문](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
-- [대규모 서비스를 설계하는 기술 -중급(일반편) [슬라이드]](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance)
-- [도커와 마이크로서비스 아키텍쳐로 만드는 웹 어플리케이션 만들기 실습](https://developer.ibm.com/kr/cloud/container/2018/11/30/microservices-with-docker/)
 
 --------------------------------------
 </br>
@@ -295,6 +288,7 @@
 - [실무에서 Lombok 사용법](https://github.com/cheese10yun/blog-sample/tree/master/lombok)
 - [jsp 서블릿 서블릿컨테이너 개요](https://m.blog.naver.com/ljh0326s/220985613855)
 - [전자정부 프레임워크를 java config 방식으로 (총12편)](https://zgundam.tistory.com/79)
+- [MyBatis, Hibernate, JPA 무엇을 선택할 것인가?](http://bky1107.tistory.com/9)
 
 --------------------------------------
 
@@ -382,6 +376,7 @@
 - [빅데이터 프레임워크를 활용한 데이터 인프라 구축](http://blog.dramancompany.com/2017/08/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95/)
 - [최신 네트워크 로드 밸런싱 및 프록시 소개 [번역]](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
 - [Redis in Action [영문]](https://redislabs.com/community/ebook)
+- [대규모 서비스를 설계하는 기술 -중급(일반편) [슬라이드]](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance)
 
 --------------------------------------
 
@@ -502,6 +497,7 @@
 - [Flutter(모바일앱 SDK)는 왜 혁명적인가 [번역]](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
 - [넷플릭스 안드로이드 앱 아키텍쳐 [번역]](https://m.blog.naver.com/diablo1031/221406412612)
 - [NAVER Tech Concert:Android 발표 영상 모음 [영상]](https://tv.naver.com/v/4409296/list/272653)
+- [Vue와 NativeScript로 네이티브 모바일 앱 만들기](http://vuejs.kr/vue/nativescript/2017/08/11/introduce-vue-nativescript-01/)
 
 --------------------------------------
 </br>
@@ -533,6 +529,7 @@
 - [100,000개의 아이템도 거뜬한 셀렉트박스 만들기 (1/2)](https://meetup.toast.com/posts/160)
 - [크롤러를 이용해 우체국 등기우편을 자동으로 정리하기](https://brunch.co.kr/@needleworm/1)
 - [몇 가지 HTML 팁 [번역]](https://rhostem.github.io/posts/2017-05-29-few-html-tips)
+- [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/)
 
 --------------------------------------
 
