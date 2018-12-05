@@ -47,9 +47,18 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2018년 12월 5일 수요일
+#### 2018년 12월 6일 목요일
 - 
 -
+
+#### 2018년 12월 5일 수요일
+- [JPA 잘하는 척 하기!(슬라이드)](https://www.slideshare.net/mobile/ssusere4d67c/jpa-53004111)
+- [그런 REST API로 괜찮은가 [영상]](https://www.youtube.com/watch?v=RP_f5dMoHFc)
+- [[코드리뷰] Exception 처리](https://www.slipp.net/questions/350)
+- [elasticsearch local 로 띄어보기](http://wonwoo.ml/index.php/post/2063/amp)
+- [Springboot와 Properties, Yaml Environment](https://blog.kingbbode.com/posts/spring-boot-properties-environment)
+- [Java9와 Spring5로 바라보는 Java의 변화와 도전 - 이일민(토비)님 발표 [영상]](https://www.youtube.com/watch?v=BFjrmj4p3_Y)
+- [스프링 클라우드 무료 강의](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?classIndex=1580)
 
 #### 2018년 12월 4일 화요일
 - [깃허브 후크API와 슬랙에 알림 전달하기](https://blog.nacyot.com/articles/2014-01-30-github-hook-api-slack-sample/)
