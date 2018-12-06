@@ -47,9 +47,19 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2018년 12월 7일 금요일
+-
+-
+
 #### 2018년 12월 6일 목요일
-- [모든 웹사이트 홈페이지가 갖춰야 할 12가지 핵심 요소](https://ppss.kr/archives/65951)
 - [개발자의 삶 - SI 개발자란](https://okky.kr/article/503803?fbclid=IwAR1Dy01fQ7m4kxDiykRRjxt2TbA2LkK8Pw59DFZGcO8Lop_rrtAkiTiRNOA)
+- [HTML/CSS 쉽게 알려주는 사이트](http://webberstudy.com/)
+- [ES6을 IE8에서도 사용하기](https://blog.perfectacle.com/2016/11/11/babel-es6-with-ie8/)
+- [JPA 기본 개념](http://tinkerbellbass.tistory.com/24)
+- [15분만에 Docker 시작하기 [영상]](https://youtu.be/tr4ExJZs3Jw)
+- [다시 들어가보시겠어요? 번역글 쓰신분께서 원글에 잘못된 내용이 있어서 번역글의 내용을 삭제했다고 하시네요.](https://medium.com/@sryu99/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-tdd-bdd%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-3d25fab5ccb2)
+- [jQuery보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
+- [JPA JoinColumns 사용시 주의 사항](https://medium.com/@SlackBeck/jpa-joincolumns-사용시-주의-사항-7bc22b98ed9b)
 
 #### 2018년 12월 5일 수요일
 - [JPA 잘하는 척 하기!(슬라이드)](https://www.slideshare.net/mobile/ssusere4d67c/jpa-53004111)
