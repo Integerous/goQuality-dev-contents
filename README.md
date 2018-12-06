@@ -57,7 +57,6 @@
 - [ES6을 IE8에서도 사용하기](https://blog.perfectacle.com/2016/11/11/babel-es6-with-ie8/)
 - [JPA 기본 개념](http://tinkerbellbass.tistory.com/24)
 - [15분만에 Docker 시작하기 [영상]](https://youtu.be/tr4ExJZs3Jw)
-- [다시 들어가보시겠어요? 번역글 쓰신분께서 원글에 잘못된 내용이 있어서 번역글의 내용을 삭제했다고 하시네요.](https://medium.com/@sryu99/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-tdd-bdd%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-3d25fab5ccb2)
 - [jQuery보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
 - [JPA JoinColumns 사용시 주의 사항](https://medium.com/@SlackBeck/jpa-joincolumns-사용시-주의-사항-7bc22b98ed9b)
 
