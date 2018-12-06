@@ -125,7 +125,6 @@
 - [SaaS 앱을 만들기 위한 방법론 [번역]](http://bit.ly/2NA9rmo)
 - [흔한 프로그래머의 작명에 대한 사뭇 진지한 이야기](https://www.vobour.com/흔한-프로그래머의-작명에-대한-사뭇-진지한-이야기-hkfgq9xqm)
 - [우리가 부르는 시니어 개발자는 누구인가?](http://bit.ly/2CfZj0c)
-- [단위테스트 vs TDD vs BDD](http://bit.ly/2COTOGW)
 - [Product Manager 관점에서 바라 본 TDD](http://bit.ly/2J2KfEO)
 - [스포티파이의 개발 문화](http://bit.ly/2q58IjT)
 - ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다.](http://bit.ly/2SahtGf)
