@@ -18,7 +18,7 @@
 >좋은 컨텐츠를 널리 알리면 더 많이 소비되고,  
 >더 많이 소비되면 더 많이 생산된다는 가정 하에,  
 >컨텐츠 생산자와 소비자 모두에게 유익한 선순환을 만들고자 합니다.  
-  
+
 >누구나 카메라맨이 될 수 있습니다!  
 >양질의 컨텐츠가 충분한 관심을 받을 수 있도록,  
 >유익한 개발 관련 글, 영상, 슬라이드를 공유해주세요 :pray:
@@ -48,8 +48,8 @@
 
 
 #### 2018년 12월 6일 목요일
-- 
--
+- [모든 웹사이트 홈페이지가 갖춰야 할 12가지 핵심 요소](https://ppss.kr/archives/65951)
+- [개발자의 삶 - SI 개발자란](https://okky.kr/article/503803?fbclid=IwAR1Dy01fQ7m4kxDiykRRjxt2TbA2LkK8Pw59DFZGcO8Lop_rrtAkiTiRNOA)
 
 #### 2018년 12월 5일 수요일
 - [JPA 잘하는 척 하기!(슬라이드)](https://www.slideshare.net/mobile/ssusere4d67c/jpa-53004111)
@@ -239,7 +239,7 @@
 
 --------------------------------------
 
-### 면접 
+### 면접
 >[주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler) 와 [Tech Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)에서 체계적인 면접 관련 정보를 얻을 수 있습니다!  
 여기에는 면접 관련 **글/영상/슬라이드** 만 공유해주세요! :pray:
 
