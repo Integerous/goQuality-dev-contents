@@ -60,14 +60,6 @@
 - [Java9와 Spring5로 바라보는 Java의 변화와 도전 - 이일민(토비)님 발표 [영상]](https://www.youtube.com/watch?v=BFjrmj4p3_Y)
 - [스프링 클라우드 무료 강의](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?classIndex=1580)
 
-#### 2018년 12월 4일 화요일
-- [깃허브 후크API와 슬랙에 알림 전달하기](https://blog.nacyot.com/articles/2014-01-30-github-hook-api-slack-sample/)
-- [UI/UX Prototype 툴 선택 - Just in mind](http://k2unip.tistory.com/m/184)
-- [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc/)
-- [도커의 궁금증 8가지](http://www.itworld.co.kr/tags/64073/도커/87971)
-- [딥러닝 공부 가이드 2019 (무료 강의, 책)](http://t-robotics.blogspot.com/2018/12/39-2019.html?m=1)
-- [AWS가 re:invent 2018에서 쏟아낸 새 서비스 TOP 10](https://byline.network/2018/12/3-26/amp/)
-
 
 --------------------------------------
 </br>
@@ -317,6 +309,7 @@
 - [Go언어의 가비지콜렉터 이해하기](https://engineering.linecorp.com/ko/blog/go-gc/?fbclid=IwAR3n-6l4p2MToOZw-b2eROdbBRA9SOn4ENPpgEXz-jSSsiASrXRGDm94mhk)
 - [Go 작업 훔치기 스케쥴러 고루틴 스케쥴링 원리[번역]](https://hueypark.gitlab.io/post/2018-10-13-go-work-stealing-scheduler/)
 - [고루틴 vs 쓰레드](https://tech.ssut.me/goroutine-vs-threads/)
+- [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc/)
 
 --------------------------------------
 </br>
@@ -385,6 +378,8 @@
 - [최신 네트워크 로드 밸런싱 및 프록시 소개 [번역]](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
 - [Redis in Action [영문]](https://redislabs.com/community/ebook)
 - [대규모 서비스를 설계하는 기술 -중급(일반편) [슬라이드]](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance)
+- [도커의 궁금증 8가지](http://www.itworld.co.kr/tags/64073/도커/87971)
+- [AWS가 re:invent 2018에서 쏟아낸 새 서비스 TOP 10](https://byline.network/2018/12/3-26/amp/)
 
 --------------------------------------
 
@@ -492,6 +487,7 @@
 - [디자인에서 실제 인용 부호 사용하기 [번역]](https://www.vobour.com/%EB%94%94%EC%9E%90%EC%9D%B8%EC%97%90%EC%84%9C-%EC%8B%A4%EC%A0%9C-%EC%9D%B8%EC%9A%A9-%EB%B6%80%ED%98%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-start-using-real-qu)
 - [무한스크롤, 페이징, 더보기. 어떤걸 써야할까?](http://cyberx.tistory.com/82)
 - [리디북스 뷰어 형광펜 개선 후기](https://www.ridicorp.com/blog/2016/11/10/highlight/)
+- [UI/UX Prototype 툴 선택 - Just in mind](http://k2unip.tistory.com/m/184)
 
 --------------------------------------
 
@@ -564,6 +560,7 @@
 - [Github Actions 소개](https://blog.outsider.ne.kr/1412?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss_outsider_dev+%28Outsider%27s+Dev+Story%29)
 - [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/intro/intro1_1.html?fbclid=IwAR0i2cl1khBuMez9FaWISUBsUN-2DvI5h_lWwnYYRlk4BHAQEnAzKxh8qRQ)
 - [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속 [번역]](https://meetup.toast.com/posts/106)
+- [깃허브 후크API와 슬랙에 알림 전달하기](https://blog.nacyot.com/articles/2014-01-30-github-hook-api-slack-sample/)
 
 --------------------------------------
 
@@ -588,6 +585,7 @@
 - [머신러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
 - [딥러닝 서적 및 강좌 추천](https://www.slideshare.net/mobile/seonghunchoe7/ss-83893606)
 - [카카오미니는 어떻게 스무고개를 맞출까?](https://brunch.co.kr/@kakao-it/157)
+- [딥러닝 공부 가이드 2019 (무료 강의, 책)](http://t-robotics.blogspot.com/2018/12/39-2019.html?m=1)
 
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
