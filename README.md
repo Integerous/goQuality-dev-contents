@@ -46,10 +46,16 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 12월 8일 토요일
+-
+-
 
 #### 2018년 12월 7일 금요일
--
--
+- [개발자의 삶 - SI 개발자란](https://okky.kr/article/503803?fbclid=IwAR1Dy01fQ7m4kxDiykRRjxt2TbA2LkK8Pw59DFZGcO8Lop_rrtAkiTiRNOA)
+- [템플릿 콜백 패턴으로 반복 코드 줄이기](https://www.popit.kr/%ED%85%9C%ED%94%8C%EB%A6%BF-%EC%BD%9C%EB%B0%B1-%ED%8C%A8%ED%84%B4%EC%9C%BC%EB%A1%9C-%EB%B0%98%EB%B3%B5-%EC%BD%94%EB%93%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0/)
+- [개발자가 블로그를 운영해야 할 이유](https://taegon.kim/archives/7107)
+- [SVG, JS, CSS로 만드는 라이언 로그인 폼](https://taegon.kim/archives/9658)
+- [Spring JPA 프록시와 지연로딩](http://victorydntmd.tistory.com/m/210?category=698080)
 
 #### 2018년 12월 6일 목요일
 - [개발자의 삶 - SI 개발자란](https://okky.kr/article/503803?fbclid=IwAR1Dy01fQ7m4kxDiykRRjxt2TbA2LkK8Pw59DFZGcO8Lop_rrtAkiTiRNOA)
