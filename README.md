@@ -60,15 +60,6 @@
 - [jQuery보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
 - [JPA JoinColumns 사용시 주의 사항](https://medium.com/@SlackBeck/jpa-joincolumns-사용시-주의-사항-7bc22b98ed9b)
 
-#### 2018년 12월 5일 수요일
-- [JPA 잘하는 척 하기!(슬라이드)](https://www.slideshare.net/mobile/ssusere4d67c/jpa-53004111)
-- [그런 REST API로 괜찮은가 [영상]](https://www.youtube.com/watch?v=RP_f5dMoHFc)
-- [[코드리뷰] Exception 처리](https://www.slipp.net/questions/350)
-- [elasticsearch local 로 띄어보기](http://wonwoo.ml/index.php/post/2063/amp)
-- [Springboot와 Properties, Yaml Environment](https://blog.kingbbode.com/posts/spring-boot-properties-environment)
-- [Java9와 Spring5로 바라보는 Java의 변화와 도전 - 이일민(토비)님 발표 [영상]](https://www.youtube.com/watch?v=BFjrmj4p3_Y)
-- [스프링 클라우드 무료 강의](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action?classIndex=1580)
-
 
 --------------------------------------
 </br>
@@ -298,6 +289,10 @@
 - [jsp 서블릿 서블릿컨테이너 개요](https://m.blog.naver.com/ljh0326s/220985613855)
 - [전자정부 프레임워크를 java config 방식으로 (총12편)](https://zgundam.tistory.com/79)
 - [MyBatis, Hibernate, JPA 무엇을 선택할 것인가?](http://bky1107.tistory.com/9)
+- [JPA 잘하는 척 하기!(슬라이드)](https://www.slideshare.net/mobile/ssusere4d67c/jpa-53004111)
+- [Exception 처리](https://www.slipp.net/questions/350)
+- [Springboot와 Properties, Yaml Environment](https://blog.kingbbode.com/posts/spring-boot-properties-environment)
+- [Java9와 Spring5로 바라보는 Java의 변화와 도전 - 이일민(토비)님 발표 [영상]](https://www.youtube.com/watch?v=BFjrmj4p3_Y)
 
 --------------------------------------
 
@@ -543,6 +538,7 @@
 - [크롤러를 이용해 우체국 등기우편을 자동으로 정리하기](https://brunch.co.kr/@needleworm/1)
 - [몇 가지 HTML 팁 [번역]](https://rhostem.github.io/posts/2017-05-29-few-html-tips)
 - [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/)
+- [그런 REST API로 괜찮은가 [영상]](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 
 --------------------------------------
 
