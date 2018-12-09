@@ -57,15 +57,6 @@
 - [SVG, JS, CSS로 만드는 라이언 로그인 폼](https://taegon.kim/archives/9658)
 - [Spring JPA 프록시와 지연로딩](http://victorydntmd.tistory.com/m/210?category=698080)
 
-#### 2018년 12월 6일 목요일
-- [개발자의 삶 - SI 개발자란](https://okky.kr/article/503803?fbclid=IwAR1Dy01fQ7m4kxDiykRRjxt2TbA2LkK8Pw59DFZGcO8Lop_rrtAkiTiRNOA)
-- [HTML/CSS 쉽게 알려주는 사이트](http://webberstudy.com/)
-- [ES6을 IE8에서도 사용하기](https://blog.perfectacle.com/2016/11/11/babel-es6-with-ie8/)
-- [JPA 기본 개념](http://tinkerbellbass.tistory.com/24)
-- [15분만에 Docker 시작하기 [영상]](https://youtu.be/tr4ExJZs3Jw)
-- [jQuery보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
-- [JPA JoinColumns 사용시 주의 사항](https://medium.com/@SlackBeck/jpa-joincolumns-사용시-주의-사항-7bc22b98ed9b)
-
 
 --------------------------------------
 </br>
@@ -206,6 +197,7 @@
 - [프로그래밍 어떻게 공부할 것인가? (강의 정리)](https://github.com/Gyubin/TIL/blob/master/ETC/how_to_study_programming.md)
 - [우아한형제들 신입개발자 파일럿 프로젝트 회고](http://woowabros.github.io/experience/2018/11/29/pilot-project.html)
 - [개발자로서 어려운 것을 쉽게 배우기 위한 3단계 학습법 [번역]](http://www.moreagile.net/2016/02/learning-new-stuff.html)
+- [개발자의 삶 - SI 개발자란](https://okky.kr/article/503803?fbclid=IwAR1Dy01fQ7m4kxDiykRRjxt2TbA2LkK8Pw59DFZGcO8Lop_rrtAkiTiRNOA)
 
 --------------------------------------
 
@@ -299,6 +291,7 @@
 - [Exception 처리](https://www.slipp.net/questions/350)
 - [Springboot와 Properties, Yaml Environment](https://blog.kingbbode.com/posts/spring-boot-properties-environment)
 - [Java9와 Spring5로 바라보는 Java의 변화와 도전 - 이일민(토비)님 발표 [영상]](https://www.youtube.com/watch?v=BFjrmj4p3_Y)
+- [JPA 기본 개념](http://tinkerbellbass.tistory.com/24)
 
 --------------------------------------
 
@@ -390,6 +383,7 @@
 - [대규모 서비스를 설계하는 기술 -중급(일반편) [슬라이드]](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance)
 - [도커의 궁금증 8가지](http://www.itworld.co.kr/tags/64073/도커/87971)
 - [AWS가 re:invent 2018에서 쏟아낸 새 서비스 TOP 10](https://byline.network/2018/12/3-26/amp/)
+- [15분만에 Docker 시작하기 [영상]](https://youtu.be/tr4ExJZs3Jw)
 
 --------------------------------------
 
@@ -469,6 +463,7 @@
 - [왜 React와 서버 사이드 렌더링인가?](https://subicura.com/2016/06/20/server-side-rendering-with-react.html)
 - [JavaScript 배틀그라운드로부터 살아남기 [영상]](https://tv.naver.com/v/4578347/list/279844)
 - [자바스크립트는 어떻게 작동하는가: 메모리 관리 + 4가지 흔한 메모리 누수 대처법 [번역]](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d)
+- [jQuery보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
 
 --------------------------------------
 
@@ -545,6 +540,7 @@
 - [몇 가지 HTML 팁 [번역]](https://rhostem.github.io/posts/2017-05-29-few-html-tips)
 - [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/)
 - [그런 REST API로 괜찮은가 [영상]](https://www.youtube.com/watch?v=RP_f5dMoHFc)
+- [HTML/CSS 쉽게 알려주는 사이트 - 웨버스터디](http://webberstudy.com/)
 
 --------------------------------------
 
