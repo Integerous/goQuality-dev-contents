@@ -50,10 +50,6 @@
 -
 -
 
-#### 2018년 12월 8일 토요일
-- [커머스 혹은 유통 도메인 설계에 대한 연작 1편](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%98%B9%EC%9D%80-%EC%9C%A0%ED%86%B5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%A4%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%97%B0%EC%9E%91/)
-- [토스의 백엔드는 어떻게 자동화되는가?](https://medium.com/@ghilbut/%ED%86%A0%EC%8A%A4%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%90%EB%8F%99%ED%99%94%EB%90%98%EB%8A%94%EA%B0%80-6042e6bd110d?fbclid=IwAR18UmsRQaMSx7dUm5oe1mQsoOlrebRif_7NgpV0dkj_dPqnBaB9Qvf2R1I)
-
 
 --------------------------------------
 </br>
@@ -383,6 +379,8 @@
 - [도커의 궁금증 8가지](http://www.itworld.co.kr/tags/64073/도커/87971)
 - [AWS가 re:invent 2018에서 쏟아낸 새 서비스 TOP 10](https://byline.network/2018/12/3-26/amp/)
 - [15분만에 Docker 시작하기 [영상]](https://youtu.be/tr4ExJZs3Jw)
+- [커머스 혹은 유통 도메인 설계에 대한 연작 1편](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%98%B9%EC%9D%80-%EC%9C%A0%ED%86%B5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%A4%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%97%B0%EC%9E%91/)
+- [토스의 백엔드는 어떻게 자동화되는가?](https://medium.com/@ghilbut/%ED%86%A0%EC%8A%A4%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%90%EB%8F%99%ED%99%94%EB%90%98%EB%8A%94%EA%B0%80-6042e6bd110d?fbclid=IwAR18UmsRQaMSx7dUm5oe1mQsoOlrebRif_7NgpV0dkj_dPqnBaB9Qvf2R1I)
 
 --------------------------------------
 
