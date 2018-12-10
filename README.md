@@ -46,9 +46,20 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 12월 11일 화요일
+-
+-
+
+#### 2018년 12월 10일 월요일
+- [11월22일 발생한 AWS 장애 원인 요약 글](https://aws.amazon.com/message/74876/)
+- [사례를 기반으로 한 소프트웨어 엔지니어의 공부법](http://technical-leader.tistory.com/10)
+- [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
+- [Vue.js 입문자가 흔히 저지르는 문법 실수](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)
+- [Spring Boot 프로젝트를 War로 패키징(생성)하기](http://progtrend.blogspot.com/2018/07/spring-boot-war.html)
+
 #### 2018년 12월 9일 일요일
--
--
+- [구글의 페이지 랭크 알고리즘](https://www.google.co.kr/amp/s/sungmooncho.com/2012/08/26/pagerank/amp/)
+- [400개 이상의 아이콘이 있는 오픈소스 프로젝트](https://akveo.github.io/eva-icons/#/)
 
 
 --------------------------------------
