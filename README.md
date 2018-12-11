@@ -46,9 +46,17 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 12월 12일 수요일
+-
+-
+
 #### 2018년 12월 11일 화요일
--
--
+- [카카오 기술블로그가 Github Page로 간 까닭은](http://tech.kakao.com/2016/07/07/tech-blog-story/)
+- [편리한 git alias 설정하기](https://johngrib.github.io/wiki/git-alias/)
+- [HTTP 쿠키와 톰캣 버전별 이슈 정리](https://meetup.toast.com/posts/172)
+- [카카오의 딥러닝 기반 형태소 분석기](https://brunch.co.kr/@kakao-it/308)
+- [AWS Performance Insight 사용 후기](http://woowabros.github.io/r-d/2018/12/01/performance_insight.html)
+- [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/)
 
 #### 2018년 12월 10일 월요일
 - [11월22일 발생한 AWS 장애 원인 요약 글](https://aws.amazon.com/message/74876/)
