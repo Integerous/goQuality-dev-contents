@@ -57,11 +57,6 @@
 - [Vue.js 입문자가 흔히 저지르는 문법 실수](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)
 - [Spring Boot 프로젝트를 War로 패키징(생성)하기](http://progtrend.blogspot.com/2018/07/spring-boot-war.html)
 
-#### 2018년 12월 9일 일요일
-- [구글의 페이지 랭크 알고리즘](https://www.google.co.kr/amp/s/sungmooncho.com/2012/08/26/pagerank/amp/)
-- [400개 이상의 아이콘이 있는 오픈소스 프로젝트](https://akveo.github.io/eva-icons/#/)
-
-
 --------------------------------------
 </br>
 </br>
@@ -501,6 +496,8 @@
 - [무한스크롤, 페이징, 더보기. 어떤걸 써야할까?](http://cyberx.tistory.com/82)
 - [리디북스 뷰어 형광펜 개선 후기](https://www.ridicorp.com/blog/2016/11/10/highlight/)
 - [UI/UX Prototype 툴 선택 - Just in mind](http://k2unip.tistory.com/m/184)
+- [400개 이상의 아이콘이 있는 오픈소스 프로젝트](https://akveo.github.io/eva-icons/#/)
+
 
 --------------------------------------
 
@@ -627,6 +624,7 @@
 - [정규표현식, 이렇게 시작하자!](https://heropy.blog/2018/10/28/regexp/)
 - [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다.](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
 - [개발 생산성을 올려주는 VSCode의 소소한 기능들](https://www.vobour.com/%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EC%98%AC%EB%A0%A4%EC%A3%BC%EB%8A%94-vscode%EC%9D%98-%EC%86%8C%EC%86%8C-%ED%95%9C-%EA%B8%B0%EB%8A%A5%EB%93%A4)
+- [구글의 페이지 랭크 알고리즘](https://www.google.co.kr/amp/s/sungmooncho.com/2012/08/26/pagerank/amp/)
 
 --------------------------------------
 </br>
