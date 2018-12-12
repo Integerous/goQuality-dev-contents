@@ -58,12 +58,7 @@
 - [AWS Performance Insight 사용 후기](http://woowabros.github.io/r-d/2018/12/01/performance_insight.html)
 - [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/)
 
-#### 2018년 12월 10일 월요일
-- [11월22일 발생한 AWS 장애 원인 요약 글](https://aws.amazon.com/message/74876/)
-- [사례를 기반으로 한 소프트웨어 엔지니어의 공부법](http://technical-leader.tistory.com/10)
-- [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
-- [Vue.js 입문자가 흔히 저지르는 문법 실수](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)
-- [Spring Boot 프로젝트를 War로 패키징(생성)하기](http://progtrend.blogspot.com/2018/07/spring-boot-war.html)
+
 
 --------------------------------------
 </br>
@@ -301,6 +296,7 @@
 - [Java9와 Spring5로 바라보는 Java의 변화와 도전 - 이일민(토비)님 발표 [영상]](https://www.youtube.com/watch?v=BFjrmj4p3_Y)
 - [JPA 기본 개념](http://tinkerbellbass.tistory.com/24)
 - [템플릿 콜백 패턴으로 반복 코드 줄이기](https://www.popit.kr/%ED%85%9C%ED%94%8C%EB%A6%BF-%EC%BD%9C%EB%B0%B1-%ED%8C%A8%ED%84%B4%EC%9C%BC%EB%A1%9C-%EB%B0%98%EB%B3%B5-%EC%BD%94%EB%93%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0/)
+- [Spring Boot 프로젝트를 War로 패키징(생성)하기](http://progtrend.blogspot.com/2018/07/spring-boot-war.html)
 
 --------------------------------------
 
@@ -395,6 +391,7 @@
 - [15분만에 Docker 시작하기 [영상]](https://youtu.be/tr4ExJZs3Jw)
 - [커머스 혹은 유통 도메인 설계에 대한 연작 1편](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%98%B9%EC%9D%80-%EC%9C%A0%ED%86%B5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%A4%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%97%B0%EC%9E%91/)
 - [토스의 백엔드는 어떻게 자동화되는가?](https://medium.com/@ghilbut/%ED%86%A0%EC%8A%A4%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%90%EB%8F%99%ED%99%94%EB%90%98%EB%8A%94%EA%B0%80-6042e6bd110d?fbclid=IwAR18UmsRQaMSx7dUm5oe1mQsoOlrebRif_7NgpV0dkj_dPqnBaB9Qvf2R1I)
+- [2018년 11월22일 발생한 AWS 장애 원인 요약 글](https://aws.amazon.com/message/74876/)
 
 --------------------------------------
 
@@ -475,6 +472,7 @@
 - [JavaScript 배틀그라운드로부터 살아남기 [영상]](https://tv.naver.com/v/4578347/list/279844)
 - [자바스크립트는 어떻게 작동하는가: 메모리 관리 + 4가지 흔한 메모리 누수 대처법 [번역]](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d)
 - [jQuery보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
+- [Vue.js 입문자가 흔히 저지르는 문법 실수](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)
 
 --------------------------------------
 
@@ -554,7 +552,7 @@
 - [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/)
 - [그런 REST API로 괜찮은가 [영상]](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 - [HTML/CSS 쉽게 알려주는 사이트 - 웨버스터디](http://webberstudy.com/)
-
+- [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
 --------------------------------------
 
 ### Git
