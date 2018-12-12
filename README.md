@@ -46,9 +46,16 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 12월 13일 목요일
+-
+-
+
 #### 2018년 12월 12일 수요일
--
--
+- [Java JVM 정리](https://baehoyeon.github.io/2017-11-10/jvm)
+- [웹팩의 컨셉을 자세히 명확히 설명해주는 글](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
+- [AWS EC2 Container Service 구조와 특징](http://bluese05.tistory.com/m/52)
+- [처음 코딩을 배울 때 알았으면 좋았을 도구들 [번역]](https://www.vobour.com/%EC%B2%98%EC%9D%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EB%8F%84%EA%B5%AC%EB%93%A4-tools-i-wish-i)
+- [효과적인 협업 개발을 위한 개발툴 사용법](https://okky.kr/article/531288)
 
 #### 2018년 12월 11일 화요일
 - [카카오 기술블로그가 Github Page로 간 까닭은](http://tech.kakao.com/2016/07/07/tech-blog-story/)
