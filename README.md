@@ -57,16 +57,6 @@
 - [처음 코딩을 배울 때 알았으면 좋았을 도구들 [번역]](https://www.vobour.com/%EC%B2%98%EC%9D%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EB%8F%84%EA%B5%AC%EB%93%A4-tools-i-wish-i)
 - [효과적인 협업 개발을 위한 개발툴 사용법](https://okky.kr/article/531288)
 
-#### 2018년 12월 11일 화요일
-- [카카오 기술블로그가 Github Page로 간 까닭은](http://tech.kakao.com/2016/07/07/tech-blog-story/)
-- [편리한 git alias 설정하기](https://johngrib.github.io/wiki/git-alias/)
-- [HTTP 쿠키와 톰캣 버전별 이슈 정리](https://meetup.toast.com/posts/172)
-- [카카오의 딥러닝 기반 형태소 분석기](https://brunch.co.kr/@kakao-it/308)
-- [AWS Performance Insight 사용 후기](http://woowabros.github.io/r-d/2018/12/01/performance_insight.html)
-- [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/)
-
-
-
 --------------------------------------
 </br>
 </br>
@@ -153,6 +143,7 @@
 - [실용주의 프로그래머 내용 요약](https://blog.ordinarysimple.com/posts/programming/2018-11-04-the-progmatic-programmer/)
 - [개발자처럼 생각하는 방법 [번역]](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
 - [TDD는 죽었는가? [번역]](http://jinson.tistory.com/271)
+- [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/)
 
 --------------------------------------
 
@@ -399,6 +390,7 @@
 - [커머스 혹은 유통 도메인 설계에 대한 연작 1편](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%98%B9%EC%9D%80-%EC%9C%A0%ED%86%B5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%A4%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%97%B0%EC%9E%91/)
 - [토스의 백엔드는 어떻게 자동화되는가?](https://medium.com/@ghilbut/%ED%86%A0%EC%8A%A4%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%90%EB%8F%99%ED%99%94%EB%90%98%EB%8A%94%EA%B0%80-6042e6bd110d?fbclid=IwAR18UmsRQaMSx7dUm5oe1mQsoOlrebRif_7NgpV0dkj_dPqnBaB9Qvf2R1I)
 - [2018년 11월22일 발생한 AWS 장애 원인 요약 글](https://aws.amazon.com/message/74876/)
+- [AWS Performance Insight 사용 후기](http://woowabros.github.io/r-d/2018/12/01/performance_insight.html)
 
 --------------------------------------
 
@@ -560,6 +552,8 @@
 - [그런 REST API로 괜찮은가 [영상]](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 - [HTML/CSS 쉽게 알려주는 사이트 - 웨버스터디](http://webberstudy.com/)
 - [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
+- [HTTP 쿠키와 톰캣 버전별 이슈 정리](https://meetup.toast.com/posts/172)
+
 --------------------------------------
 
 ### Git
@@ -586,6 +580,7 @@
 - [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/intro/intro1_1.html?fbclid=IwAR0i2cl1khBuMez9FaWISUBsUN-2DvI5h_lWwnYYRlk4BHAQEnAzKxh8qRQ)
 - [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속 [번역]](https://meetup.toast.com/posts/106)
 - [깃허브 후크API와 슬랙에 알림 전달하기](https://blog.nacyot.com/articles/2014-01-30-github-hook-api-slack-sample/)
+- [편리한 git alias 설정하기](https://johngrib.github.io/wiki/git-alias/)
 
 --------------------------------------
 
@@ -611,6 +606,8 @@
 - [딥러닝 서적 및 강좌 추천](https://www.slideshare.net/mobile/seonghunchoe7/ss-83893606)
 - [카카오미니는 어떻게 스무고개를 맞출까?](https://brunch.co.kr/@kakao-it/157)
 - [딥러닝 공부 가이드 2019 (무료 강의, 책)](http://t-robotics.blogspot.com/2018/12/39-2019.html?m=1)
+- [카카오의 딥러닝 기반 형태소 분석기](https://brunch.co.kr/@kakao-it/308)
+
 
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
