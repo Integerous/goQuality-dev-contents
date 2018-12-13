@@ -46,9 +46,17 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 12월 13일 금요일
+-
+-
+
 #### 2018년 12월 13일 목요일
 - [단방향 사용자 인터페이스 아키텍쳐 [번역]](https://pilgwon.github.io/blog/2018/12/12/Unidirectional-User-Interface-Architectures.html)
--
+- [마흔살 기획자 프로그래머 되다](http://www.ibatstudio.com/%EB%A7%88%ED%9D%94%EC%82%B4-%EA%B8%B0%ED%9A%8D%EC%9E%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%90%98%EB%8B%A4/)
+- [Java프로그래밍 OOM (Out Of Memory) 오류](http://www.nextree.co.kr/p3878/)
+- [프로그래밍 학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
+- [프로그래머 수준 점검표 [번역]](http://blog.daum.net/effortless/7864712)
+- [Vue와 NativeScript로 네이티브 모바일 앱 만들기 [번역]](http://vuejs.kr/vue/nativescript/2017/08/11/introduce-vue-nativescript-01/)
 
 #### 2018년 12월 12일 수요일
 - [Java JVM 정리](https://baehoyeon.github.io/2017-11-10/jvm)
