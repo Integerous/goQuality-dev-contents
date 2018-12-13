@@ -47,7 +47,7 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 #### 2018년 12월 13일 목요일
--
+- [단방향 사용자 인터페이스 아키텍쳐 [번역]](https://pilgwon.github.io/blog/2018/12/12/Unidirectional-User-Interface-Architectures.html)
 -
 
 #### 2018년 12월 12일 수요일
