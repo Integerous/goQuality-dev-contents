@@ -46,9 +46,16 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2018년 12월 13일 금요일
+#### 2018년 12월 15일 토요일
+- [Spring Boot + Envers로 엔티티 이력 관리하기](http://haviyj.tistory.com/40)
 -
--
+
+#### 2018년 12월 14일 금요일
+- [단방향 사용자 인터페이스 아키텍쳐 [번역]](https://pilgwon.github.io/blog/2018/12/12/Unidirectional-User-Interface-Architectures.html)
+- [신입 프론트엔드 개발자가 학습해야할 것들은?](https://medium.com/@Jbee_/신입-프론트엔드-개발자가-되려면-무엇을-학습해야-하나요-1dd59a14e084)
+- [MySQL 성능 죽이는 잘못된 쿼리 습관](http://gywn.net/2012/05/mysql-bad-sql-type/)
+- [웹 애플리케이션 보안 위협 Top 10(OWASP Top 10 Project)](https://www.owasp.org/images/b/bd/OWASP_Top_10-2017-ko.pdf)
+- [Color Scheme Interface 4원칙](https://brunch.co.kr/@ebprux/98)
 
 #### 2018년 12월 13일 목요일
 - [단방향 사용자 인터페이스 아키텍쳐 [번역]](https://pilgwon.github.io/blog/2018/12/12/Unidirectional-User-Interface-Architectures.html)
