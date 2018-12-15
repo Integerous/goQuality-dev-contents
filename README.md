@@ -58,13 +58,6 @@
 - [프로그래머 수준 점검표 [번역]](http://blog.daum.net/effortless/7864712)
 - [Vue와 NativeScript로 네이티브 모바일 앱 만들기 [번역]](http://vuejs.kr/vue/nativescript/2017/08/11/introduce-vue-nativescript-01/)
 
-#### 2018년 12월 12일 수요일
-- [Java JVM 정리](https://baehoyeon.github.io/2017-11-10/jvm)
-- [웹팩의 컨셉을 자세히 명확히 설명해주는 글](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
-- [AWS EC2 Container Service 구조와 특징](http://bluese05.tistory.com/m/52)
-- [처음 코딩을 배울 때 알았으면 좋았을 도구들 [번역]](https://www.vobour.com/%EC%B2%98%EC%9D%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EB%8F%84%EA%B5%AC%EB%93%A4-tools-i-wish-i)
-- [효과적인 협업 개발을 위한 개발툴 사용법](https://okky.kr/article/531288)
-
 --------------------------------------
 </br>
 </br>
@@ -303,7 +296,8 @@
 - [JPA 기본 개념](http://tinkerbellbass.tistory.com/24)
 - [템플릿 콜백 패턴으로 반복 코드 줄이기](https://www.popit.kr/%ED%85%9C%ED%94%8C%EB%A6%BF-%EC%BD%9C%EB%B0%B1-%ED%8C%A8%ED%84%B4%EC%9C%BC%EB%A1%9C-%EB%B0%98%EB%B3%B5-%EC%BD%94%EB%93%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0/)
 - [Spring Boot 프로젝트를 War로 패키징(생성)하기](http://progtrend.blogspot.com/2018/07/spring-boot-war.html)
-
+- [Java JVM 간단 정리](https://baehoyeon.github.io/2017-11-10/jvm)
+- [AWS EC2 Container Service 구조와 특징](http://bluese05.tistory.com/m/52)
 --------------------------------------
 
 ### Python & Django
@@ -399,6 +393,7 @@
 - [토스의 백엔드는 어떻게 자동화되는가?](https://medium.com/@ghilbut/%ED%86%A0%EC%8A%A4%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%90%EB%8F%99%ED%99%94%EB%90%98%EB%8A%94%EA%B0%80-6042e6bd110d?fbclid=IwAR18UmsRQaMSx7dUm5oe1mQsoOlrebRif_7NgpV0dkj_dPqnBaB9Qvf2R1I)
 - [2018년 11월22일 발생한 AWS 장애 원인 요약 글](https://aws.amazon.com/message/74876/)
 - [AWS Performance Insight 사용 후기](http://woowabros.github.io/r-d/2018/12/01/performance_insight.html)
+- [AWS EC2 Container Service 구조와 특징](http://bluese05.tistory.com/m/52)
 
 --------------------------------------
 
@@ -480,6 +475,7 @@
 - [자바스크립트는 어떻게 작동하는가: 메모리 관리 + 4가지 흔한 메모리 누수 대처법 [번역]](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d)
 - [jQuery보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
 - [Vue.js 입문자가 흔히 저지르는 문법 실수](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)
+- [웹팩의 기본 개념](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
 
 --------------------------------------
 
@@ -643,6 +639,7 @@
 - [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다.](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
 - [개발 생산성을 올려주는 VSCode의 소소한 기능들](https://www.vobour.com/%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EC%98%AC%EB%A0%A4%EC%A3%BC%EB%8A%94-vscode%EC%9D%98-%EC%86%8C%EC%86%8C-%ED%95%9C-%EA%B8%B0%EB%8A%A5%EB%93%A4)
 - [구글의 페이지 랭크 알고리즘](https://www.google.co.kr/amp/s/sungmooncho.com/2012/08/26/pagerank/amp/)
+- [처음 코딩을 배울 때 알았으면 좋았을 도구들 [번역]](https://www.vobour.com/%EC%B2%98%EC%9D%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EB%8F%84%EA%B5%AC%EB%93%A4-tools-i-wish-i)
 
 --------------------------------------
 </br>
