@@ -46,9 +46,14 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 12월 16일 일요일
+- ['일을 하기 위한 혁신'의 방법을 찾은 개발팀](https://post.naver.com/viewer/postView.nhn?volumeNo=17322226&memberNo=39874958&navigationType=push)
+- [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/2018/essay/memoirs2018/)
+- [2018 2개월차 신입 백엔드 개발자의 따끈따끈 개발썰](https://www.slideshare.net/EunhyangKim2/wtm-2018-2)
+
 #### 2018년 12월 15일 토요일
 - [Spring Boot + Envers로 엔티티 이력 관리하기](http://haviyj.tistory.com/40)
--
+- [Git 학습하기](https://backlog.com/git-tutorial/kr/)
 
 #### 2018년 12월 14일 금요일
 - [단방향 사용자 인터페이스 아키텍쳐 [번역]](https://pilgwon.github.io/blog/2018/12/12/Unidirectional-User-Interface-Architectures.html)
@@ -57,13 +62,6 @@
 - [웹 애플리케이션 보안 위협 Top 10(OWASP Top 10 Project)](https://www.owasp.org/images/b/bd/OWASP_Top_10-2017-ko.pdf)
 - [Color Scheme Interface 4원칙](https://brunch.co.kr/@ebprux/98)
 
-#### 2018년 12월 13일 목요일
-- [단방향 사용자 인터페이스 아키텍쳐 [번역]](https://pilgwon.github.io/blog/2018/12/12/Unidirectional-User-Interface-Architectures.html)
-- [마흔살 기획자 프로그래머 되다](http://www.ibatstudio.com/%EB%A7%88%ED%9D%94%EC%82%B4-%EA%B8%B0%ED%9A%8D%EC%9E%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%90%98%EB%8B%A4/)
-- [Java프로그래밍 OOM (Out Of Memory) 오류](http://www.nextree.co.kr/p3878/)
-- [프로그래밍 학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
-- [프로그래머 수준 점검표 [번역]](http://blog.daum.net/effortless/7864712)
-- [Vue와 NativeScript로 네이티브 모바일 앱 만들기 [번역]](http://vuejs.kr/vue/nativescript/2017/08/11/introduce-vue-nativescript-01/)
 
 --------------------------------------
 </br>
@@ -182,6 +180,8 @@
 - [후기 - 원티드와 함께하는 개발자 커리어 터치](https://velog.io/@doondoony/%ED%9B%84%EA%B8%B0-%EC%9B%90%ED%8B%B0%EB%93%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%A6%AC%EC%96%B4-%ED%84%B0%EC%B9%98)
 - [웹 프로그래머 테크트리 [영상]](https://www.youtube.com/watch?v=pEE_uJ-joUA)
 - [개발자가 블로그를 운영해야 할 이유](https://taegon.kim/archives/7107)
+- [프로그래밍 학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
+- [프로그래머 수준 점검표 [번역]](http://blog.daum.net/effortless/7864712)
 
 --------------------------------------
 
@@ -207,6 +207,7 @@
 - [우아한형제들 신입개발자 파일럿 프로젝트 회고](http://woowabros.github.io/experience/2018/11/29/pilot-project.html)
 - [개발자로서 어려운 것을 쉽게 배우기 위한 3단계 학습법 [번역]](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 - [개발자의 삶 - SI 개발자란](https://okky.kr/article/503803?fbclid=IwAR1Dy01fQ7m4kxDiykRRjxt2TbA2LkK8Pw59DFZGcO8Lop_rrtAkiTiRNOA)
+- [마흔살 기획자 프로그래머 되다](http://www.ibatstudio.com/%EB%A7%88%ED%9D%94%EC%82%B4-%EA%B8%B0%ED%9A%8D%EC%9E%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%90%98%EB%8B%A4/)
 
 --------------------------------------
 
@@ -305,6 +306,8 @@
 - [Spring Boot 프로젝트를 War로 패키징(생성)하기](http://progtrend.blogspot.com/2018/07/spring-boot-war.html)
 - [Java JVM 간단 정리](https://baehoyeon.github.io/2017-11-10/jvm)
 - [AWS EC2 Container Service 구조와 특징](http://bluese05.tistory.com/m/52)
+- [Java프로그래밍 OOM (Out Of Memory) 오류](http://www.nextree.co.kr/p3878/)
+
 --------------------------------------
 
 ### Python & Django
@@ -401,6 +404,7 @@
 - [2018년 11월22일 발생한 AWS 장애 원인 요약 글](https://aws.amazon.com/message/74876/)
 - [AWS Performance Insight 사용 후기](http://woowabros.github.io/r-d/2018/12/01/performance_insight.html)
 - [AWS EC2 Container Service 구조와 특징](http://bluese05.tistory.com/m/52)
+- [단방향 사용자 인터페이스 아키텍쳐 [번역]](https://pilgwon.github.io/blog/2018/12/12/Unidirectional-User-Interface-Architectures.html)
 
 --------------------------------------
 
@@ -527,7 +531,8 @@
 - [Flutter(모바일앱 SDK)는 왜 혁명적인가 [번역]](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
 - [넷플릭스 안드로이드 앱 아키텍쳐 [번역]](https://m.blog.naver.com/diablo1031/221406412612)
 - [NAVER Tech Concert:Android 발표 영상 모음 [영상]](https://tv.naver.com/v/4409296/list/272653)
-- [Vue와 NativeScript로 네이티브 모바일 앱 만들기](http://vuejs.kr/vue/nativescript/2017/08/11/introduce-vue-nativescript-01/)
+- [Vue와 NativeScript로 네이티브 모바일 앱 만들기 [번역]](http://vuejs.kr/vue/nativescript/2017/08/11/introduce-vue-nativescript-01/)
+
 
 --------------------------------------
 </br>
