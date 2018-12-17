@@ -46,6 +46,13 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 12월 17일 월요일
+- [AWS 기초를 배우는 사이트들](https://brunch.co.kr/@topasvga/384)
+- [DB도 형상관리를 해보자!](https://meetup.toast.com/posts/173)
+- [AWS re:Invent 2018 한 방에 정리하기](https://futurecreator.github.io/2018/12/15/aws-reinvent-2018-summary/)
+- [다양한 Redirection의 종류](https://developer.mozilla.org/ko/docs/Web/HTTP/Redirections)
+- [자바스크립트에서 메모리 누수의 4가지 형태 [번역]](http://itstory.tk/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EC%9D%98-4%EA%B0%80%EC%A7%80-%ED%98%95%ED%83%9C)
+
 #### 2018년 12월 16일 일요일
 - ['일을 하기 위한 혁신'의 방법을 찾은 개발팀](https://post.naver.com/viewer/postView.nhn?volumeNo=17322226&memberNo=39874958&navigationType=push)
 - [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/2018/essay/memoirs2018/)
@@ -54,14 +61,6 @@
 #### 2018년 12월 15일 토요일
 - [Spring Boot + Envers로 엔티티 이력 관리하기](http://haviyj.tistory.com/40)
 - [Git 학습하기](https://backlog.com/git-tutorial/kr/)
-
-#### 2018년 12월 14일 금요일
-- [단방향 사용자 인터페이스 아키텍쳐 [번역]](https://pilgwon.github.io/blog/2018/12/12/Unidirectional-User-Interface-Architectures.html)
-- [신입 프론트엔드 개발자가 학습해야할 것들은?](https://medium.com/@Jbee_/신입-프론트엔드-개발자가-되려면-무엇을-학습해야-하나요-1dd59a14e084)
-- [MySQL 성능 죽이는 잘못된 쿼리 습관](http://gywn.net/2012/05/mysql-bad-sql-type/)
-- [웹 애플리케이션 보안 위협 Top 10(OWASP Top 10 Project)](https://www.owasp.org/images/b/bd/OWASP_Top_10-2017-ko.pdf)
-- [Color Scheme Interface 4원칙](https://brunch.co.kr/@ebprux/98)
-
 
 --------------------------------------
 </br>
@@ -208,7 +207,7 @@
 - [개발자로서 어려운 것을 쉽게 배우기 위한 3단계 학습법 [번역]](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 - [개발자의 삶 - SI 개발자란](https://okky.kr/article/503803?fbclid=IwAR1Dy01fQ7m4kxDiykRRjxt2TbA2LkK8Pw59DFZGcO8Lop_rrtAkiTiRNOA)
 - [마흔살 기획자 프로그래머 되다](http://www.ibatstudio.com/%EB%A7%88%ED%9D%94%EC%82%B4-%EA%B8%B0%ED%9A%8D%EC%9E%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%90%98%EB%8B%A4/)
-
+- [신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?](https://medium.com/@Jbee_/신입-프론트엔드-개발자가-되려면-무엇을-학습해야-하나요-1dd59a14e084)
 --------------------------------------
 
 ### 세미나/컨퍼런스 후기
@@ -421,6 +420,7 @@
 - [Commons DBCP 이해하기](https://d2.naver.com/helloworld/5102792)
 - [한 눈에 살펴보는 PostgreSQL](https://d2.naver.com/helloworld/227936)
 - [데이터 구조와 설계 -튜토리얼 [번역]](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86)
+- [MySQL 성능 죽이는 잘못된 쿼리 습관](http://gywn.net/2012/05/mysql-bad-sql-type/)
 
 --------------------------------------
 
