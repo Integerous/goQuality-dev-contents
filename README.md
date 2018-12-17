@@ -46,6 +46,10 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 12월 18일 화요일
+-
+-
+
 #### 2018년 12월 17일 월요일
 - [AWS 기초를 배우는 사이트들](https://brunch.co.kr/@topasvga/384)
 - [DB도 형상관리를 해보자!](https://meetup.toast.com/posts/173)
@@ -58,9 +62,6 @@
 - [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/2018/essay/memoirs2018/)
 - [2018 2개월차 신입 백엔드 개발자의 따끈따끈 개발썰](https://www.slideshare.net/EunhyangKim2/wtm-2018-2)
 
-#### 2018년 12월 15일 토요일
-- [Spring Boot + Envers로 엔티티 이력 관리하기](http://haviyj.tistory.com/40)
-- [Git 학습하기](https://backlog.com/git-tutorial/kr/)
 
 --------------------------------------
 </br>
