@@ -46,9 +46,16 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 12월 19일 수요일
+-
+-
+
 #### 2018년 12월 18일 화요일
--
--
+- [20세기 폭스에서 ML을 사용해 영화 관람객을 예측하는 방법](https://developers-kr.googleblog.com/2018/11/how-20th-century-fox-uses-ml.html)
+- [Vim 자동완성 기능 사용하기](https://johngrib.github.io/wiki/vim-auto-completion/)
+- [구조적 동시성에 대한 소고, 또는 Go 문의 해로움 [번역]](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html?hide-original=true)
+- [안전한 SSL/TLS를 운영하기 위해 알아야하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
+- [Top 5: Best free rich text editors javascript and jQuery plugins](https://ourcodeworld.com/articles/read/65/top-5-best-free-rich-text-editors-javascript-and-jquery-plugins)
 
 #### 2018년 12월 17일 월요일
 - [AWS 기초를 배우는 사이트들](https://brunch.co.kr/@topasvga/384)
@@ -56,11 +63,6 @@
 - [AWS re:Invent 2018 한 방에 정리하기](https://futurecreator.github.io/2018/12/15/aws-reinvent-2018-summary/)
 - [다양한 Redirection의 종류](https://developer.mozilla.org/ko/docs/Web/HTTP/Redirections)
 - [자바스크립트에서 메모리 누수의 4가지 형태 [번역]](http://itstory.tk/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EC%9D%98-4%EA%B0%80%EC%A7%80-%ED%98%95%ED%83%9C)
-
-#### 2018년 12월 16일 일요일
-- ['일을 하기 위한 혁신'의 방법을 찾은 개발팀](https://post.naver.com/viewer/postView.nhn?volumeNo=17322226&memberNo=39874958&navigationType=push)
-- [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/2018/essay/memoirs2018/)
-- [2018 2개월차 신입 백엔드 개발자의 따끈따끈 개발썰](https://www.slideshare.net/EunhyangKim2/wtm-2018-2)
 
 
 --------------------------------------
@@ -233,8 +235,7 @@
 --------------------------------------
 
 ### 개발자 회고
->[개발자 회고 모음](https://github.com/oaksong/developers-retrospective)에 회고글이 많습니다!  
-가보시고 고퀄리티 글을 이 곳에 공유해주세요! :pray:
+- [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/2018/essay/memoirs2018/)
 
 --------------------------------------
 
