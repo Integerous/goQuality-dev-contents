@@ -572,7 +572,7 @@
 - [100,000개의 아이템도 거뜬한 셀렉트박스 만들기 (1/2)](https://meetup.toast.com/posts/160)
 - [크롤러를 이용해 우체국 등기우편을 자동으로 정리하기](https://brunch.co.kr/@needleworm/1)
 - [몇 가지 HTML 팁 [번역]](https://rhostem.github.io/posts/2017-05-29-few-html-tips)
-- [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/)
+- [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/https/)
 - [그런 REST API로 괜찮은가 [영상]](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 - [HTML/CSS 쉽게 알려주는 사이트 - 웨버스터디](http://webberstudy.com/)
 - [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
