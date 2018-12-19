@@ -46,9 +46,18 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 12월 20일 목요일
+-
+-
+
 #### 2018년 12월 19일 수요일
--
--
+- [Scaling to 100M: NoSQL보다 나은 MySQL [번역] [슬라이드]](https://docs.google.com/presentation/d/1OOxTLIgAWKpRD29RuG0ERn9iuPxIlcpQL0-iLcd3HS8/edit?fbclid=IwAR1aDGUZdCT3F6XP6GHby_cCIY0fEGst7SDB9MLtAPaf24YKVO6PGgT2iN8#slide=id.p2)
+- [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
+- [Docker 치트시트 [번역]](https://gist.github.com/nacyot/8366310)
+- [한국어 형태소분석기 6개의 성능 비교](https://iostream.tistory.com/144?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
+- [2018 마소콘 발표자료 모음](https://www.imaso.co.kr/archives/4510)
+- [프론트엔드 개발자 를 위한 면접 인터뷰 핸드북](https://github.com/yangshun/front-end-interview-handbook/tree/master/Translations/Korean)
+- [ETL의 역할 및 DW, DM, OLAP의 이해](http://www.sqler.com/498994)
 
 #### 2018년 12월 18일 화요일
 - [20세기 폭스에서 ML을 사용해 영화 관람객을 예측하는 방법](https://developers-kr.googleblog.com/2018/11/how-20th-century-fox-uses-ml.html)
