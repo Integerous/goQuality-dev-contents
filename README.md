@@ -57,13 +57,6 @@
 - [안전한 SSL/TLS를 운영하기 위해 알아야하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
 - [Top 5: Best free rich text editors javascript and jQuery plugins](https://ourcodeworld.com/articles/read/65/top-5-best-free-rich-text-editors-javascript-and-jquery-plugins)
 
-#### 2018년 12월 17일 월요일
-- [AWS 기초를 배우는 사이트들](https://brunch.co.kr/@topasvga/384)
-- [DB도 형상관리를 해보자!](https://meetup.toast.com/posts/173)
-- [AWS re:Invent 2018 한 방에 정리하기](https://futurecreator.github.io/2018/12/15/aws-reinvent-2018-summary/)
-- [다양한 Redirection의 종류](https://developer.mozilla.org/ko/docs/Web/HTTP/Redirections)
-- [자바스크립트에서 메모리 누수의 4가지 형태 [번역]](http://itstory.tk/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EC%9D%98-4%EA%B0%80%EC%A7%80-%ED%98%95%ED%83%9C)
-
 
 --------------------------------------
 </br>
@@ -406,6 +399,8 @@
 - [AWS Performance Insight 사용 후기](http://woowabros.github.io/r-d/2018/12/01/performance_insight.html)
 - [AWS EC2 Container Service 구조와 특징](http://bluese05.tistory.com/m/52)
 - [단방향 사용자 인터페이스 아키텍쳐 [번역]](https://pilgwon.github.io/blog/2018/12/12/Unidirectional-User-Interface-Architectures.html)
+- [AWS 기초를 배우는 사이트 모음](https://brunch.co.kr/@topasvga/384)
+- [AWS re:Invent 2018 한 방에 정리하기](https://futurecreator.github.io/2018/12/15/aws-reinvent-2018-summary/)
 
 --------------------------------------
 
@@ -423,6 +418,7 @@
 - [한 눈에 살펴보는 PostgreSQL](https://d2.naver.com/helloworld/227936)
 - [데이터 구조와 설계 -튜토리얼 [번역]](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86)
 - [MySQL 성능 죽이는 잘못된 쿼리 습관](http://gywn.net/2012/05/mysql-bad-sql-type/)
+- [DB도 형상관리를 해보자!](https://meetup.toast.com/posts/173)
 
 --------------------------------------
 
@@ -489,6 +485,7 @@
 - [jQuery보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
 - [Vue.js 입문자가 흔히 저지르는 문법 실수](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)
 - [웹팩의 기본 개념](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
+- [자바스크립트에서 메모리 누수의 4가지 형태 [번역]](http://itstory.tk/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EC%9D%98-4%EA%B0%80%EC%A7%80-%ED%98%95%ED%83%9C)
 
 --------------------------------------
 
@@ -571,6 +568,7 @@
 - [HTML/CSS 쉽게 알려주는 사이트 - 웨버스터디](http://webberstudy.com/)
 - [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
 - [HTTP 쿠키와 톰캣 버전별 이슈 정리](https://meetup.toast.com/posts/172)
+- [다양한 Redirection의 종류](https://developer.mozilla.org/ko/docs/Web/HTTP/Redirections)
 
 --------------------------------------
 
