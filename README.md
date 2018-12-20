@@ -59,13 +59,6 @@
 - [프론트엔드 개발자 를 위한 면접 인터뷰 핸드북](https://github.com/yangshun/front-end-interview-handbook/tree/master/Translations/Korean)
 - [ETL의 역할 및 DW, DM, OLAP의 이해](http://www.sqler.com/498994)
 
-#### 2018년 12월 18일 화요일
-- [20세기 폭스에서 ML을 사용해 영화 관람객을 예측하는 방법](https://developers-kr.googleblog.com/2018/11/how-20th-century-fox-uses-ml.html)
-- [Vim 자동완성 기능 사용하기](https://johngrib.github.io/wiki/vim-auto-completion/)
-- [구조적 동시성에 대한 소고, 또는 Go 문의 해로움 [번역]](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html?hide-original=true)
-- [안전한 SSL/TLS를 운영하기 위해 알아야하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
-- [Top 5: Best free rich text editors javascript and jQuery plugins](https://ourcodeworld.com/articles/read/65/top-5-best-free-rich-text-editors-javascript-and-jquery-plugins)
-
 
 --------------------------------------
 </br>
@@ -619,6 +612,7 @@
 ### 보안
 - [비밀번호 해시에 소금치기(salting)](http://bit.ly/2A5ql94)
 - [패스워드 암호화 방법 총정리](http://bit.ly/2OYnCa0)
+- [안전한 SSL/TLS를 운영하기 위해 알아야하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
 
 --------------------------------------
 
@@ -632,7 +626,7 @@
 - [카카오미니는 어떻게 스무고개를 맞출까?](https://brunch.co.kr/@kakao-it/157)
 - [딥러닝 공부 가이드 2019 (무료 강의, 책)](http://t-robotics.blogspot.com/2018/12/39-2019.html?m=1)
 - [카카오의 딥러닝 기반 형태소 분석기](https://brunch.co.kr/@kakao-it/308)
-
+- [20세기 폭스에서 ML을 사용해 영화 관람객을 예측하는 방법](https://developers-kr.googleblog.com/2018/11/how-20th-century-fox-uses-ml.html)
 
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
@@ -661,6 +655,9 @@
 - [개발 생산성을 올려주는 VSCode의 소소한 기능들](https://www.vobour.com/%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EC%98%AC%EB%A0%A4%EC%A3%BC%EB%8A%94-vscode%EC%9D%98-%EC%86%8C%EC%86%8C-%ED%95%9C-%EA%B8%B0%EB%8A%A5%EB%93%A4)
 - [구글의 페이지 랭크 알고리즘](https://www.google.co.kr/amp/s/sungmooncho.com/2012/08/26/pagerank/amp/)
 - [처음 코딩을 배울 때 알았으면 좋았을 도구들 [번역]](https://www.vobour.com/%EC%B2%98%EC%9D%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EB%8F%84%EA%B5%AC%EB%93%A4-tools-i-wish-i)
+- [Vim 자동완성 기능 사용하기](https://johngrib.github.io/wiki/vim-auto-completion/)
+- [구조적 동시성에 대한 소고, 또는 Go 문의 해로움 [번역]](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html?hide-original=true)
+
 
 --------------------------------------
 </br>
