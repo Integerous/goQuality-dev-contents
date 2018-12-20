@@ -26,7 +26,7 @@
 --------------------------------------
 ### :family: 누구나 Contributor가 될 수 있습니다!
 >검색하다 발견한 개발 관련 **글/영상/슬라이드**의 링크를 공유해주세요  
-아래 세 가지 방법이 있습니다!
+아래 세 가지 방법 중 선택하시면 됩니다!
 
 방법 1 - 아래 :mailbox:**Queue** 에 링크 추가하고 **Pull Request**  
 방법 2 - **Issue 등록**하여 링크 공유 [(Issue 등록 방법)](https://github.com/Integerous/goQuality-dev-contents/issues/1)  
@@ -46,9 +46,16 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2018년 12월 20일 목요일
-- [리눅스 서버 60초안에 상황파악하기 [번역]] (https://b.luavis.kr/server/linux-performance-analysis)
+#### 2018년 12월 21일 금요일
 -
+-
+
+#### 2018년 12월 20일 목요일
+- [객체지향 캡슐화에 대한 실전 예제](https://github.com/cheese10yun/blog-sample/tree/master/encapsulation?fbclid=IwAR1ixqj8nAlarcSXt48kXv7wJ5W_mPd7lOfN1Y76S4Hmnavajfm0GES7fjI)
+- [훌륭한 JavaScript 개발자가 되는 법 [번역]](https://brunch.co.kr/@chiyodad/9)
+- [개발자를 위한 자료구조 알고리즘 질문 [영문]](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+- [Github Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
+- [리눅스 서버 60초안에 상황파악하기 [번역]](https://b.luavis.kr/server/linux-performance-analysis)
 
 #### 2018년 12월 19일 수요일
 - [Scaling to 100M: NoSQL보다 나은 MySQL [번역] [슬라이드]](https://docs.google.com/presentation/d/1OOxTLIgAWKpRD29RuG0ERn9iuPxIlcpQL0-iLcd3HS8/edit?fbclid=IwAR1aDGUZdCT3F6XP6GHby_cCIY0fEGst7SDB9MLtAPaf24YKVO6PGgT2iN8#slide=id.p2)
