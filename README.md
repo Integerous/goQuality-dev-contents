@@ -60,15 +60,6 @@
 - [Github Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
 - [리눅스 서버 60초안에 상황파악하기 [번역]](https://b.luavis.kr/server/linux-performance-analysis)
 
-#### 2018년 12월 19일 수요일
-- [Scaling to 100M: NoSQL보다 나은 MySQL [번역] [슬라이드]](https://docs.google.com/presentation/d/1OOxTLIgAWKpRD29RuG0ERn9iuPxIlcpQL0-iLcd3HS8/edit?fbclid=IwAR1aDGUZdCT3F6XP6GHby_cCIY0fEGst7SDB9MLtAPaf24YKVO6PGgT2iN8#slide=id.p2)
-- [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
-- [Docker 치트시트 [번역]](https://gist.github.com/nacyot/8366310)
-- [한국어 형태소분석기 6개의 성능 비교](https://iostream.tistory.com/144?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
-- [2018 마소콘 발표자료 모음](https://www.imaso.co.kr/archives/4510)
-- [프론트엔드 개발자 를 위한 면접 인터뷰 핸드북](https://github.com/yangshun/front-end-interview-handbook/tree/master/Translations/Korean)
-- [ETL의 역할 및 DW, DM, OLAP의 이해](http://www.sqler.com/498994)
-
 
 --------------------------------------
 </br>
@@ -236,6 +227,7 @@
 - [카카오뱅크 모바일앱 개발 이야기](https://brunch.co.kr/@kakao-it/278)
 - [DEVIEW 2018 영상 모음 [영상]](https://tv.naver.com/v/4577969/list/279844)
 - [GDG DevFest Seoul 2018 발표자료 모음](https://devfest-seoul18.gdg.kr/timetable)
+- [2018 마소콘 발표자료 모음](https://www.imaso.co.kr/archives/4510)
 
 --------------------------------------
 
@@ -257,6 +249,7 @@
 - [토종 한국인의 구글 취업 후기 [영상]](https://youtu.be/YXf8IuBfxPo)
 - [여기어때 면접에서 듣게 되는 질문 112가지](http://www.bloter.net/archives/325304)
 - [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
+- [프론트엔드 개발자를 위한 면접(인터뷰) 핸드북 [번역]](https://github.com/yangshun/front-end-interview-handbook/tree/master/Translations/Korean)
 
 --------------------------------------
 </br>
@@ -413,6 +406,7 @@
 - [단방향 사용자 인터페이스 아키텍쳐 [번역]](https://pilgwon.github.io/blog/2018/12/12/Unidirectional-User-Interface-Architectures.html)
 - [AWS 기초를 배우는 사이트 모음](https://brunch.co.kr/@topasvga/384)
 - [AWS re:Invent 2018 한 방에 정리하기](https://futurecreator.github.io/2018/12/15/aws-reinvent-2018-summary/)
+- [Docker 치트시트 [번역]](https://gist.github.com/nacyot/8366310)
 
 --------------------------------------
 
@@ -431,6 +425,7 @@
 - [데이터 구조와 설계 -튜토리얼 [번역]](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86)
 - [MySQL 성능 죽이는 잘못된 쿼리 습관](http://gywn.net/2012/05/mysql-bad-sql-type/)
 - [DB도 형상관리를 해보자!](https://meetup.toast.com/posts/173)
+- [Scaling to 100M: NoSQL보다 나은 MySQL [번역] [슬라이드]](https://docs.google.com/presentation/d/1OOxTLIgAWKpRD29RuG0ERn9iuPxIlcpQL0-iLcd3HS8/edit?fbclid=IwAR1aDGUZdCT3F6XP6GHby_cCIY0fEGst7SDB9MLtAPaf24YKVO6PGgT2iN8#slide=id.p2)
 
 --------------------------------------
 
@@ -629,6 +624,7 @@
 ### 데이터 사이언스
 - [데이터 사이언스 인터뷰 질문 모음집](http://bit.ly/2Ea19m7)
 - [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
+- [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
 
 ### 머신러닝 & 딥러닝 & AI
 - [머신러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
@@ -667,6 +663,7 @@
 - [처음 코딩을 배울 때 알았으면 좋았을 도구들 [번역]](https://www.vobour.com/%EC%B2%98%EC%9D%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EB%8F%84%EA%B5%AC%EB%93%A4-tools-i-wish-i)
 - [Vim 자동완성 기능 사용하기](https://johngrib.github.io/wiki/vim-auto-completion/)
 - [구조적 동시성에 대한 소고, 또는 Go 문의 해로움 [번역]](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html?hide-original=true)
+- [한국어 형태소분석기 6개의 성능 비교](https://iostream.tistory.com/144?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 
 
 --------------------------------------
