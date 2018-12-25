@@ -46,8 +46,21 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 12월 25일 화요일
+- [IntelliJ](httpClient 응답값 변수로 저장하고 사용하기)
+- [[번역] OOP를 빨리 잊을 수록 여러분과 여러분의 소프트웨어에 좋습니다](https://adhrinae.github.io/posts/the-faster-you-unlearn-oop-the-better-for-you-and-your-software-kr?fbclid=IwAR1kyntyQF-waFEY4A9NJYi8wjXJPoyqu7yzi22gAL2dawR1cA1eQWtIKOU)
+
+#### 2018년 12월 24일 월요일
+- [추천 온라인 강의 및 추천 도서 정리](https://github.com/cheese10yun/dev-info)
+- [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
+- [경력자가 1년차 개발자로 되돌아간다면, 어떤 것에 집중할 것인가?](https://jojoldu.tistory.com/363?category=689637)
+- [커맨드라인 능숙하게 다루기 [번역]](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)
+- [도커 시작하기(hacker.io 1위) [영문]](https://serversforhackers.com/c/getting-started-with-docker)
+- [github를 이용하는 전체 흐름 이해하기](https://blog.outsider.ne.kr/865)
+
 #### 2018년 12월 23일 일요일
 - [개발자가 이직에 대해 생각할 때...](https://brunch.co.kr/@supims/4)
+- [Front-End 발전 역사와 개발 생태계](https://moon9342.github.io/front-end-ecosystem)
 
 #### 2018년 12월 22일 토요일
 - [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726?fbclid=IwAR0xOrYNsE4NU6D0jzBMTEND_DhiJpjvDneoMn5mh28PdfTJYwbJ-XHvAns)
