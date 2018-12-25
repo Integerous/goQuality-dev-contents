@@ -58,13 +58,6 @@
 - [2800명의 디자이너가 대답한 2018 디자인 도구 설문조사 [영문]](http://uxtools.co/survey-2018)
 - [AWS 웹사이트 네트워크 구축(CLI)](https://brunch.co.kr/@topasvga/386)
 
-#### 2018년 12월 20일 목요일
-- [객체지향 캡슐화에 대한 실전 예제](https://github.com/cheese10yun/blog-sample/tree/master/encapsulation?fbclid=IwAR1ixqj8nAlarcSXt48kXv7wJ5W_mPd7lOfN1Y76S4Hmnavajfm0GES7fjI)
-- [훌륭한 JavaScript 개발자가 되는 법 [번역]](https://brunch.co.kr/@chiyodad/9)
-- [개발자를 위한 자료구조 알고리즘 질문 [영문]](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
-- [Github Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
-- [리눅스 서버 60초안에 상황파악하기 [번역]](https://b.luavis.kr/server/linux-performance-analysis)
-
 
 --------------------------------------
 </br>
@@ -255,6 +248,7 @@
 - [여기어때 면접에서 듣게 되는 질문 112가지](http://www.bloter.net/archives/325304)
 - [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
 - [프론트엔드 개발자를 위한 면접(인터뷰) 핸드북 [번역]](https://github.com/yangshun/front-end-interview-handbook/tree/master/Translations/Korean)
+- [개발자를 위한 자료구조, 알고리즘 면접 질문 [영문]](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
 --------------------------------------
 </br>
@@ -311,7 +305,7 @@
 - [Java JVM 간단 정리](https://baehoyeon.github.io/2017-11-10/jvm)
 - [AWS EC2 Container Service 구조와 특징](http://bluese05.tistory.com/m/52)
 - [Java프로그래밍 OOM (Out Of Memory) 오류](http://www.nextree.co.kr/p3878/)
-
+- [객체지향 캡슐화에 대한 실전 예제](https://github.com/cheese10yun/blog-sample/tree/master/encapsulation?fbclid=IwAR1ixqj8nAlarcSXt48kXv7wJ5W_mPd7lOfN1Y76S4Hmnavajfm0GES7fjI)
 --------------------------------------
 
 ### Python & Django
@@ -443,6 +437,7 @@
 - [리눅스 open files, max user processes 설정 정리글](bit.ly/2R39Znl)
 - [리눅스 I/O 리다이렉션 작동 원리 배우기](https://www.tecmint.com/linux-io-input-output-redirection-operators/)
 - [bash scripting 간단 정리 [영문]](https://devhints.io/bash.html)
+- [리눅스 서버 60초안에 상황파악하기 [번역]](https://b.luavis.kr/server/linux-performance-analysis)
 
 --------------------------------------
 </br>
@@ -498,6 +493,7 @@
 - [Vue.js 입문자가 흔히 저지르는 문법 실수](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)
 - [웹팩의 기본 개념](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
 - [자바스크립트에서 메모리 누수의 4가지 형태 [번역]](http://itstory.tk/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EC%9D%98-4%EA%B0%80%EC%A7%80-%ED%98%95%ED%83%9C)
+- [훌륭한 JavaScript 개발자가 되는 법 [번역]](https://brunch.co.kr/@chiyodad/9)
 
 --------------------------------------
 
@@ -609,6 +605,7 @@
 - [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속 [번역]](https://meetup.toast.com/posts/106)
 - [깃허브 후크API와 슬랙에 알림 전달하기](https://blog.nacyot.com/articles/2014-01-30-github-hook-api-slack-sample/)
 - [편리한 git alias 설정하기](https://johngrib.github.io/wiki/git-alias/)
+- [Github Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
 
 --------------------------------------
 
