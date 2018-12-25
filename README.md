@@ -62,11 +62,6 @@
 - [개발자가 이직에 대해 생각할 때...](https://brunch.co.kr/@supims/4)
 - [Front-End 발전 역사와 개발 생태계](https://moon9342.github.io/front-end-ecosystem)
 
-#### 2018년 12월 22일 토요일
-- [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726?fbclid=IwAR0xOrYNsE4NU6D0jzBMTEND_DhiJpjvDneoMn5mh28PdfTJYwbJ-XHvAns)
-- [Spring에서 Yaml파일 데이터 객체로 매핑하여 로드하기](https://www.google.co.kr/amp/blog.saltfactory.net/load-yaml-file-in-spring/amp/)
-
-
 --------------------------------------
 </br>
 </br>
@@ -587,6 +582,7 @@
 - [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
 - [HTTP 쿠키와 톰캣 버전별 이슈 정리](https://meetup.toast.com/posts/172)
 - [다양한 Redirection의 종류](https://developer.mozilla.org/ko/docs/Web/HTTP/Redirections)
+- [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726?fbclid=IwAR0xOrYNsE4NU6D0jzBMTEND_DhiJpjvDneoMn5mh28PdfTJYwbJ-XHvAns)
 
 --------------------------------------
 
