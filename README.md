@@ -53,11 +53,6 @@
 - [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726?fbclid=IwAR0xOrYNsE4NU6D0jzBMTEND_DhiJpjvDneoMn5mh28PdfTJYwbJ-XHvAns)
 - [Spring에서 Yaml파일 데이터 객체로 매핑하여 로드하기](https://www.google.co.kr/amp/blog.saltfactory.net/load-yaml-file-in-spring/amp/)
 
-#### 2018년 12월 21일 금요일
-- [쉬운 테스트 주도 개발과 단위 테스트를 위한 5단계 방법론 [번역]](https://medium.com/@cmygray/%EB%B2%88%EC%97%AD-%EC%89%AC%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-5%EB%8B%A8%EA%B3%84-%EB%B0%A9%EB%B2%95%EB%A1%A0-b82fea6c8d90)
-- [2800명의 디자이너가 대답한 2018 디자인 도구 설문조사 [영문]](http://uxtools.co/survey-2018)
-- [AWS 웹사이트 네트워크 구축(CLI)](https://brunch.co.kr/@topasvga/386)
-
 
 --------------------------------------
 </br>
@@ -146,6 +141,7 @@
 - [개발자처럼 생각하는 방법 [번역]](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
 - [TDD는 죽었는가? [번역]](http://jinson.tistory.com/271)
 - [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/)
+- [쉬운 테스트 주도 개발과 단위 테스트를 위한 5단계 방법론 [번역]](https://medium.com/@cmygray/%EB%B2%88%EC%97%AD-%EC%89%AC%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-5%EB%8B%A8%EA%B3%84-%EB%B0%A9%EB%B2%95%EB%A1%A0-b82fea6c8d90)
 
 --------------------------------------
 
@@ -524,6 +520,7 @@
 - [리디북스 뷰어 형광펜 개선 후기](https://www.ridicorp.com/blog/2016/11/10/highlight/)
 - [UI/UX Prototype 툴 선택 - Just in mind](http://k2unip.tistory.com/m/184)
 - [400개 이상의 아이콘이 있는 오픈소스 프로젝트](https://akveo.github.io/eva-icons/#/)
+- [2800명의 디자이너가 대답한 2018 디자인 도구 설문조사 [영문]](http://uxtools.co/survey-2018)
 
 
 --------------------------------------
