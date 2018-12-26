@@ -46,6 +46,15 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 12월 27일 목요일
+-
+-
+
+#### 2018년 12월 26일 수요일
+- [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
+- [카카오의 딥러닝 기반 형태소 분석기](http://tech.kakao.com/2018/12/13/khaiii/)
+- [Mysql 인덱스 정리 및 팁](https://jojoldu.tistory.com/243)
+
 #### 2018년 12월 25일 화요일
 - [IntelliJ](httpClient 응답값 변수로 저장하고 사용하기)
 - [[번역] OOP를 빨리 잊을 수록 여러분과 여러분의 소프트웨어에 좋습니다](https://adhrinae.github.io/posts/the-faster-you-unlearn-oop-the-better-for-you-and-your-software-kr?fbclid=IwAR1kyntyQF-waFEY4A9NJYi8wjXJPoyqu7yzi22gAL2dawR1cA1eQWtIKOU)
@@ -58,9 +67,7 @@
 - [도커 시작하기(hacker.io 1위) [영문]](https://serversforhackers.com/c/getting-started-with-docker)
 - [github를 이용하는 전체 흐름 이해하기](https://blog.outsider.ne.kr/865)
 
-#### 2018년 12월 23일 일요일
-- [개발자가 이직에 대해 생각할 때...](https://brunch.co.kr/@supims/4)
-- [Front-End 발전 역사와 개발 생태계](https://moon9342.github.io/front-end-ecosystem)
+
 
 --------------------------------------
 </br>
@@ -182,6 +189,7 @@
 - [개발자가 블로그를 운영해야 할 이유](https://taegon.kim/archives/7107)
 - [프로그래밍 학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
 - [프로그래머 수준 점검표 [번역]](http://blog.daum.net/effortless/7864712)
+- [개발자가 이직에 대해 생각할 때...](https://brunch.co.kr/@supims/4)
 
 --------------------------------------
 
@@ -498,6 +506,7 @@
 - [웹팩의 기본 개념](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
 - [자바스크립트에서 메모리 누수의 4가지 형태 [번역]](http://itstory.tk/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EC%9D%98-4%EA%B0%80%EC%A7%80-%ED%98%95%ED%83%9C)
 - [훌륭한 JavaScript 개발자가 되는 법 [번역]](https://brunch.co.kr/@chiyodad/9)
+- [Front-End 발전 역사와 개발 생태계](https://moon9342.github.io/front-end-ecosystem)
 
 --------------------------------------
 
