@@ -51,21 +51,12 @@
 -
 
 #### 2018년 12월 26일 수요일
-- [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
 - [카카오의 딥러닝 기반 형태소 분석기](http://tech.kakao.com/2018/12/13/khaiii/)
 - [Mysql 인덱스 정리 및 팁](https://jojoldu.tistory.com/243)
 
 #### 2018년 12월 25일 화요일
 - [IntelliJ](httpClient 응답값 변수로 저장하고 사용하기)
 - [[번역] OOP를 빨리 잊을 수록 여러분과 여러분의 소프트웨어에 좋습니다](https://adhrinae.github.io/posts/the-faster-you-unlearn-oop-the-better-for-you-and-your-software-kr?fbclid=IwAR1kyntyQF-waFEY4A9NJYi8wjXJPoyqu7yzi22gAL2dawR1cA1eQWtIKOU)
-
-#### 2018년 12월 24일 월요일
-- [추천 온라인 강의 및 추천 도서 정리](https://github.com/cheese10yun/dev-info)
-- [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
-- [경력자가 1년차 개발자로 되돌아간다면, 어떤 것에 집중할 것인가?](https://jojoldu.tistory.com/363?category=689637)
-- [커맨드라인 능숙하게 다루기 [번역]](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)
-- [도커 시작하기(hacker.io 1위) [영문]](https://serversforhackers.com/c/getting-started-with-docker)
-- [github를 이용하는 전체 흐름 이해하기](https://blog.outsider.ne.kr/865)
 
 
 
@@ -190,6 +181,7 @@
 - [프로그래밍 학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
 - [프로그래머 수준 점검표 [번역]](http://blog.daum.net/effortless/7864712)
 - [개발자가 이직에 대해 생각할 때...](https://brunch.co.kr/@supims/4)
+- [추천 온라인 강의 및 추천 도서 정리](https://github.com/cheese10yun/dev-info)
 
 --------------------------------------
 
@@ -217,6 +209,8 @@
 - [개발자의 삶 - SI 개발자란](https://okky.kr/article/503803?fbclid=IwAR1Dy01fQ7m4kxDiykRRjxt2TbA2LkK8Pw59DFZGcO8Lop_rrtAkiTiRNOA)
 - [마흔살 기획자 프로그래머 되다](http://www.ibatstudio.com/%EB%A7%88%ED%9D%94%EC%82%B4-%EA%B8%B0%ED%9A%8D%EC%9E%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%90%98%EB%8B%A4/)
 - [신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?](https://medium.com/@Jbee_/신입-프론트엔드-개발자가-되려면-무엇을-학습해야-하나요-1dd59a14e084)
+- [경력자가 1년차 개발자로 되돌아간다면, 어떤 것에 집중할 것인가?](https://jojoldu.tistory.com/363?category=689637)
+
 --------------------------------------
 
 ### 세미나/컨퍼런스 후기
@@ -418,6 +412,8 @@
 - [AWS 기초를 배우는 사이트 모음](https://brunch.co.kr/@topasvga/384)
 - [AWS re:Invent 2018 한 방에 정리하기](https://futurecreator.github.io/2018/12/15/aws-reinvent-2018-summary/)
 - [Docker 치트시트 [번역]](https://gist.github.com/nacyot/8366310)
+- [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
+- [도커 시작하기(hacker.io 1위) [영문]](https://serversforhackers.com/c/getting-started-with-docker)
 
 --------------------------------------
 
@@ -450,6 +446,7 @@
 - [리눅스 I/O 리다이렉션 작동 원리 배우기](https://www.tecmint.com/linux-io-input-output-redirection-operators/)
 - [bash scripting 간단 정리 [영문]](https://devhints.io/bash.html)
 - [리눅스 서버 60초안에 상황파악하기 [번역]](https://b.luavis.kr/server/linux-performance-analysis)
+- [커맨드라인 능숙하게 다루기 [번역]](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)
 
 --------------------------------------
 </br>
@@ -507,6 +504,7 @@
 - [자바스크립트에서 메모리 누수의 4가지 형태 [번역]](http://itstory.tk/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EC%9D%98-4%EA%B0%80%EC%A7%80-%ED%98%95%ED%83%9C)
 - [훌륭한 JavaScript 개발자가 되는 법 [번역]](https://brunch.co.kr/@chiyodad/9)
 - [Front-End 발전 역사와 개발 생태계](https://moon9342.github.io/front-end-ecosystem)
+- [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
 
 --------------------------------------
 
@@ -621,6 +619,7 @@
 - [깃허브 후크API와 슬랙에 알림 전달하기](https://blog.nacyot.com/articles/2014-01-30-github-hook-api-slack-sample/)
 - [편리한 git alias 설정하기](https://johngrib.github.io/wiki/git-alias/)
 - [Github Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
+- [Github를 이용하는 전체 흐름 이해하기](https://blog.outsider.ne.kr/865)
 
 --------------------------------------
 
