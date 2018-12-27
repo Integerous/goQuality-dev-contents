@@ -46,18 +46,19 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2018년 12월 28일 금요일
+-
+-
+
 #### 2018년 12월 27일 목요일
--
--
+- [git add -p와 git commit -v의 사용](https://blog.outsider.ne.kr/1247?category=18)
+- [Netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
+- [5년차 안드로이드 개발자의 이직이야기](https://medium.com/@maryangmin/5%EB%85%84%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-6004ccc0ca4f)
+- [2019년 클라우드 핵심 트렌드 예측 [번역]](http://www.ciokorea.com/news/113514 )
 
 #### 2018년 12월 26일 수요일
 - [카카오의 딥러닝 기반 형태소 분석기](http://tech.kakao.com/2018/12/13/khaiii/)
 - [Mysql 인덱스 정리 및 팁](https://jojoldu.tistory.com/243)
-
-#### 2018년 12월 25일 화요일
-- [IntelliJ](httpClient 응답값 변수로 저장하고 사용하기)
-- [[번역] OOP를 빨리 잊을 수록 여러분과 여러분의 소프트웨어에 좋습니다](https://adhrinae.github.io/posts/the-faster-you-unlearn-oop-the-better-for-you-and-your-software-kr?fbclid=IwAR1kyntyQF-waFEY4A9NJYi8wjXJPoyqu7yzi22gAL2dawR1cA1eQWtIKOU)
-
 
 
 --------------------------------------
