@@ -56,10 +56,6 @@
 - [5년차 안드로이드 개발자의 이직이야기](https://medium.com/@maryangmin/5%EB%85%84%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-6004ccc0ca4f)
 - [2019년 클라우드 핵심 트렌드 예측 [번역]](http://www.ciokorea.com/news/113514 )
 
-#### 2018년 12월 26일 수요일
-- [카카오의 딥러닝 기반 형태소 분석기](http://tech.kakao.com/2018/12/13/khaiii/)
-- [Mysql 인덱스 정리 및 팁](https://jojoldu.tistory.com/243)
-
 
 --------------------------------------
 </br>
@@ -434,6 +430,7 @@
 - [MySQL 성능 죽이는 잘못된 쿼리 습관](http://gywn.net/2012/05/mysql-bad-sql-type/)
 - [DB도 형상관리를 해보자!](https://meetup.toast.com/posts/173)
 - [Scaling to 100M: NoSQL보다 나은 MySQL [번역] [슬라이드]](https://docs.google.com/presentation/d/1OOxTLIgAWKpRD29RuG0ERn9iuPxIlcpQL0-iLcd3HS8/edit?fbclid=IwAR1aDGUZdCT3F6XP6GHby_cCIY0fEGst7SDB9MLtAPaf24YKVO6PGgT2iN8#slide=id.p2)
+- [Mysql 인덱스 정리 및 팁](https://jojoldu.tistory.com/243)
 
 --------------------------------------
 
