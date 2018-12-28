@@ -46,9 +46,16 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2018년 12월 28일 금요일
-- [자바스크립트 엔진의 최적화 기법](https://meetup.toast.com/posts/78)
+#### 2018년 12월 29일 토요일
 -
+-
+
+#### 2018년 12월 28일 금요일
+- [Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자](https://johngrib.github.io/wiki/my-wiki/)
+- [구글 인터뷰를 보려고 8개월간 풀타임 공부한 이유 [번역]](https://medium.com/@_chyotsuba/구글-인터뷰를-보려고-8개월간-풀타임으로-공부한-이유-d6ce5faff5a7)
+- [자바스크립트 엔진의 최적화 기법](https://meetup.toast.com/posts/78)
+- [Spring Rest Docs 적용](http://woowabros.github.io/experience/2018/12/28/spring-rest-docs.html)
+- [열정 넘치는 주니어 개발자의 주간회고 모음](https://gwonsungjun.github.io/category/#/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0)
 
 #### 2018년 12월 27일 목요일
 - [git add -p와 git commit -v의 사용](https://blog.outsider.ne.kr/1247?category=18)
