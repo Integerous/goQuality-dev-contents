@@ -47,8 +47,12 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 #### 2018년 12월 29일 토요일
--
--
+- [개발자, 한 달에 책 한 권 읽기 2018년 결산](http://j.mp/2Als89L)
+- [Vue.js 한국 개발자 모임, Vuetiful Korea Meetup 후기 및 발표자료](https://engineering.linecorp.com/ko/blog/vue-js-developer-meetup/)
+- [웹사이트들의 한글 타이포그래피](https://lqez.github.io/blog/hangul-typo-on-web.html?fb_action_ids=2062358057128072&fb_action_types=og.comments&fb_source=other_multiline&action_object_map=%5B1979264708761812%5D&action_type_map=%5B%22og.comments%22%5D&action_ref_map=%5B%5D)
+- [TDD를 돕는 템플릿 “Given-When-Then”](http://j.mp/2SxeAyU)
+- [리눅스의 페이지 캐시와 버퍼 캐시](https://brunch.co.kr/@alden/25)
+- [JDK8 적용 후 심각한 성능저하가 발생한다면?](https://brunch.co.kr/@heracul/1)
 
 #### 2018년 12월 28일 금요일
 - [Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자](https://johngrib.github.io/wiki/my-wiki/)
