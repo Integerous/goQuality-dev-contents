@@ -46,6 +46,13 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+
+#### 2018년 12월 30일 일요일
+- [코딩, 어떤 언어로 시작하지?](https://brunch.co.kr/@yhkang0513/3)
+- [더 나은 개발자가 되는 8 가지 방법 [번역]](https://medium.com/@mnpk/%EB%B2%88%EC%97%AD-%EB%8D%94-%EB%82%98%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-8-%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-45ea6cd70114?fbclid=IwAR0xKeQ-G-RQAXaHQUFoYgGNmVSjpk-p0ufXnHvzGoqPqo_34EDtZbu2SVk)
+- [실리콘 밸리의 잘나가는 5개 기업과 인터뷰를 봤는데 다 붙고만 썰 [번역]](http://www.looah.com/article/view/2070)
+- [우아한형제들 CI / CD 도입기](http://woowabros.github.io/experience/2018/06/26/bros-cicd.html)
+
 #### 2018년 12월 29일 토요일
 - [개발자, 한 달에 책 한 권 읽기 2018년 결산](http://j.mp/2Als89L)
 - [Vue.js 한국 개발자 모임, Vuetiful Korea Meetup 후기 및 발표자료](https://engineering.linecorp.com/ko/blog/vue-js-developer-meetup/)
