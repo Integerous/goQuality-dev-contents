@@ -61,13 +61,6 @@
 - [리눅스의 페이지 캐시와 버퍼 캐시](https://brunch.co.kr/@alden/25)
 - [JDK8 적용 후 심각한 성능저하가 발생한다면?](https://brunch.co.kr/@heracul/1)
 
-#### 2018년 12월 28일 금요일
-- [Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자](https://johngrib.github.io/wiki/my-wiki/)
-- [구글 인터뷰를 보려고 8개월간 풀타임 공부한 이유 [번역]](https://medium.com/@_chyotsuba/구글-인터뷰를-보려고-8개월간-풀타임으로-공부한-이유-d6ce5faff5a7)
-- [자바스크립트 엔진의 최적화 기법](https://meetup.toast.com/posts/78)
-- [Spring Rest Docs 적용](http://woowabros.github.io/experience/2018/12/28/spring-rest-docs.html)
-- [열정 넘치는 주니어 개발자의 주간회고 모음](https://gwonsungjun.github.io/category/#/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0)
-
 
 --------------------------------------
 </br>
@@ -169,7 +162,6 @@
 - [개발자 필독서 50 선](http://bit.ly/2PaCiTs)
 - [지난 5년 동안 소프트웨어 개발자로서 배운 것들 [번역]](http://bit.ly/2qikyYh)
 - [1000 개의 코드 리뷰를 통해 배운 점 [번역]](http://bit.ly/2zdO0CI)
-- [내가 구글 인터뷰를 풀 타임으로 8 개월 동안 공부한 이유 [번역]](http://bit.ly/2qppx9l)
 - [70세 현역 개발자에게 듣는 개발자의 길 [영상]](https://m.youtube.com/watch?v=E2P9MXvMgAI&feature=youtu.be)
 - [나는 과연 SW Engineer라고 말할 수 있을까?](http://kimjmin.net/2018/10/2018-10-am-i-engineer/)
 - [프로그래머로 살아남기 위해 필요한 2가지 언어 [영상]](https://www.youtube.com/watch?v=ESU2IkFj9VM)
@@ -243,6 +235,7 @@
 
 ### 개발자 회고
 - [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/2018/essay/memoirs2018/)
+- [열정 넘치는 주니어 개발자의 주간회고 모음](https://gwonsungjun.github.io/category/#/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0)
 
 --------------------------------------
 
@@ -263,6 +256,7 @@
 - [개발자를 위한 자료구조, 알고리즘 면접 질문 [영문]](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 - [개발자가 이직에 대해 생각할 때...](https://brunch.co.kr/@supims/4)
 - [5년차 안드로이드 개발자의 이직이야기](https://medium.com/@maryangmin/5%EB%85%84%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-6004ccc0ca4f)
+- [내가 구글 인터뷰를 풀 타임으로 8 개월 동안 공부한 이유 [번역]](http://bit.ly/2qppx9l)
 
 --------------------------------------
 </br>
@@ -320,6 +314,8 @@
 - [AWS EC2 Container Service 구조와 특징](http://bluese05.tistory.com/m/52)
 - [Java프로그래밍 OOM (Out Of Memory) 오류](http://www.nextree.co.kr/p3878/)
 - [객체지향 캡슐화에 대한 실전 예제](https://github.com/cheese10yun/blog-sample/tree/master/encapsulation?fbclid=IwAR1ixqj8nAlarcSXt48kXv7wJ5W_mPd7lOfN1Y76S4Hmnavajfm0GES7fjI)
+- [Spring Rest Docs 적용](http://woowabros.github.io/experience/2018/12/28/spring-rest-docs.html)
+
 --------------------------------------
 
 ### Python & Django
@@ -516,6 +512,7 @@
 - [훌륭한 JavaScript 개발자가 되는 법 [번역]](https://brunch.co.kr/@chiyodad/9)
 - [Front-End 발전 역사와 개발 생태계](https://moon9342.github.io/front-end-ecosystem)
 - [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
+- [자바스크립트 엔진의 최적화 기법](https://meetup.toast.com/posts/78)
 
 --------------------------------------
 
@@ -692,7 +689,7 @@
 - [Vim 자동완성 기능 사용하기](https://johngrib.github.io/wiki/vim-auto-completion/)
 - [구조적 동시성에 대한 소고, 또는 Go 문의 해로움 [번역]](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html?hide-original=true)
 - [한국어 형태소분석기 6개의 성능 비교](https://iostream.tistory.com/144?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
-
+- [Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자](https://johngrib.github.io/wiki/my-wiki/)
 
 --------------------------------------
 </br>
