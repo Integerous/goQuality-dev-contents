@@ -61,12 +61,6 @@
 - [Spring Rest Docs 적용](http://woowabros.github.io/experience/2018/12/28/spring-rest-docs.html)
 - [열정 넘치는 주니어 개발자의 주간회고 모음](https://gwonsungjun.github.io/category/#/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0)
 
-#### 2018년 12월 27일 목요일
-- [git add -p와 git commit -v의 사용](https://blog.outsider.ne.kr/1247?category=18)
-- [Netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
-- [5년차 안드로이드 개발자의 이직이야기](https://medium.com/@maryangmin/5%EB%85%84%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-6004ccc0ca4f)
-- [2019년 클라우드 핵심 트렌드 예측 [번역]](http://www.ciokorea.com/news/113514 )
-
 
 --------------------------------------
 </br>
@@ -166,9 +160,6 @@
 - [10배 뛰어난 개발자 되기 [번역]](http://bit.ly/2OgL1E0)
 - [회사 밖에서 성장하기 [슬라이드]](http://bit.ly/2RWJdhA)
 - [개발자 필독서 50 선](http://bit.ly/2PaCiTs)
-- [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT기업 도전기](https://jojoldu.tistory.com/280#ref=github)
-- [베를린 Software engineer 취업기 (독일 개발자 취업) [영상]](http://bit.ly/2SifdwI)
-- [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
 - [지난 5년 동안 소프트웨어 개발자로서 배운 것들 [번역]](http://bit.ly/2qikyYh)
 - [1000 개의 코드 리뷰를 통해 배운 점 [번역]](http://bit.ly/2zdO0CI)
 - [내가 구글 인터뷰를 풀 타임으로 8 개월 동안 공부한 이유 [번역]](http://bit.ly/2qppx9l)
@@ -188,7 +179,7 @@
 - [개발자가 블로그를 운영해야 할 이유](https://taegon.kim/archives/7107)
 - [프로그래밍 학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
 - [프로그래머 수준 점검표 [번역]](http://blog.daum.net/effortless/7864712)
-- [개발자가 이직에 대해 생각할 때...](https://brunch.co.kr/@supims/4)
+
 - [추천 온라인 강의 및 추천 도서 정리](https://github.com/cheese10yun/dev-info)
 
 --------------------------------------
@@ -248,10 +239,7 @@
 
 --------------------------------------
 
-### 면접
->[주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler) 와 [Tech Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)에서 체계적인 면접 관련 정보를 얻을 수 있습니다!  
-여기에는 면접 관련 **글/영상/슬라이드** 만 공유해주세요! :pray:
-
+### 취업 & 이직 & 면접 & 코딩테스트
 - [웹개발(JAVA,JSP,Spring) 관련 예상 면접 질문](http://bit.ly/2Cbf60r)
 - [넥슨 면접에서 듣게 되는 질문 63가지(2018년 ver.)](http://bit.ly/2OXv0lZ)
 - [카카오 경력공채 면접 후기](http://bit.ly/2ynKQNf)
@@ -260,9 +248,14 @@
 - [스타트업 취업의 고수가 되는 방법](https://platum.kr/archives/109446)
 - [토종 한국인의 구글 취업 후기 [영상]](https://youtu.be/YXf8IuBfxPo)
 - [여기어때 면접에서 듣게 되는 질문 112가지](http://www.bloter.net/archives/325304)
+- [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT기업 도전기](https://jojoldu.tistory.com/280#ref=github)
+- [베를린 Software engineer 취업기 (독일 개발자 취업) [영상]](http://bit.ly/2SifdwI)
+- [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
 - [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
 - [프론트엔드 개발자를 위한 면접(인터뷰) 핸드북 [번역]](https://github.com/yangshun/front-end-interview-handbook/tree/master/Translations/Korean)
 - [개발자를 위한 자료구조, 알고리즘 면접 질문 [영문]](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+- [개발자가 이직에 대해 생각할 때...](https://brunch.co.kr/@supims/4)
+- [5년차 안드로이드 개발자의 이직이야기](https://medium.com/@maryangmin/5%EB%85%84%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-6004ccc0ca4f)
 
 --------------------------------------
 </br>
@@ -422,6 +415,8 @@
 - [Docker 치트시트 [번역]](https://gist.github.com/nacyot/8366310)
 - [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
 - [도커 시작하기(hacker.io 1위) [영문]](https://serversforhackers.com/c/getting-started-with-docker)
+- [Netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
+- [2019년 클라우드 핵심 트렌드 예측 [번역]](http://www.ciokorea.com/news/113514)
 
 --------------------------------------
 
@@ -629,6 +624,7 @@
 - [편리한 git alias 설정하기](https://johngrib.github.io/wiki/git-alias/)
 - [Github Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
 - [Github를 이용하는 전체 흐름 이해하기](https://blog.outsider.ne.kr/865)
+- [git add -p와 git commit -v의 사용](https://blog.outsider.ne.kr/1247?category=18)
 
 --------------------------------------
 
