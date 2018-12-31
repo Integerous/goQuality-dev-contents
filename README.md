@@ -46,6 +46,17 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 1일 화요일
+-
+-
+
+#### 2018년 12월 31일 월요일
+- [Python 프로젝트 시작하기](http://j.mp/2Ss7xrx)
+- [블로그 서버 마이그레이션](https://blog.outsider.ne.kr/1418)
+- [클라우드 서비스 이해하기 IaaS, PaaS, SaaS](https://brunch.co.kr/@leedongins/60)
+- [인텔리제이 활용 꿀팁 42가지](https://www.popit.kr/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC/)
+- [의도적 수련 2 – 프로그래머에게 적합한 의도적 수련](http://www.insightbook.co.kr/13171)
+- [Joshua님의 2018년 회고](http://blog.devjoshua.me/2018/12/30/181230-2018%EB%85%84%ED%9A%8C%EA%B3%A0/)
 
 #### 2018년 12월 30일 일요일
 - [코딩, 어떤 언어로 시작하지?](https://brunch.co.kr/@yhkang0513/3)
