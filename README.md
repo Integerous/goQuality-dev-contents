@@ -53,14 +53,6 @@
 - [실리콘 밸리의 잘나가는 5개 기업과 인터뷰를 봤는데 다 붙고만 썰 [번역]](http://www.looah.com/article/view/2070)
 - [우아한형제들 CI / CD 도입기](http://woowabros.github.io/experience/2018/06/26/bros-cicd.html)
 
-#### 2018년 12월 29일 토요일
-- [개발자, 한 달에 책 한 권 읽기 2018년 결산](http://j.mp/2Als89L)
-- [Vue.js 한국 개발자 모임, Vuetiful Korea Meetup 후기 및 발표자료](https://engineering.linecorp.com/ko/blog/vue-js-developer-meetup/)
-- [웹사이트들의 한글 타이포그래피](https://lqez.github.io/blog/hangul-typo-on-web.html?fb_action_ids=2062358057128072&fb_action_types=og.comments&fb_source=other_multiline&action_object_map=%5B1979264708761812%5D&action_type_map=%5B%22og.comments%22%5D&action_ref_map=%5B%5D)
-- [TDD를 돕는 템플릿 “Given-When-Then”](http://j.mp/2SxeAyU)
-- [리눅스의 페이지 캐시와 버퍼 캐시](https://brunch.co.kr/@alden/25)
-- [JDK8 적용 후 심각한 성능저하가 발생한다면?](https://brunch.co.kr/@heracul/1)
-
 
 --------------------------------------
 </br>
@@ -150,6 +142,7 @@
 - [TDD는 죽었는가? [번역]](http://jinson.tistory.com/271)
 - [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/)
 - [쉬운 테스트 주도 개발과 단위 테스트를 위한 5단계 방법론 [번역]](https://medium.com/@cmygray/%EB%B2%88%EC%97%AD-%EC%89%AC%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-5%EB%8B%A8%EA%B3%84-%EB%B0%A9%EB%B2%95%EB%A1%A0-b82fea6c8d90)
+- [TDD를 돕는 템플릿 “Given-When-Then”](http://j.mp/2SxeAyU)
 
 --------------------------------------
 
@@ -315,6 +308,7 @@
 - [Java프로그래밍 OOM (Out Of Memory) 오류](http://www.nextree.co.kr/p3878/)
 - [객체지향 캡슐화에 대한 실전 예제](https://github.com/cheese10yun/blog-sample/tree/master/encapsulation?fbclid=IwAR1ixqj8nAlarcSXt48kXv7wJ5W_mPd7lOfN1Y76S4Hmnavajfm0GES7fjI)
 - [Spring Rest Docs 적용](http://woowabros.github.io/experience/2018/12/28/spring-rest-docs.html)
+- [JDK8 적용 후 심각한 성능저하가 발생한다면?](https://brunch.co.kr/@heracul/1)
 
 --------------------------------------
 
@@ -454,6 +448,7 @@
 - [bash scripting 간단 정리 [영문]](https://devhints.io/bash.html)
 - [리눅스 서버 60초안에 상황파악하기 [번역]](https://b.luavis.kr/server/linux-performance-analysis)
 - [커맨드라인 능숙하게 다루기 [번역]](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)
+- [리눅스의 페이지 캐시와 버퍼 캐시](https://brunch.co.kr/@alden/25)
 
 --------------------------------------
 </br>
@@ -513,6 +508,7 @@
 - [Front-End 발전 역사와 개발 생태계](https://moon9342.github.io/front-end-ecosystem)
 - [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
 - [자바스크립트 엔진의 최적화 기법](https://meetup.toast.com/posts/78)
+- [Vue.js 한국 개발자 모임, Vuetiful Korea Meetup 후기 및 발표자료](https://engineering.linecorp.com/ko/blog/vue-js-developer-meetup/)
 
 --------------------------------------
 
@@ -544,7 +540,7 @@
 - [UI/UX Prototype 툴 선택 - Just in mind](http://k2unip.tistory.com/m/184)
 - [400개 이상의 아이콘이 있는 오픈소스 프로젝트](https://akveo.github.io/eva-icons/#/)
 - [2800명의 디자이너가 대답한 2018 디자인 도구 설문조사 [영문]](http://uxtools.co/survey-2018)
-
+- [웹사이트들의 한글 타이포그래피](https://lqez.github.io/blog/hangul-typo-on-web.html?fb_action_ids=2062358057128072&fb_action_types=og.comments&fb_source=other_multiline&action_object_map=%5B1979264708761812%5D&action_type_map=%5B%22og.comments%22%5D&action_ref_map=%5B%5D)
 
 --------------------------------------
 
