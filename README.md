@@ -58,12 +58,6 @@
 - [의도적 수련 2 – 프로그래머에게 적합한 의도적 수련](http://www.insightbook.co.kr/13171)
 - [Joshua님의 2018년 회고](http://blog.devjoshua.me/2018/12/30/181230-2018%EB%85%84%ED%9A%8C%EA%B3%A0/)
 
-#### 2018년 12월 30일 일요일
-- [코딩, 어떤 언어로 시작하지?](https://brunch.co.kr/@yhkang0513/3)
-- [더 나은 개발자가 되는 8 가지 방법 [번역]](https://medium.com/@mnpk/%EB%B2%88%EC%97%AD-%EB%8D%94-%EB%82%98%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-8-%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-45ea6cd70114?fbclid=IwAR0xKeQ-G-RQAXaHQUFoYgGNmVSjpk-p0ufXnHvzGoqPqo_34EDtZbu2SVk)
-- [실리콘 밸리의 잘나가는 5개 기업과 인터뷰를 봤는데 다 붙고만 썰 [번역]](http://www.looah.com/article/view/2070)
-- [우아한형제들 CI / CD 도입기](http://woowabros.github.io/experience/2018/06/26/bros-cicd.html)
-
 
 --------------------------------------
 </br>
@@ -182,8 +176,8 @@
 - [개발자가 블로그를 운영해야 할 이유](https://taegon.kim/archives/7107)
 - [프로그래밍 학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
 - [프로그래머 수준 점검표 [번역]](http://blog.daum.net/effortless/7864712)
-
 - [추천 온라인 강의 및 추천 도서 정리](https://github.com/cheese10yun/dev-info)
+- [더 나은 개발자가 되는 8 가지 방법 [번역]](https://medium.com/@mnpk/%EB%B2%88%EC%97%AD-%EB%8D%94-%EB%82%98%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-8-%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-45ea6cd70114?fbclid=IwAR0xKeQ-G-RQAXaHQUFoYgGNmVSjpk-p0ufXnHvzGoqPqo_34EDtZbu2SVk)
 
 --------------------------------------
 
@@ -261,6 +255,7 @@
 - [개발자가 이직에 대해 생각할 때...](https://brunch.co.kr/@supims/4)
 - [5년차 안드로이드 개발자의 이직이야기](https://medium.com/@maryangmin/5%EB%85%84%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-6004ccc0ca4f)
 - [내가 구글 인터뷰를 풀 타임으로 8 개월 동안 공부한 이유 [번역]](http://bit.ly/2qppx9l)
+- [실리콘 밸리의 잘나가는 5개 기업과 인터뷰를 봤는데 다 붙고만 썰 [번역]](http://www.looah.com/article/view/2070)
 
 --------------------------------------
 </br>
