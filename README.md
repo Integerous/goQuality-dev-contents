@@ -46,9 +46,16 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 2일 수요일
+-
+-
+
 #### 2019년 1월 1일 화요일
--
--
+- [프로그래밍 패러다임과 파이썬](https://tech.peoplefund.co.kr/2018/11/28/programming-paradigm-and-python-kor.html)
+- [프레임워크 공부를 멈춰라 [번역]](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474?fbclid=IwAR3PyPzrIcbDkN9oS4MfOCdQZ7evU4ljW6o406sr-wrieyPjjRPpLjat8K0)
+- [Intellij 디버깅 해보기](https://jojoldu.tistory.com/149)
+- [오라클 DB - PL/SQL, 프로시저](https://m.blog.naver.com/PostView.nhn?blogId=javaking75&logNo=140159226620&proxyReferer=&proxyReferer=)
+- [Hibernate setAutoCommit 최적화를 통한 성능 튜닝](https://pkgonan.github.io/2019/01/hibrnate-autocommit-tuning)
 
 --------------------------------------
 </br>
