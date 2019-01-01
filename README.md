@@ -50,15 +50,6 @@
 -
 -
 
-#### 2018년 12월 31일 월요일
-- [Python 프로젝트 시작하기](http://j.mp/2Ss7xrx)
-- [블로그 서버 마이그레이션](https://blog.outsider.ne.kr/1418)
-- [클라우드 서비스 이해하기 IaaS, PaaS, SaaS](https://brunch.co.kr/@leedongins/60)
-- [인텔리제이 활용 꿀팁 42가지](https://www.popit.kr/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC/)
-- [의도적 수련 2 – 프로그래머에게 적합한 의도적 수련](http://www.insightbook.co.kr/13171)
-- [Joshua님의 2018년 회고](http://blog.devjoshua.me/2018/12/30/181230-2018%EB%85%84%ED%9A%8C%EA%B3%A0/)
-
-
 --------------------------------------
 </br>
 </br>
@@ -148,6 +139,7 @@
 - [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/)
 - [쉬운 테스트 주도 개발과 단위 테스트를 위한 5단계 방법론 [번역]](https://medium.com/@cmygray/%EB%B2%88%EC%97%AD-%EC%89%AC%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-5%EB%8B%A8%EA%B3%84-%EB%B0%A9%EB%B2%95%EB%A1%A0-b82fea6c8d90)
 - [TDD를 돕는 템플릿 “Given-When-Then”](http://j.mp/2SxeAyU)
+- [의도적 수련 2 – 프로그래머에게 적합한 의도적 수련](http://www.insightbook.co.kr/13171)
 
 --------------------------------------
 
@@ -234,6 +226,7 @@
 ### 개발자 회고
 - [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/2018/essay/memoirs2018/)
 - [열정 넘치는 주니어 개발자의 주간회고 모음](https://gwonsungjun.github.io/category/#/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0)
+- [Joshua님의 2018년 회고](http://blog.devjoshua.me/2018/12/30/181230-2018%EB%85%84%ED%9A%8C%EA%B3%A0/)
 
 --------------------------------------
 
@@ -315,6 +308,7 @@
 - [객체지향 캡슐화에 대한 실전 예제](https://github.com/cheese10yun/blog-sample/tree/master/encapsulation?fbclid=IwAR1ixqj8nAlarcSXt48kXv7wJ5W_mPd7lOfN1Y76S4Hmnavajfm0GES7fjI)
 - [Spring Rest Docs 적용](http://woowabros.github.io/experience/2018/12/28/spring-rest-docs.html)
 - [JDK8 적용 후 심각한 성능저하가 발생한다면?](https://brunch.co.kr/@heracul/1)
+- [인텔리제이 활용 꿀팁 42가지](https://www.popit.kr/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC/)
 
 --------------------------------------
 
@@ -324,6 +318,7 @@
 - [PEP 8 파이썬 코드 스타일 가이드 번역 및 요약](http://bit.ly/2z10GMW)
 - [파이썬으로 테스트 시작하기 [영문]](https://realpython.com/python-testing/)
 - [Python GC가 작동하는 원리](https://winterj.me/python-gc/)
+- [Python 프로젝트 시작하기](http://j.mp/2Ss7xrx)
 
 --------------------------------------
 
@@ -420,6 +415,8 @@
 - [도커 시작하기(hacker.io 1위) [영문]](https://serversforhackers.com/c/getting-started-with-docker)
 - [Netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
 - [2019년 클라우드 핵심 트렌드 예측 [번역]](http://www.ciokorea.com/news/113514)
+- [블로그 서버 마이그레이션](https://blog.outsider.ne.kr/1418)
+- [클라우드 서비스 이해하기 IaaS, PaaS, SaaS](https://brunch.co.kr/@leedongins/60)
 
 --------------------------------------
 
