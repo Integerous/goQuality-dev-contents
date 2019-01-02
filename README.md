@@ -46,9 +46,26 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 3일 목요일
+-
+-
+
+
 #### 2019년 1월 2일 수요일
--
--
+- [슈퍼마켓에서 우유를 사면서 웹 캐싱(Web Caching)을 알아봅시다 [번역]](https://adhrinae.github.io/posts/web-caching-explained-by-buying-milk-kr)
+- [다이나믹 프록시와 팩토리 빈](http://haviyj.tistory.com/28)
+- [주니어 개발자가 처음 Pull Request보내본 썰](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)
+- [크롬 확장 프로그램으로 웹서버 띄우기](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en)
+- [김영한님의 JPA 소개 [슬라이드]](https://www.slideshare.net/zipkyh/ksug2015-jpa1-jpa-51213397)
+- [Multi Thread 환경에서의 올바른 Singleton](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
+- [개발문화 - 코드리뷰](https://brunch.co.kr/@seonology/23)
+- [치트시트 사이트](https://devhints.io/)
+- [네트워크 장비 없이 공부하기 [영상]](https://www.youtube.com/watch?v=0f1viq6FjK4&t=9s&app=desktop)
+- [TypeScript: 인터페이스(Interface)](https://hyunseob.github.io/2016/10/17/typescript-interface/)
+- [나는 AMP를 좋아하지 않는다.](https://blog.outsider.ne.kr/1285)
+- [웹 글꼴 최적화](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ko)
+- [자바스크립트는 어떻게 작동하는가: 이벤트 루프와 비동기 프로그래밍의 부상, async/await을 이용한 코딩 팁 다섯 가지](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EB%B6%80%EC%83%81-async-await%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%8C%81-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-df65ffb4e7e)
+
 
 #### 2019년 1월 1일 화요일
 - [프로그래밍 패러다임과 파이썬](https://tech.peoplefund.co.kr/2018/11/28/programming-paradigm-and-python-kor.html)
