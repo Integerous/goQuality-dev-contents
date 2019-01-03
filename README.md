@@ -46,10 +46,15 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2019년 1월 3일 목요일
+#### 2019년 1월 4일 금요일
 -
 -
 
+#### 2019년 1월 3일 목요일
+- [프론트엔드 개발자 안도형님의 2018년 회고](https://adhrinae.github.io/posts/retrospective-2018)
+- [창천항로님의 2018년 하반기 회고](https://jojoldu.tistory.com/373)
+- [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://taetaetae.github.io/2019/01/02/faster-parallel-processes/)
+- [HTML - OG(OPEN GRAPH) 태그 란? / 카톡,SNS 미리보기 지정](https://gocoder.tistory.com/315)
 
 #### 2019년 1월 2일 수요일
 - [슈퍼마켓에서 우유를 사면서 웹 캐싱(Web Caching)을 알아봅시다 [번역]](https://adhrinae.github.io/posts/web-caching-explained-by-buying-milk-kr)
