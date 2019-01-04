@@ -61,20 +61,6 @@
 - [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://taetaetae.github.io/2019/01/02/faster-parallel-processes/)
 - [HTML - OG(OPEN GRAPH) 태그 란? / 카톡,SNS 미리보기 지정](https://gocoder.tistory.com/315)
 
-#### 2019년 1월 2일 수요일
-- [슈퍼마켓에서 우유를 사면서 웹 캐싱(Web Caching)을 알아봅시다 [번역]](https://adhrinae.github.io/posts/web-caching-explained-by-buying-milk-kr)
-- [다이나믹 프록시와 팩토리 빈](http://haviyj.tistory.com/28)
-- [주니어 개발자가 처음 Pull Request보내본 썰](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)
-- [크롬 확장 프로그램으로 웹서버 띄우기](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en)
-- [김영한님의 JPA 소개 [슬라이드]](https://www.slideshare.net/zipkyh/ksug2015-jpa1-jpa-51213397)
-- [Multi Thread 환경에서의 올바른 Singleton](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
-- [개발문화 - 코드리뷰](https://brunch.co.kr/@seonology/23)
-- [치트시트 사이트](https://devhints.io/)
-- [네트워크 장비 없이 공부하기 [영상]](https://www.youtube.com/watch?v=0f1viq6FjK4&t=9s&app=desktop)
-- [TypeScript: 인터페이스(Interface)](https://hyunseob.github.io/2016/10/17/typescript-interface/)
-- [나는 AMP를 좋아하지 않는다.](https://blog.outsider.ne.kr/1285)
-- [웹 글꼴 최적화](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ko)
-- [자바스크립트는 어떻게 작동하는가: 이벤트 루프와 비동기 프로그래밍의 부상, async/await을 이용한 코딩 팁 다섯 가지](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EB%B6%80%EC%83%81-async-await%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%8C%81-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-df65ffb4e7e)
 
 --------------------------------------
 </br>
@@ -88,7 +74,7 @@
 - [비전공자 & 신입](https://github.com/Integerous/goQuality-dev-contents#%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90--%EC%8B%A0%EC%9E%85)
 - [세미나/컨퍼런스 후기](https://github.com/Integerous/goQuality-dev-contents#%EC%84%B8%EB%AF%B8%EB%82%98%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0)
 - [개발자 회고](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EA%B3%A0)
-- [면접 관련](https://github.com/Integerous/goQuality-dev-contents#%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%B3%B4)
+- [취업 & 이직 & 면접 & 코딩테스트](https://github.com/Integerous/goQuality-dev-contents#%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%B3%B4)
 
 ### 2. [언어 & 프레임워크](https://github.com/Integerous/goQuality-dev-contents#2-%EC%96%B8%EC%96%B4--%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-1)
 - [Java & Spring](https://github.com/Integerous/goQuality-dev-contents#java--spring)
@@ -102,7 +88,7 @@
 
 ### 4. [프론트엔드](https://github.com/Integerous/goQuality-dev-contents#4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-1)
 - [Javascript 관련](https://github.com/Integerous/goQuality-dev-contents#javascript-%EA%B4%80%EB%A0%A8)
-- [디자인 & UI/UX](https://github.com/Integerous/goQuality-dev-contents#%EB%94%94%EC%9E%90%EC%9D%B8--uiux)
+- [디자인 & UI/UX & 폰트](https://github.com/Integerous/goQuality-dev-contents#%EB%94%94%EC%9E%90%EC%9D%B8--uiux)
 - [모바일 & iOS & 안드로이드](https://github.com/Integerous/goQuality-dev-contents#%EB%AA%A8%EB%B0%94%EC%9D%BC--ios--%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 
 ### 5. [기타](https://github.com/Integerous/goQuality-dev-contents#5-%EA%B8%B0%ED%83%80-1)
@@ -167,6 +153,7 @@
 - [TDD를 돕는 템플릿 “Given-When-Then”](http://j.mp/2SxeAyU)
 - [의도적 수련 2 – 프로그래머에게 적합한 의도적 수련](http://www.insightbook.co.kr/13171)
 - [프레임워크 공부를 멈춰라 [번역]](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474?fbclid=IwAR3PyPzrIcbDkN9oS4MfOCdQZ7evU4ljW6o406sr-wrieyPjjRPpLjat8K0)
+- [개발문화 - 코드리뷰](https://brunch.co.kr/@seonology/23)
 
 --------------------------------------
 
@@ -336,6 +323,9 @@
 - [Spring Rest Docs 적용](http://woowabros.github.io/experience/2018/12/28/spring-rest-docs.html)
 - [JDK8 적용 후 심각한 성능저하가 발생한다면?](https://brunch.co.kr/@heracul/1)
 - [인텔리제이 활용 꿀팁 42가지](https://www.popit.kr/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC/)
+- [다이나믹 프록시와 팩토리 빈](http://haviyj.tistory.com/28)
+- [김영한님의 JPA 소개 [슬라이드]](https://www.slideshare.net/zipkyh/ksug2015-jpa1-jpa-51213397)
+- [Multi Thread 환경에서의 올바른 Singleton](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
 
 --------------------------------------
 
@@ -539,10 +529,12 @@
 - [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
 - [자바스크립트 엔진의 최적화 기법](https://meetup.toast.com/posts/78)
 - [Vue.js 한국 개발자 모임, Vuetiful Korea Meetup 후기 및 발표자료](https://engineering.linecorp.com/ko/blog/vue-js-developer-meetup/)
+- [TypeScript: 인터페이스(Interface)](https://hyunseob.github.io/2016/10/17/typescript-interface/)
+- [자바스크립트는 어떻게 작동하는가: 이벤트 루프와 비동기 프로그래밍의 부상, async/await을 이용한 코딩 팁 다섯 가지](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EB%B6%80%EC%83%81-async-await%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%8C%81-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-df65ffb4e7e)
 
 --------------------------------------
 
-### 디자인 & UI/UX
+### 디자인 & UI/UX & 폰트
 - [미니멀 UI의 차기 트렌드 '컴플렉션 리덕션'](http://bit.ly/2RBMNxA)
 - [Material 디자인의 밀도에 대한 설명](http://bit.ly/2C4N0nx)
 - [키오스크 UI 설계 시 고려할 것들](http://bit.ly/2RBnawK)
@@ -571,6 +563,7 @@
 - [400개 이상의 아이콘이 있는 오픈소스 프로젝트](https://akveo.github.io/eva-icons/#/)
 - [2800명의 디자이너가 대답한 2018 디자인 도구 설문조사 [영문]](http://uxtools.co/survey-2018)
 - [웹사이트들의 한글 타이포그래피](https://lqez.github.io/blog/hangul-typo-on-web.html?fb_action_ids=2062358057128072&fb_action_types=og.comments&fb_source=other_multiline&action_object_map=%5B1979264708761812%5D&action_type_map=%5B%22og.comments%22%5D&action_ref_map=%5B%5D)
+- [웹 글꼴 최적화](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ko)
 
 --------------------------------------
 
@@ -624,6 +617,9 @@
 - [HTTP 쿠키와 톰캣 버전별 이슈 정리](https://meetup.toast.com/posts/172)
 - [다양한 Redirection의 종류](https://developer.mozilla.org/ko/docs/Web/HTTP/Redirections)
 - [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726?fbclid=IwAR0xOrYNsE4NU6D0jzBMTEND_DhiJpjvDneoMn5mh28PdfTJYwbJ-XHvAns)
+- [슈퍼마켓에서 우유를 사면서 웹 캐싱(Web Caching)을 알아봅시다 [번역]](https://adhrinae.github.io/posts/web-caching-explained-by-buying-milk-kr)
+- [크롬 확장 프로그램으로 웹서버 띄우기](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en)
+- [나는 AMP를 좋아하지 않는다.](https://blog.outsider.ne.kr/1285)
 
 --------------------------------------
 
@@ -655,6 +651,7 @@
 - [Github Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
 - [Github를 이용하는 전체 흐름 이해하기](https://blog.outsider.ne.kr/865)
 - [git add -p와 git commit -v의 사용](https://blog.outsider.ne.kr/1247?category=18)
+- [주니어 개발자가 처음 Pull Request보내본 썰](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)
 
 --------------------------------------
 
@@ -717,6 +714,8 @@
 - [한국어 형태소분석기 6개의 성능 비교](https://iostream.tistory.com/144?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 - [Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자](https://johngrib.github.io/wiki/my-wiki/)
 - [Intellij 디버깅 해보기](https://jojoldu.tistory.com/149)
+- [치트시트 사이트](https://devhints.io/)
+- [네트워크 장비 없이 공부하기 [영상]](https://www.youtube.com/watch?v=0f1viq6FjK4&t=9s&app=desktop)
 
 --------------------------------------
 </br>
