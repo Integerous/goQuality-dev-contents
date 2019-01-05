@@ -55,12 +55,6 @@
 - [구글에서 시행중인 사이트 신뢰성 엔지니어링(SRE)이란?](https://blog.outsider.ne.kr/1358)
 - [프론트 웹 기술 기초를 학습할 수 있는 사이트](https://poiemaweb.com/)
 
-#### 2019년 1월 3일 목요일
-- [프론트엔드 개발자 안도형님의 2018년 회고](https://adhrinae.github.io/posts/retrospective-2018)
-- [창천항로님의 2018년 하반기 회고](https://jojoldu.tistory.com/373)
-- [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://taetaetae.github.io/2019/01/02/faster-parallel-processes/)
-- [HTML - OG(OPEN GRAPH) 태그 란? / 카톡,SNS 미리보기 지정](https://gocoder.tistory.com/315)
-
 
 --------------------------------------
 </br>
@@ -238,9 +232,12 @@
 --------------------------------------
 
 ### 개발자 회고
+>[개발자 회고 모음](https://github.com/oaksong/developers-retrospective)에 가시면 더 많은 회고들이 있습니다!
 - [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/2018/essay/memoirs2018/)
 - [열정 넘치는 주니어 개발자의 주간회고 모음](https://gwonsungjun.github.io/category/#/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0)
 - [Joshua님의 2018년 회고](http://blog.devjoshua.me/2018/12/30/181230-2018%EB%85%84%ED%9A%8C%EA%B3%A0/)
+- [프론트엔드 개발자 안도형님의 2018년 회고](https://adhrinae.github.io/posts/retrospective-2018)
+- [창천항로님의 2018년 하반기 회고](https://jojoldu.tistory.com/373)
 
 --------------------------------------
 
@@ -434,6 +431,7 @@
 - [2019년 클라우드 핵심 트렌드 예측 [번역]](http://www.ciokorea.com/news/113514)
 - [블로그 서버 마이그레이션](https://blog.outsider.ne.kr/1418)
 - [클라우드 서비스 이해하기 IaaS, PaaS, SaaS](https://brunch.co.kr/@leedongins/60)
+- [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://taetaetae.github.io/2019/01/02/faster-parallel-processes/)
 
 --------------------------------------
 
