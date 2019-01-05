@@ -292,7 +292,7 @@
 - [Spring Security OAtuh2 기반 정리글](https://github.com/cheese10yun/springboot-oauth2)
 - [자바 프로그래머가 자주 실수하는 10가지 1편 [번역]](https://bestalign.github.io/2015/08/31/top-10-mistakes-java-developers-make-1/)
 - [Maven vs Gradle 비교 정리](https://bkim.tistory.com/13)
-- [Spring 예제로 보는 SOLID 단일 책임원칙](https://github.com/cheese10yun/spring-SOLID/blob/master/docs/SRP.md)
+- [Spring 예제로 보는 SOLID](https://github.com/cheese10yun/spring-SOLID)
 - [JPA 변경 감지와 스프링 데이터](https://www.popit.kr/jpa-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0/)
 - [Selenium으로 Java+Spring 환경에서 웹 스크랩핑 하기](https://www.popit.kr/web-scraping-by-selenium/)
 - [자바 직렬화, 그것이 알고싶다. (훑어보기편)](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
