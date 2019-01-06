@@ -55,11 +55,6 @@
 - [자바스크립트 이벤트 루프 시각적 설명](http://latentflip.com/loupe/)
 - [(관련자료)자바스크립트 이벤트 루프, 동시성모델 설명](https://developer-mac.tistory.com/m/43)
 
-#### 2019년 1월 4일 금요일
-- [새해, 사이드 프로젝트에 도움이 될만한 디자인 리소스](https://brunch.co.kr/@mobiinside/1423)
-- [구글에서 시행중인 사이트 신뢰성 엔지니어링(SRE)이란?](https://blog.outsider.ne.kr/1358)
-- [프론트 웹 기술 기초를 학습할 수 있는 사이트](https://poiemaweb.com/)
-
 
 --------------------------------------
 </br>
@@ -534,6 +529,8 @@
 - [Vue.js 한국 개발자 모임, Vuetiful Korea Meetup 후기 및 발표자료](https://engineering.linecorp.com/ko/blog/vue-js-developer-meetup/)
 - [TypeScript: 인터페이스(Interface)](https://hyunseob.github.io/2016/10/17/typescript-interface/)
 - [자바스크립트는 어떻게 작동하는가: 이벤트 루프와 비동기 프로그래밍의 부상, async/await을 이용한 코딩 팁 다섯 가지](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EB%B6%80%EC%83%81-async-await%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%8C%81-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-df65ffb4e7e)
+- [프론트 웹 기술 기초를 학습할 수 있는 사이트](https://poiemaweb.com/)
+
 
 --------------------------------------
 
@@ -567,6 +564,7 @@
 - [2800명의 디자이너가 대답한 2018 디자인 도구 설문조사 [영문]](http://uxtools.co/survey-2018)
 - [웹사이트들의 한글 타이포그래피](https://lqez.github.io/blog/hangul-typo-on-web.html?fb_action_ids=2062358057128072&fb_action_types=og.comments&fb_source=other_multiline&action_object_map=%5B1979264708761812%5D&action_type_map=%5B%22og.comments%22%5D&action_ref_map=%5B%5D)
 - [웹 글꼴 최적화](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ko)
+- [새해, 사이드 프로젝트에 도움이 될만한 디자인 리소스](https://brunch.co.kr/@mobiinside/1423)
 
 --------------------------------------
 
@@ -719,6 +717,7 @@
 - [Intellij 디버깅 해보기](https://jojoldu.tistory.com/149)
 - [치트시트 사이트](https://devhints.io/)
 - [네트워크 장비 없이 공부하기 [영상]](https://www.youtube.com/watch?v=0f1viq6FjK4&t=9s&app=desktop)
+- [구글에서 시행중인 사이트 신뢰성 엔지니어링(SRE)이란?](https://blog.outsider.ne.kr/1358)
 
 --------------------------------------
 </br>
