@@ -46,9 +46,17 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 7일 월요일
+-
+-
+
 #### 2019년 1월 6일 일요일
--
--
+- [Velopert님의 2018년 회고](https://velog.io/@velopert/2018.log)
+- [데이터베이스 개념정리](https://brunch.co.kr/@toughrogrammer/17)
+- [‘PUBLIC API’ 이제 한 곳에서 조건에 따라 확인해보세요!](http://icunow.co.kr/public-apis/)
+- [좋은 개발자 / 유명한 개발자](https://medium.com/@pitzcarraldo/%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9C%A0%EB%AA%85%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-19b20a7d6ace)
+- [자바스크립트 엔진의 최적화 기법 - JITC, Adaptive Compliation](https://meetup.toast.com/posts/77)
+- [대학생을 위한 웹 개발 공부용 체크리스트](https://xguru.net/1897)
 
 #### 2019년 1월 5일 토요일
 - [문과생을 위한 앱 만들기 강좌](https://youtu.be/yx6cO7n361I)
