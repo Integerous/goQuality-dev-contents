@@ -47,7 +47,7 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 #### 2019년 1월 7일 월요일
--
+- [초보자를 위한 쿠버네티스 (Kubernetes) 소개](https://www.samsungsds.com/global/ko/support/insights/Kubernetes_inform_kr.html)
 -
 
 #### 2019년 1월 6일 일요일
