@@ -46,9 +46,18 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+
+#### 2019년 1월 8일 화요일
+-
+-
+
 #### 2019년 1월 7일 월요일
 - [초보자를 위한 쿠버네티스 (Kubernetes) 소개](https://www.samsungsds.com/global/ko/support/insights/Kubernetes_inform_kr.html)
--
+- [인스타그램 알고리즘의 거의 모든 것](https://brunch.co.kr/@mobiinside/1413)
+- [크롬 개발자도구 101 (기초내용 정리)](https://lqez.github.io/blog/chrome-dev-tool-101.html)
+- [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/?fbclid=IwAR00_dC1HaCSA3PfvtRpopsJp0rT9Z3km9kKKDYYvLEZHsSYssinZAxhV5E)
+- [객체 모델링 공부하게 책 하나 추천해주세요.](https://www.popit.kr/%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B2%8C-%EC%B1%85-%ED%95%98%EB%82%98-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
+- [프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/)
 
 #### 2019년 1월 6일 일요일
 - [Velopert님의 2018년 회고](https://velog.io/@velopert/2018.log)
