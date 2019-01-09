@@ -47,9 +47,21 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 1월 10일 목요일
+-
+-
+
 #### 2019년 1월 9일 수요일
--
--
+- [빠른 웹사이트를 만드는 방법](https://youtu.be/reztLS3vomE)
+- [동영상 플랫폼 개발 프레임워크의 Spring Boot 전환기](https://d2.naver.com/helloworld/5626759)
+- [프로그래머 필독서 50선](http://blog.weirdx.io/post/55893)
+- [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667)
+- [개발자 직군 파헤치기 [번역]](https://medium.com/code-states/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%81%EA%B5%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-1-%ED%94%84%EB%A1%A0%ED%8A%B8-front-%EB%B0%B1-back-%ED%92%80%EC%8A%A4%ED%83%9D-full-stack-%EA%B0%9C%EB%B0%9C%EC%9E%90-f6c2f53e5b3b)
+- [2019년에는 Vue.js를 배워야하는 3가지 이유](http://leagueoflegend.tistory.com/49)
+- [자바 바이트코드 소개](https://iamsang.com/blog/2012/08/19/introduction-to-java-bytecode/)
+- [Spring MVC 전체 흐름 알아보기 [슬라이드]](https://www.slideshare.net/hanmomhanda/spring-mvc-fullflow)
+- [REST API 튜토리얼 [영문]](https://restapitutorial.com/)
+- [자바 HashMap 효과적으로 사용하기](http://tech.javacafe.io/2018/12/03/HashMap)
 
 #### 2019년 1월 8일 화요일
 - [개발자에게 좋은 직장 혹은 좋은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
