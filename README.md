@@ -58,14 +58,6 @@
 - [Spring async 로 비동기 처리를 하면서 HttpSession이 가진 정보를 활용할 수 있는 팁](http://dveamer.github.io/backend/SpringAsyncSession.html)
 - [Vim에 매료되다.](https://blog.hax0r.info/2018-06-27/be-fascinated-by-vim/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=Vim%EC%97%90+%EB%A7%A4%EB%A3%8C%EB%90%98%EB%8B%A4.+%28Feat.Happy+Hacking%29)
 
-#### 2019년 1월 7일 월요일
-- [초보자를 위한 쿠버네티스 (Kubernetes) 소개](https://www.samsungsds.com/global/ko/support/insights/Kubernetes_inform_kr.html)
-- [인스타그램 알고리즘의 거의 모든 것](https://brunch.co.kr/@mobiinside/1413)
-- [크롬 개발자도구 101 (기초내용 정리)](https://lqez.github.io/blog/chrome-dev-tool-101.html)
-- [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/?fbclid=IwAR00_dC1HaCSA3PfvtRpopsJp0rT9Z3km9kKKDYYvLEZHsSYssinZAxhV5E)
-- [객체 모델링 공부하게 책 하나 추천해주세요.](https://www.popit.kr/%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B2%8C-%EC%B1%85-%ED%95%98%EB%82%98-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
-- [프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/)
-
 
 --------------------------------------
 </br>
@@ -159,7 +151,7 @@
 - [의도적 수련 2 – 프로그래머에게 적합한 의도적 수련](http://www.insightbook.co.kr/13171)
 - [프레임워크 공부를 멈춰라 [번역]](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474?fbclid=IwAR3PyPzrIcbDkN9oS4MfOCdQZ7evU4ljW6o406sr-wrieyPjjRPpLjat8K0)
 - [개발문화 - 코드리뷰](https://brunch.co.kr/@seonology/23)
-
+- [객체 모델링 공부하게 책 하나 추천해주세요.](https://www.popit.kr/%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B2%8C-%EC%B1%85-%ED%95%98%EB%82%98-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
 --------------------------------------
 
 ### 개발자 성장
@@ -190,6 +182,7 @@
 - [추천 온라인 강의 및 추천 도서 정리](https://github.com/cheese10yun/dev-info)
 - [더 나은 개발자가 되는 8 가지 방법 [번역]](https://medium.com/@mnpk/%EB%B2%88%EC%97%AD-%EB%8D%94-%EB%82%98%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-8-%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-45ea6cd70114?fbclid=IwAR0xKeQ-G-RQAXaHQUFoYgGNmVSjpk-p0ufXnHvzGoqPqo_34EDtZbu2SVk)
 - [좋은 개발자 / 유명한 개발자](https://medium.com/@pitzcarraldo/%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9C%A0%EB%AA%85%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-19b20a7d6ace)
+- [프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/)
 
 --------------------------------------
 
@@ -636,6 +629,7 @@
 - [슈퍼마켓에서 우유를 사면서 웹 캐싱(Web Caching)을 알아봅시다 [번역]](https://adhrinae.github.io/posts/web-caching-explained-by-buying-milk-kr)
 - [크롬 확장 프로그램으로 웹서버 띄우기](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en)
 - [나는 AMP를 좋아하지 않는다.](https://blog.outsider.ne.kr/1285)
+- [크롬 개발자도구 101 (기초내용 정리)](https://lqez.github.io/blog/chrome-dev-tool-101.html)
 
 --------------------------------------
 
@@ -734,6 +728,7 @@
 - [네트워크 장비 없이 공부하기 [영상]](https://www.youtube.com/watch?v=0f1viq6FjK4&t=9s&app=desktop)
 - [구글에서 시행중인 사이트 신뢰성 엔지니어링(SRE)이란?](https://blog.outsider.ne.kr/1358)
 - [‘PUBLIC API’ 이제 한 곳에서 조건에 따라 확인해보세요!](http://icunow.co.kr/public-apis/)
+- [인스타그램 알고리즘의 거의 모든 것](https://brunch.co.kr/@mobiinside/1413)
 
 --------------------------------------
 </br>
