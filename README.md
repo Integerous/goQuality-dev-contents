@@ -63,13 +63,6 @@
 - [REST API 튜토리얼 [영문]](https://restapitutorial.com/)
 - [자바 HashMap 효과적으로 사용하기](http://tech.javacafe.io/2018/12/03/HashMap)
 
-#### 2019년 1월 8일 화요일
-- [개발자에게 좋은 직장 혹은 좋은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
-- [2019년 웹앱 개발의 전망과 화두](https://medium.com/harrythegreat/2019%EB%85%84-%EC%9B%B9-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%A0%84%EB%A7%9D%EA%B3%BC-%ED%99%94%EB%91%90-654d00686a59)
-- [AngularJS, Ionic, ReactJS, Node, MeteorJS 정리](https://brunch.co.kr/@withfpp/1)
-- [Spring async 로 비동기 처리를 하면서 HttpSession이 가진 정보를 활용할 수 있는 팁](http://dveamer.github.io/backend/SpringAsyncSession.html)
-- [Vim에 매료되다.](https://blog.hax0r.info/2018-06-27/be-fascinated-by-vim/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=Vim%EC%97%90+%EB%A7%A4%EB%A3%8C%EB%90%98%EB%8B%A4.+%28Feat.Happy+Hacking%29)
-
 
 --------------------------------------
 </br>
@@ -164,6 +157,8 @@
 - [프레임워크 공부를 멈춰라 [번역]](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474?fbclid=IwAR3PyPzrIcbDkN9oS4MfOCdQZ7evU4ljW6o406sr-wrieyPjjRPpLjat8K0)
 - [개발문화 - 코드리뷰](https://brunch.co.kr/@seonology/23)
 - [객체 모델링 공부하게 책 하나 추천해주세요.](https://www.popit.kr/%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B2%8C-%EC%B1%85-%ED%95%98%EB%82%98-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
+- [개발자에게 좋은 직장 혹은 좋은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
+
 --------------------------------------
 
 ### 개발자 성장
@@ -341,6 +336,7 @@
 - [다이나믹 프록시와 팩토리 빈](http://haviyj.tistory.com/28)
 - [김영한님의 JPA 소개 [슬라이드]](https://www.slideshare.net/zipkyh/ksug2015-jpa1-jpa-51213397)
 - [Multi Thread 환경에서의 올바른 Singleton](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
+- [Spring async 로 비동기 처리를 하면서 HttpSession이 가진 정보를 활용할 수 있는 팁](http://dveamer.github.io/backend/SpringAsyncSession.html)
 
 --------------------------------------
 
@@ -642,6 +638,7 @@
 - [크롬 확장 프로그램으로 웹서버 띄우기](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en)
 - [나는 AMP를 좋아하지 않는다.](https://blog.outsider.ne.kr/1285)
 - [크롬 개발자도구 101 (기초내용 정리)](https://lqez.github.io/blog/chrome-dev-tool-101.html)
+- [2019년 웹앱 개발의 전망과 화두](https://medium.com/harrythegreat/2019%EB%85%84-%EC%9B%B9-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%A0%84%EB%A7%9D%EA%B3%BC-%ED%99%94%EB%91%90-654d00686a59)
 
 --------------------------------------
 
@@ -741,6 +738,7 @@
 - [구글에서 시행중인 사이트 신뢰성 엔지니어링(SRE)이란?](https://blog.outsider.ne.kr/1358)
 - [‘PUBLIC API’ 이제 한 곳에서 조건에 따라 확인해보세요!](http://icunow.co.kr/public-apis/)
 - [인스타그램 알고리즘의 거의 모든 것](https://brunch.co.kr/@mobiinside/1413)
+- [Vim에 매료되다.](https://blog.hax0r.info/2018-06-27/be-fascinated-by-vim/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=Vim%EC%97%90+%EB%A7%A4%EB%A3%8C%EB%90%98%EB%8B%A4.+%28Feat.Happy+Hacking%29)
 
 --------------------------------------
 </br>
