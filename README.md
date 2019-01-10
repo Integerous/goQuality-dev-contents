@@ -47,9 +47,19 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 1월 11일 금요일
+-
+-
+
 #### 2019년 1월 10일 목요일
 - [효과적인 소프트웨어 문서를 작성하는 방법](https://blog.voidmainvoid.net/185)
--
+- [OAuth2를 이용한 SSO 환경 구축](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-1-2/)
+- [2019 UX/UI 디자인 트렌드](https://brunch.co.kr/@usdlab/38?utm_medium=gaerae.com)
+- [git 브랜치를 배워 봅시다](https://learngitbranching.js.org/)
+- [RESTful API 문서 만들기 Spring REST Docs [영상]](https://www.youtube.com/watch?v=A3WDAVQP32k&feature=youtu.be)
+- [Behavior Tree 개념 살펴보기](https://engineering.linecorp.com/ko/blog/behavior-tree/)
+- [Rob Pike - 'Concurrency Is Not Parallelism' [영상]](https://www.youtube.com/watch?v=cN_DpYBzKso&t=17s)
+- [아마존 3년 출근기 1편](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
 
 #### 2019년 1월 9일 수요일
 - [빠른 웹사이트를 만드는 방법](https://youtu.be/reztLS3vomE)
