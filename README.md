@@ -64,17 +64,6 @@
 - [머신러닝 적용의 실제](https://brunch.co.kr/@kakao-it/104)
 
 
-#### 2019년 1월 10일 목요일
-- [효과적인 소프트웨어 문서를 작성하는 방법](https://blog.voidmainvoid.net/185)
-- [OAuth2를 이용한 SSO 환경 구축](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-1-2/)
-- [2019 UX/UI 디자인 트렌드](https://brunch.co.kr/@usdlab/38?utm_medium=gaerae.com)
-- [git 브랜치를 배워 봅시다](https://learngitbranching.js.org/)
-- [RESTful API 문서 만들기 Spring REST Docs [영상]](https://www.youtube.com/watch?v=A3WDAVQP32k&feature=youtu.be)
-- [Behavior Tree 개념 살펴보기](https://engineering.linecorp.com/ko/blog/behavior-tree/)
-- [Rob Pike - 'Concurrency Is Not Parallelism' [영상]](https://www.youtube.com/watch?v=cN_DpYBzKso&t=17s)
-- [아마존 3년 출근기 1편](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
-
-
 --------------------------------------
 </br>
 </br>
@@ -353,6 +342,7 @@
 - [자바 바이트코드 소개](https://iamsang.com/blog/2012/08/19/introduction-to-java-bytecode/)
 - [Spring MVC 전체 흐름 알아보기 [슬라이드]](https://www.slideshare.net/hanmomhanda/spring-mvc-fullflow)
 - [자바 HashMap 효과적으로 사용하기 [번역]](http://tech.javacafe.io/2018/12/03/HashMap)
+- [RESTful API 문서 만들기 Spring REST Docs [영상]](https://www.youtube.com/watch?v=A3WDAVQP32k&feature=youtu.be)
 
 --------------------------------------
 
@@ -598,6 +588,7 @@
 - [웹사이트들의 한글 타이포그래피](https://lqez.github.io/blog/hangul-typo-on-web.html?fb_action_ids=2062358057128072&fb_action_types=og.comments&fb_source=other_multiline&action_object_map=%5B1979264708761812%5D&action_type_map=%5B%22og.comments%22%5D&action_ref_map=%5B%5D)
 - [웹 글꼴 최적화](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ko)
 - [새해, 사이드 프로젝트에 도움이 될만한 디자인 리소스](https://brunch.co.kr/@mobiinside/1423)
+- [2019 UX/UI 디자인 트렌드](https://brunch.co.kr/@usdlab/38?utm_medium=gaerae.com)
 
 --------------------------------------
 
@@ -697,6 +688,7 @@
 - [영상을 통한 자료구조와 알고리즘의 시각화 [번역]](http://bit.ly/2yvC9Q9)
 - [알고리즘 & 자료구조 온라인 사전 [영문]](http://bit.ly/2q9WiaN)
 - [코딩 인터뷰를 깨부술 10가지 자료구조/알고리즘 강의 [영문]](http://bit.ly/2SzcYVW)
+- [Behavior Tree 개념 살펴보기](https://engineering.linecorp.com/ko/blog/behavior-tree/)
 
 --------------------------------------
 
@@ -759,6 +751,8 @@
 - [인스타그램 알고리즘의 거의 모든 것](https://brunch.co.kr/@mobiinside/1413)
 - [Vim에 매료되다.](https://blog.hax0r.info/2018-06-27/be-fascinated-by-vim/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=Vim%EC%97%90+%EB%A7%A4%EB%A3%8C%EB%90%98%EB%8B%A4.+%28Feat.Happy+Hacking%29)
 - [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667)
+- [OAuth2를 이용한 SSO 환경 구축](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-1-2/)
+- [Rob Pike - 'Concurrency Is Not Parallelism' [영상]](https://www.youtube.com/watch?v=cN_DpYBzKso&t=17s)
 
 --------------------------------------
 </br>
