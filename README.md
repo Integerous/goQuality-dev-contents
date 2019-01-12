@@ -47,9 +47,17 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 1월 12일 토요일
+-
+-
+
 #### 2019년 1월 11일 금요일
--
--
+- [React에서 mobx 경험기 (Redux와 비교기)](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
+- [Spring MVC Redirect 처리중에 발생한 Out Of Memory 원인 분석하기](https://taetaetae.github.io/2019/01/10/spring-redirect-oom)
+- [JVM위에서 MapReduce를 간편하게 수행할 수 있는 opensource library, Cascading 소개글](https://blog.voidmainvoid.net/171)
+- [The Ral TDD 컨퍼런스 영상](https://okky.kr/article/538114)
+- [머신러닝 적용의 실제](https://brunch.co.kr/@kakao-it/104)
+
 
 #### 2019년 1월 10일 목요일
 - [효과적인 소프트웨어 문서를 작성하는 방법](https://blog.voidmainvoid.net/185)
