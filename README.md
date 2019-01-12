@@ -61,18 +61,6 @@
 - [Rob Pike - 'Concurrency Is Not Parallelism' [영상]](https://www.youtube.com/watch?v=cN_DpYBzKso&t=17s)
 - [아마존 3년 출근기 1편](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
 
-#### 2019년 1월 9일 수요일
-- [빠른 웹사이트를 만드는 방법](https://youtu.be/reztLS3vomE)
-- [동영상 플랫폼 개발 프레임워크의 Spring Boot 전환기](https://d2.naver.com/helloworld/5626759)
-- [프로그래머 필독서 50선](http://blog.weirdx.io/post/55893)
-- [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667)
-- [개발자 직군 파헤치기 [번역]](https://medium.com/code-states/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%81%EA%B5%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-1-%ED%94%84%EB%A1%A0%ED%8A%B8-front-%EB%B0%B1-back-%ED%92%80%EC%8A%A4%ED%83%9D-full-stack-%EA%B0%9C%EB%B0%9C%EC%9E%90-f6c2f53e5b3b)
-- [2019년에는 Vue.js를 배워야하는 3가지 이유](http://leagueoflegend.tistory.com/49)
-- [자바 바이트코드 소개](https://iamsang.com/blog/2012/08/19/introduction-to-java-bytecode/)
-- [Spring MVC 전체 흐름 알아보기 [슬라이드]](https://www.slideshare.net/hanmomhanda/spring-mvc-fullflow)
-- [REST API 튜토리얼 [영문]](https://restapitutorial.com/)
-- [자바 HashMap 효과적으로 사용하기](http://tech.javacafe.io/2018/12/03/HashMap)
-
 
 --------------------------------------
 </br>
@@ -228,6 +216,7 @@
 - [마흔살 기획자 프로그래머 되다](http://www.ibatstudio.com/%EB%A7%88%ED%9D%94%EC%82%B4-%EA%B8%B0%ED%9A%8D%EC%9E%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%90%98%EB%8B%A4/)
 - [신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?](https://medium.com/@Jbee_/신입-프론트엔드-개발자가-되려면-무엇을-학습해야-하나요-1dd59a14e084)
 - [경력자가 1년차 개발자로 되돌아간다면, 어떤 것에 집중할 것인가?](https://jojoldu.tistory.com/363?category=689637)
+- [개발자 직군 파헤치기 [번역]](https://medium.com/code-states/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%81%EA%B5%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-1-%ED%94%84%EB%A1%A0%ED%8A%B8-front-%EB%B0%B1-back-%ED%92%80%EC%8A%A4%ED%83%9D-full-stack-%EA%B0%9C%EB%B0%9C%EC%9E%90-f6c2f53e5b3b)
 
 --------------------------------------
 
@@ -347,6 +336,10 @@
 - [김영한님의 JPA 소개 [슬라이드]](https://www.slideshare.net/zipkyh/ksug2015-jpa1-jpa-51213397)
 - [Multi Thread 환경에서의 올바른 Singleton](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
 - [Spring async 로 비동기 처리를 하면서 HttpSession이 가진 정보를 활용할 수 있는 팁](http://dveamer.github.io/backend/SpringAsyncSession.html)
+- [동영상 플랫폼 개발 프레임워크의 Spring Boot 전환기](https://d2.naver.com/helloworld/5626759)
+- [자바 바이트코드 소개](https://iamsang.com/blog/2012/08/19/introduction-to-java-bytecode/)
+- [Spring MVC 전체 흐름 알아보기 [슬라이드]](https://www.slideshare.net/hanmomhanda/spring-mvc-fullflow)
+- [자바 HashMap 효과적으로 사용하기 [번역]](http://tech.javacafe.io/2018/12/03/HashMap)
 
 --------------------------------------
 
@@ -557,6 +550,7 @@
 - [프론트 웹 기술 기초를 학습할 수 있는 사이트](https://poiemaweb.com/)
 - [자바스크립트 이벤트 루프 시각적 설명 [영상]](http://latentflip.com/loupe/)
 - [자바스크립트 엔진의 최적화 기법 - JITC, Adaptive Compliation](https://meetup.toast.com/posts/77)
+- [2019년에는 Vue.js를 배워야 하는 3가지 이유](http://leagueoflegend.tistory.com/49)
 
 --------------------------------------
 
@@ -649,6 +643,8 @@
 - [나는 AMP를 좋아하지 않는다.](https://blog.outsider.ne.kr/1285)
 - [크롬 개발자도구 101 (기초내용 정리)](https://lqez.github.io/blog/chrome-dev-tool-101.html)
 - [2019년 웹앱 개발의 전망과 화두](https://medium.com/harrythegreat/2019%EB%85%84-%EC%9B%B9-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%A0%84%EB%A7%9D%EA%B3%BC-%ED%99%94%EB%91%90-654d00686a59)
+- [빠른 웹사이트를 만드는 방법 [영상]](https://youtu.be/reztLS3vomE)
+- [REST API 튜토리얼 [영문]](https://restapitutorial.com/)
 
 --------------------------------------
 
@@ -749,6 +745,7 @@
 - [‘PUBLIC API’ 이제 한 곳에서 조건에 따라 확인해보세요!](http://icunow.co.kr/public-apis/)
 - [인스타그램 알고리즘의 거의 모든 것](https://brunch.co.kr/@mobiinside/1413)
 - [Vim에 매료되다.](https://blog.hax0r.info/2018-06-27/be-fascinated-by-vim/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=Vim%EC%97%90+%EB%A7%A4%EB%A3%8C%EB%90%98%EB%8B%A4.+%28Feat.Happy+Hacking%29)
+- [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667)
 
 --------------------------------------
 </br>
