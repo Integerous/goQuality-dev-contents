@@ -46,10 +46,15 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 13일 일요일
+-
+-
 
 #### 2019년 1월 12일 토요일
--
--
+- [GET과 POST의 차이](https://blog.outsider.ne.kr/312#footnote_312_1)
+- [대학생을 위한 웹 개발 공부용 체크리스트](https://xguru.net/1897)
+- [HTTPS는 HTTP보다 빠르다](https://tech.ssut.me/)
+- [ReactJS Hooks 소개 - function component 위주 개발](https://reactjs.org/docs/hooks-intro.html)
 
 #### 2019년 1월 11일 금요일
 - [React에서 mobx 경험기 (Redux와 비교기)](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
