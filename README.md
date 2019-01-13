@@ -62,13 +62,6 @@
 - [HTTPS는 HTTP보다 빠르다](https://tech.ssut.me/)
 - [ReactJS Hooks 소개 - function component 위주 개발](https://reactjs.org/docs/hooks-intro.html)
 
-#### 2019년 1월 11일 금요일
-- [React에서 mobx 경험기 (Redux와 비교기)](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
-- [Spring MVC Redirect 처리중에 발생한 Out Of Memory 원인 분석하기](https://taetaetae.github.io/2019/01/10/spring-redirect-oom)
-- [JVM위에서 MapReduce를 간편하게 수행할 수 있는 opensource library, Cascading 소개글](https://blog.voidmainvoid.net/171)
-- [The Ral TDD 컨퍼런스 영상](https://okky.kr/article/538114)
-- [머신러닝 적용의 실제](https://brunch.co.kr/@kakao-it/104)
-
 
 --------------------------------------
 </br>
@@ -164,6 +157,7 @@
 - [개발문화 - 코드리뷰](https://brunch.co.kr/@seonology/23)
 - [객체 모델링 공부하게 책 하나 추천해주세요.](https://www.popit.kr/%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B2%8C-%EC%B1%85-%ED%95%98%EB%82%98-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
 - [개발자에게 좋은 직장 혹은 좋은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
+- [The Real TDD 컨퍼런스 발표영상 모음](https://okky.kr/article/538114)
 
 --------------------------------------
 
@@ -349,6 +343,7 @@
 - [Spring MVC 전체 흐름 알아보기 [슬라이드]](https://www.slideshare.net/hanmomhanda/spring-mvc-fullflow)
 - [자바 HashMap 효과적으로 사용하기 [번역]](http://tech.javacafe.io/2018/12/03/HashMap)
 - [RESTful API 문서 만들기 Spring REST Docs [영상]](https://www.youtube.com/watch?v=A3WDAVQP32k&feature=youtu.be)
+- [Spring MVC Redirect 처리중에 발생한 Out Of Memory 원인 분석하기](https://taetaetae.github.io/2019/01/10/spring-redirect-oom)
 
 --------------------------------------
 
@@ -560,6 +555,7 @@
 - [자바스크립트 이벤트 루프 시각적 설명 [영상]](http://latentflip.com/loupe/)
 - [자바스크립트 엔진의 최적화 기법 - JITC, Adaptive Compliation](https://meetup.toast.com/posts/77)
 - [2019년에는 Vue.js를 배워야 하는 3가지 이유](http://leagueoflegend.tistory.com/49)
+- [React에서 mobx 경험기 (Redux와 비교기)](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
 
 --------------------------------------
 
@@ -717,6 +713,7 @@
 - [딥러닝 공부 가이드 2019 (무료 강의, 책)](http://t-robotics.blogspot.com/2018/12/39-2019.html?m=1)
 - [카카오의 딥러닝 기반 형태소 분석기](https://brunch.co.kr/@kakao-it/308)
 - [20세기 폭스에서 ML을 사용해 영화 관람객을 예측하는 방법](https://developers-kr.googleblog.com/2018/11/how-20th-century-fox-uses-ml.html)
+- [머신러닝 적용의 실제](https://brunch.co.kr/@kakao-it/104)
 
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
