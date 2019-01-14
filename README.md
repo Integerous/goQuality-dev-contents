@@ -46,9 +46,13 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 15일 화요일
+-
+-
+
 #### 2019년 1월 14일 월요일
--
--
+- [Restful API란](https://brunch.co.kr/@springboot/59)
+- [MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
 
 #### 2019년 1월 13일 일요일
 - [알고리즘 학습에 대한 조언 [번역]](http://blog.weirdx.io/post/55358?fbclid=IwAR0Y8oCmcFoTHZrMwVSwFWHsQBGuhJkje89pDENK2c0g5BuhwGKLPtc5ylQ)
