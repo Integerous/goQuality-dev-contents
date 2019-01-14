@@ -56,12 +56,6 @@
 - [한국 오픈소스 프로젝트 Top 100](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf?fbclid=IwAR2IOgY2dGszOSWFWdzVDtTxcefzXCr4-AHVOX4txYRAYPs_Wvx0PK7MYgQ)
 - [Docker(Compose) 활용법 - 개발환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
 
-#### 2019년 1월 12일 토요일
-- [GET과 POST의 차이](https://blog.outsider.ne.kr/312#footnote_312_1)
-- [대학생을 위한 웹 개발 공부용 체크리스트](https://xguru.net/1897)
-- [HTTPS는 HTTP보다 빠르다](https://tech.ssut.me/)
-- [ReactJS Hooks 소개 - function component 위주 개발](https://reactjs.org/docs/hooks-intro.html)
-
 
 --------------------------------------
 </br>
@@ -651,6 +645,8 @@
 - [2019년 웹앱 개발의 전망과 화두](https://medium.com/harrythegreat/2019%EB%85%84-%EC%9B%B9-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%A0%84%EB%A7%9D%EA%B3%BC-%ED%99%94%EB%91%90-654d00686a59)
 - [빠른 웹사이트를 만드는 방법 [영상]](https://youtu.be/reztLS3vomE)
 - [REST API 튜토리얼 [영문]](https://restapitutorial.com/)
+- [GET과 POST의 차이](https://blog.outsider.ne.kr/312#footnote_312_1)
+- [HTTPS는 HTTP보다 빠르다](https://tech.ssut.me/)
 
 --------------------------------------
 
