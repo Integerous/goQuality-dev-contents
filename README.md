@@ -46,9 +46,14 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 16일 수요일
+-
+-
+
 #### 2019년 1월 15일 화요일
--
--
+- [왜 굳이 도커(컨테이너)를 써야 하나요? - 컨테이너를 사용해야 하는 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
+- [SQL vs NoSQL [영상]](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+- [Back to the Essence - Java 컴파일에서 실행까지 1편](https://github.com/HomoEfficio/dev-tips/blob/master/Back%20to%20the%20Essence%20-%20Java%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C%20%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80.md)
 
 #### 2019년 1월 14일 월요일
 - [Restful API란](https://brunch.co.kr/@springboot/59)
