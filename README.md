@@ -54,12 +54,6 @@
 - [Restful API란](https://brunch.co.kr/@springboot/59)
 - [MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
 
-#### 2019년 1월 13일 일요일
-- [알고리즘 학습에 대한 조언 [번역]](http://blog.weirdx.io/post/55358?fbclid=IwAR0Y8oCmcFoTHZrMwVSwFWHsQBGuhJkje89pDENK2c0g5BuhwGKLPtc5ylQ)
-- [기술 업계의 독성 말투 문제, 고칩시다! [번역]](https://edykim.com/ko/post/tech-has-a-toxic-tone-problem-lets-fix-it/)
-- [한국 오픈소스 프로젝트 Top 100](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf?fbclid=IwAR2IOgY2dGszOSWFWdzVDtTxcefzXCr4-AHVOX4txYRAYPs_Wvx0PK7MYgQ)
-- [Docker(Compose) 활용법 - 개발환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
-
 
 --------------------------------------
 </br>
@@ -156,6 +150,7 @@
 - [객체 모델링 공부하게 책 하나 추천해주세요.](https://www.popit.kr/%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B2%8C-%EC%B1%85-%ED%95%98%EB%82%98-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
 - [개발자에게 좋은 직장 혹은 좋은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
 - [The Real TDD 컨퍼런스 발표영상 모음](https://okky.kr/article/538114)
+- [기술 업계의 독성 말투 문제, 고칩시다! [번역]](https://edykim.com/ko/post/tech-has-a-toxic-tone-problem-lets-fix-it/)
 
 --------------------------------------
 
@@ -451,6 +446,7 @@
 - [블로그 서버 마이그레이션](https://blog.outsider.ne.kr/1418)
 - [클라우드 서비스 이해하기 IaaS, PaaS, SaaS](https://brunch.co.kr/@leedongins/60)
 - [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://taetaetae.github.io/2019/01/02/faster-parallel-processes/)
+- [Docker(Compose) 활용법 - 개발환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
 
 --------------------------------------
 
@@ -691,6 +687,7 @@
 - [알고리즘 & 자료구조 온라인 사전 [영문]](http://bit.ly/2q9WiaN)
 - [코딩 인터뷰를 깨부술 10가지 자료구조/알고리즘 강의 [영문]](http://bit.ly/2SzcYVW)
 - [Behavior Tree 개념 살펴보기](https://engineering.linecorp.com/ko/blog/behavior-tree/)
+- [알고리즘 학습에 대한 조언 [번역]](http://blog.weirdx.io/post/55358?fbclid=IwAR0Y8oCmcFoTHZrMwVSwFWHsQBGuhJkje89pDENK2c0g5BuhwGKLPtc5ylQ)
 
 --------------------------------------
 
@@ -756,6 +753,7 @@
 - [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667)
 - [OAuth2를 이용한 SSO 환경 구축](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-1-2/)
 - [Rob Pike - 'Concurrency Is Not Parallelism' [영상]](https://www.youtube.com/watch?v=cN_DpYBzKso&t=17s)
+- [한국 오픈소스 프로젝트 Top 100](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf?fbclid=IwAR2IOgY2dGszOSWFWdzVDtTxcefzXCr4-AHVOX4txYRAYPs_Wvx0PK7MYgQ)
 
 --------------------------------------
 </br>
