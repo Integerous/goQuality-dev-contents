@@ -68,11 +68,6 @@
 - [구글코리아 on-site 면접 후기](https://norang.io/diary/interview_review/)
 - [자바 대체재 코틀린 이해하기](http://www.itworld.co.kr/news/107046)
 
-#### 2019년 1월 15일 화요일
-- [왜 굳이 도커(컨테이너)를 써야 하나요? - 컨테이너를 사용해야 하는 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
-- [SQL vs NoSQL [영상]](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
-- [Back to the Essence - Java 컴파일에서 실행까지 1편](https://github.com/HomoEfficio/dev-tips/blob/master/Back%20to%20the%20Essence%20-%20Java%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C%20%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80.md)
-
 
 --------------------------------------
 </br>
@@ -356,6 +351,7 @@
 - [자바 HashMap 효과적으로 사용하기 [번역]](http://tech.javacafe.io/2018/12/03/HashMap)
 - [RESTful API 문서 만들기 Spring REST Docs [영상]](https://www.youtube.com/watch?v=A3WDAVQP32k&feature=youtu.be)
 - [Spring MVC Redirect 처리중에 발생한 Out Of Memory 원인 분석하기](https://taetaetae.github.io/2019/01/10/spring-redirect-oom)
+- [Back to the Essence - Java 컴파일에서 실행까지 1편](https://github.com/HomoEfficio/dev-tips/blob/master/Back%20to%20the%20Essence%20-%20Java%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C%20%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80%20-%20(1).md)
 
 --------------------------------------
 
@@ -466,6 +462,7 @@
 - [클라우드 서비스 이해하기 IaaS, PaaS, SaaS](https://brunch.co.kr/@leedongins/60)
 - [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://taetaetae.github.io/2019/01/02/faster-parallel-processes/)
 - [Docker(Compose) 활용법 - 개발환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
+- [왜 굳이 도커(컨테이너)를 써야 하나요? - 컨테이너를 사용해야 하는 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 
 --------------------------------------
 
@@ -488,6 +485,7 @@
 - [Mysql 인덱스 정리 및 팁](https://jojoldu.tistory.com/243)
 - [데이터베이스 개념정리](https://brunch.co.kr/@toughrogrammer/17)
 - [MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
+- [SQL vs NoSQL [영상]](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 
 --------------------------------------
 
