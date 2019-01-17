@@ -46,9 +46,18 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 18일 금요일
+- 
+- 
+
 #### 2019년 1월 17일 목요일
 - [왜 내가 Redux 대신 MobX를 쓰게 되었나](https://rokt33r.github.io/devnotes/2018/03/04/why-i-replace-redux-with-mobx/)
--
+- [코딩 공부 후 3개월 간 구직하며 배운 점 [번역]](https://brunch.co.kr/@imagineer/194)
+- [알고리즘 시각화 사이트 [영문]](https://visualgo.net/en)
+- [Electron으로 데스크탑 애플리케이션 만들기 [영상]](https://youtu.be/eQL8J9feEFU)
+- [자바 메모리 관리 - 스택&힙](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
+- [REST FULL 한 웹서비스 > Stateless와 HATEOAS 개념](http://anster.tistory.com/163)
+- [CGI와 WSGI를 파헤치다](http://show-me-the-money.tistory.com/50)
 
 #### 2019년 1월 16일 수요일
 - [서블릿의 인스턴스화, session, 멀티스레딩에 관련된 질문과 답변 [번역]](https://jojoldu.tistory.com/118)
