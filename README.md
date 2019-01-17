@@ -47,7 +47,7 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 #### 2019년 1월 17일 목요일
--
+- [왜 내가 Redux 대신 MobX를 쓰게 되었나](https://rokt33r.github.io/devnotes/2018/03/04/why-i-replace-redux-with-mobx/)
 -
 
 #### 2019년 1월 16일 수요일
