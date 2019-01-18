@@ -108,6 +108,8 @@
 - [블록체인](https://github.com/Integerous/goQuality-dev-contents#%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
 - [유용한 도구](https://github.com/Integerous/goQuality-dev-contents#%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%8F%84%EA%B5%AC)
 - [기타](https://github.com/Integerous/goQuality-dev-contents#%EA%B8%B0%ED%83%80)
+- [에러 발생한 컨텐츠들]()
+
 
 --------------------------------------
 </br>
@@ -301,7 +303,6 @@
 - [Java Enum 활용기](http://bit.ly/2yCmuyq)
 - [토비님 발표 - 스프링5 웹플럭스와 테스트 전략 [영상]](http://bit.ly/2QSeLnq)
 - [Maven과 Gradle 비교](http://bit.ly/2NRYbST)
-- [왜 자바에서 static의 사용을 지양해야 하는가?](http://bit.ly/2q1PprF)
 - [Java 학습에 도움이되는 9가지 개발서적 [영문]](https://dzone.com/articles/top-9-java-programming-books-best-of-lot-must-read)
 - [Logback을 사용 해야 하는 이유](https://lalwr.blogspot.com/2016/03/logback.html)
 - [Reactor를 사용한 Java reactive programming 예제](http://tech.kakao.com/2018/05/29/reactor-programming/)
@@ -772,6 +773,12 @@
 - [OAuth2를 이용한 SSO 환경 구축](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-1-2/)
 - [Rob Pike - 'Concurrency Is Not Parallelism' [영상]](https://www.youtube.com/watch?v=cN_DpYBzKso&t=17s)
 - [한국 오픈소스 프로젝트 Top 100](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf?fbclid=IwAR2IOgY2dGszOSWFWdzVDtTxcefzXCr4-AHVOX4txYRAYPs_Wvx0PK7MYgQ)
+
+
+### 에러 발생한 컨텐츠들
+>이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
+- [왜 자바에서 static의 사용을 지양해야 하는가?](http://bit.ly/2q1PprF)
+
 
 --------------------------------------
 </br>
