@@ -46,9 +46,21 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2019년 1월 19일 토요일
+#### 2019년 1월 20일 일요일
 -
 - 
+
+#### 2019년 1월 19일 토요일
+- [한국 프로그래밍 언어 순위 2018](https://medium.com/supple/korea-programming-language-rankings-2018-975241270a7a)
+- [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
+- [Ruby로 DSL(Domain Specific Language) 구현하기 [영상]](https://youtu.be/2zW4dls8_sw)
+- [자바스크립트 함수 정리](https://link.medium.com/FMoWtS72AT)
+- [Java 빌더 패턴 (Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
+- [람다 기초](https://www.google.com/amp/www.sangkon.com/2018/12/09/haskell-study-part02/amp/)
+- [스프링부트로 웹 서비스 출시하기](https://jojoldu.tistory.com/250#at_pco=smlwn-1.0&at_si=5c42eb34d29e2b0c&at_ab=per-2&at_pos=0&at_tot=1)
+- [10배 뛰어난 개발자 되기[번역]](https://muchtrans.com/translations/10xdeveloper.ko.html)
+- [2018년 내가 모르는 기술들 [번역]](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
+
 
 #### 2019년 1월 18일 금요일
 - [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
