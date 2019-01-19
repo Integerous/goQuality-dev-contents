@@ -46,9 +46,18 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 19일 토요일
+-
+- 
+
 #### 2019년 1월 18일 금요일
 - [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
-- 
+- [소프트웨어 개발의 지혜](https://brunch.co.kr/@springboot/35)
+- [gdb를 이용해 메모리 덤프뜨기](https://brunch.co.kr/@alden/13)
+- [깃헙 페이지로 개발 블로그 시작하기](https://hyungyunlim.github.io/2017-06-11/start-blogging)
+- [오픈소스 프로젝트를 운영하며..](https://meetup.toast.com/posts/175)
+- [머신러닝 공부 순서, 방법 및 강의 정리](http://gomcine.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EC%88%9C%EC%84%9C-%EB%B0%8F-%EB%B0%A9%EB%B2%95-%EA%B0%95%EC%9D%98-%EC%A0%95%EB%A6%AC)
+- [React+JSX(ES6)를 빌드 없이 사용하기: browser.js](https://beomi.github.io/2017/03/20/Using-ES6-JSX-on-Client/)
 
 #### 2019년 1월 17일 목요일
 - [왜 내가 Redux 대신 MobX를 쓰게 되었나](https://rokt33r.github.io/devnotes/2018/03/04/why-i-replace-redux-with-mobx/)
