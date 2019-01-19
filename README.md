@@ -68,15 +68,6 @@
 - [REST FULL 한 웹서비스 > Stateless와 HATEOAS 개념](http://anster.tistory.com/163)
 - [CGI와 WSGI를 파헤치다](http://show-me-the-money.tistory.com/50)
 
-#### 2019년 1월 16일 수요일
-- [서블릿의 인스턴스화, session, 멀티스레딩에 관련된 질문과 답변 [번역]](https://jojoldu.tistory.com/118)
-- [REST API 설명 [영상]](https://www.youtube.com/watch?v=LooL6_chvN4)
-- [이미지만으로 내 중고물품의 카테고리를 자동으로 분류해준다면? (feat. Keras)](https://medium.com/daangn/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%8C%EC%9C%BC%EB%A1%9C-%EB%82%B4-%EC%A4%91%EA%B3%A0%EB%AC%BC%ED%92%88%EC%9D%98-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A5%BC-%EB%B6%84%EB%A5%98%ED%95%B4%EC%A4%80%EB%A9%B4-feat-keras-b86e5f286c71)
-- [정렬 알고리즘  정리](https://link.medium.com/SdPjEJaHvT)
-- [웹폰트 경량화 - 폰트툴즈의 pyftsubset을 사용한 폰트 서브셋 만들기](https://www.44bits.io/ko/post/optimization_webfont_with_pyftsubnet)
-- [구글코리아 on-site 면접 후기](https://norang.io/diary/interview_review/)
-- [자바 대체재 코틀린 이해하기](http://www.itworld.co.kr/news/107046)
-
 
 --------------------------------------
 </br>
@@ -292,6 +283,7 @@
 - [5년차 안드로이드 개발자의 이직이야기](https://medium.com/@maryangmin/5%EB%85%84%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-6004ccc0ca4f)
 - [내가 구글 인터뷰를 풀 타임으로 8 개월 동안 공부한 이유 [번역]](http://bit.ly/2qppx9l)
 - [실리콘 밸리의 잘나가는 5개 기업과 인터뷰를 봤는데 다 붙고만 썰 [번역]](http://www.looah.com/article/view/2070)
+- [구글코리아 on-site 면접 후기](https://norang.io/diary/interview_review/)
 
 --------------------------------------
 </br>
@@ -362,6 +354,7 @@
 - [RESTful API 문서 만들기 Spring REST Docs [영상]](https://www.youtube.com/watch?v=A3WDAVQP32k&feature=youtu.be)
 - [Spring MVC Redirect 처리중에 발생한 Out Of Memory 원인 분석하기](https://taetaetae.github.io/2019/01/10/spring-redirect-oom)
 - [Back to the Essence - Java 컴파일에서 실행까지 1편](https://github.com/HomoEfficio/dev-tips/blob/master/Back%20to%20the%20Essence%20-%20Java%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C%20%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80%20-%20(1).md)
+- [서블릿의 인스턴스화, session, 멀티스레딩에 관련된 질문과 답변 [번역]](https://jojoldu.tistory.com/118)
 
 --------------------------------------
 
@@ -613,6 +606,7 @@
 - [웹 글꼴 최적화](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ko)
 - [새해, 사이드 프로젝트에 도움이 될만한 디자인 리소스](https://brunch.co.kr/@mobiinside/1423)
 - [2019 UX/UI 디자인 트렌드](https://brunch.co.kr/@usdlab/38?utm_medium=gaerae.com)
+- [웹폰트 경량화 - 폰트툴즈의 pyftsubset을 사용한 폰트 서브셋 만들기](https://www.44bits.io/ko/post/optimization_webfont_with_pyftsubnet)
 
 --------------------------------------
 
@@ -675,6 +669,7 @@
 - [REST API 튜토리얼 [영문]](https://restapitutorial.com/)
 - [GET과 POST의 차이](https://blog.outsider.ne.kr/312#footnote_312_1)
 - [HTTPS는 HTTP보다 빠르다](https://tech.ssut.me/)
+- [REST API 설명 [영상]](https://www.youtube.com/watch?v=LooL6_chvN4)
 
 --------------------------------------
 
@@ -716,6 +711,7 @@
 - [코딩 인터뷰를 깨부술 10가지 자료구조/알고리즘 강의 [영문]](http://bit.ly/2SzcYVW)
 - [Behavior Tree 개념 살펴보기](https://engineering.linecorp.com/ko/blog/behavior-tree/)
 - [알고리즘 학습에 대한 조언 [번역]](http://blog.weirdx.io/post/55358?fbclid=IwAR0Y8oCmcFoTHZrMwVSwFWHsQBGuhJkje89pDENK2c0g5BuhwGKLPtc5ylQ)
+- [정렬 알고리즘 간단 정리](https://link.medium.com/SdPjEJaHvT)
 
 --------------------------------------
 
@@ -739,6 +735,7 @@
 - [카카오의 딥러닝 기반 형태소 분석기](https://brunch.co.kr/@kakao-it/308)
 - [20세기 폭스에서 ML을 사용해 영화 관람객을 예측하는 방법](https://developers-kr.googleblog.com/2018/11/how-20th-century-fox-uses-ml.html)
 - [머신러닝 적용의 실제](https://brunch.co.kr/@kakao-it/104)
+- [이미지만으로 내 중고물품의 카테고리를 자동으로 분류해준다면? (feat. Keras)](https://medium.com/daangn/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%8C%EC%9C%BC%EB%A1%9C-%EB%82%B4-%EC%A4%91%EA%B3%A0%EB%AC%BC%ED%92%88%EC%9D%98-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A5%BC-%EB%B6%84%EB%A5%98%ED%95%B4%EC%A4%80%EB%A9%B4-feat-keras-b86e5f286c71)
 
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
