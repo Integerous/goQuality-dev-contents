@@ -47,7 +47,7 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 #### 2019년 1월 20일 일요일
--
+- [한글 인코딩과 자바스크립트의 관계](https://github.com/moonformeli/TIL/blob/master/hangul_unicode.md)
 - 
 
 #### 2019년 1월 19일 토요일
