@@ -46,9 +46,16 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 22일 화요일
+-
+-
+
 #### 2019년 1월 21일 월요일
--
--
+- [React의 JSX 파고들기](https://blog.holy.kiwi/js/190120/)
+- [Spring Boot Test 정리](https://cheese10yun.github.io/spring-boot-test/)
+- [하나의 메모리 누수를 잡기까지 (멀티스레드 환경)](https://d2.naver.com/helloworld/1326256)
+- [한글 인코딩과 자바스크립트의 관계](https://github.com/moonformeli/TIL/blob/master/hangul_unicode.md)
+- [자바스크립트 호출 스택(Call Stack) 이해하기](http://new93helloworld.tistory.com/358)
 
 #### 2019년 1월 20일 일요일
 - [한글 인코딩과 자바스크립트의 관계](https://github.com/moonformeli/TIL/blob/master/hangul_unicode.md)
