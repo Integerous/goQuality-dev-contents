@@ -61,17 +61,6 @@
 - [10배 뛰어난 개발자 되기[번역]](https://muchtrans.com/translations/10xdeveloper.ko.html)
 - [2018년 내가 모르는 기술들 [번역]](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
 
-
-#### 2019년 1월 18일 금요일
-- [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
-- [소프트웨어 개발의 지혜](https://brunch.co.kr/@springboot/35)
-- [gdb를 이용해 메모리 덤프뜨기](https://brunch.co.kr/@alden/13)
-- [깃헙 페이지로 개발 블로그 시작하기](https://hyungyunlim.github.io/2017-06-11/start-blogging)
-- [오픈소스 프로젝트를 운영하며..](https://meetup.toast.com/posts/175)
-- [머신러닝 공부 순서, 방법 및 강의 정리](http://gomcine.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EC%88%9C%EC%84%9C-%EB%B0%8F-%EB%B0%A9%EB%B2%95-%EA%B0%95%EC%9D%98-%EC%A0%95%EB%A6%AC)
-- [React+JSX(ES6)를 빌드 없이 사용하기: browser.js](https://beomi.github.io/2017/03/20/Using-ES6-JSX-on-Client/)
-
-
 --------------------------------------
 </br>
 </br>
@@ -170,6 +159,7 @@
 - [개발자에게 좋은 직장 혹은 좋은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
 - [The Real TDD 컨퍼런스 발표영상 모음](https://okky.kr/article/538114)
 - [기술 업계의 독성 말투 문제, 고칩시다! [번역]](https://edykim.com/ko/post/tech-has-a-toxic-tone-problem-lets-fix-it/)
+- [소프트웨어 개발의 지혜](https://brunch.co.kr/@springboot/35)
 
 --------------------------------------
 
@@ -509,6 +499,7 @@
 - [리눅스 서버 60초안에 상황파악하기 [번역]](https://b.luavis.kr/server/linux-performance-analysis)
 - [커맨드라인 능숙하게 다루기 [번역]](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)
 - [리눅스의 페이지 캐시와 버퍼 캐시](https://brunch.co.kr/@alden/25)
+- [gdb를 이용해 메모리 덤프뜨기](https://brunch.co.kr/@alden/13)
 
 --------------------------------------
 </br>
@@ -708,6 +699,7 @@
 - [Github를 이용하는 전체 흐름 이해하기](https://blog.outsider.ne.kr/865)
 - [git add -p와 git commit -v의 사용](https://blog.outsider.ne.kr/1247?category=18)
 - [주니어 개발자가 처음 Pull Request보내본 썰](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)
+- [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
 
 --------------------------------------
 
@@ -742,6 +734,7 @@
 - [20세기 폭스에서 ML을 사용해 영화 관람객을 예측하는 방법](https://developers-kr.googleblog.com/2018/11/how-20th-century-fox-uses-ml.html)
 - [머신러닝 적용의 실제](https://brunch.co.kr/@kakao-it/104)
 - [이미지만으로 내 중고물품의 카테고리를 자동으로 분류해준다면? (feat. Keras)](https://medium.com/daangn/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%8C%EC%9C%BC%EB%A1%9C-%EB%82%B4-%EC%A4%91%EA%B3%A0%EB%AC%BC%ED%92%88%EC%9D%98-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A5%BC-%EB%B6%84%EB%A5%98%ED%95%B4%EC%A4%80%EB%A9%B4-feat-keras-b86e5f286c71)
+- [머신러닝 공부 순서, 방법 및 강의 정리](http://gomcine.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EC%88%9C%EC%84%9C-%EB%B0%8F-%EB%B0%A9%EB%B2%95-%EA%B0%95%EC%9D%98-%EC%A0%95%EB%A6%AC)
 
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
@@ -786,6 +779,7 @@
 - [Rob Pike - 'Concurrency Is Not Parallelism' [영상]](https://www.youtube.com/watch?v=cN_DpYBzKso&t=17s)
 - [한국 오픈소스 프로젝트 Top 100](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf?fbclid=IwAR2IOgY2dGszOSWFWdzVDtTxcefzXCr4-AHVOX4txYRAYPs_Wvx0PK7MYgQ)
 - [Electron으로 데스크탑 애플리케이션 만들기 [영상]](https://youtu.be/eQL8J9feEFU)
+- [오픈소스 프로젝트를 운영하며..](https://meetup.toast.com/posts/175)
 
 
 ### 에러 발생한 컨텐츠들
