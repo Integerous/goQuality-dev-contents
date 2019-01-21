@@ -64,16 +64,6 @@
 - [이종립님의 공부 방법](https://johngrib.github.io/wiki/my-study-method/)
 - [쉘 스크립트에서의 사칙연산과 문자열 자르기](http://www.dreamy.pe.kr/zbxe/CodeClip/3766012)
 
-#### 2019년 1월 19일 토요일
-- [한국 프로그래밍 언어 순위 2018](https://medium.com/supple/korea-programming-language-rankings-2018-975241270a7a)
-- [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
-- [Ruby로 DSL(Domain Specific Language) 구현하기 [영상]](https://youtu.be/2zW4dls8_sw)
-- [자바스크립트 함수 정리](https://link.medium.com/FMoWtS72AT)
-- [Java 빌더 패턴 (Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
-- [람다 기초](https://www.google.com/amp/www.sangkon.com/2018/12/09/haskell-study-part02/amp/)
-- [스프링부트로 웹 서비스 출시하기](https://jojoldu.tistory.com/250#at_pco=smlwn-1.0&at_si=5c42eb34d29e2b0c&at_ab=per-2&at_pos=0&at_tot=1)
-- [10배 뛰어난 개발자 되기[번역]](https://muchtrans.com/translations/10xdeveloper.ko.html)
-- [2018년 내가 모르는 기술들 [번역]](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
 
 --------------------------------------
 </br>
@@ -174,6 +164,7 @@
 - [The Real TDD 컨퍼런스 발표영상 모음](https://okky.kr/article/538114)
 - [기술 업계의 독성 말투 문제, 고칩시다! [번역]](https://edykim.com/ko/post/tech-has-a-toxic-tone-problem-lets-fix-it/)
 - [소프트웨어 개발의 지혜](https://brunch.co.kr/@springboot/35)
+- [2018년 내가 모르는 기술들 [번역]](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
 
 --------------------------------------
 
@@ -364,6 +355,7 @@
 - [Back to the Essence - Java 컴파일에서 실행까지 1편](https://github.com/HomoEfficio/dev-tips/blob/master/Back%20to%20the%20Essence%20-%20Java%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C%20%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80%20-%20(1).md)
 - [서블릿의 인스턴스화, session, 멀티스레딩에 관련된 질문과 답변 [번역]](https://jojoldu.tistory.com/118)
 - [자바 메모리 관리 - 스택 & 힙](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
+- [Java 빌더 패턴 (Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
 
 --------------------------------------
 
@@ -581,6 +573,7 @@
 - [자바스크립트 엔진의 최적화 기법 - JITC, Adaptive Compliation](https://meetup.toast.com/posts/77)
 - [2019년에는 Vue.js를 배워야 하는 3가지 이유](http://leagueoflegend.tistory.com/49)
 - [React에서 mobx 경험기 (Redux와 비교기)](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
+- [자바스크립트 함수 정리](https://link.medium.com/FMoWtS72AT)
 
 --------------------------------------
 
@@ -794,6 +787,7 @@
 - [한국 오픈소스 프로젝트 Top 100](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf?fbclid=IwAR2IOgY2dGszOSWFWdzVDtTxcefzXCr4-AHVOX4txYRAYPs_Wvx0PK7MYgQ)
 - [Electron으로 데스크탑 애플리케이션 만들기 [영상]](https://youtu.be/eQL8J9feEFU)
 - [오픈소스 프로젝트를 운영하며..](https://meetup.toast.com/posts/175)
+- [람다 기초](https://www.google.com/amp/www.sangkon.com/2018/12/09/haskell-study-part02/amp/)
 
 
 ### 에러 발생한 컨텐츠들
