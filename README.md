@@ -46,9 +46,16 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 21일 월요일
+-
+-
+
 #### 2019년 1월 20일 일요일
 - [한글 인코딩과 자바스크립트의 관계](https://github.com/moonformeli/TIL/blob/master/hangul_unicode.md)
-- 
+- [volatile vs synchronized](https://hashcode.co.kr/questions/660/자바에서-volatile-키워드가-뭔가요)
+- [테라폼 기초 튜토리얼](https://www.44bits.io/ko/post/terraform_introduction_infrastrucute_as_code)
+- [이종립님의 공부 방법](https://johngrib.github.io/wiki/my-study-method/)
+- [쉘 스크립트에서의 사칙연산과 문자열 자르기](http://www.dreamy.pe.kr/zbxe/CodeClip/3766012)
 
 #### 2019년 1월 19일 토요일
 - [한국 프로그래밍 언어 순위 2018](https://medium.com/supple/korea-programming-language-rankings-2018-975241270a7a)
