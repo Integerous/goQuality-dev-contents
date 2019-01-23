@@ -46,9 +46,17 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 23일 수요일
+-
+-
+
 #### 2019년 1월 22일 화요일
--
--
+- [Sound Cloud 아키텍처의 진화](http://www.looah.com/article/view/1652?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
+- [개발자가 깨달은 스트레스 없는 직장생활에 대하여](https://ppss.kr/archives/149593?fbclid=IwAR2TtxPehHEkDHgYxwio4sJikzKBnqm4G4w4NoOfF-vNS7wVKgP4VfHa2Sg)
+- [라이브 비디오 서비스 구축을 위한 노하우 1편](https://www.popit.kr/%eb%9d%bc%ec%9d%b4%eb%b8%8c-%eb%b9%84%eb%94%94%ec%98%a4-%ec%84%9c%eb%b9%84%ec%8a%a4-%ea%b5%ac%ec%b6%95%ec%9d%84-%ec%9c%84%ed%95%9c-%eb%85%b8%ed%95%98%ec%9a%b0-1%ed%9a%8c/)
+- [알고리즘 기반별 정리](https://brunch.co.kr/@toughrogrammer/13)
+- [개발자를 채용하면서 느꼈던 것들](http://sungjk.github.io/2017/06/11/interview-guide.html)
+- [홍콩 해커톤 Smartone 참가 후기](https://blog.voidmainvoid.net/189)
 
 #### 2019년 1월 21일 월요일
 - [React의 JSX 파고들기](https://blog.holy.kiwi/js/190120/)
