@@ -47,8 +47,8 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 #### 2019년 1월 23일 수요일
--
--
+- [JavaScript의 Event Loop](https://asfirstalways.tistory.com/362)
+- 
 
 #### 2019년 1월 22일 화요일
 - [Sound Cloud 아키텍처의 진화](http://www.looah.com/article/view/1652?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
