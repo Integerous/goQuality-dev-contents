@@ -48,7 +48,11 @@
 
 #### 2019년 1월 23일 수요일
 - [JavaScript의 Event Loop](https://asfirstalways.tistory.com/362)
-- 
+- [서버 시간동기화 문제 그리고 대안](https://link.medium.com/6GmMd7XiHT)
+- [컴퓨터공학과 대학원에 입학하기 전에 알았더라면 좋았을 것들 (석사)](https://blog.naver.com/PostList.nhn?blogId=alice_k106&from=postList&categoryNo=14)
+- [React로 만드는 Electron 웹 애플리케이션; 레이아웃, AntD Customization](https://medium.com/p/817bb2cf1d4b/)
+- [현업에 있는 스타트업 개발자들의 개발/인프라 이야기 [팟캐스트]](https://stdout.fm/)
+- [Node.JS 자주 사용하는 모듈 정리](https://github.com/cheese10yun/node-yun)
 
 #### 2019년 1월 22일 화요일
 - [Sound Cloud 아키텍처의 진화](http://www.looah.com/article/view/1652?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
