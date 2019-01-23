@@ -62,13 +62,6 @@
 - [개발자를 채용하면서 느꼈던 것들](http://sungjk.github.io/2017/06/11/interview-guide.html)
 - [홍콩 해커톤 Smartone 참가 후기](https://blog.voidmainvoid.net/189)
 
-#### 2019년 1월 21일 월요일
-- [React의 JSX 파고들기](https://blog.holy.kiwi/js/190120/)
-- [Spring Boot Test 정리](https://cheese10yun.github.io/spring-boot-test/)
-- [하나의 메모리 누수를 잡기까지 (멀티스레드 환경)](https://d2.naver.com/helloworld/1326256)
-- [한글 인코딩과 자바스크립트의 관계](https://github.com/moonformeli/TIL/blob/master/hangul_unicode.md)
-- [자바스크립트 호출 스택(Call Stack) 이해하기](http://new93helloworld.tistory.com/358)
-
 
 --------------------------------------
 </br>
@@ -362,6 +355,7 @@
 - [서블릿의 인스턴스화, session, 멀티스레딩에 관련된 질문과 답변 [번역]](https://jojoldu.tistory.com/118)
 - [자바 메모리 관리 - 스택 & 힙](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
 - [Java 빌더 패턴 (Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
+- [Spring Boot Test 정리](https://cheese10yun.github.io/spring-boot-test/)
 
 --------------------------------------
 
@@ -582,6 +576,7 @@
 - [React에서 mobx 경험기 (Redux와 비교기)](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
 - [자바스크립트 함수 정리](https://link.medium.com/FMoWtS72AT)
 - [한글 인코딩과 자바스크립트의 관계](https://github.com/moonformeli/TIL/blob/master/hangul_unicode.md)
+- [자바스크립트 호출 스택(Call Stack) 이해하기](http://new93helloworld.tistory.com/358)
 
 --------------------------------------
 
@@ -796,7 +791,7 @@
 - [Electron으로 데스크탑 애플리케이션 만들기 [영상]](https://youtu.be/eQL8J9feEFU)
 - [오픈소스 프로젝트를 운영하며..](https://meetup.toast.com/posts/175)
 - [람다 기초](https://www.google.com/amp/www.sangkon.com/2018/12/09/haskell-study-part02/amp/)
-
+- [하나의 메모리 누수를 잡기까지 (멀티스레드 환경)](https://d2.naver.com/helloworld/1326256)
 
 ### 에러 발생한 컨텐츠들
 >이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
