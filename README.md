@@ -46,9 +46,18 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 25일 금요일
+-
+-
+
 #### 2019년 1월 24일 목요일
--
--
+- [SpringMVC 프레임워크 동작 방식](https://tinkerbellbass.tistory.com/40)
+- [바운디드 컨텍스트와 엔티티](https://www.popit.kr/%EC%83%81%ED%92%88-%EC%A0%95%EB%B3%B4-%EB%8B%A4%EB%A3%B0-%EB%95%8C-boundedcontext-%EC%99%80-%EC%97%94%ED%84%B0%ED%8B%B0/)
+- [웹캐싱에 관한 글입니다.](https://mingrammer.com/translation-the-hidden-components-of-web-caching/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
+- [왜 함수형 코드를 쓰는가?](http://blog.weirdx.io/post/58357?fbclid=IwAR15um2jt62cuFybKflUprpt7L7sc13ZJbpqp3_8t8NIZnIqElV-ouZ06h4)
+- [람다 엣지을 활용한 온더플라이 이미지 리사이즈](https://medium.com/daangn/lambda-edge로-구현하는-on-the-fly-이미지-리사이징-f4e5052d49f3)
+- [git 이란](https://jinfactory.tistory.com/187)
+- [What the heck is the event loop anyway? (JavaScript를 쉽게 설명한 것으로 유명한 발표) [영상]](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 #### 2019년 1월 23일 수요일
 - [JavaScript의 Event Loop](https://asfirstalways.tistory.com/362)
