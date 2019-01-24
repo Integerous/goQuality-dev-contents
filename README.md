@@ -46,6 +46,10 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 24일 목요일
+-
+-
+
 #### 2019년 1월 23일 수요일
 - [JavaScript의 Event Loop](https://asfirstalways.tistory.com/362)
 - [서버 시간동기화 문제 그리고 대안](https://link.medium.com/6GmMd7XiHT)
