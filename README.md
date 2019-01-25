@@ -59,14 +59,6 @@
 - [git 이란](https://jinfactory.tistory.com/187)
 - [What the heck is the event loop anyway? (JavaScript를 쉽게 설명한 것으로 유명한 발표) [영상]](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
-#### 2019년 1월 23일 수요일
-- [JavaScript의 Event Loop](https://asfirstalways.tistory.com/362)
-- [서버 시간동기화 문제 그리고 대안](https://link.medium.com/6GmMd7XiHT)
-- [컴퓨터공학과 대학원에 입학하기 전에 알았더라면 좋았을 것들 (석사)](https://blog.naver.com/PostList.nhn?blogId=alice_k106&from=postList&categoryNo=14)
-- [React로 만드는 Electron 웹 애플리케이션; 레이아웃, AntD Customization](https://medium.com/p/817bb2cf1d4b/)
-- [현업에 있는 스타트업 개발자들의 개발/인프라 이야기 [팟캐스트]](https://stdout.fm/)
-- [Node.JS 자주 사용하는 모듈 정리](https://github.com/cheese10yun/node-yun)
-
 
 --------------------------------------
 </br>
@@ -202,6 +194,8 @@
 - [좋은 개발자 / 유명한 개발자](https://medium.com/@pitzcarraldo/%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9C%A0%EB%AA%85%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-19b20a7d6ace)
 - [프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/)
 - [이종립님의 공부 방법](https://johngrib.github.io/wiki/my-study-method/)
+- [컴퓨터공학과 대학원에 입학하기 전에 알았더라면 좋았을 것들 (석사)](https://blog.naver.com/PostList.nhn?blogId=alice_k106&from=postList&categoryNo=14)
+- [현업에 있는 스타트업 개발자들의 개발/인프라 이야기 [팟캐스트]](https://stdout.fm/)
 
 --------------------------------------
 
@@ -476,6 +470,7 @@
 - [테라폼 기초 튜토리얼](https://www.44bits.io/ko/post/terraform_introduction_infrastrucute_as_code)
 - [Sound Cloud 아키텍처의 진화](http://www.looah.com/article/view/1652?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 - [라이브 비디오 서비스 구축을 위한 노하우 1편](https://www.popit.kr/%eb%9d%bc%ec%9d%b4%eb%b8%8c-%eb%b9%84%eb%94%94%ec%98%a4-%ec%84%9c%eb%b9%84%ec%8a%a4-%ea%b5%ac%ec%b6%95%ec%9d%84-%ec%9c%84%ed%95%9c-%eb%85%b8%ed%95%98%ec%9a%b0-1%ed%9a%8c/)
+- [서버 시간동기화 문제 그리고 대안](https://link.medium.com/6GmMd7XiHT)
 
 --------------------------------------
 
@@ -585,6 +580,9 @@
 - [자바스크립트 함수 정리](https://link.medium.com/FMoWtS72AT)
 - [한글 인코딩과 자바스크립트의 관계](https://github.com/moonformeli/TIL/blob/master/hangul_unicode.md)
 - [자바스크립트 호출 스택(Call Stack) 이해하기](http://new93helloworld.tistory.com/358)
+- [JavaScript의 Event Loop](https://asfirstalways.tistory.com/362)
+- [React로 만드는 Electron 웹 애플리케이션; 레이아웃, AntD Customization](https://medium.com/p/817bb2cf1d4b/)
+- [Node.JS 자주 사용하는 모듈 정리](https://github.com/cheese10yun/node-yun)
 
 --------------------------------------
 
