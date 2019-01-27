@@ -46,30 +46,21 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+
+#### 2019년 1월 28일 월요일
+- 
+-
+
 #### 2019년 1월 27일 일요일
+- [DevOps 를 위한 30가지 Docker 인터뷰 질문](https://www.fullstack.cafe/blog/docker-interview-questions-and-answers)
+- [React datagrid component 제작기 (with ES6, TypeScript)](https://medium.com/chequer/react-datagrid-component-%EC%A0%9C%EC%9E%91%EA%B8%B0-with-es6-typescript-4efcbfe1b442)
 - [2019년의 JavaScript ES2019 예상](https://sambalim.tistory.com/47)
 
 #### 2019년 1월 26일 토요일
--
--
-
-#### 2019년 1월 25일 금요일
-- [Apache냐 Nginx냐, 그것이 알고싶다.](https://taetaetae.github.io/2018/06/27/apache-vs-nginx/)
-- [자바스크립트 비동기 처리 과정과 RxJS Scheduler](http://sculove.github.io/blog/2018/01/18/javascriptflow/?fbclid=IwAR03nU0f972Hc23sSlxf9cjSBnlQrtXrC_WTyEOoNZNLdWSGfyYf2RCuAEA)
-- [프론트엔드 개발자 인터뷰 후기 (면접 질문 정리)](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
-- [좋은 기술 블로그를 만들어 나가기 위한 8가지 제언](https://www.44bits.io/ko/post/8-suggestions-for-tech-programming-blog)
-- [프론트엔드 개발자 인터뷰 후기](https://velog.io/@tmmoond8/프론트엔드-개발자-인터뷰-후기-면접-질문-정리-작성-중)
-- [MongoDb를 처음 접한 내가, 잘못이해했던 RDS](https://moonjong93.github.io/)
-- [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
-
-#### 2019년 1월 24일 목요일
-- [SpringMVC 프레임워크 동작 방식](https://tinkerbellbass.tistory.com/40)
-- [바운디드 컨텍스트와 엔티티](https://www.popit.kr/%EC%83%81%ED%92%88-%EC%A0%95%EB%B3%B4-%EB%8B%A4%EB%A3%B0-%EB%95%8C-boundedcontext-%EC%99%80-%EC%97%94%ED%84%B0%ED%8B%B0/)
-- [웹캐싱에 관한 글입니다.](https://mingrammer.com/translation-the-hidden-components-of-web-caching/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
-- [왜 함수형 코드를 쓰는가?](http://blog.weirdx.io/post/58357?fbclid=IwAR15um2jt62cuFybKflUprpt7L7sc13ZJbpqp3_8t8NIZnIqElV-ouZ06h4)
-- [람다 엣지을 활용한 온더플라이 이미지 리사이즈](https://medium.com/daangn/lambda-edge로-구현하는-on-the-fly-이미지-리사이징-f4e5052d49f3)
-- [git 이란](https://jinfactory.tistory.com/187)
-- [What the heck is the event loop anyway? (JavaScript를 쉽게 설명한 것으로 유명한 발표) [영상]](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [쉽고 빠르게 접하는 openstack](https://www.slideshare.net/mobile/openstack_kr/ss-92381877)
+- [L4/L7 스위치 대안 오픈소스 로드밸런서 HAProcxy](https://d2.naver.com/helloworld/284659)
+- [MySQL 실행계획](https://12bme.tistory.com/160)
+- [커스텀 엘리먼트(CUSTOM ELEMENT)](https://kyu.io/ko/%EC%9B%B9-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B82-%EC%BB%A4%EC%8A%A4%ED%85%80-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8/)
 
 
 --------------------------------------
@@ -208,6 +199,7 @@
 - [이종립님의 공부 방법](https://johngrib.github.io/wiki/my-study-method/)
 - [컴퓨터공학과 대학원에 입학하기 전에 알았더라면 좋았을 것들 (석사)](https://blog.naver.com/PostList.nhn?blogId=alice_k106&from=postList&categoryNo=14)
 - [현업에 있는 스타트업 개발자들의 개발/인프라 이야기 [팟캐스트]](https://stdout.fm/)
+- [좋은 기술 블로그를 만들어 나가기 위한 8가지 제언](https://www.44bits.io/ko/post/8-suggestions-for-tech-programming-blog)
 
 --------------------------------------
 
@@ -294,6 +286,7 @@
 - [실리콘 밸리의 잘나가는 5개 기업과 인터뷰를 봤는데 다 붙고만 썰 [번역]](http://www.looah.com/article/view/2070)
 - [구글코리아 on-site 면접 후기](https://norang.io/diary/interview_review/)
 - [코딩 공부 후 3개월 간 구직하며 배운 점 [번역]](https://brunch.co.kr/@imagineer/194)
+- [프론트엔드 개발자 인터뷰 후기 (면접 질문 정리)](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
 
 --------------------------------------
 </br>
@@ -368,6 +361,8 @@
 - [자바 메모리 관리 - 스택 & 힙](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
 - [Java 빌더 패턴 (Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
 - [Spring Boot Test 정리](https://cheese10yun.github.io/spring-boot-test/)
+- [SpringMVC 프레임워크 동작 방식](https://tinkerbellbass.tistory.com/40)
+
 
 --------------------------------------
 
@@ -483,6 +478,8 @@
 - [Sound Cloud 아키텍처의 진화](http://www.looah.com/article/view/1652?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 - [라이브 비디오 서비스 구축을 위한 노하우 1편](https://www.popit.kr/%eb%9d%bc%ec%9d%b4%eb%b8%8c-%eb%b9%84%eb%94%94%ec%98%a4-%ec%84%9c%eb%b9%84%ec%8a%a4-%ea%b5%ac%ec%b6%95%ec%9d%84-%ec%9c%84%ed%95%9c-%eb%85%b8%ed%95%98%ec%9a%b0-1%ed%9a%8c/)
 - [서버 시간동기화 문제 그리고 대안](https://link.medium.com/6GmMd7XiHT)
+- [AWS Lambda@Edge에서 실시간 이미지 리사이즈 & WebP 형식으로 변환](https://medium.com/daangn/lambda-edge로-구현하는-on-the-fly-이미지-리사이징-f4e5052d49f3)
+- [Apache냐 Nginx냐, 그것이 알고싶다.](https://taetaetae.github.io/2018/06/27/apache-vs-nginx/)
 
 --------------------------------------
 
@@ -595,6 +592,9 @@
 - [JavaScript의 Event Loop](https://asfirstalways.tistory.com/362)
 - [React로 만드는 Electron 웹 애플리케이션; 레이아웃, AntD Customization](https://medium.com/p/817bb2cf1d4b/)
 - [Node.JS 자주 사용하는 모듈 정리](https://github.com/cheese10yun/node-yun)
+- [What the heck is the event loop anyway? (JavaScript를 쉽게 설명한 것으로 유명한 발표) [영상]](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [자바스크립트 비동기 처리 과정과 RxJS Scheduler](http://sculove.github.io/blog/2018/01/18/javascriptflow/?fbclid=IwAR03nU0f972Hc23sSlxf9cjSBnlQrtXrC_WTyEOoNZNLdWSGfyYf2RCuAEA)
+- [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 
 --------------------------------------
 
@@ -811,6 +811,8 @@
 - [오픈소스 프로젝트를 운영하며..](https://meetup.toast.com/posts/175)
 - [람다 기초](https://www.google.com/amp/www.sangkon.com/2018/12/09/haskell-study-part02/amp/)
 - [하나의 메모리 누수를 잡기까지 (멀티스레드 환경)](https://d2.naver.com/helloworld/1326256)
+- [상품 정보 다룰 때, BoundedContext와 엔티티](https://www.popit.kr/%EC%83%81%ED%92%88-%EC%A0%95%EB%B3%B4-%EB%8B%A4%EB%A3%B0-%EB%95%8C-boundedcontext-%EC%99%80-%EC%97%94%ED%84%B0%ED%8B%B0/)
+
 
 ### 에러 발생한 컨텐츠들
 >이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
