@@ -46,14 +46,15 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+
 #### 2019년 1월 28일 월요일
--
+- 
 -
 
 #### 2019년 1월 27일 일요일
 - [DevOps 를 위한 30가지 Docker 인터뷰 질문](https://www.fullstack.cafe/blog/docker-interview-questions-and-answers)
 - [React datagrid component 제작기 (with ES6, TypeScript)](https://medium.com/chequer/react-datagrid-component-%EC%A0%9C%EC%9E%91%EA%B8%B0-with-es6-typescript-4efcbfe1b442)
-
+- [2019년의 JavaScript ES2019 예상](https://sambalim.tistory.com/47)
 
 #### 2019년 1월 26일 토요일
 - [쉽고 빠르게 접하는 openstack](https://www.slideshare.net/mobile/openstack_kr/ss-92381877)
