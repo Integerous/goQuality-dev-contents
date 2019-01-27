@@ -54,9 +54,13 @@
 - [DevOps 를 위한 30가지 Docker 인터뷰 질문](https://www.fullstack.cafe/blog/docker-interview-questions-and-answers)
 - [React datagrid component 제작기 (with ES6, TypeScript)](https://medium.com/chequer/react-datagrid-component-%EC%A0%9C%EC%9E%91%EA%B8%B0-with-es6-typescript-4efcbfe1b442)
 
+
 #### 2019년 1월 26일 토요일
--
--
+- [쉽고 빠르게 접하는 openstack](https://www.slideshare.net/mobile/openstack_kr/ss-92381877)
+- [L4/L7 스위치 대안 오픈소스 로드밸런서 HAProcxy](https://d2.naver.com/helloworld/284659)
+- [MySQL 실행계획](https://12bme.tistory.com/160)
+- [커스텀 엘리먼트(CUSTOM ELEMENT)](https://kyu.io/ko/%EC%9B%B9-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B82-%EC%BB%A4%EC%8A%A4%ED%85%80-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8/)
+
 
 #### 2019년 1월 25일 금요일
 - [Apache냐 Nginx냐, 그것이 알고싶다.](https://taetaetae.github.io/2018/06/27/apache-vs-nginx/)
