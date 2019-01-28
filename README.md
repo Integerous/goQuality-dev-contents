@@ -61,12 +61,6 @@
 - [React datagrid component 제작기 (with ES6, TypeScript)](https://medium.com/chequer/react-datagrid-component-%EC%A0%9C%EC%9E%91%EA%B8%B0-with-es6-typescript-4efcbfe1b442)
 - [2019년의 JavaScript ES2019 예상](https://sambalim.tistory.com/47)
 
-#### 2019년 1월 26일 토요일
-- [쉽고 빠르게 접하는 openstack](https://www.slideshare.net/mobile/openstack_kr/ss-92381877)
-- [L4/L7 스위치 대안 오픈소스 로드밸런서 HAProcxy](https://d2.naver.com/helloworld/284659)
-- [MySQL 실행계획](https://12bme.tistory.com/160)
-- [커스텀 엘리먼트(CUSTOM ELEMENT)](https://kyu.io/ko/%EC%9B%B9-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B82-%EC%BB%A4%EC%8A%A4%ED%85%80-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8/)
-
 
 --------------------------------------
 </br>
@@ -485,6 +479,7 @@
 - [서버 시간동기화 문제 그리고 대안](https://link.medium.com/6GmMd7XiHT)
 - [AWS Lambda@Edge에서 실시간 이미지 리사이즈 & WebP 형식으로 변환](https://medium.com/daangn/lambda-edge로-구현하는-on-the-fly-이미지-리사이징-f4e5052d49f3)
 - [Apache냐 Nginx냐, 그것이 알고싶다.](https://taetaetae.github.io/2018/06/27/apache-vs-nginx/)
+- [L4/L7 스위치 대안 오픈소스 로드밸런서 HAProcxy](https://d2.naver.com/helloworld/284659)
 
 --------------------------------------
 
@@ -508,6 +503,7 @@
 - [데이터베이스 개념정리](https://brunch.co.kr/@toughrogrammer/17)
 - [MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
 - [SQL vs NoSQL [영상]](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+- [MySQL 실행계획](https://12bme.tistory.com/160)
 
 --------------------------------------
 
