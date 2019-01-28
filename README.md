@@ -46,10 +46,15 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 29일 화요일
+-
+-
 
 #### 2019년 1월 28일 월요일
-- 
--
+- [Babel과 Webpack을 이용한 ES6 개발 환경 구축 - Babel](https://poiemaweb.com/es6-babel-webpack-1)
+- [Babel과 Webpack을 이용한 ES6 개발 환경 구축 - Webpack](https://poiemaweb.com/es6-babel-webpack-2)
+- [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/?fbclid=IwAR3YN8bHy5pSF1TDcQC8d1E2bE7_LXpAcDIQ_De4Npblr35Tx7BoDV4iOvU)
+- [훌륭한 팀원의 조건 Strong Views, Weakly Held](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%A1%B0%EA%B1%B4-strong-views-weakly-held-17880611d962)
 
 #### 2019년 1월 27일 일요일
 - [DevOps 를 위한 30가지 Docker 인터뷰 질문](https://www.fullstack.cafe/blog/docker-interview-questions-and-answers)
