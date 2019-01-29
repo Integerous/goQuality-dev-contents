@@ -46,9 +46,21 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 30일 수요일
+-
+-
+
 #### 2019년 1월 29일 화요일
--
--
+- [웹서버, WAS 개념 정리](https://brunch.co.kr/@springboot/21)
+- [AWS, CloudZ등 클라우드 보안 가이드](http://www.skinfosec.com/newsletter_skinfosec/eqstinsight/eqstinsight_201901.pdf)
+- [기술서 번역이 개발자의 삶에 미치는 영향에 대하여 [영상]](https://www.youtube.com/watch?v=3oigv0MUlWw)
+- [경력직 개발자 커리어패스 정리](https://haandol.github.io/2017/02/24/software-engineer-career.html)
+- [requestAnimationFrame() 개념 정리하기](https://fullest-sway.me/blog/2019/01/28/requestAnimationFrame/)
+- [JavaScript 코드 리뷰 - 코드 리뷰 문화](https://cimfalab.github.io/deepscan/2016/08/code-review-1)
+- [HTTP 헤더의 종류 및 항목](https://gmlwjd9405.github.io/2019/01/28/)
+- [Java에서 Garbage collection에 대해 깊이 분석하고 깔끔하게 정리한 글](https://yaboong.github.io/java/2018/06/09/java-garbage-collection/)
+- [대규모 웹사이트란?](https://12bme.tistory.com/100)
+- [Spring Data JDBC in 스프링부트](https://brunch.co.kr/@springboot/105)
 
 #### 2019년 1월 28일 월요일
 - [Babel과 Webpack을 이용한 ES6 개발 환경 구축 - Babel](https://poiemaweb.com/es6-babel-webpack-1)
