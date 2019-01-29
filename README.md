@@ -88,7 +88,7 @@
 
 ### 4. [프론트엔드](https://github.com/Integerous/goQuality-dev-contents#4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-1)
 - [Javascript 관련](https://github.com/Integerous/goQuality-dev-contents#javascript-%EA%B4%80%EB%A0%A8)
-- [디자인 & UI/UX & 폰트](https://github.com/Integerous/goQuality-dev-contents#%EB%94%94%EC%9E%90%EC%9D%B8--uiux)
+- [디자인 & UI/UX & 폰트](https://github.com/Integerous/goQuality-dev-contents#%EB%94%94%EC%9E%90%EC%9D%B8--uiux--%ED%8F%B0%ED%8A%B8)
 - [모바일 & iOS & 안드로이드](https://github.com/Integerous/goQuality-dev-contents#%EB%AA%A8%EB%B0%94%EC%9D%BC--ios--%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 
 ### 5. [기타](https://github.com/Integerous/goQuality-dev-contents#5-%EA%B8%B0%ED%83%80-1)
