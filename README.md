@@ -70,12 +70,6 @@
 - [대규모 웹사이트란?](https://12bme.tistory.com/100)
 - [Spring Data JDBC in 스프링부트](https://brunch.co.kr/@springboot/105)
 
-#### 2019년 1월 28일 월요일
-- [Babel과 Webpack을 이용한 ES6 개발 환경 구축 - Babel](https://poiemaweb.com/es6-babel-webpack-1)
-- [Babel과 Webpack을 이용한 ES6 개발 환경 구축 - Webpack](https://poiemaweb.com/es6-babel-webpack-2)
-- [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/?fbclid=IwAR3YN8bHy5pSF1TDcQC8d1E2bE7_LXpAcDIQ_De4Npblr35Tx7BoDV4iOvU)
-- [훌륭한 팀원의 조건 Strong Views, Weakly Held](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%A1%B0%EA%B1%B4-strong-views-weakly-held-17880611d962)
-
 
 --------------------------------------
 </br>
@@ -178,6 +172,7 @@
 - [소프트웨어 개발의 지혜](https://brunch.co.kr/@springboot/35)
 - [2018년 내가 모르는 기술들 [번역]](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
 - [개발자가 깨달은 스트레스 없는 직장생활에 대하여](https://ppss.kr/archives/149593?fbclid=IwAR2TtxPehHEkDHgYxwio4sJikzKBnqm4G4w4NoOfF-vNS7wVKgP4VfHa2Sg)
+- [훌륭한 팀원의 조건 Strong Views, Weakly Held](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%A1%B0%EA%B1%B4-strong-views-weakly-held-17880611d962)
 
 --------------------------------------
 
@@ -496,6 +491,8 @@
 - [AWS Lambda@Edge에서 실시간 이미지 리사이즈 & WebP 형식으로 변환](https://medium.com/daangn/lambda-edge로-구현하는-on-the-fly-이미지-리사이징-f4e5052d49f3)
 - [Apache냐 Nginx냐, 그것이 알고싶다.](https://taetaetae.github.io/2018/06/27/apache-vs-nginx/)
 - [L4/L7 스위치 대안 오픈소스 로드밸런서 HAProcxy](https://d2.naver.com/helloworld/284659)
+- [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/?fbclid=IwAR3YN8bHy5pSF1TDcQC8d1E2bE7_LXpAcDIQ_De4Npblr35Tx7BoDV4iOvU)
+
 
 --------------------------------------
 
