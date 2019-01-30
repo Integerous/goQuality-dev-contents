@@ -46,9 +46,17 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 1월 31일 목요일
+-
+-
+
 #### 2019년 1월 30일 수요일
--
--
+- [아마존 엘라스틱 컨테이너 서비스(ECS) 입문](https://www.44bits.io/ko/post/container-orchestration-101-with-docker-and-aws-elastic-container-service)
+- [2019 개발자 로드맵](https://github.com/kamranahmedse/developer-roadmap)
+- [.git - 쩜깃의 이해](https://jusths.tistory.com/64)
+- [Electron으로 데스크톱 앱을 개발한 경험](https://blog.outsider.ne.kr/1422)
+- [Docker 한글 문서/영상 모음집](http://documents.docker.co.kr/)
+- [Angular 한글 문서](angular.kr)
 
 #### 2019년 1월 29일 화요일
 - [웹서버, WAS 개념 정리](https://brunch.co.kr/@springboot/21)
