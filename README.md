@@ -47,8 +47,14 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 #### 2019년 1월 31일 목요일
--
--
+- [함수형 프로그래밍 요약](https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD)
+- [문서화에 대해 아무도 말해주지 않는 것들](http://blog.weirdx.io/post/60414)
+- [Github 프로필로 취업하기](http://sujinlee.me/professional-github/)
+- [Back to the Essence - Java 컴파일에서 실행까지 - (1)](http://homoefficio.github.io/2019/01/31/Back-to-the-Essence-Java-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80-1/?fbclid=IwAR20ecaue8jgSumFYOw_7qDIjS09LqDn_B5cozBMPWOQ0uS-iEYGcYLnkYc)
+- [SI? SM? 스타트업?.. 취업할까? 미룰까?](https://jojoldu.tistory.com/398)
+- [2019 웹 개발자 로드맵(번역)](https://github.com/devJang/developer-roadmap)
+- [(ES6) webpack과 Babel을 이용하여 ES6 간단한 사용환경 설치하기](https://github.com/FEDevelopers/tech.description/wiki/(ES6)-webpack%EA%B3%BC-Babel%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-ES6-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%82%AC%EC%9A%A9%ED%99%98%EA%B2%BD-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+
 
 #### 2019년 1월 30일 수요일
 - [아마존 엘라스틱 컨테이너 서비스(ECS) 입문](https://www.44bits.io/ko/post/container-orchestration-101-with-docker-and-aws-elastic-container-service)
