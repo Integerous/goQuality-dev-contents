@@ -64,18 +64,6 @@
 - [Docker 한글 문서/영상 모음집](http://documents.docker.co.kr/)
 - [Angular 한글 문서](angular.kr)
 
-#### 2019년 1월 29일 화요일
-- [웹서버, WAS 개념 정리](https://brunch.co.kr/@springboot/21)
-- [AWS, CloudZ등 클라우드 보안 가이드](http://www.skinfosec.com/newsletter_skinfosec/eqstinsight/eqstinsight_201901.pdf)
-- [기술서 번역이 개발자의 삶에 미치는 영향에 대하여 [영상]](https://www.youtube.com/watch?v=3oigv0MUlWw)
-- [경력직 개발자 커리어패스 정리](https://haandol.github.io/2017/02/24/software-engineer-career.html)
-- [requestAnimationFrame() 개념 정리하기](https://fullest-sway.me/blog/2019/01/28/requestAnimationFrame/)
-- [JavaScript 코드 리뷰 - 코드 리뷰 문화](https://cimfalab.github.io/deepscan/2016/08/code-review-1)
-- [HTTP 헤더의 종류 및 항목](https://gmlwjd9405.github.io/2019/01/28/http-header-types.html)
-- [Java에서 Garbage collection에 대해 깊이 분석하고 깔끔하게 정리한 글](https://yaboong.github.io/java/2018/06/09/java-garbage-collection/)
-- [대규모 웹사이트란?](https://12bme.tistory.com/100)
-- [Spring Data JDBC in 스프링부트](https://brunch.co.kr/@springboot/105)
-
 
 --------------------------------------
 </br>
@@ -179,6 +167,7 @@
 - [2018년 내가 모르는 기술들 [번역]](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
 - [개발자가 깨달은 스트레스 없는 직장생활에 대하여](https://ppss.kr/archives/149593?fbclid=IwAR2TtxPehHEkDHgYxwio4sJikzKBnqm4G4w4NoOfF-vNS7wVKgP4VfHa2Sg)
 - [훌륭한 팀원의 조건 Strong Views, Weakly Held](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%A1%B0%EA%B1%B4-strong-views-weakly-held-17880611d962)
+- [JavaScript 코드 리뷰 - 코드 리뷰 문화](https://cimfalab.github.io/deepscan/2016/08/code-review-1)
 
 --------------------------------------
 
@@ -215,6 +204,8 @@
 - [컴퓨터공학과 대학원에 입학하기 전에 알았더라면 좋았을 것들 (석사)](https://blog.naver.com/PostList.nhn?blogId=alice_k106&from=postList&categoryNo=14)
 - [현업에 있는 스타트업 개발자들의 개발/인프라 이야기 [팟캐스트]](https://stdout.fm/)
 - [좋은 기술 블로그를 만들어 나가기 위한 8가지 제언](https://www.44bits.io/ko/post/8-suggestions-for-tech-programming-blog)
+- [기술서 번역이 개발자의 삶에 미치는 영향에 대하여 [영상]](https://www.youtube.com/watch?v=3oigv0MUlWw)
+- [경력직 개발자 커리어패스 정리](https://haandol.github.io/2017/02/24/software-engineer-career.html)
 
 --------------------------------------
 
@@ -378,7 +369,7 @@
 - [Java 빌더 패턴 (Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
 - [Spring Boot Test 정리](https://cheese10yun.github.io/spring-boot-test/)
 - [SpringMVC 프레임워크 동작 방식](https://tinkerbellbass.tistory.com/40)
-
+- [Java에서 Garbage collection에 대해 깊이 분석하고 깔끔하게 정리한 글](https://yaboong.github.io/java/2018/06/09/java-garbage-collection/)
 
 --------------------------------------
 
@@ -498,7 +489,7 @@
 - [Apache냐 Nginx냐, 그것이 알고싶다.](https://taetaetae.github.io/2018/06/27/apache-vs-nginx/)
 - [L4/L7 스위치 대안 오픈소스 로드밸런서 HAProcxy](https://d2.naver.com/helloworld/284659)
 - [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/?fbclid=IwAR3YN8bHy5pSF1TDcQC8d1E2bE7_LXpAcDIQ_De4Npblr35Tx7BoDV4iOvU)
-
+- [웹서버, WAS 개념 정리](https://brunch.co.kr/@springboot/21)
 
 --------------------------------------
 
@@ -716,6 +707,7 @@
 - [HTTPS는 HTTP보다 빠르다](https://tech.ssut.me/)
 - [REST API 설명 [영상]](https://www.youtube.com/watch?v=LooL6_chvN4)
 - [REST FULL 한 웹서비스 > Stateless와 HATEOAS 개념](http://anster.tistory.com/163)
+- [HTTP 헤더의 종류 및 항목](https://gmlwjd9405.github.io/2019/01/28/http-header-types.html)
 
 --------------------------------------
 
