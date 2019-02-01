@@ -46,6 +46,16 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 2월 2일 토요일
+-
+-
+
+
+#### 2019년 2월 1일 금요일
+- [쉽고 간단한 kubectl plugin 개발 하기 (1) - 기초 구현](https://dennis.k8s.kr/1)
+- [프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0rrKsIl5jY_h-40Z5OiQBCW7CecSqqp0XL0cSBDYNFcu8N9nMNUGP6w9w)
+
+
 #### 2019년 1월 31일 목요일
 - [함수형 프로그래밍 요약](https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD)
 - [문서화에 대해 아무도 말해주지 않는 것들](http://blog.weirdx.io/post/60414)
