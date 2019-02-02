@@ -64,16 +64,6 @@
 - [프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0rrKsIl5jY_h-40Z5OiQBCW7CecSqqp0XL0cSBDYNFcu8N9nMNUGP6w9w)
 
 
-#### 2019년 1월 31일 목요일
-- [함수형 프로그래밍 요약](https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD)
-- [문서화에 대해 아무도 말해주지 않는 것들](http://blog.weirdx.io/post/60414)
-- [Github 프로필로 취업하기](http://sujinlee.me/professional-github/)
-- [Back to the Essence - Java 컴파일에서 실행까지 - (1)](http://homoefficio.github.io/2019/01/31/Back-to-the-Essence-Java-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80-1/?fbclid=IwAR20ecaue8jgSumFYOw_7qDIjS09LqDn_B5cozBMPWOQ0uS-iEYGcYLnkYc)
-- [SI? SM? 스타트업?.. 취업할까? 미룰까?](https://jojoldu.tistory.com/398)
-- [2019 웹 개발자 로드맵(번역)](https://github.com/devJang/developer-roadmap)
-- [(ES6) webpack과 Babel을 이용하여 ES6 간단한 사용환경 설치하기](https://github.com/FEDevelopers/tech.description/wiki/(ES6)-webpack%EA%B3%BC-Babel%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-ES6-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%82%AC%EC%9A%A9%ED%99%98%EA%B2%BD-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
-
-
 --------------------------------------
 </br>
 </br>
@@ -177,6 +167,7 @@
 - [개발자가 깨달은 스트레스 없는 직장생활에 대하여](https://ppss.kr/archives/149593?fbclid=IwAR2TtxPehHEkDHgYxwio4sJikzKBnqm4G4w4NoOfF-vNS7wVKgP4VfHa2Sg)
 - [훌륭한 팀원의 조건 Strong Views, Weakly Held](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%A1%B0%EA%B1%B4-strong-views-weakly-held-17880611d962)
 - [JavaScript 코드 리뷰 - 코드 리뷰 문화](https://cimfalab.github.io/deepscan/2016/08/code-review-1)
+- [문서화에 대해 아무도 말해주지 않는 것들 [번역]](http://blog.weirdx.io/post/60414)
 
 --------------------------------------
 
@@ -215,7 +206,7 @@
 - [좋은 기술 블로그를 만들어 나가기 위한 8가지 제언](https://www.44bits.io/ko/post/8-suggestions-for-tech-programming-blog)
 - [기술서 번역이 개발자의 삶에 미치는 영향에 대하여 [영상]](https://www.youtube.com/watch?v=3oigv0MUlWw)
 - [경력직 개발자 커리어패스 정리](https://haandol.github.io/2017/02/24/software-engineer-career.html)
-- [2019 개발자 로드맵](https://github.com/kamranahmedse/developer-roadmap)
+- [2019 웹 개발자 로드맵 [번역]](https://github.com/kamranahmedse/developer-roadmap)
 
 
 --------------------------------------
@@ -842,6 +833,7 @@
 - [하나의 메모리 누수를 잡기까지 (멀티스레드 환경)](https://d2.naver.com/helloworld/1326256)
 - [상품 정보 다룰 때, BoundedContext와 엔티티](https://www.popit.kr/%EC%83%81%ED%92%88-%EC%A0%95%EB%B3%B4-%EB%8B%A4%EB%A3%B0-%EB%95%8C-boundedcontext-%EC%99%80-%EC%97%94%ED%84%B0%ED%8B%B0/)
 - [Electron으로 데스크톱 앱을 개발한 경험](https://blog.outsider.ne.kr/1422)
+- [함수형 프로그래밍 요약](https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD)
 
 
 ### 에러 발생한 컨텐츠들
