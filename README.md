@@ -46,9 +46,17 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 2월 3일 일요일
+-
+-
+
+
 #### 2019년 2월 2일 토요일
 - [Github 마크다운 작성 시 이미지 업로드 꿀팁](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
--
+- [객체지향의 사실과 오해 책 리뷰](https://wooooooak.github.io/%EC%A4%91%EC%96%BC%20%EC%A4%91%EC%96%BC/2019/01/15/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%EC%82%AC%EC%8B%A4%EA%B3%BC%EC%98%A4%ED%95%B4/)
+- [Github 마크다운 작성 시 이미지 업로드 꿀팁](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
+- [IDC에서 AWS로 Redis 데이터 이전하기](https://mingrammer.com/redis-migration/)
+- [Hashicorp의 도](https://blog.outsider.ne.kr/1173)
 
 
 #### 2019년 2월 1일 금요일
