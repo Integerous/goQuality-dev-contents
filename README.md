@@ -62,10 +62,6 @@
 - [IDC에서 AWS로 Redis 데이터 이전하기](https://mingrammer.com/redis-migration/)
 - [Hashicorp의 도](https://blog.outsider.ne.kr/1173)
 
-#### 2019년 2월 1일 금요일
-- [쉽고 간단한 kubectl plugin 개발 하기 (1) - 기초 구현](https://dennis.k8s.kr/1)
-- [프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/?fbclid=IwAR0rrKsIl5jY_h-40Z5OiQBCW7CecSqqp0XL0cSBDYNFcu8N9nMNUGP6w9w)
-
 
 --------------------------------------
 </br>
