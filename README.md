@@ -46,10 +46,14 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2019년 2월 3일 일요일
+#### 2019년 2월 4일 월요일
 -
 -
 
+#### 2019년 2월 3일 일요일
+- [Spring Camp 2018 영상 모음](https://www.youtube.com/playlist?list=PLdHtZnJh1KdZnswQEyrn5VKxAXluSlWJc)
+- [프론트엔드 기술 번역문서 모음](https://github.com/FEDevelopers/tech.description/wiki/%EB%B2%88%EC%97%AD-%EB%AC%B8%EC%84%9C)
+- [리눅스 스왑 파티션 이해하기](https://sergeswin.com/1034)
 
 #### 2019년 2월 2일 토요일
 - [Github 마크다운 작성 시 이미지 업로드 꿀팁](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
@@ -57,7 +61,6 @@
 - [Github 마크다운 작성 시 이미지 업로드 꿀팁](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
 - [IDC에서 AWS로 Redis 데이터 이전하기](https://mingrammer.com/redis-migration/)
 - [Hashicorp의 도](https://blog.outsider.ne.kr/1173)
-
 
 #### 2019년 2월 1일 금요일
 - [쉽고 간단한 kubectl plugin 개발 하기 (1) - 기초 구현](https://dennis.k8s.kr/1)
