@@ -61,13 +61,6 @@
 - [프론트엔드 기술 번역문서 모음](https://github.com/FEDevelopers/tech.description/wiki/%EB%B2%88%EC%97%AD-%EB%AC%B8%EC%84%9C)
 - [리눅스 스왑 파티션 이해하기](https://sergeswin.com/1034)
 
-#### 2019년 2월 2일 토요일
-- [Github 마크다운 작성 시 이미지 업로드 꿀팁](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
-- [객체지향의 사실과 오해 책 리뷰](https://wooooooak.github.io/%EC%A4%91%EC%96%BC%20%EC%A4%91%EC%96%BC/2019/01/15/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%EC%82%AC%EC%8B%A4%EA%B3%BC%EC%98%A4%ED%95%B4/)
-- [Github 마크다운 작성 시 이미지 업로드 꿀팁](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
-- [IDC에서 AWS로 Redis 데이터 이전하기](https://mingrammer.com/redis-migration/)
-- [Hashicorp의 도](https://blog.outsider.ne.kr/1173)
-
 
 --------------------------------------
 </br>
@@ -173,6 +166,7 @@
 - [훌륭한 팀원의 조건 Strong Views, Weakly Held](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%A1%B0%EA%B1%B4-strong-views-weakly-held-17880611d962)
 - [JavaScript 코드 리뷰 - 코드 리뷰 문화](https://cimfalab.github.io/deepscan/2016/08/code-review-1)
 - [문서화에 대해 아무도 말해주지 않는 것들 [번역]](http://blog.weirdx.io/post/60414)
+- [Hashicorp의 도 [번역]](https://blog.outsider.ne.kr/1173)
 
 --------------------------------------
 
@@ -499,7 +493,7 @@
 - [웹서버, WAS 개념 정리](https://brunch.co.kr/@springboot/21)
 - [아마존 엘라스틱 컨테이너 서비스(ECS) 입문](https://www.44bits.io/ko/post/container-orchestration-101-with-docker-and-aws-elastic-container-service)
 - [Docker 한글 문서/영상 모음집](http://documents.docker.co.kr/)
-
+- [IDC에서 AWS로 Redis 데이터 이전하기](https://mingrammer.com/redis-migration/)
 
 --------------------------------------
 
@@ -753,6 +747,7 @@
 - [주니어 개발자가 처음 Pull Request보내본 썰](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)
 - [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
 - [.git - 쩜깃의 이해](https://jusths.tistory.com/64)
+- [Github 마크다운 작성 시 이미지 업로드 꿀팁](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
 
 --------------------------------------
 
