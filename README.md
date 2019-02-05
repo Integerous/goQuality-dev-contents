@@ -56,11 +56,6 @@
 - [아마존 3년 출근기 1편 - 하루 일과 및 요약](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
 - [실용적인 프론트엔드 테스트 전략 1편](https://github.com/nhnent/fe.javascript/wiki/%23189-:%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EB%9E%B5-(1))
 
-#### 2019년 2월 3일 일요일
-- [Spring Camp 2018 영상 모음](https://www.youtube.com/playlist?list=PLdHtZnJh1KdZnswQEyrn5VKxAXluSlWJc)
-- [프론트엔드 기술 번역문서 모음](https://github.com/FEDevelopers/tech.description/wiki/%EB%B2%88%EC%97%AD-%EB%AC%B8%EC%84%9C)
-- [리눅스 스왑 파티션 이해하기](https://sergeswin.com/1034)
-
 
 --------------------------------------
 </br>
@@ -258,6 +253,7 @@
 - [DEVIEW 2018 영상 모음 [영상]](https://tv.naver.com/v/4577969/list/279844)
 - [GDG DevFest Seoul 2018 발표자료 모음](https://devfest-seoul18.gdg.kr/timetable)
 - [2018 마소콘 발표자료 모음](https://www.imaso.co.kr/archives/4510)
+- [Spring Camp 2018 영상 모음](https://www.youtube.com/playlist?list=PLdHtZnJh1KdZnswQEyrn5VKxAXluSlWJc)
 
 --------------------------------------
 
@@ -612,6 +608,7 @@
 - [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 - [React datagrid component 제작기 (with ES6, TypeScript)](https://medium.com/chequer/react-datagrid-component-%EC%A0%9C%EC%9E%91%EA%B8%B0-with-es6-typescript-4efcbfe1b442)
 - [Angular 한글 문서](angular.kr)
+- [프론트엔드 기술 번역문서 모음](https://github.com/FEDevelopers/tech.description/wiki/%EB%B2%88%EC%97%AD-%EB%AC%B8%EC%84%9C)
 
 --------------------------------------
 
