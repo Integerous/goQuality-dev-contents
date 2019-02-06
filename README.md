@@ -46,6 +46,17 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 2월 7일 목요일
+-
+-
+
+#### 2019년 2월 6일 수요일
+- [Concurrency vs Parallelism](http://homoefficio.github.io/2019/02/02/Back-to-the-Essence-Concurrency-vs-Parallelism/)
+- [JPA 연관관계 매핑](http://blog.eomdev.com/java/2016/01/13/jpa_05_relationshipMappingBasic.html)
+- [3년차 웹 개발자](http://blog.kingbbode.com/posts/who-am-i-3)
+- [3개월차 주니어 서버개발자가 느끼는 나와 시니어의 차이](https://zeniuus.github.io/2019/02/06/difference-between-junior-and-senior/)
+
+
 #### 2019년 2월 5일 화요일
 -
 -
