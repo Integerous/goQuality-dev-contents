@@ -46,9 +46,18 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 2월 8일 금요일
+-
+-
+
 #### 2019년 2월 7일 목요일
--
--
+- [AWS Lambda에 Nuxt.js 배포하기](https://velog.io/@evanjin/AWS-Lambda에-Nuxt-배포하기-feat.-Apex-Up-bbjrrnrhn6)
+- [Service, ServiceImpl 구조에 대한 고찰](https://github.com/cheese10yun/blog-sample/tree/master/service)
+- [MVC 공부용 자바채팅어플 개발기](https://github.com/1ilsang/java-mvc-chatting/blob/master/README.md)
+- [개인의 기술부채에 대하여](https://jojoldu.tistory.com/399?fbclid=IwAR2aCfQljY48WENUYvP_qAF8fkaeZrnaKMliQOHHj37wgUtdDxigQhy9rxU)
+- [ssl/tls 에 대해서](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
+- [Play Framework vs Spring MVC](https://hamait.tistory.com/592)
+- [React Application에서 drag와 resize](https://medium.com/p/fd6a61c80d89/)
 
 #### 2019년 2월 6일 수요일
 - [Concurrency vs Parallelism](http://homoefficio.github.io/2019/02/02/Back-to-the-Essence-Concurrency-vs-Parallelism/)
