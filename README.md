@@ -66,10 +66,6 @@
 - [3개월차 주니어 서버개발자가 느끼는 나와 시니어의 차이](https://zeniuus.github.io/2019/02/06/difference-between-junior-and-senior/)
 
 
-#### 2019년 2월 5일 화요일
-- [알고리즘 학습에 대한 조언](https://edykim.com/ko/post/advice-on-learning-algorithms/)
-- [이맥스는 죽었다 [번역]](https://github.com/EBvi/doc/blob/master/translation/Emacs%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8C%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%A5%E1%86%BB%E1%84%83%E1%85%A1.md)
-
 
 --------------------------------------
 </br>
