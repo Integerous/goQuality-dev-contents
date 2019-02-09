@@ -59,13 +59,6 @@
 - [Play Framework vs Spring MVC](https://hamait.tistory.com/592)
 - [React Application에서 drag와 resize](https://medium.com/p/fd6a61c80d89/)
 
-#### 2019년 2월 6일 수요일
-- [Concurrency vs Parallelism](http://homoefficio.github.io/2019/02/02/Back-to-the-Essence-Concurrency-vs-Parallelism/)
-- [JPA 연관관계 매핑](http://blog.eomdev.com/java/2016/01/13/jpa_05_relationshipMappingBasic.html)
-- [3년차 웹 개발자](http://blog.kingbbode.com/posts/who-am-i-3)
-- [3개월차 주니어 서버개발자가 느끼는 나와 시니어의 차이](https://zeniuus.github.io/2019/02/06/difference-between-junior-and-senior/)
-
-
 
 --------------------------------------
 </br>
@@ -242,6 +235,7 @@
 - [신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?](https://medium.com/@Jbee_/신입-프론트엔드-개발자가-되려면-무엇을-학습해야-하나요-1dd59a14e084)
 - [경력자가 1년차 개발자로 되돌아간다면, 어떤 것에 집중할 것인가?](https://jojoldu.tistory.com/363?category=689637)
 - [개발자 직군 파헤치기 [번역]](https://medium.com/code-states/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%81%EA%B5%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-1-%ED%94%84%EB%A1%A0%ED%8A%B8-front-%EB%B0%B1-back-%ED%92%80%EC%8A%A4%ED%83%9D-full-stack-%EA%B0%9C%EB%B0%9C%EC%9E%90-f6c2f53e5b3b)
+- [3개월차 주니어 서버개발자가 느끼는 나와 시니어의 차이](https://zeniuus.github.io/2019/02/06/difference-between-junior-and-senior/)
 
 --------------------------------------
 
@@ -276,6 +270,7 @@
 - [프론트엔드 개발자 안도형님의 2018년 회고](https://adhrinae.github.io/posts/retrospective-2018)
 - [창천항로님의 2018년 하반기 회고](https://jojoldu.tistory.com/373)
 - [Velopert님의 2018년 회고](https://velog.io/@velopert/2018.log)
+- [권용근님의 2018년 회고 - 3년차 웹 개발자](http://blog.kingbbode.com/posts/who-am-i-3)
 
 --------------------------------------
 
@@ -844,7 +839,7 @@
 - [상품 정보 다룰 때, BoundedContext와 엔티티](https://www.popit.kr/%EC%83%81%ED%92%88-%EC%A0%95%EB%B3%B4-%EB%8B%A4%EB%A3%B0-%EB%95%8C-boundedcontext-%EC%99%80-%EC%97%94%ED%84%B0%ED%8B%B0/)
 - [Electron으로 데스크톱 앱을 개발한 경험](https://blog.outsider.ne.kr/1422)
 - [함수형 프로그래밍 요약](https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD)
-
+- [Concurrency vs Parallelism](http://homoefficio.github.io/2019/02/02/Back-to-the-Essence-Concurrency-vs-Parallelism/)
 
 ### 에러 발생한 컨텐츠들
 >이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
