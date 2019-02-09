@@ -66,15 +66,6 @@
 - [mitmproxy를 활용해 구글 애널리틱스 테스트 자동화하기](https://engineering.linecorp.com/ko/blog/auto-inspecting-testing-with-google-analytics/)
 
 
-#### 2019년 2월 7일 목요일
-- [AWS Lambda에 Nuxt.js 배포하기](https://velog.io/@evanjin/AWS-Lambda에-Nuxt-배포하기-feat.-Apex-Up-bbjrrnrhn6)
-- [Service, ServiceImpl 구조에 대한 고찰](https://github.com/cheese10yun/blog-sample/tree/master/service)
-- [MVC 공부용 자바채팅어플 개발기](https://github.com/1ilsang/java-mvc-chatting/blob/master/README.md)
-- [개인의 기술부채에 대하여](https://jojoldu.tistory.com/399?fbclid=IwAR2aCfQljY48WENUYvP_qAF8fkaeZrnaKMliQOHHj37wgUtdDxigQhy9rxU)
-- [ssl/tls 에 대해서](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
-- [Play Framework vs Spring MVC](https://hamait.tistory.com/592)
-- [React Application에서 drag와 resize](https://medium.com/p/fd6a61c80d89/)
-
 
 --------------------------------------
 </br>
@@ -389,6 +380,7 @@
 - [Spring Boot Test 정리](https://cheese10yun.github.io/spring-boot-test/)
 - [SpringMVC 프레임워크 동작 방식](https://tinkerbellbass.tistory.com/40)
 - [Java에서 Garbage collection에 대해 깊이 분석하고 깔끔하게 정리한 글](https://yaboong.github.io/java/2018/06/09/java-garbage-collection/)
+- [Service, ServiceImpl 구조에 대한 고찰](https://github.com/cheese10yun/blog-sample/tree/master/service)
 
 --------------------------------------
 
@@ -632,6 +624,7 @@
 - [Angular 한글 문서](angular.kr)
 - [프론트엔드 기술 번역문서 모음](https://github.com/FEDevelopers/tech.description/wiki/%EB%B2%88%EC%97%AD-%EB%AC%B8%EC%84%9C)
 - [실용적인 프론트엔드 테스트 전략 1편](https://github.com/nhnent/fe.javascript/wiki/%23189-:%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EB%9E%B5-(1))
+- [React Application에서 drag와 resize](https://medium.com/p/fd6a61c80d89/)
 
 --------------------------------------
 
