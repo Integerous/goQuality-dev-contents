@@ -46,9 +46,25 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+
+#### 2019년 2월 10일 일요일
+-
+-
+
+#### 2019년 2월 9일 토요일
+- [React Hooks 소개](https://john015.github.io/introducing-react-hooks)
+- [정적 사이트 생성기 Gatsby](https://blog.outsider.ne.kr/1426)
+- [배민라이더스 배달 경로와 거리 계산 개발과정](http://woowabros.github.io/experience/2019/02/07/real-distance-finder.html)
+- [Sprong OAuth2 인증 Flow 소개 및 RDBMS를 이용한 영속화](https://github.com/cheese10yun/springboot-oauth2)
+- [iOS 한국어 강의 및 세미나 자료 모음](https://github.com/ClintJang/awesome-swift-korean-lecture)
+
+
 #### 2019년 2월 8일 금요일
--
--
+- [커맨드라인 JSON 프로세서 jq : 기초 문법과 작동원리](https://www.44bits.io/ko/post/cli_json_processor_jq_basic_syntax)
+- [reactive란 무엇인가?](https://zeddios.tistory.com/m/303)
+- [3분만에 Node.js 이해하기](https://menuand.tistory.com/m/3?category=817925)
+- [mitmproxy를 활용해 구글 애널리틱스 테스트 자동화하기](https://engineering.linecorp.com/ko/blog/auto-inspecting-testing-with-google-analytics/)
+
 
 #### 2019년 2월 7일 목요일
 - [AWS Lambda에 Nuxt.js 배포하기](https://velog.io/@evanjin/AWS-Lambda에-Nuxt-배포하기-feat.-Apex-Up-bbjrrnrhn6)
