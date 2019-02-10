@@ -47,9 +47,14 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 2월 11일 월요일
+-
+-
+
 #### 2019년 2월 10일 일요일
--
--
+- [ThreadLocal 사용법과 활용](https://javacan.tistory.com/entry/ThreadLocalUsage)
+- [Amazon RDS 활용 시, 데이터베이스 관리자 (DBA)의 역할 변화](https://aws.amazon.com/ko/blogs/korea/part-1-role-of-the-dba-when-moving-to-amazon-rds-responsibilities/)
+
 
 #### 2019년 2월 9일 토요일
 - [React Hooks 소개](https://john015.github.io/introducing-react-hooks)
