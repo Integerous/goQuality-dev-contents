@@ -47,9 +47,15 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 2월 12일 화요일
+-
+-
+
 #### 2019년 2월 11일 월요일
--
--
+- [동기부여 - 질문 잘하는 법](https://www.youtube.com/watch?v=L2p1mdpxD5w)
+- [누구나 할 수 있는 엑세스 로그 분석 따라해보기 (by Elastic Stack)](https://taetaetae.github.io/2019/02/10/access-log-to-elastic-stack/)
+- [AWS VPC 기초](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
+- [Gatsby로 블로그를 마이그레이션하며 고려한 것들](https://jbee.io/etc/intro-new-blog/?fbclid=IwAR2k8P3A32ZFDwyDto6FuaSD-C5eKAmfTPm0J5TyHFczzErPw9tnADIcDYk)
 
 #### 2019년 2월 10일 일요일
 - [ThreadLocal 사용법과 활용](https://javacan.tistory.com/entry/ThreadLocalUsage)
