@@ -62,14 +62,6 @@
 - [Amazon RDS 활용 시, 데이터베이스 관리자 (DBA)의 역할 변화](https://aws.amazon.com/ko/blogs/korea/part-1-role-of-the-dba-when-moving-to-amazon-rds-responsibilities/)
 
 
-#### 2019년 2월 9일 토요일
-- [React Hooks 소개](https://john015.github.io/introducing-react-hooks)
-- [정적 사이트 생성기 Gatsby](https://blog.outsider.ne.kr/1426)
-- [배민라이더스 배달 경로와 거리 계산 개발과정](http://woowabros.github.io/experience/2019/02/07/real-distance-finder.html)
-- [Sprong OAuth2 인증 Flow 소개 및 RDBMS를 이용한 영속화](https://github.com/cheese10yun/springboot-oauth2)
-- [iOS 한국어 강의 및 세미나 자료 모음](https://github.com/ClintJang/awesome-swift-korean-lecture)
-
-
 --------------------------------------
 </br>
 </br>
@@ -384,6 +376,7 @@
 - [SpringMVC 프레임워크 동작 방식](https://tinkerbellbass.tistory.com/40)
 - [Java에서 Garbage collection에 대해 깊이 분석하고 깔끔하게 정리한 글](https://yaboong.github.io/java/2018/06/09/java-garbage-collection/)
 - [Service, ServiceImpl 구조에 대한 고찰](https://github.com/cheese10yun/blog-sample/tree/master/service)
+- [Sprong OAuth2 인증 Flow 소개 및 RDBMS를 이용한 영속화](https://github.com/cheese10yun/springboot-oauth2)
 
 --------------------------------------
 
@@ -507,6 +500,7 @@
 - [아마존 엘라스틱 컨테이너 서비스(ECS) 입문](https://www.44bits.io/ko/post/container-orchestration-101-with-docker-and-aws-elastic-container-service)
 - [Docker 한글 문서/영상 모음집](http://documents.docker.co.kr/)
 - [IDC에서 AWS로 Redis 데이터 이전하기](https://mingrammer.com/redis-migration/)
+- [배민라이더스 배달 경로와 거리 계산 개발과정](http://woowabros.github.io/experience/2019/02/07/real-distance-finder.html)
 
 --------------------------------------
 
@@ -679,7 +673,7 @@
 - [넷플릭스 안드로이드 앱 아키텍쳐 [번역]](https://m.blog.naver.com/diablo1031/221406412612)
 - [NAVER Tech Concert:Android 발표 영상 모음 [영상]](https://tv.naver.com/v/4409296/list/272653)
 - [Vue와 NativeScript로 네이티브 모바일 앱 만들기 [번역]](http://vuejs.kr/vue/nativescript/2017/08/11/introduce-vue-nativescript-01/)
-
+- [iOS 한국어 강의 및 세미나 자료 모음](https://github.com/ClintJang/awesome-swift-korean-lecture)
 
 --------------------------------------
 </br>
@@ -855,6 +849,7 @@
 - [Concurrency vs Parallelism](http://homoefficio.github.io/2019/02/02/Back-to-the-Essence-Concurrency-vs-Parallelism/)
 - [커맨드라인 JSON 프로세서 jq : 기초 문법과 작동원리](https://www.44bits.io/ko/post/cli_json_processor_jq_basic_syntax)
 - [mitmproxy를 활용해 구글 애널리틱스 테스트 자동화하기](https://engineering.linecorp.com/ko/blog/auto-inspecting-testing-with-google-analytics/)
+- [정적 사이트 생성기 Gatsby](https://blog.outsider.ne.kr/1426)
 
 
 ### 에러 발생한 컨텐츠들
