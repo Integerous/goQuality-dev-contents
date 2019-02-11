@@ -70,14 +70,6 @@
 - [iOS 한국어 강의 및 세미나 자료 모음](https://github.com/ClintJang/awesome-swift-korean-lecture)
 
 
-#### 2019년 2월 8일 금요일
-- [커맨드라인 JSON 프로세서 jq : 기초 문법과 작동원리](https://www.44bits.io/ko/post/cli_json_processor_jq_basic_syntax)
-- [reactive란 무엇인가?](https://zeddios.tistory.com/m/303)
-- [3분만에 Node.js 이해하기](https://menuand.tistory.com/m/3?category=817925)
-- [mitmproxy를 활용해 구글 애널리틱스 테스트 자동화하기](https://engineering.linecorp.com/ko/blog/auto-inspecting-testing-with-google-analytics/)
-
-
-
 --------------------------------------
 </br>
 </br>
@@ -636,6 +628,7 @@
 - [프론트엔드 기술 번역문서 모음](https://github.com/FEDevelopers/tech.description/wiki/%EB%B2%88%EC%97%AD-%EB%AC%B8%EC%84%9C)
 - [실용적인 프론트엔드 테스트 전략 1편](https://github.com/nhnent/fe.javascript/wiki/%23189-:%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EB%9E%B5-(1))
 - [React Application에서 drag와 resize](https://medium.com/p/fd6a61c80d89/)
+- [3분만에 Node.js 이해하기 [번역]](https://menuand.tistory.com/m/3?category=817925)
 
 --------------------------------------
 
@@ -860,6 +853,9 @@
 - [Electron으로 데스크톱 앱을 개발한 경험](https://blog.outsider.ne.kr/1422)
 - [함수형 프로그래밍 요약](https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD)
 - [Concurrency vs Parallelism](http://homoefficio.github.io/2019/02/02/Back-to-the-Essence-Concurrency-vs-Parallelism/)
+- [커맨드라인 JSON 프로세서 jq : 기초 문법과 작동원리](https://www.44bits.io/ko/post/cli_json_processor_jq_basic_syntax)
+- [mitmproxy를 활용해 구글 애널리틱스 테스트 자동화하기](https://engineering.linecorp.com/ko/blog/auto-inspecting-testing-with-google-analytics/)
+
 
 ### 에러 발생한 컨텐츠들
 >이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
