@@ -48,7 +48,7 @@
 
 
 #### 2019년 2월 12일 화요일
--
+- [윈도우에서  WSL을 이용해서 Linux 사용하기](https://code.apptilus.com/posts/tools/windows-subsystem-linux#)
 -
 
 #### 2019년 2월 11일 월요일
