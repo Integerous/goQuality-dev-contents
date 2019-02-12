@@ -46,10 +46,15 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 2월 13일 수요일
+-
+-
 
 #### 2019년 2월 12일 화요일
 - [윈도우에서  WSL을 이용해서 Linux 사용하기](https://code.apptilus.com/posts/tools/windows-subsystem-linux#)
--
+- [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/)
+- [(mobile) device-pixel-ratio계산](https://feel5ny.github.io/2018/05/13/mediaQuery_01/)
+- [서버리스 컴퓨팅 시대의 풀스택 개발 [번역]](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f)
 
 #### 2019년 2월 11일 월요일
 - [동기부여 - 질문 잘하는 법](https://www.youtube.com/watch?v=L2p1mdpxD5w)
