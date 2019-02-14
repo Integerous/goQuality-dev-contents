@@ -66,11 +66,6 @@
 - [(mobile) device-pixel-ratio계산](https://feel5ny.github.io/2018/05/13/mediaQuery_01/)
 - [서버리스 컴퓨팅 시대의 풀스택 개발 [번역]](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f)
 
-#### 2019년 2월 11일 월요일
-- [동기부여 - 질문 잘하는 법](https://www.youtube.com/watch?v=L2p1mdpxD5w)
-- [누구나 할 수 있는 엑세스 로그 분석 따라해보기 (by Elastic Stack)](https://taetaetae.github.io/2019/02/10/access-log-to-elastic-stack/)
-- [AWS VPC 기초](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
-- [Gatsby로 블로그를 마이그레이션하며 고려한 것들](https://jbee.io/etc/intro-new-blog/?fbclid=IwAR2k8P3A32ZFDwyDto6FuaSD-C5eKAmfTPm0J5TyHFczzErPw9tnADIcDYk)
 
 --------------------------------------
 </br>
@@ -513,6 +508,8 @@
 - [IDC에서 AWS로 Redis 데이터 이전하기](https://mingrammer.com/redis-migration/)
 - [배민라이더스 배달 경로와 거리 계산 개발과정](http://woowabros.github.io/experience/2019/02/07/real-distance-finder.html)
 - [Amazon RDS 활용 시, 데이터베이스 관리자 (DBA)의 역할 변화](https://aws.amazon.com/ko/blogs/korea/part-1-role-of-the-dba-when-moving-to-amazon-rds-responsibilities/)
+- [누구나 할 수 있는 엑세스 로그 분석 따라해보기 (by Elastic Stack)](https://taetaetae.github.io/2019/02/10/access-log-to-elastic-stack/)
+- [AWS VPC 기초](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
 
 --------------------------------------
 
@@ -736,6 +733,7 @@
 - [REST API 설명 [영상]](https://www.youtube.com/watch?v=LooL6_chvN4)
 - [REST FULL 한 웹서비스 > Stateless와 HATEOAS 개념](http://anster.tistory.com/163)
 - [HTTP 헤더의 종류 및 항목](https://gmlwjd9405.github.io/2019/01/28/http-header-types.html)
+- [Gatsby로 블로그를 마이그레이션하며 고려한 것들](https://jbee.io/etc/intro-new-blog/?fbclid=IwAR2k8P3A32ZFDwyDto6FuaSD-C5eKAmfTPm0J5TyHFczzErPw9tnADIcDYk)
 
 --------------------------------------
 
