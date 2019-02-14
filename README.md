@@ -46,9 +46,19 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 2월 15일 금요일
+-
+-
+
+#### 2019년 2월 14일 목요일
+- [ES6 프로미스](https://poiemaweb.com/es6-promise)
+- [데이터 엔지니어가 하는 일](https://brunch.co.kr/@imagineer/301)
+
+
 #### 2019년 2월 13일 수요일
--
--
+- [일일커밋의 효용성](https://jojoldu.tistory.com/402?fbclid=IwAR2QMmc1I7hvXHYr-uSTamiW-h0VkY-UBwOz_jMWsEJTgHkGxfWV1onMCsE)
+- [nodejs 테스트 방법론](https://sjh836.tistory.com/174)
+- [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
 
 #### 2019년 2월 12일 화요일
 - [윈도우에서  WSL을 이용해서 Linux 사용하기](https://code.apptilus.com/posts/tools/windows-subsystem-linux#)
