@@ -60,12 +60,6 @@
 - [nodejs 테스트 방법론](https://sjh836.tistory.com/174)
 - [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
 
-#### 2019년 2월 12일 화요일
-- [윈도우에서  WSL을 이용해서 Linux 사용하기](https://code.apptilus.com/posts/tools/windows-subsystem-linux#)
-- [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/)
-- [(mobile) device-pixel-ratio계산](https://feel5ny.github.io/2018/05/13/mediaQuery_01/)
-- [서버리스 컴퓨팅 시대의 풀스택 개발 [번역]](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f)
-
 
 --------------------------------------
 </br>
@@ -510,6 +504,8 @@
 - [Amazon RDS 활용 시, 데이터베이스 관리자 (DBA)의 역할 변화](https://aws.amazon.com/ko/blogs/korea/part-1-role-of-the-dba-when-moving-to-amazon-rds-responsibilities/)
 - [누구나 할 수 있는 엑세스 로그 분석 따라해보기 (by Elastic Stack)](https://taetaetae.github.io/2019/02/10/access-log-to-elastic-stack/)
 - [AWS VPC 기초](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
+- [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/)
+- [서버리스 컴퓨팅 시대의 풀스택 개발 [번역]](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f)
 
 --------------------------------------
 
@@ -550,6 +546,7 @@
 - [커맨드라인 능숙하게 다루기 [번역]](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)
 - [리눅스의 페이지 캐시와 버퍼 캐시](https://brunch.co.kr/@alden/25)
 - [gdb를 이용해 메모리 덤프뜨기](https://brunch.co.kr/@alden/13)
+- [윈도우에서  WSL을 이용해서 Linux 사용하기](https://code.apptilus.com/posts/tools/windows-subsystem-linux#)
 
 --------------------------------------
 </br>
