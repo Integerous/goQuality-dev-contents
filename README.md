@@ -47,13 +47,13 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 #### 2019년 2월 15일 금요일
--
--
+- [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
+- [stdout_016.log: 정부의 SNI 기반 인터넷 접속 차단](https://stdout.fm/16/)
+- [레진 챌린지 CSS 개발 후기(전처리 도구, BEM, 새로운 CSS규칙활용)](https://tech.lezhin.com/2018/08/20/challenge-css)
 
 #### 2019년 2월 14일 목요일
 - [ES6 프로미스](https://poiemaweb.com/es6-promise)
 - [데이터 엔지니어가 하는 일](https://brunch.co.kr/@imagineer/301)
-
 
 #### 2019년 2월 13일 수요일
 - [일일커밋의 효용성](https://jojoldu.tistory.com/402?fbclid=IwAR2QMmc1I7hvXHYr-uSTamiW-h0VkY-UBwOz_jMWsEJTgHkGxfWV1onMCsE)
