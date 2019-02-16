@@ -55,12 +55,6 @@
 - [ES6 프로미스](https://poiemaweb.com/es6-promise)
 - [데이터 엔지니어가 하는 일](https://brunch.co.kr/@imagineer/301)
 
-#### 2019년 2월 13일 수요일
-- [일일커밋의 효용성](https://jojoldu.tistory.com/402?fbclid=IwAR2QMmc1I7hvXHYr-uSTamiW-h0VkY-UBwOz_jMWsEJTgHkGxfWV1onMCsE)
-- [nodejs 테스트 방법론](https://sjh836.tistory.com/174)
-- [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
-
-
 --------------------------------------
 </br>
 </br>
@@ -167,6 +161,7 @@
 - [문서화에 대해 아무도 말해주지 않는 것들 [번역]](http://blog.weirdx.io/post/60414)
 - [Hashicorp의 도 [번역]](https://blog.outsider.ne.kr/1173)
 - [아마존 3년 출근기 1편 - 하루 일과 및 요약](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
+- [일일커밋의 효용성](https://jojoldu.tistory.com/402?fbclid=IwAR2QMmc1I7hvXHYr-uSTamiW-h0VkY-UBwOz_jMWsEJTgHkGxfWV1onMCsE)
 
 --------------------------------------
 
@@ -629,6 +624,7 @@
 - [실용적인 프론트엔드 테스트 전략 1편](https://github.com/nhnent/fe.javascript/wiki/%23189-:%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EB%9E%B5-(1))
 - [React Application에서 drag와 resize](https://medium.com/p/fd6a61c80d89/)
 - [3분만에 Node.js 이해하기 [번역]](https://menuand.tistory.com/m/3?category=817925)
+- [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
 
 --------------------------------------
 
