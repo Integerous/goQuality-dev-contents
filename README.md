@@ -46,6 +46,14 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 2월 17일 일요일
+- 
+- 
+
+#### 2019년 2월 16일 토요일
+- [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
+- [React 렌더링과 성능 알아보기](https://meetup.toast.com/posts/110)
+
 #### 2019년 2월 15일 금요일
 - [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
 - [stdout_016.log: 정부의 SNI 기반 인터넷 접속 차단](https://stdout.fm/16/)
