@@ -65,9 +65,6 @@
 - [stdout_016.log: 정부의 SNI 기반 인터넷 접속 차단](https://stdout.fm/16/)
 - [레진 챌린지 CSS 개발 후기(전처리 도구, BEM, 새로운 CSS규칙활용)](https://tech.lezhin.com/2018/08/20/challenge-css)
 
-#### 2019년 2월 14일 목요일
-- [ES6 프로미스](https://poiemaweb.com/es6-promise)
-- [데이터 엔지니어가 하는 일](https://brunch.co.kr/@imagineer/301)
 
 --------------------------------------
 </br>
@@ -639,6 +636,7 @@
 - [React Application에서 drag와 resize](https://medium.com/p/fd6a61c80d89/)
 - [3분만에 Node.js 이해하기 [번역]](https://menuand.tistory.com/m/3?category=817925)
 - [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
+- [ES6 - 프로미스](https://poiemaweb.com/es6-promise)
 
 --------------------------------------
 
@@ -802,6 +800,7 @@
 - [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
 - [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
 - [데이터 사이언스 학습자료 모음](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki)
+- [데이터 엔지니어가 하는 일](https://brunch.co.kr/@imagineer/301)
 
 ### 머신러닝 & 딥러닝 & AI
 - [머신러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
