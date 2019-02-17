@@ -60,11 +60,6 @@
 - [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
 - [React 렌더링과 성능 알아보기](https://meetup.toast.com/posts/110)
 
-#### 2019년 2월 15일 금요일
-- [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
-- [stdout_016.log: 정부의 SNI 기반 인터넷 접속 차단](https://stdout.fm/16/)
-- [레진 챌린지 CSS 개발 후기(전처리 도구, BEM, 새로운 CSS규칙활용)](https://tech.lezhin.com/2018/08/20/challenge-css)
-
 
 --------------------------------------
 </br>
@@ -383,6 +378,8 @@
 - [Service, ServiceImpl 구조에 대한 고찰](https://github.com/cheese10yun/blog-sample/tree/master/service)
 - [Sprong OAuth2 인증 Flow 소개 및 RDBMS를 이용한 영속화](https://github.com/cheese10yun/springboot-oauth2)
 - [ThreadLocal 사용법과 활용](https://javacan.tistory.com/entry/ThreadLocalUsage)
+- [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
+
 
 --------------------------------------
 
