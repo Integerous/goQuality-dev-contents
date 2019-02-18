@@ -46,6 +46,7 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+
 #### 2019년 2월 18일 월요일
 - 
 - 
@@ -55,6 +56,7 @@
 - [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
 - [왜 나는 $500k나 받는 아마존을 떠났는가? [영문]](https://danielvassallo.com/only-intrinsic-motivation-lasts/?fbclid=IwAR0paqXNzgDKZG2Prdl6D3TBGSMnjjVBGOZTu-yeZR9qMJQ8m2UxBpMcyJU)
 - [2019년도 높은 연봉을 받는 15가지 IT 자격증 [번역]](https://sambalim.tistory.com/56)
+- [ElasticSearch와 Heap메모리](https://brunch.co.kr/@alden/35)
 
 #### 2019년 2월 16일 토요일
 - [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
