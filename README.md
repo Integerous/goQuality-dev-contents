@@ -46,24 +46,22 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-[ElasticSearch와 Heap메모리](https://brunch.co.kr/@alden/35)
+
+#### 2019년 2월 18일 월요일
+- 
+- 
 
 #### 2019년 2월 17일 일요일
-- 
-- 
+- [리팩토링 2판 Catalog:](https://refactoring.com/catalog/)
+- [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
+- [왜 나는 $500k나 받는 아마존을 떠났는가? [영문]](https://danielvassallo.com/only-intrinsic-motivation-lasts/?fbclid=IwAR0paqXNzgDKZG2Prdl6D3TBGSMnjjVBGOZTu-yeZR9qMJQ8m2UxBpMcyJU)
+- [2019년도 높은 연봉을 받는 15가지 IT 자격증 [번역]](https://sambalim.tistory.com/56)
+- [ElasticSearch와 Heap메모리](https://brunch.co.kr/@alden/35)
 
 #### 2019년 2월 16일 토요일
 - [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
 - [React 렌더링과 성능 알아보기](https://meetup.toast.com/posts/110)
 
-#### 2019년 2월 15일 금요일
-- [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
-- [stdout_016.log: 정부의 SNI 기반 인터넷 접속 차단](https://stdout.fm/16/)
-- [레진 챌린지 CSS 개발 후기(전처리 도구, BEM, 새로운 CSS규칙활용)](https://tech.lezhin.com/2018/08/20/challenge-css)
-
-#### 2019년 2월 14일 목요일
-- [ES6 프로미스](https://poiemaweb.com/es6-promise)
-- [데이터 엔지니어가 하는 일](https://brunch.co.kr/@imagineer/301)
 
 --------------------------------------
 </br>
@@ -382,6 +380,8 @@
 - [Service, ServiceImpl 구조에 대한 고찰](https://github.com/cheese10yun/blog-sample/tree/master/service)
 - [Sprong OAuth2 인증 Flow 소개 및 RDBMS를 이용한 영속화](https://github.com/cheese10yun/springboot-oauth2)
 - [ThreadLocal 사용법과 활용](https://javacan.tistory.com/entry/ThreadLocalUsage)
+- [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
+
 
 --------------------------------------
 
@@ -635,6 +635,7 @@
 - [React Application에서 drag와 resize](https://medium.com/p/fd6a61c80d89/)
 - [3분만에 Node.js 이해하기 [번역]](https://menuand.tistory.com/m/3?category=817925)
 - [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
+- [ES6 - 프로미스](https://poiemaweb.com/es6-promise)
 
 --------------------------------------
 
@@ -798,6 +799,7 @@
 - [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
 - [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
 - [데이터 사이언스 학습자료 모음](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki)
+- [데이터 엔지니어가 하는 일](https://brunch.co.kr/@imagineer/301)
 
 ### 머신러닝 & 딥러닝 & AI
 - [머신러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
