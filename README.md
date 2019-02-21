@@ -46,6 +46,7 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+
 #### 2019년 2월 18일 월요일
 - 
 - 
@@ -55,10 +56,7 @@
 - [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
 - [왜 나는 $500k나 받는 아마존을 떠났는가? [영문]](https://danielvassallo.com/only-intrinsic-motivation-lasts/?fbclid=IwAR0paqXNzgDKZG2Prdl6D3TBGSMnjjVBGOZTu-yeZR9qMJQ8m2UxBpMcyJU)
 - [2019년도 높은 연봉을 받는 15가지 IT 자격증 [번역]](https://sambalim.tistory.com/56)
-
-#### 2019년 2월 16일 토요일
-- [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
-- [React 렌더링과 성능 알아보기](https://meetup.toast.com/posts/110)
+- [ElasticSearch와 Heap메모리](https://brunch.co.kr/@alden/35)
 
 
 --------------------------------------
@@ -509,6 +507,7 @@
 - [AWS VPC 기초](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
 - [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/)
 - [서버리스 컴퓨팅 시대의 풀스택 개발 [번역]](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f)
+- [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
 
 --------------------------------------
 
@@ -634,6 +633,7 @@
 - [3분만에 Node.js 이해하기 [번역]](https://menuand.tistory.com/m/3?category=817925)
 - [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
 - [ES6 - 프로미스](https://poiemaweb.com/es6-promise)
+- [React 렌더링과 성능 알아보기](https://meetup.toast.com/posts/110)
 
 --------------------------------------
 
