@@ -46,44 +46,18 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+
+#### 2019년 2월 25일 월요일
+-
+-
+
 #### 2019년 2월 24일 일요일
--
--
+- [도메인 모델 vs DTO](http://toby.epril.com/?p=99)
 
 #### 2019년 2월 23일 토요일
 - [아파치 톰캣 운영가이드](https://www.slideshare.net/mobile/ienvyou/v13-122857784)
 - [그런 REST API로 괜찮은가? [영상]](https://tv.naver.com/v/2292653)
 
-#### 2019년 2월 22일 금요일
-- [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/?fbclid=IwAR1a-npFrVXsevZq-tV6Vq0fQ-iUabeIUpDNBlA-dS_a32GHi7tCN5kVBek)
-- [빅데이터를 넘어 패스트 데이터 시대로](https://brunch.co.kr/@imagineer/302)
-- [Ansible을 활용한 운영 자동화 교육](https://www.slideshare.net/mobile/ienvyou/ansible-132635149?fbclid=IwAR3hYjGDOHinVKyexWYoe3s20pxhhYK5GENfeKtINr3DdGTfy0beWysgrYA)
-- [스프링 실전 가이드](https://github.com/cheese10yun/spring-guide)
-- [CI/CD란 무엇일까요?](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
-
-#### 2019년 2월 21일 목요일
-- [스크롤 이벤트 최적화](https://jbee.io/web/optimize-scroll-event/)
-- [ElasticSearch와 Heap메모리](https://brunch.co.kr/@alden/35)
-- [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
-- [싱가폴의 코딩테스트](https://brunch.co.kr/@imagineer/267)
-- [레일스 서버 개발자 면접 질문 리스트](https://medium.com/lookpin-engineering/rails-서버-개발자-면접-질문리스트-cb2fac5f7447)
-- [내가 웹 개발을 시작했을 때 알았으면 했던 기본 아키텍처 개념들 [번역]](https://blog.rhostem.com/posts/2018-07-22-web-architecture-101?fbclid=IwAR2chRekA4YHcae-Ir8Ytoy1XysTlGYRze1DNUvA8UQnC7twq_i15Yvj7oM)
-
-
-#### 2019년 2월 20일 수요일
-- [스프링 동작원리 간단설명](https://victorydntmd.tistory.com/161)
-- [JavaScript Essentials: 자료형과 자료구조 [번역]](https://link.medium.com/NwyGeg1MrU)
-
-#### 2019년 2월 19일 화요일
-- [도커 치트 시트](https://github.com/wsargent/docker-cheat-sheet)
-- [내가 추천하는 크롬 익스텐션 10선](https://jojoldu.tistory.com/406)
-- [리모트 컨피그 서버 구축기](http://woowabros.github.io/tools/2019/02/18/remote-config-server.html)
-
-
-#### 2019년 2월 18일 월요일
-- [스프링 테스트 노하우 및 전략](https://github.com/cheese10yun/spring-guide)
-- [TypeScript와 함께하는 Fullstack Development](https://medium.com/p/501835592b1d)
-- [DOM은 정확히 무엇일까? [번역]](https://wit.nts-corp.com/2019/02/14/5522)
 
 --------------------------------------
 </br>
@@ -192,6 +166,7 @@
 - [Hashicorp의 도 [번역]](https://blog.outsider.ne.kr/1173)
 - [아마존 3년 출근기 1편 - 하루 일과 및 요약](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
 - [일일커밋의 효용성](https://jojoldu.tistory.com/402?fbclid=IwAR2QMmc1I7hvXHYr-uSTamiW-h0VkY-UBwOz_jMWsEJTgHkGxfWV1onMCsE)
+- [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/?fbclid=IwAR1a-npFrVXsevZq-tV6Vq0fQ-iUabeIUpDNBlA-dS_a32GHi7tCN5kVBek)
 
 --------------------------------------
 
@@ -324,6 +299,7 @@
 - [코딩 공부 후 3개월 간 구직하며 배운 점 [번역]](https://brunch.co.kr/@imagineer/194)
 - [프론트엔드 개발자 인터뷰 후기 (면접 질문 정리)](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
 - [DevOps를 위한 30가지 Docker 인터뷰 질문 [영문]](https://www.fullstack.cafe/blog/docker-interview-questions-and-answers)
+- [싱가폴의 코딩테스트](https://brunch.co.kr/@imagineer/267)
 
 --------------------------------------
 </br>
@@ -404,7 +380,7 @@
 - [Sprong OAuth2 인증 Flow 소개 및 RDBMS를 이용한 영속화](https://github.com/cheese10yun/springboot-oauth2)
 - [ThreadLocal 사용법과 활용](https://javacan.tistory.com/entry/ThreadLocalUsage)
 - [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
-
+- [스프링 테스트 노하우 및 전략](https://github.com/cheese10yun/spring-guide)
 
 --------------------------------------
 
@@ -535,6 +511,8 @@
 - [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/)
 - [서버리스 컴퓨팅 시대의 풀스택 개발 [번역]](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f)
 - [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
+- [리모트 컨피그 서버 구축기](http://woowabros.github.io/tools/2019/02/18/remote-config-server.html)
+- [스프링 실전 가이드](https://github.com/cheese10yun/spring-guide)
 
 --------------------------------------
 
@@ -662,6 +640,9 @@
 - [ES6 - 프로미스](https://poiemaweb.com/es6-promise)
 - [React 렌더링과 성능 알아보기](https://meetup.toast.com/posts/110)
 - [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
+- [DOM은 정확히 무엇일까? [번역]](https://wit.nts-corp.com/2019/02/14/5522)
+- [TypeScript와 함께하는 Fullstack Development](https://medium.com/p/501835592b1d)
+- [JavaScript Essentials: 자료형과 자료구조 [번역]](https://link.medium.com/NwyGeg1MrU)
 
 --------------------------------------
 
@@ -799,6 +780,7 @@
 - [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
 - [.git - 쩜깃의 이해](https://jusths.tistory.com/64)
 - [Github 마크다운 작성 시 이미지 업로드 꿀팁](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
+- [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
 
 --------------------------------------
 
@@ -826,6 +808,7 @@
 - [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
 - [데이터 사이언스 학습자료 모음](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki)
 - [데이터 엔지니어가 하는 일](https://brunch.co.kr/@imagineer/301)
+- [빅데이터를 넘어 패스트 데이터 시대로](https://brunch.co.kr/@imagineer/302)
 
 ### 머신러닝 & 딥러닝 & AI
 - [머신러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
@@ -891,6 +874,8 @@
 - [커맨드라인 JSON 프로세서 jq : 기초 문법과 작동원리](https://www.44bits.io/ko/post/cli_json_processor_jq_basic_syntax)
 - [mitmproxy를 활용해 구글 애널리틱스 테스트 자동화하기](https://engineering.linecorp.com/ko/blog/auto-inspecting-testing-with-google-analytics/)
 - [정적 사이트 생성기 Gatsby](https://blog.outsider.ne.kr/1426)
+- [내가 추천하는 크롬 익스텐션 10선](https://jojoldu.tistory.com/406)
+- [CI/CD란 무엇일까요?](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
 
 
 ### 에러 발생한 컨텐츠들
