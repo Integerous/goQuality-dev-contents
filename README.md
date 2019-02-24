@@ -46,11 +46,44 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 2월 24일 일요일
+-
+-
 
-#### 2019년 2월 21일 수요일
+#### 2019년 2월 23일 토요일
+- [아파치 톰캣 운영가이드](https://www.slideshare.net/mobile/ienvyou/v13-122857784)
+- [그런 REST API로 괜찮은가? [영상]](https://tv.naver.com/v/2292653)
+
+#### 2019년 2월 22일 금요일
+- [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/?fbclid=IwAR1a-npFrVXsevZq-tV6Vq0fQ-iUabeIUpDNBlA-dS_a32GHi7tCN5kVBek)
+- [빅데이터를 넘어 패스트 데이터 시대로](https://brunch.co.kr/@imagineer/302)
+- [Ansible을 활용한 운영 자동화 교육](https://www.slideshare.net/mobile/ienvyou/ansible-132635149?fbclid=IwAR3hYjGDOHinVKyexWYoe3s20pxhhYK5GENfeKtINr3DdGTfy0beWysgrYA)
+- [스프링 실전 가이드](https://github.com/cheese10yun/spring-guide)
+- [CI/CD란 무엇일까요?](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
+
+#### 2019년 2월 21일 목요일
 - [스크롤 이벤트 최적화](https://jbee.io/web/optimize-scroll-event/)
-- 
+- [ElasticSearch와 Heap메모리](https://brunch.co.kr/@alden/35)
+- [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
+- [싱가폴의 코딩테스트](https://brunch.co.kr/@imagineer/267)
+- [레일스 서버 개발자 면접 질문 리스트](https://medium.com/lookpin-engineering/rails-서버-개발자-면접-질문리스트-cb2fac5f7447)
+- [내가 웹 개발을 시작했을 때 알았으면 했던 기본 아키텍처 개념들 [번역]](https://blog.rhostem.com/posts/2018-07-22-web-architecture-101?fbclid=IwAR2chRekA4YHcae-Ir8Ytoy1XysTlGYRze1DNUvA8UQnC7twq_i15Yvj7oM)
 
+
+#### 2019년 2월 20일 수요일
+- [스프링 동작원리 간단설명](https://victorydntmd.tistory.com/161)
+- [JavaScript Essentials: 자료형과 자료구조 [번역]](https://link.medium.com/NwyGeg1MrU)
+
+#### 2019년 2월 19일 화요일
+- [도커 치트 시트](https://github.com/wsargent/docker-cheat-sheet)
+- [내가 추천하는 크롬 익스텐션 10선](https://jojoldu.tistory.com/406)
+- [리모트 컨피그 서버 구축기](http://woowabros.github.io/tools/2019/02/18/remote-config-server.html)
+
+
+#### 2019년 2월 18일 월요일
+- [스프링 테스트 노하우 및 전략](https://github.com/cheese10yun/spring-guide)
+- [TypeScript와 함께하는 Fullstack Development](https://medium.com/p/501835592b1d)
+- [DOM은 정확히 무엇일까? [번역]](https://wit.nts-corp.com/2019/02/14/5522)
 
 --------------------------------------
 </br>
