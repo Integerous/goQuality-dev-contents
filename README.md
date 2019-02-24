@@ -51,13 +51,6 @@
 - [스크롤 이벤트 최적화](https://jbee.io/web/optimize-scroll-event/)
 - 
 
-#### 2019년 2월 17일 일요일
-- [리팩토링 2판 Catalog:](https://refactoring.com/catalog/)
-- [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
-- [왜 나는 $500k나 받는 아마존을 떠났는가? [영문]](https://danielvassallo.com/only-intrinsic-motivation-lasts/?fbclid=IwAR0paqXNzgDKZG2Prdl6D3TBGSMnjjVBGOZTu-yeZR9qMJQ8m2UxBpMcyJU)
-- [2019년도 높은 연봉을 받는 15가지 IT 자격증 [번역]](https://sambalim.tistory.com/56)
-- [ElasticSearch와 Heap메모리](https://brunch.co.kr/@alden/35)
-
 
 --------------------------------------
 </br>
@@ -206,6 +199,7 @@
 - [경력직 개발자 커리어패스 정리](https://haandol.github.io/2017/02/24/software-engineer-career.html)
 - [2019 웹 개발자 로드맵 [번역]](https://github.com/kamranahmedse/developer-roadmap)
 - [파이썬 코어 개발자가 되기까지 [번역]](https://muchtrans.com/translations/my-path-to-becoming-a-python-core-developer.ko.html)
+- [왜 나는 $500k나 받는 아마존을 떠났는가? [영문]](https://danielvassallo.com/only-intrinsic-motivation-lasts/?fbclid=IwAR0paqXNzgDKZG2Prdl6D3TBGSMnjjVBGOZTu-yeZR9qMJQ8m2UxBpMcyJU)
 
 --------------------------------------
 
@@ -634,6 +628,7 @@
 - [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
 - [ES6 - 프로미스](https://poiemaweb.com/es6-promise)
 - [React 렌더링과 성능 알아보기](https://meetup.toast.com/posts/110)
+- [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
 
 --------------------------------------
 
