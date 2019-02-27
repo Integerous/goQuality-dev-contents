@@ -46,18 +46,25 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 2월 28일 목요일
+-
+-
+
+#### 2019년 2월 27일 수요일
+- [LINE의 OpenJDK 적용기 - 호환성 확인부터 주의사항까지](https://engineering.linecorp.com/ko/blog/line-open-jdk/) 
+- [QueryPie는 왜 React & Typescript를 선택하게 되었나](https://medium.com/p/111d03597510/)
+
+#### 2019년 2월 26일 화요일
+- [HTTP와 SSL에 대한 기본 개념 및 통신과정](https://aileen93.tistory.com/m/119)
+- [react-native 사이드프로젝트 보름만에 iOS, 안드로이드 앱 출시하기](https://blog.holy.kiwi/js/190127/)
+- [Java에서 String은 왜 immutable인가?](http://www.mimul.com/pebble/default/2015/10/10/1444466677572.html)
+- [React에서 Redux 전에 배워야 할 8가지](https://edykim.com/ko/post/learn-react-before-using-redux/)
+- [Ajax & CORS Overview](http://huns.me/development/1291)
 
 #### 2019년 2월 25일 월요일
--
--
-
-#### 2019년 2월 24일 일요일
-- [도메인 모델 vs DTO](http://toby.epril.com/?p=99)
-
-#### 2019년 2월 23일 토요일
-- [아파치 톰캣 운영가이드](https://www.slideshare.net/mobile/ienvyou/v13-122857784)
-- [그런 REST API로 괜찮은가? [영상]](https://tv.naver.com/v/2292653)
-
+- [인텔리제이 팁](https://github.com/cheese10yun/IntelliJ)
+- [css만으로 간단한 masonry layouts 구현](https://codeburst.io/how-to-pure-css-masonry-layouts-a8ede07ba31a)
+- [카카오페이 QR 코드 리버스 엔지니어링](http://philosophical.one/posts/kakaopay-qrcode/)
 
 --------------------------------------
 </br>
@@ -381,6 +388,7 @@
 - [ThreadLocal 사용법과 활용](https://javacan.tistory.com/entry/ThreadLocalUsage)
 - [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
 - [스프링 테스트 노하우 및 전략](https://github.com/cheese10yun/spring-guide)
+- [도메인 모델 vs DTO](http://toby.epril.com/?p=99)
 
 --------------------------------------
 
