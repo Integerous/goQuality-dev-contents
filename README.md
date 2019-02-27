@@ -61,10 +61,6 @@
 - [React에서 Redux 전에 배워야 할 8가지](https://edykim.com/ko/post/learn-react-before-using-redux/)
 - [Ajax & CORS Overview](http://huns.me/development/1291)
 
-#### 2019년 2월 25일 월요일
-- [인텔리제이 팁](https://github.com/cheese10yun/IntelliJ)
-- [css만으로 간단한 masonry layouts 구현](https://codeburst.io/how-to-pure-css-masonry-layouts-a8ede07ba31a)
-- [카카오페이 QR 코드 리버스 엔지니어링](http://philosophical.one/posts/kakaopay-qrcode/)
 
 --------------------------------------
 </br>
@@ -884,6 +880,7 @@
 - [정적 사이트 생성기 Gatsby](https://blog.outsider.ne.kr/1426)
 - [내가 추천하는 크롬 익스텐션 10선](https://jojoldu.tistory.com/406)
 - [CI/CD란 무엇일까요?](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
+- [카카오페이 QR 코드 리버스 엔지니어링](http://philosophical.one/posts/kakaopay-qrcode/)
 
 
 ### 에러 발생한 컨텐츠들
