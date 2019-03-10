@@ -46,7 +46,42 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 3월 10일 일요일
+- [Vagrant 설치 및 사용법](https://dev-yakuza.github.io/ko/environment/vagrant-install-and-usage/)
+- [신입 UI 디자이너를 위한 'UI 가이드라인 바로 배우기' 지침서](https://story.pxd.co.kr/1063)
+- [개발자가 영문 이력서 쓸 때 자주 저지르는 실수](https://brunch.co.kr/@imagineer/272)
 
+#### 2019년 3월 7일 목요일
+- [딥러닝을 활용한 거래량 예측 기능 개선](https://d2.naver.com/helloworld/0065813)
+- [나는 코드를 쓸테니, 너는 인프라를 맡거라.](https://blog.hax0r.info/2018-11-28/i-will-write-the-code-you-will-be-in-charge-of-the-infrastructure/)
+- [확장성 있고, 이식성 있는 도커 컨테이너 네트워크 설계 [번역]](https://ziwon.dev/post/designing-scalable-portable-docker-container-networks/)
+
+#### 2019년 3월 6일 수요일
+- [Hypermedia-driven REST API](https://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220391644590)
+- [Websocket 실시간 개발하기](https://brunch.co.kr/@adrenalinee31/2)
+
+#### 2019년 3월 5일 화요일
+- [Jackson 어노테이션 사용법](https://github.com/cheese10yun/blog-sample/tree/master/jackson)
+- [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
+- [DevOps tutorial [영문]](https://www.edureka.co/blog/devops-tutorial)
+- [멀티플렉싱 기반의 다중 접속 서버로 가기까지](https://jongmin92.github.io/2019/02/28/Java/java-with-non-blocking-io/)
+
+#### 2019년 3월 4일 월요일
+- [개발자의 이직 가이드 (초급)](https://brunch.co.kr/@promiseys/3)
+- [신입이 나아갈 방향을 잡는 방법](https://brunch.co.kr/@zalhanilll/348)
+
+#### 2019년 3월 3일 일요일
+- [40대 후반 개발자의 고민에 대하여](https://brunch.co.kr/@nashorn74/18)
+- [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 part 1](https://joshua1988.github.io/web-development/http-part1/)
+
+#### 2019년 3월 2일 토요일
+- [<개발자의 글쓰기> 원본 공개](https://drive.google.com/file/d/1ELeCi_1UzCEkj-UDSLM44h9HcgGiDQrb/view)
+- [우아한형제들 이동욱(jojoldu) 개발자님 인터뷰](https://www.imaso.co.kr/archives/4869)
+
+#### 2019년 3월 1일 금요일
+- [TensorFlow.js: 웹 프론트엔드에서 머신러닝 활용하기](https://engineering.linecorp.com/ko/blog/tensorflow-js-color-recommendation/)
+- [JDBC를 사용한 MySQL SSL 연결](https://medium.com/p/1c5da86cc2c5)
+- [OpenAPI Spec 3.0 버전으로 문서 작성하기](https://blog.sonim1.com/217)
 
 
 --------------------------------------
