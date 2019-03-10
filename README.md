@@ -46,20 +46,7 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2019년 2월 28일 목요일
--
--
 
-#### 2019년 2월 27일 수요일
-- [LINE의 OpenJDK 적용기 - 호환성 확인부터 주의사항까지](https://engineering.linecorp.com/ko/blog/line-open-jdk/) 
-- [QueryPie는 왜 React & Typescript를 선택하게 되었나](https://medium.com/p/111d03597510/)
-
-#### 2019년 2월 26일 화요일
-- [HTTP와 SSL에 대한 기본 개념 및 통신과정](https://aileen93.tistory.com/m/119)
-- [react-native 사이드프로젝트 보름만에 iOS, 안드로이드 앱 출시하기](https://blog.holy.kiwi/js/190127/)
-- [Java에서 String은 왜 immutable인가?](http://www.mimul.com/pebble/default/2015/10/10/1444466677572.html)
-- [React에서 Redux 전에 배워야 할 8가지](https://edykim.com/ko/post/learn-react-before-using-redux/)
-- [Ajax & CORS Overview](http://huns.me/development/1291)
 
 
 --------------------------------------
@@ -385,6 +372,9 @@
 - [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
 - [스프링 테스트 노하우 및 전략](https://github.com/cheese10yun/spring-guide)
 - [도메인 모델 vs DTO](http://toby.epril.com/?p=99)
+- [Java에서 String은 왜 immutable인가? [번역]](http://www.mimul.com/pebble/default/2015/10/10/1444466677572.html)
+- [LINE의 OpenJDK 적용기 - 호환성 확인부터 주의사항까지](https://engineering.linecorp.com/ko/blog/line-open-jdk/)
+
 
 --------------------------------------
 
@@ -647,6 +637,9 @@
 - [DOM은 정확히 무엇일까? [번역]](https://wit.nts-corp.com/2019/02/14/5522)
 - [TypeScript와 함께하는 Fullstack Development](https://medium.com/p/501835592b1d)
 - [JavaScript Essentials: 자료형과 자료구조 [번역]](https://link.medium.com/NwyGeg1MrU)
+- [React에서 Redux 전에 배워야 할 8가지](https://edykim.com/ko/post/learn-react-before-using-redux/)
+- [react-native 사이드프로젝트 보름만에 iOS, 안드로이드 앱 출시하기](https://blog.holy.kiwi/js/190127/)
+- [QueryPie는 왜 React & Typescript를 선택하게 되었나](https://medium.com/p/111d03597510/)
 
 --------------------------------------
 
@@ -749,6 +742,7 @@
 - [REST FULL 한 웹서비스 > Stateless와 HATEOAS 개념](http://anster.tistory.com/163)
 - [HTTP 헤더의 종류 및 항목](https://gmlwjd9405.github.io/2019/01/28/http-header-types.html)
 - [Gatsby로 블로그를 마이그레이션하며 고려한 것들](https://jbee.io/etc/intro-new-blog/?fbclid=IwAR2k8P3A32ZFDwyDto6FuaSD-C5eKAmfTPm0J5TyHFczzErPw9tnADIcDYk)
+- [Ajax & CORS Overview](http://huns.me/development/1291)
 
 --------------------------------------
 
