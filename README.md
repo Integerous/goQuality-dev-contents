@@ -46,8 +46,25 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+
+
+
 #### 2019년 3월 14일 목요일
 - [Git을 사용할 때 꼭 알아두어야하는 개념들](https://moonformeli.tistory.com/19)
+
+#### 2019년 3월 13일 수요일
+- [프로세스와 쓰레드의 차이점](https://ralf79.tistory.com/m/34)
+- [객체 지향 개발 5대 원리](http://www.nextree.co.kr/p6960/)
+- [requests, bs4를 이용한 간단한 웹 크롤러](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler/)
+- [생각하라, 객체지향처럼](http://woowabros.github.io/study/2016/07/07/think_object_oriented.html)
+
+#### 2019년 3월 12일 화요일
+- [초급 웹 개발가이드 : 플랫폼 및 도구](https://brunch.co.kr/@jowlee/46)
+- [스트럿츠 간략 정리](https://corock.tistory.com/388)
+
+#### 2019년 3월 11일 월요일
+- [확장하기 쉬운 코드가 아니라 삭제하기 쉬운 코드를 작성하자](https://harfangk.github.io/2016/10/30/write-code-that-is-easy-to-delete-not-easy-to-extend-ko.html)
+- [ECMAScript와 TC39](https://ahnheejong.name/articles/ecmascript-tc39/)
 
 #### 2019년 3월 10일 일요일
 - [Vagrant 설치 및 사용법](https://dev-yakuza.github.io/ko/environment/vagrant-install-and-usage/)
