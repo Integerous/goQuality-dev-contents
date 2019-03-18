@@ -46,6 +46,9 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 3월 14일 목요일
+- [Git을 사용할 때 꼭 알아두어야하는 개념들](https://moonformeli.tistory.com/19)
+
 #### 2019년 3월 10일 일요일
 - [Vagrant 설치 및 사용법](https://dev-yakuza.github.io/ko/environment/vagrant-install-and-usage/)
 - [신입 UI 디자이너를 위한 'UI 가이드라인 바로 배우기' 지침서](https://story.pxd.co.kr/1063)
