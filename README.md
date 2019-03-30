@@ -54,6 +54,9 @@
 - 4월 13일 이후에 더 빡세게 관리하겠습니다. 감사합니다.
 
 
+#### 2019년 3월 30일 토요일
+- [JavaScript(jQuery) - position sticky IE polyfill(폴리필) 방법](https://moonformeli.tistory.com/24)
+
 #### 2019년 3월 14일 목요일
 - [Git을 사용할 때 꼭 알아두어야하는 개념들](https://moonformeli.tistory.com/19)
 
