@@ -53,6 +53,8 @@
 - 이슈와 PR은 4월 13일 이후에 일괄 처리할 예정입니다.
 - 4월 13일 이후에 더 빡세게 관리하겠습니다. 감사합니다.
 
+#### 2019년 4월 9일 화요일
+- [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
 
 #### 2019년 3월 30일 토요일
 - [JavaScript(jQuery) - position sticky IE polyfill(폴리필) 방법](https://moonformeli.tistory.com/24)
