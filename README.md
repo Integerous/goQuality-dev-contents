@@ -86,33 +86,6 @@
 - [나는 코드를 쓸테니, 너는 인프라를 맡거라.](https://blog.hax0r.info/2018-11-28/i-will-write-the-code-you-will-be-in-charge-of-the-infrastructure/)
 - [확장성 있고, 이식성 있는 도커 컨테이너 네트워크 설계 [번역]](https://ziwon.dev/post/designing-scalable-portable-docker-container-networks/)
 
-#### 2019년 3월 6일 수요일
-- [Hypermedia-driven REST API](https://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220391644590)
-- [Websocket 실시간 개발하기](https://brunch.co.kr/@adrenalinee31/2)
-
-#### 2019년 3월 5일 화요일
-- [Jackson 어노테이션 사용법](https://github.com/cheese10yun/blog-sample/tree/master/jackson)
-- [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
-- [DevOps tutorial [영문]](https://www.edureka.co/blog/devops-tutorial)
-- [멀티플렉싱 기반의 다중 접속 서버로 가기까지](https://jongmin92.github.io/2019/02/28/Java/java-with-non-blocking-io/)
-
-#### 2019년 3월 4일 월요일
-- [개발자의 이직 가이드 (초급)](https://brunch.co.kr/@promiseys/3)
-- [신입이 나아갈 방향을 잡는 방법](https://brunch.co.kr/@zalhanilll/348)
-
-#### 2019년 3월 3일 일요일
-- [40대 후반 개발자의 고민에 대하여](https://brunch.co.kr/@nashorn74/18)
-- [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 part 1](https://joshua1988.github.io/web-development/http-part1/)
-
-#### 2019년 3월 2일 토요일
-- [<개발자의 글쓰기> 원본 공개](https://drive.google.com/file/d/1ELeCi_1UzCEkj-UDSLM44h9HcgGiDQrb/view)
-- [우아한형제들 이동욱(jojoldu) 개발자님 인터뷰](https://www.imaso.co.kr/archives/4869)
-
-#### 2019년 3월 1일 금요일
-- [TensorFlow.js: 웹 프론트엔드에서 머신러닝 활용하기](https://engineering.linecorp.com/ko/blog/tensorflow-js-color-recommendation/)
-- [JDBC를 사용한 MySQL SSL 연결](https://medium.com/p/1c5da86cc2c5)
-- [OpenAPI Spec 3.0 버전으로 문서 작성하기](https://blog.sonim1.com/217)
-
 
 --------------------------------------
 </br>
@@ -222,6 +195,8 @@
 - [아마존 3년 출근기 1편 - 하루 일과 및 요약](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
 - [일일커밋의 효용성](https://jojoldu.tistory.com/402?fbclid=IwAR2QMmc1I7hvXHYr-uSTamiW-h0VkY-UBwOz_jMWsEJTgHkGxfWV1onMCsE)
 - [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/?fbclid=IwAR1a-npFrVXsevZq-tV6Vq0fQ-iUabeIUpDNBlA-dS_a32GHi7tCN5kVBek)
+- [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
+
 
 --------------------------------------
 
@@ -263,6 +238,10 @@
 - [2019 웹 개발자 로드맵 [번역]](https://github.com/kamranahmedse/developer-roadmap)
 - [파이썬 코어 개발자가 되기까지 [번역]](https://muchtrans.com/translations/my-path-to-becoming-a-python-core-developer.ko.html)
 - [왜 나는 $500k나 받는 아마존을 떠났는가? [영문]](https://danielvassallo.com/only-intrinsic-motivation-lasts/?fbclid=IwAR0paqXNzgDKZG2Prdl6D3TBGSMnjjVBGOZTu-yeZR9qMJQ8m2UxBpMcyJU)
+- [우아한형제들 이동욱(jojoldu) 개발자 인터뷰](https://www.imaso.co.kr/archives/4869)
+- [<개발자의 글쓰기> 원본 공개](https://drive.google.com/file/d/1ELeCi_1UzCEkj-UDSLM44h9HcgGiDQrb/view)
+- [40대 후반 개발자의 고민에 대하여](https://brunch.co.kr/@nashorn74/18)
+
 
 --------------------------------------
 
@@ -355,6 +334,7 @@
 - [프론트엔드 개발자 인터뷰 후기 (면접 질문 정리)](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
 - [DevOps를 위한 30가지 Docker 인터뷰 질문 [영문]](https://www.fullstack.cafe/blog/docker-interview-questions-and-answers)
 - [싱가폴의 코딩테스트](https://brunch.co.kr/@imagineer/267)
+- [개발자의 이직 가이드 (초급)](https://brunch.co.kr/@promiseys/3)
 
 --------------------------------------
 </br>
@@ -439,7 +419,7 @@
 - [도메인 모델 vs DTO](http://toby.epril.com/?p=99)
 - [Java에서 String은 왜 immutable인가? [번역]](http://www.mimul.com/pebble/default/2015/10/10/1444466677572.html)
 - [LINE의 OpenJDK 적용기 - 호환성 확인부터 주의사항까지](https://engineering.linecorp.com/ko/blog/line-open-jdk/)
-
+- [Jackson 어노테이션 사용법](https://github.com/cheese10yun/blog-sample/tree/master/jackson)
 
 --------------------------------------
 
@@ -571,7 +551,8 @@
 - [서버리스 컴퓨팅 시대의 풀스택 개발 [번역]](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f)
 - [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
 - [리모트 컨피그 서버 구축기](http://woowabros.github.io/tools/2019/02/18/remote-config-server.html)
-- [스프링 실전 가이드](https://github.com/cheese10yun/spring-guide)
+- [멀티플렉싱 기반의 다중 접속 서버로 가기까지](https://jongmin92.github.io/2019/02/28/Java/java-with-non-blocking-io/)
+- [DevOps tutorial [영문]](https://www.edureka.co/blog/devops-tutorial)
 
 --------------------------------------
 
@@ -596,6 +577,8 @@
 - [MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
 - [SQL vs NoSQL [영상]](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 - [MySQL 실행계획](https://12bme.tistory.com/160)
+- [JDBC를 사용한 MySQL SSL 연결](https://medium.com/p/1c5da86cc2c5)
+
 
 --------------------------------------
 
@@ -808,6 +791,8 @@
 - [HTTP 헤더의 종류 및 항목](https://gmlwjd9405.github.io/2019/01/28/http-header-types.html)
 - [Gatsby로 블로그를 마이그레이션하며 고려한 것들](https://jbee.io/etc/intro-new-blog/?fbclid=IwAR2k8P3A32ZFDwyDto6FuaSD-C5eKAmfTPm0J5TyHFczzErPw9tnADIcDYk)
 - [Ajax & CORS Overview](http://huns.me/development/1291)
+- [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 part 1](https://joshua1988.github.io/web-development/http-part1/)
+- [Websocket 실시간 개발하기](https://brunch.co.kr/@adrenalinee31/2)
 
 --------------------------------------
 
