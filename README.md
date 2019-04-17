@@ -47,8 +47,14 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 4월 18일
+- 
+- 
 
-
+#### 2019년 4월 17일
+- [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
+- [(Docker) Spring Boot Application Image 최적화하기](https://perfectacle.github.io/2019/04/16/spring-boot-docker-image-optimization/)
+- [필요한 내용만 추려서 DDD 당장 써먹기](https://www.popit.kr/%ED%95%84%EC%9A%94%ED%95%9C-%EB%82%B4%EC%9A%A9%EB%A7%8C-%EC%B6%94%EB%A0%A4%EC%84%9C-ddd-%EB%8B%B9%EC%9E%A5-%EC%8D%A8%EB%A8%B9%EA%B8%B0/)
 
 --------------------------------------
 </br>
