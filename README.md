@@ -48,43 +48,6 @@
 
 
 
-## 공지
-- 개인 사정으로 4월 13일까지 업데이트가 지연될 예정입니다.
-- 이슈와 PR은 4월 13일 이후에 일괄 처리할 예정입니다.
-- 4월 13일 이후에 더 빡세게 관리하겠습니다. 감사합니다.
-
-#### 2019년 4월 9일 화요일
-- [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
-
-#### 2019년 3월 30일 토요일
-- [JavaScript(jQuery) - position sticky IE polyfill(폴리필) 방법](https://moonformeli.tistory.com/24)
-
-#### 2019년 3월 14일 목요일
-- [Git을 사용할 때 꼭 알아두어야하는 개념들](https://moonformeli.tistory.com/19)
-
-#### 2019년 3월 13일 수요일
-- [프로세스와 쓰레드의 차이점](https://ralf79.tistory.com/m/34)
-- [객체 지향 개발 5대 원리](http://www.nextree.co.kr/p6960/)
-- [requests, bs4를 이용한 간단한 웹 크롤러](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler/)
-- [생각하라, 객체지향처럼](http://woowabros.github.io/study/2016/07/07/think_object_oriented.html)
-
-#### 2019년 3월 12일 화요일
-- [초급 웹 개발가이드 : 플랫폼 및 도구](https://brunch.co.kr/@jowlee/46)
-- [스트럿츠 간략 정리](https://corock.tistory.com/388)
-
-#### 2019년 3월 11일 월요일
-- [확장하기 쉬운 코드가 아니라 삭제하기 쉬운 코드를 작성하자](https://harfangk.github.io/2016/10/30/write-code-that-is-easy-to-delete-not-easy-to-extend-ko.html)
-- [ECMAScript와 TC39](https://ahnheejong.name/articles/ecmascript-tc39/)
-
-#### 2019년 3월 10일 일요일
-- [Vagrant 설치 및 사용법](https://dev-yakuza.github.io/ko/environment/vagrant-install-and-usage/)
-- [신입 UI 디자이너를 위한 'UI 가이드라인 바로 배우기' 지침서](https://story.pxd.co.kr/1063)
-- [개발자가 영문 이력서 쓸 때 자주 저지르는 실수](https://brunch.co.kr/@imagineer/272)
-
-#### 2019년 3월 7일 목요일
-- [딥러닝을 활용한 거래량 예측 기능 개선](https://d2.naver.com/helloworld/0065813)
-- [나는 코드를 쓸테니, 너는 인프라를 맡거라.](https://blog.hax0r.info/2018-11-28/i-will-write-the-code-you-will-be-in-charge-of-the-infrastructure/)
-- [확장성 있고, 이식성 있는 도커 컨테이너 네트워크 설계 [번역]](https://ziwon.dev/post/designing-scalable-portable-docker-container-networks/)
 
 
 --------------------------------------
@@ -196,7 +159,10 @@
 - [일일커밋의 효용성](https://jojoldu.tistory.com/402?fbclid=IwAR2QMmc1I7hvXHYr-uSTamiW-h0VkY-UBwOz_jMWsEJTgHkGxfWV1onMCsE)
 - [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/?fbclid=IwAR1a-npFrVXsevZq-tV6Vq0fQ-iUabeIUpDNBlA-dS_a32GHi7tCN5kVBek)
 - [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
-
+- [확장하기 쉬운 코드가 아니라 삭제하기 쉬운 코드를 작성하자 [번역]](https://harfangk.github.io/2016/10/30/write-code-that-is-easy-to-delete-not-easy-to-extend-ko.html)
+- [생각하라, 객체지향처럼](http://woowabros.github.io/study/2016/07/07/think_object_oriented.html)
+- [객체 지향 개발 5대 원리](http://www.nextree.co.kr/p6960/)
+- [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
 
 --------------------------------------
 
@@ -335,6 +301,7 @@
 - [DevOps를 위한 30가지 Docker 인터뷰 질문 [영문]](https://www.fullstack.cafe/blog/docker-interview-questions-and-answers)
 - [싱가폴의 코딩테스트](https://brunch.co.kr/@imagineer/267)
 - [개발자의 이직 가이드 (초급)](https://brunch.co.kr/@promiseys/3)
+- [개발자가 영문 이력서 쓸 때 자주 저지르는 실수](https://brunch.co.kr/@imagineer/272)
 
 --------------------------------------
 </br>
@@ -553,7 +520,7 @@
 - [리모트 컨피그 서버 구축기](http://woowabros.github.io/tools/2019/02/18/remote-config-server.html)
 - [멀티플렉싱 기반의 다중 접속 서버로 가기까지](https://jongmin92.github.io/2019/02/28/Java/java-with-non-blocking-io/)
 - [DevOps tutorial [영문]](https://www.edureka.co/blog/devops-tutorial)
-
+- [확장성 있고, 이식성 있는 도커 컨테이너 네트워크 설계 [번역]](https://ziwon.dev/post/designing-scalable-portable-docker-container-networks/)
 --------------------------------------
 
 ### 데이터베이스 & SQL
@@ -688,6 +655,7 @@
 - [React에서 Redux 전에 배워야 할 8가지](https://edykim.com/ko/post/learn-react-before-using-redux/)
 - [react-native 사이드프로젝트 보름만에 iOS, 안드로이드 앱 출시하기](https://blog.holy.kiwi/js/190127/)
 - [QueryPie는 왜 React & Typescript를 선택하게 되었나](https://medium.com/p/111d03597510/)
+- [ECMAScript와 TC39](https://ahnheejong.name/articles/ecmascript-tc39/)
 
 --------------------------------------
 
@@ -868,6 +836,7 @@
 - [머신러닝 적용의 실제](https://brunch.co.kr/@kakao-it/104)
 - [이미지만으로 내 중고물품의 카테고리를 자동으로 분류해준다면? (feat. Keras)](https://medium.com/daangn/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%8C%EC%9C%BC%EB%A1%9C-%EB%82%B4-%EC%A4%91%EA%B3%A0%EB%AC%BC%ED%92%88%EC%9D%98-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A5%BC-%EB%B6%84%EB%A5%98%ED%95%B4%EC%A4%80%EB%A9%B4-feat-keras-b86e5f286c71)
 - [머신러닝 공부 순서, 방법 및 강의 정리](http://gomcine.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EC%88%9C%EC%84%9C-%EB%B0%8F-%EB%B0%A9%EB%B2%95-%EA%B0%95%EC%9D%98-%EC%A0%95%EB%A6%AC)
+- [딥러닝을 활용한 거래량 예측 기능 개선](https://d2.naver.com/helloworld/0065813)
 
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
