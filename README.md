@@ -68,6 +68,7 @@
 
 ### 1. [개발 일반](https://github.com/Integerous/goQuality-dev-contents#1-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EB%B0%98-1)
 - [개발 문화/철학/방법론](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94%EC%B2%A0%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0)
+- [TDD & 테스트 관련]()
 - [개발자 성장](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%84%B1%EC%9E%A5)
 - [비전공자 & 신입](https://github.com/Integerous/goQuality-dev-contents#%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90--%EC%8B%A0%EC%9E%85)
 - [세미나/컨퍼런스 후기](https://github.com/Integerous/goQuality-dev-contents#%EC%84%B8%EB%AF%B8%EB%82%98%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0)
@@ -83,7 +84,7 @@
 - [서버 & 클라우드 & 아키텍쳐](https://github.com/Integerous/goQuality-dev-contents#%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C--%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
 - [데이터베이스 & SQL](https://github.com/Integerous/goQuality-dev-contents#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4--sql)
 - [운영체제 (리눅스, MacOS, 윈도우)](https://github.com/Integerous/goQuality-dev-contents#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-macos-%EC%9C%88%EB%8F%84%EC%9A%B0)
-- [네트워크]()
+- [네트워크](https://github.com/Integerous/goQuality-dev-contents/blob/master/README.md#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 
 ### 4. [프론트엔드](https://github.com/Integerous/goQuality-dev-contents#4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-1)
 - [Javascript 관련](https://github.com/Integerous/goQuality-dev-contents#javascript-%EA%B4%80%EB%A0%A8)
@@ -121,21 +122,12 @@
 - [우리가 부르는 시니어 개발자는 누구인가?](http://bit.ly/2CfZj0c)
 - [Product Manager 관점에서 바라 본 TDD](http://bit.ly/2J2KfEO)
 - [스포티파이의 개발 문화](http://bit.ly/2q58IjT)
-- ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다.](http://bit.ly/2SahtGf)
 - [잘 가요 스크럼, 반가워요 칸반 [번역]](http://bit.ly/2yX7Jqc)
 - [모든 개발자가 알아야만 하는 SOLID 원칙 1편](http://bit.ly/2O0y8bZ)
-- [박재성 - 의식적인 연습으로 TDD, 리팩토링 연습하기[슬라이드]](http://bit.ly/2yZhlAN)
-- [실제 있을법한 예제를 TDD로 구현하는 과정 라이브로 시연 - 최범균님 [영상]](http://bit.ly/2yWXrpR)
 - [당신이 좋은 개발자라는 징표](http://bit.ly/2O1HVyE)
 - [프로그래밍의 정석 리뷰](https://www.popit.kr/bookreview-principlesofprogramming/?fbclid=IwAR0JR3FKXMdOeciOMZnQFazxRopBAXyHuMYaj7gD8Vh6pEzqxRWY6y_GGqA)
 - [마음대로 일하기 위한 규칙들 -  멋쟁이 사자처럼](https://brunch.co.kr/@likelion/11)
-- [단위 테스트는 왜 할까?](https://feel5ny.github.io/2017/12/08/TDD_01/)
-- [DDD (Domain-Driven-Design) 정복기 1탄 [슬라이드]](https://www.slideshare.net/SuhyeonJo1/domaindrivendesign-1-108176535)
-- [1500개의 테스트를 작성하며 나는 무엇을 얻었나](https://medium.com/@minhyeok4dev/1500%EA%B0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EB%A9%B0-%EB%82%98%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%96%BB%EC%97%88%EB%82%98-62b9facd53d8?fbclid=IwAR0xF7minhGTfScfOpRJgYn4exKZ34V-iJql8uRf5PxHwn51M5fItZdATKE)
-- [TDD 읽은 티 내기](https://brunch.co.kr/@moonjoonyoung/7)
-- [TDD FAQ](http://j.mp/2gMX1sc)
 - [트렐로 프로젝트 매니져가 일하는 방법 [번역]](http://bridge.500startups.co.kr/%ED%8A%B8%EB%A0%90%EB%A1%9C%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
-- [단위 테스트 사용 방법: JUnit 참조 가이드](https://brunch.co.kr/@pubjinson/16)
 - [2018 광군제 운영 후기](https://www.popit.kr/2018-%EA%B4%91%EA%B5%B0%EC%A0%9C%E5%8F%8C%E5%8D%81%E4%B8%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9A%B4%EC%98%81-%ED%9B%84%EA%B8%B0/)
 - [누구나 불만을 말하고, 대안을 제시할 수 있는 팀이 되기까지 - 리멤버 개발팀](https://m.post.naver.com/viewer/postView.nhn?volumeNo=17104973&memberNo=39874958)
 - [로버트 C. 마틴의 Clean Code를 읽고 정리를 한 글](https://sungjk.github.io/2017/07/27/clean-code.html?fbclid=IwAR2I8k1h_kkaD-Xb3VvGq6FB5ntYn6Ab3Zd_BQ42SaRYsRW3rf7VL0QeTsU)
@@ -148,16 +140,12 @@
 - [헤이딜러에서는 어떻게 일하나요?](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)
 - [실용주의 프로그래머 내용 요약](https://blog.ordinarysimple.com/posts/programming/2018-11-04-the-progmatic-programmer/)
 - [개발자처럼 생각하는 방법 [번역]](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
-- [TDD는 죽었는가? [번역]](http://jinson.tistory.com/271)
 - [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/)
-- [쉬운 테스트 주도 개발과 단위 테스트를 위한 5단계 방법론 [번역]](https://medium.com/@cmygray/%EB%B2%88%EC%97%AD-%EC%89%AC%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-5%EB%8B%A8%EA%B3%84-%EB%B0%A9%EB%B2%95%EB%A1%A0-b82fea6c8d90)
-- [TDD를 돕는 템플릿 “Given-When-Then”](http://j.mp/2SxeAyU)
 - [의도적 수련 2 – 프로그래머에게 적합한 의도적 수련](http://www.insightbook.co.kr/13171)
 - [프레임워크 공부를 멈춰라 [번역]](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474?fbclid=IwAR3PyPzrIcbDkN9oS4MfOCdQZ7evU4ljW6o406sr-wrieyPjjRPpLjat8K0)
 - [개발문화 - 코드리뷰](https://brunch.co.kr/@seonology/23)
 - [객체 모델링 공부하게 책 하나 추천해주세요.](https://www.popit.kr/%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B2%8C-%EC%B1%85-%ED%95%98%EB%82%98-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
 - [개발자에게 좋은 직장 혹은 좋은 환경](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/)
-- [The Real TDD 컨퍼런스 발표영상 모음](https://okky.kr/article/538114)
 - [기술 업계의 독성 말투 문제, 고칩시다! [번역]](https://edykim.com/ko/post/tech-has-a-toxic-tone-problem-lets-fix-it/)
 - [소프트웨어 개발의 지혜](https://brunch.co.kr/@springboot/35)
 - [2018년 내가 모르는 기술들 [번역]](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
@@ -168,15 +156,31 @@
 - [Hashicorp의 도 [번역]](https://blog.outsider.ne.kr/1173)
 - [아마존 3년 출근기 1편 - 하루 일과 및 요약](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
 - [일일커밋의 효용성](https://jojoldu.tistory.com/402?fbclid=IwAR2QMmc1I7hvXHYr-uSTamiW-h0VkY-UBwOz_jMWsEJTgHkGxfWV1onMCsE)
-- [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/?fbclid=IwAR1a-npFrVXsevZq-tV6Vq0fQ-iUabeIUpDNBlA-dS_a32GHi7tCN5kVBek)
-- [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
 - [확장하기 쉬운 코드가 아니라 삭제하기 쉬운 코드를 작성하자 [번역]](https://harfangk.github.io/2016/10/30/write-code-that-is-easy-to-delete-not-easy-to-extend-ko.html)
 - [생각하라, 객체지향처럼](http://woowabros.github.io/study/2016/07/07/think_object_oriented.html)
 - [객체 지향 개발 5대 원리](http://www.nextree.co.kr/p6960/)
 - [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
+
+--------------------------------------
+
+### TDD & 테스트 관련
+- ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다.](https://repo.yona.io/doortts/blog/issue/1)
+- [박재성 - 의식적인 연습으로 TDD, 리팩토링 연습하기 [슬라이드]](http://bit.ly/2yZhlAN)
+- [실제 있을법한 예제를 TDD로 구현하는 과정 라이브로 시연 - 최범균님 [영상]](http://bit.ly/2yWXrpR)
+- [단위 테스트는 왜 할까?](https://feel5ny.github.io/2017/12/08/TDD_01/)
+- [DDD (Domain-Driven-Design) 정복기 1탄 [슬라이드]](https://www.slideshare.net/SuhyeonJo1/domaindrivendesign-1-108176535)
+- [1500개의 테스트를 작성하며 나는 무엇을 얻었나](https://medium.com/@minhyeok4dev/1500%EA%B0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EB%A9%B0-%EB%82%98%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%96%BB%EC%97%88%EB%82%98-62b9facd53d8?fbclid=IwAR0xF7minhGTfScfOpRJgYn4exKZ34V-iJql8uRf5PxHwn51M5fItZdATKE)
+- [TDD 읽은 티 내기](https://brunch.co.kr/@moonjoonyoung/7)
+- [TDD FAQ](http://j.mp/2gMX1sc)
+- [단위 테스트 사용 방법: JUnit 참조 가이드](https://brunch.co.kr/@pubjinson/16)
+- [TDD는 죽었는가? [번역]](http://jinson.tistory.com/271)
+- [쉬운 테스트 주도 개발과 단위 테스트를 위한 5단계 방법론 [번역]](https://medium.com/@cmygray/%EB%B2%88%EC%97%AD-%EC%89%AC%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-5%EB%8B%A8%EA%B3%84-%EB%B0%A9%EB%B2%95%EB%A1%A0-b82fea6c8d90)
+- [TDD를 돕는 템플릿 “Given-When-Then”](http://j.mp/2SxeAyU)
+- [The Real TDD 컨퍼런스 발표영상 모음](https://okky.kr/article/538114)
+- [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/?fbclid=IwAR1a-npFrVXsevZq-tV6Vq0fQ-iUabeIUpDNBlA-dS_a32GHi7tCN5kVBek)
+- [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
 - [필요한 내용만 추려서 DDD 당장 써먹기](https://www.popit.kr/%ED%95%84%EC%9A%94%ED%95%9C-%EB%82%B4%EC%9A%A9%EB%A7%8C-%EC%B6%94%EB%A0%A4%EC%84%9C-ddd-%EB%8B%B9%EC%9E%A5-%EC%8D%A8%EB%A8%B9%EA%B8%B0/)
-- [쉬운 테스트 주도 개발과 단위 테스트를 위한 5단계 방법론 [번역]](https://link.medium.com/8IrzY07UCV)
-- [흔한 프로그래머의 작명에 관한 사뭇 진지한 이야기](https://ppss.kr/archives/189212?fbclid=IwAR2QQ6GOtLpG82XQ2ZfUac8kZ350Z6a6JsWncTjC2gcYX8ZFVLRJcDRtW1E)
+
 
 --------------------------------------
 
@@ -319,6 +323,7 @@
 - [개발자가 영문 이력서 쓸 때 자주 저지르는 실수](https://brunch.co.kr/@imagineer/272)
 - [자바, 안드로이드 면접 질문 리스트](https://github.com/BearCola/ForJavaAndAndroidInterview)
 - [룩핀의 개발자 면접 질문을 공유합니다.](https://medium.com/lookpin-engineering/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-ae6e55d94f27)
+
 --------------------------------------
 </br>
 </br>
