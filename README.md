@@ -60,7 +60,6 @@
 - [Apache ShardingSphere를 이용한 DB Sharding](https://blog.naver.com/PostView.nhn?blogId=asei&logNo=221511101848&proxyReferer=http%3A%2F%2Fm.facebook.com)
 - [자바 HashMap을 효과적으로 사용하는 방법](http://tech.javacafe.io/2018/12/03/HashMap/)
 
-
 --------------------------------------
 </br>
 </br>
@@ -84,6 +83,7 @@
 - [서버 & 클라우드 & 아키텍쳐](https://github.com/Integerous/goQuality-dev-contents#%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C--%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
 - [데이터베이스 & SQL](https://github.com/Integerous/goQuality-dev-contents#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4--sql)
 - [운영체제 (리눅스, MacOS, 윈도우)](https://github.com/Integerous/goQuality-dev-contents#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-macos-%EC%9C%88%EB%8F%84%EC%9A%B0)
+- [네트워크]()
 
 ### 4. [프론트엔드](https://github.com/Integerous/goQuality-dev-contents#4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-1)
 - [Javascript 관련](https://github.com/Integerous/goQuality-dev-contents#javascript-%EA%B4%80%EB%A0%A8)
@@ -175,6 +175,8 @@
 - [객체 지향 개발 5대 원리](http://www.nextree.co.kr/p6960/)
 - [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
 - [필요한 내용만 추려서 DDD 당장 써먹기](https://www.popit.kr/%ED%95%84%EC%9A%94%ED%95%9C-%EB%82%B4%EC%9A%A9%EB%A7%8C-%EC%B6%94%EB%A0%A4%EC%84%9C-ddd-%EB%8B%B9%EC%9E%A5-%EC%8D%A8%EB%A8%B9%EA%B8%B0/)
+- [쉬운 테스트 주도 개발과 단위 테스트를 위한 5단계 방법론 [번역]](https://link.medium.com/8IrzY07UCV)
+- [흔한 프로그래머의 작명에 관한 사뭇 진지한 이야기](https://ppss.kr/archives/189212?fbclid=IwAR2QQ6GOtLpG82XQ2ZfUac8kZ350Z6a6JsWncTjC2gcYX8ZFVLRJcDRtW1E)
 
 --------------------------------------
 
@@ -274,6 +276,7 @@
 - [2018 마소콘 발표자료 모음](https://www.imaso.co.kr/archives/4510)
 - [Spring Camp 2018 영상 모음](https://www.youtube.com/playlist?list=PLdHtZnJh1KdZnswQEyrn5VKxAXluSlWJc)
 
+
 --------------------------------------
 
 ### 개발자 회고
@@ -314,7 +317,8 @@
 - [싱가폴의 코딩테스트](https://brunch.co.kr/@imagineer/267)
 - [개발자의 이직 가이드 (초급)](https://brunch.co.kr/@promiseys/3)
 - [개발자가 영문 이력서 쓸 때 자주 저지르는 실수](https://brunch.co.kr/@imagineer/272)
-
+- [자바, 안드로이드 면접 질문 리스트](https://github.com/BearCola/ForJavaAndAndroidInterview)
+- [룩핀의 개발자 면접 질문을 공유합니다.](https://medium.com/lookpin-engineering/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-ae6e55d94f27)
 --------------------------------------
 </br>
 </br>
@@ -400,6 +404,9 @@
 - [LINE의 OpenJDK 적용기 - 호환성 확인부터 주의사항까지](https://engineering.linecorp.com/ko/blog/line-open-jdk/)
 - [Jackson 어노테이션 사용법](https://github.com/cheese10yun/blog-sample/tree/master/jackson)
 - [(Docker) Spring Boot Application Image 최적화하기](https://perfectacle.github.io/2019/04/16/spring-boot-docker-image-optimization/)
+- [초보가 이해하는 스프링 시큐리티](https://okky.kr/article/382738)
+- [jpa, hibernate, spring data jpa 각 차이점](https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/)
+
 
 --------------------------------------
 
@@ -487,7 +494,6 @@
 - ['아마존 웹 서비스를 다루는 기술' 원고 공개](http://pyrasis.com/book/TheArtOfAmazonWebServices)
 - [야놀자 워크로그 개발기](https://yanolja.github.io/2018/09/Work-Log)
 - [빅데이터 프레임워크를 활용한 데이터 인프라 구축](http://blog.dramancompany.com/2017/08/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95/)
-- [최신 네트워크 로드 밸런싱 및 프록시 소개 [번역]](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
 - [Redis in Action [영문]](https://redislabs.com/community/ebook)
 - [대규모 서비스를 설계하는 기술 -중급(일반편) [슬라이드]](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance)
 - [도커의 궁금증 8가지](http://www.itworld.co.kr/tags/64073/도커/87971)
@@ -534,6 +540,9 @@
 - [멀티플렉싱 기반의 다중 접속 서버로 가기까지](https://jongmin92.github.io/2019/02/28/Java/java-with-non-blocking-io/)
 - [DevOps tutorial [영문]](https://www.edureka.co/blog/devops-tutorial)
 - [확장성 있고, 이식성 있는 도커 컨테이너 네트워크 설계 [번역]](https://ziwon.dev/post/designing-scalable-portable-docker-container-networks/)
+- [Woot 은 어떻게 AWS 기반 서버리스 데이터 레이크를 구축 하였는가?](https://aws.amazon.com/ko/blogs/korea/our-data-lake-story-how-woot-com-built-a-serverless-data-lake-on-aws/?utm_source=dlvr.it&utm_medium=facebook)
+- [Docker for Windows 설치 및 문제 해결](https://blog.gaerae.com/2019/04/docker-for-windows-troubleshooting.html?m=1)
+- [Lambda 한개로 만드는 On-demand Image Resizing](https://engineering.huiseoul.com/lambda-%ED%95%9C%EA%B0%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-on-demand-image-resizing-d48167cc1c31)
 
 --------------------------------------
 
@@ -559,7 +568,8 @@
 - [SQL vs NoSQL [영상]](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 - [MySQL 실행계획](https://12bme.tistory.com/160)
 - [JDBC를 사용한 MySQL SSL 연결](https://medium.com/p/1c5da86cc2c5)
-
+- [MySQL performance-schema-instruments 사용에 따른 성능 영향 실험](https://engineering.linecorp.com/ko/blog/mysql-research-performance-schema-instruments/)
+- [Ubuntu 에서 실행중인 MySQL을 Docker Container 내부의 MySQL로 마이그레이션 하기](https://medium.com/@jihasong/ubuntu-%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EC%A4%91%EC%9D%B8-mysql%EC%9D%84-docker-container-%EB%82%B4%EB%B6%80%EC%9D%98-mysql%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-e97d6243b0cf)
 
 --------------------------------------
 
@@ -577,6 +587,16 @@
 - [리눅스의 페이지 캐시와 버퍼 캐시](https://brunch.co.kr/@alden/25)
 - [gdb를 이용해 메모리 덤프뜨기](https://brunch.co.kr/@alden/13)
 - [윈도우에서  WSL을 이용해서 Linux 사용하기](https://code.apptilus.com/posts/tools/windows-subsystem-linux#)
+
+
+--------------------------------------
+
+### 네트워크
+- [네트워크 장비 없이 공부하기 [영상]](https://www.youtube.com/watch?v=0f1viq6FjK4&t=9s&app=desktop)
+- [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667)
+- [최신 네트워크 로드 밸런싱 및 프록시 소개 [번역]](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
+- [네트워크의 기본 'OSI 7계층'··· 한번에 이해하고 외우는 방법](http://www.ciokorea.com/news/36536#csidxa7b8fb7c6c7e34a85f2253bf8c1b283)
+
 
 --------------------------------------
 </br>
@@ -670,6 +690,8 @@
 - [react-native 사이드프로젝트 보름만에 iOS, 안드로이드 앱 출시하기](https://blog.holy.kiwi/js/190127/)
 - [QueryPie는 왜 React & Typescript를 선택하게 되었나](https://medium.com/p/111d03597510/)
 - [ECMAScript와 TC39](https://ahnheejong.name/articles/ecmascript-tc39/)
+- [Node.js의 순환 의존성](https://blog.outsider.ne.kr/1283?category=24)
+
 
 --------------------------------------
 
@@ -706,6 +728,7 @@
 - [새해, 사이드 프로젝트에 도움이 될만한 디자인 리소스](https://brunch.co.kr/@mobiinside/1423)
 - [2019 UX/UI 디자인 트렌드](https://brunch.co.kr/@usdlab/38?utm_medium=gaerae.com)
 - [웹폰트 경량화 - 폰트툴즈의 pyftsubset을 사용한 폰트 서브셋 만들기](https://www.44bits.io/ko/post/optimization_webfont_with_pyftsubnet)
+- [css, js로 position - sticky 구현 방법](https://moonformeli.tistory.com/24)
 
 --------------------------------------
 
@@ -775,6 +798,8 @@
 - [Ajax & CORS Overview](http://huns.me/development/1291)
 - [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 part 1](https://joshua1988.github.io/web-development/http-part1/)
 - [Websocket 실시간 개발하기](https://brunch.co.kr/@adrenalinee31/2)
+- [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest의-representation이란-무엇인가/)
+- [HTTPS는 어떻게 다를까?](https://parksb.github.io/article/24.html)
 
 --------------------------------------
 
@@ -852,6 +877,7 @@
 - [머신러닝 공부 순서, 방법 및 강의 정리](http://gomcine.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EC%88%9C%EC%84%9C-%EB%B0%8F-%EB%B0%A9%EB%B2%95-%EA%B0%95%EC%9D%98-%EC%A0%95%EB%A6%AC)
 - [딥러닝을 활용한 거래량 예측 기능 개선](https://d2.naver.com/helloworld/0065813)
 - [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
+- [2019년 주요 AI 컨퍼런스](https://brunch.co.kr/@kakao-it/322)
 
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
@@ -886,12 +912,10 @@
 - [Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자](https://johngrib.github.io/wiki/my-wiki/)
 - [Intellij 디버깅 해보기](https://jojoldu.tistory.com/149)
 - [치트시트 사이트](https://devhints.io/)
-- [네트워크 장비 없이 공부하기 [영상]](https://www.youtube.com/watch?v=0f1viq6FjK4&t=9s&app=desktop)
 - [구글에서 시행중인 사이트 신뢰성 엔지니어링(SRE)이란?](https://blog.outsider.ne.kr/1358)
 - [‘PUBLIC API’ 이제 한 곳에서 조건에 따라 확인해보세요!](http://icunow.co.kr/public-apis/)
 - [인스타그램 알고리즘의 거의 모든 것](https://brunch.co.kr/@mobiinside/1413)
 - [Vim에 매료되다.](https://blog.hax0r.info/2018-06-27/be-fascinated-by-vim/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=Vim%EC%97%90+%EB%A7%A4%EB%A3%8C%EB%90%98%EB%8B%A4.+%28Feat.Happy+Hacking%29)
-- [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667)
 - [OAuth2를 이용한 SSO 환경 구축](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-1-2/)
 - [Rob Pike - 'Concurrency Is Not Parallelism' [영상]](https://www.youtube.com/watch?v=cN_DpYBzKso&t=17s)
 - [한국 오픈소스 프로젝트 Top 100](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf?fbclid=IwAR2IOgY2dGszOSWFWdzVDtTxcefzXCr4-AHVOX4txYRAYPs_Wvx0PK7MYgQ)
@@ -909,7 +933,7 @@
 - [내가 추천하는 크롬 익스텐션 10선](https://jojoldu.tistory.com/406)
 - [CI/CD란 무엇일까요?](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
 - [카카오페이 QR 코드 리버스 엔지니어링](http://philosophical.one/posts/kakaopay-qrcode/)
-
+- [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)
 
 ### 에러 발생한 컨텐츠들
 >이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
