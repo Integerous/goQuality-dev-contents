@@ -68,7 +68,7 @@
 
 ### 1. [개발 일반](https://github.com/Integerous/goQuality-dev-contents#1-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EB%B0%98-1)
 - [개발 문화/철학/방법론](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94%EC%B2%A0%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0)
-- [TDD & 테스트 관련]()
+- [TDD & 테스트 관련](https://github.com/Integerous/goQuality-dev-contents/blob/master/README.md#tdd--%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8)
 - [개발자 성장](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%84%B1%EC%9E%A5)
 - [비전공자 & 신입](https://github.com/Integerous/goQuality-dev-contents#%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90--%EC%8B%A0%EC%9E%85)
 - [세미나/컨퍼런스 후기](https://github.com/Integerous/goQuality-dev-contents#%EC%84%B8%EB%AF%B8%EB%82%98%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0)
@@ -758,19 +758,15 @@
 
 ### 웹 관련
 - [JWT(JSON Web Token)을 이용한 API 인증 [시리즈]](http://bit.ly/2pQNBSy)
-- [REST API에서 Put 과 Post 의 차이](http://bit.ly/2CFGzIM)
-- [REST API의 이해와 설계  1편 - 개념 소개](http://bit.ly/2QX4lD8)
 - [모던 웹 브라우저의 내부 살펴보기 1편 [시리즈]](http://bit.ly/2CrD6MO)
 - [Tinder의 프로그래시브 웹 앱 성능 케이스 스터디 [번역]](http://bit.ly/2IMxbmH)
 - [브라우저는 어떻게 동작하는가? [번역]](http://bit.ly/2Sdf5Pc)
 - [웹크롤링 좀 더 잘하기 [슬라이드]](http://bit.ly/2CHNeBf)
-- [Restful API를 설계하기 위한 디자인 팁](https://spoqa.github.io/2013/06/11/more-restful-interface.html)
 - [비둘기로 설명하는 HTTPS [번역]](http://bit.ly/2zggUlF)
 - [웹 캐싱의 숨겨진 요소들 [번역]](http://bit.ly/2SDUDaf)
 - [리액티브 웹, 세상을 탐험하다 1부 [슬라이드]](https://www.slideshare.net/arawnkr/reactive-web-servlet-async-nonblocking-io-73838876)
 - [쿠키와 세션 개념](http://interconnection.tistory.com/m/74)
 - [2019년을 지배할 웹 개발 트렌드 10가지 [영문]](https://dashbouquet.com/blog/web-development/web-development-trends-that-will-dominate-in-2019)
-- [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
 - [HTTP프로토콜의 두번째 버전 - HTTP/2 에 대한 정리 글](https://www.popit.kr/나만-모르고-있던-http2/)
 - [웹페이지 성능 테스트를 위해 알아야할 사이트들](https://m.blog.naver.com/PostView.nhn?blogId=didim365_&logNo=221387090765&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Fdidim365_%2F221387090765)
 - [AMP가 어떻게 웹의 성능을 올려줄까?](https://d2.naver.com/helloworld/6856597)
@@ -781,7 +777,6 @@
 - [크롤러를 이용해 우체국 등기우편을 자동으로 정리하기](https://brunch.co.kr/@needleworm/1)
 - [몇 가지 HTML 팁 [번역]](https://rhostem.github.io/posts/2017-05-29-few-html-tips)
 - [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/https/)
-- [그런 REST API로 괜찮은가 [영상]](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 - [HTML/CSS 쉽게 알려주는 사이트 - 웨버스터디](http://webberstudy.com/)
 - [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
 - [HTTP 쿠키와 톰캣 버전별 이슈 정리](https://meetup.toast.com/posts/172)
@@ -793,20 +788,31 @@
 - [크롬 개발자도구 101 (기초내용 정리)](https://lqez.github.io/blog/chrome-dev-tool-101.html)
 - [2019년 웹앱 개발의 전망과 화두](https://medium.com/harrythegreat/2019%EB%85%84-%EC%9B%B9-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%A0%84%EB%A7%9D%EA%B3%BC-%ED%99%94%EB%91%90-654d00686a59)
 - [빠른 웹사이트를 만드는 방법 [영상]](https://youtu.be/reztLS3vomE)
-- [REST API 튜토리얼 [영문]](https://restapitutorial.com/)
 - [GET과 POST의 차이](https://blog.outsider.ne.kr/312#footnote_312_1)
 - [HTTPS는 HTTP보다 빠르다](https://tech.ssut.me/)
-- [REST API 설명 [영상]](https://www.youtube.com/watch?v=LooL6_chvN4)
-- [REST FULL 한 웹서비스 > Stateless와 HATEOAS 개념](http://anster.tistory.com/163)
 - [HTTP 헤더의 종류 및 항목](https://gmlwjd9405.github.io/2019/01/28/http-header-types.html)
 - [Gatsby로 블로그를 마이그레이션하며 고려한 것들](https://jbee.io/etc/intro-new-blog/?fbclid=IwAR2k8P3A32ZFDwyDto6FuaSD-C5eKAmfTPm0J5TyHFczzErPw9tnADIcDYk)
 - [Ajax & CORS Overview](http://huns.me/development/1291)
 - [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 part 1](https://joshua1988.github.io/web-development/http-part1/)
 - [Websocket 실시간 개발하기](https://brunch.co.kr/@adrenalinee31/2)
-- [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest의-representation이란-무엇인가/)
 - [HTTPS는 어떻게 다를까?](https://parksb.github.io/article/24.html)
 
 --------------------------------------
+
+
+### REST 관련
+- [REST API에서 Put 과 Post 의 차이](http://bit.ly/2CFGzIM)
+- [REST API의 이해와 설계  1편 - 개념 소개](http://bit.ly/2QX4lD8)
+- [Restful API를 설계하기 위한 디자인 팁](https://spoqa.github.io/2013/06/11/more-restful-interface.html)
+- [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
+- [그런 REST API로 괜찮은가 [영상]](https://www.youtube.com/watch?v=RP_f5dMoHFc)
+- [REST API 튜토리얼 [영문]](https://restapitutorial.com/)
+- [REST API 설명 [영상]](https://www.youtube.com/watch?v=LooL6_chvN4)
+- [REST FULL 한 웹서비스 > Stateless와 HATEOAS 개념](http://anster.tistory.com/163)
+- [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest의-representation이란-무엇인가/)
+
+--------------------------------------
+
 
 ### Git
 - [Git 브랜칭 실습사이트! (한국어판)](http://bit.ly/2NzKcRa)
