@@ -46,10 +46,19 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 4월 20일
+-
+-
+
+#### 2019년 4월 19일
+- [웹 서비스 런칭 시 선택해야 할 것들](https://brunch.co.kr/@chiyodad/13)
+- [DB index 간단 개념정리](https://brownbears.tistory.com/57)
+- [코드리뷰를 위한 좋은 코딩 - Javascript 편](https://amati.io/2019/04/18/good-coding-for-codereview-on-javascript/)
 
 #### 2019년 4월 18일
-- 
-- 
+- [2019 AWS Summit Seoul 참관기 day 1/2](https://engineering.huiseoul.com/2019-aws-summit-seoul-%EC%B0%B8%EA%B4%80%EA%B8%B0-day-1-2-7232b47135d1)
+- [Apache ShardingSphere를 이용한 DB Sharding](https://blog.naver.com/PostView.nhn?blogId=asei&logNo=221511101848&proxyReferer=http%3A%2F%2Fm.facebook.com)
+- [자바 HashMap을 효과적으로 사용하는 방법](http://tech.javacafe.io/2018/12/03/HashMap/)
 
 #### 2019년 4월 17일
 - [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
