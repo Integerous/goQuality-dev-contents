@@ -46,28 +46,22 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2019년 4월 22일
+#### 2019년 4월 23일 화요일
+-
+-
+
+#### 2019년 4월 22일 월요일
 - [쓰레드풀 과 ForkJoinPool](https://hamait.tistory.com/m/612)
 - [여러 git repository에 한꺼번에 git 명령어 적용하기](http://tech.javacafe.io/2018/12/15/%EC%97%AC%EB%9F%AC_git_%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC_%ED%95%9C%EA%BA%BC%EB%B2%88%EC%97%90_git_%EB%AA%85%EB%A0%B9%EC%96%B4_%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
 - [Vue.js 면접 질문 모음 [번역]](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
 
-#### 2019년 4월 21일
+#### 2019년 4월 21일 일요일
 - [Spring batch & JPA에서 N+1 문제 해결](https://jojoldu.tistory.com/414)
 - [Async & Await 사용한 동기식 자바스크립트 사용](https://blueshw.github.io/2018/02/27/async-await/)
 
-#### 2019년 4월 20일
-- [서버리스 아키텍쳐 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture/)
-- [알리바바, AI로 코딩 점검 후 버그 수정](https://m.news.naver.com/read.nhn?mode=LSD&sid1=105&oid=092&aid=0002160319)
 
-#### 2019년 4월 19일
-- [웹 서비스 런칭 시 선택해야 할 것들](https://brunch.co.kr/@chiyodad/13)
-- [DB index 간단 개념정리](https://brownbears.tistory.com/57)
-- [코드리뷰를 위한 좋은 코딩 - Javascript 편](https://amati.io/2019/04/18/good-coding-for-codereview-on-javascript/)
 
-#### 2019년 4월 18일
-- [2019 AWS Summit Seoul 참관기 day 1/2](https://engineering.huiseoul.com/2019-aws-summit-seoul-%EC%B0%B8%EA%B4%80%EA%B8%B0-day-1-2-7232b47135d1)
-- [Apache ShardingSphere를 이용한 DB Sharding](https://blog.naver.com/PostView.nhn?blogId=asei&logNo=221511101848&proxyReferer=http%3A%2F%2Fm.facebook.com)
-- [자바 HashMap을 효과적으로 사용하는 방법](http://tech.javacafe.io/2018/12/03/HashMap/)
+
 
 --------------------------------------
 </br>
@@ -420,7 +414,7 @@
 - [(Docker) Spring Boot Application Image 최적화하기](https://perfectacle.github.io/2019/04/16/spring-boot-docker-image-optimization/)
 - [초보가 이해하는 스프링 시큐리티](https://okky.kr/article/382738)
 - [jpa, hibernate, spring data jpa 각 차이점](https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/)
-
+- [자바 HashMap을 효과적으로 사용하는 방법](http://tech.javacafe.io/2018/12/03/HashMap/)
 
 --------------------------------------
 
@@ -557,6 +551,7 @@
 - [Woot 은 어떻게 AWS 기반 서버리스 데이터 레이크를 구축 하였는가?](https://aws.amazon.com/ko/blogs/korea/our-data-lake-story-how-woot-com-built-a-serverless-data-lake-on-aws/?utm_source=dlvr.it&utm_medium=facebook)
 - [Docker for Windows 설치 및 문제 해결](https://blog.gaerae.com/2019/04/docker-for-windows-troubleshooting.html?m=1)
 - [Lambda 한개로 만드는 On-demand Image Resizing](https://engineering.huiseoul.com/lambda-%ED%95%9C%EA%B0%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-on-demand-image-resizing-d48167cc1c31)
+- [서버리스 아키텍쳐 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture/)
 
 --------------------------------------
 
@@ -584,6 +579,7 @@
 - [JDBC를 사용한 MySQL SSL 연결](https://medium.com/p/1c5da86cc2c5)
 - [MySQL performance-schema-instruments 사용에 따른 성능 영향 실험](https://engineering.linecorp.com/ko/blog/mysql-research-performance-schema-instruments/)
 - [Ubuntu 에서 실행중인 MySQL을 Docker Container 내부의 MySQL로 마이그레이션 하기](https://medium.com/@jihasong/ubuntu-%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EC%A4%91%EC%9D%B8-mysql%EC%9D%84-docker-container-%EB%82%B4%EB%B6%80%EC%9D%98-mysql%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-e97d6243b0cf)
+- [Apache ShardingSphere를 이용한 DB Sharding](https://blog.naver.com/PostView.nhn?blogId=asei&logNo=221511101848&proxyReferer=http%3A%2F%2Fm.facebook.com)
 
 --------------------------------------
 
@@ -705,7 +701,7 @@
 - [QueryPie는 왜 React & Typescript를 선택하게 되었나](https://medium.com/p/111d03597510/)
 - [ECMAScript와 TC39](https://ahnheejong.name/articles/ecmascript-tc39/)
 - [Node.js의 순환 의존성](https://blog.outsider.ne.kr/1283?category=24)
-
+- [코드리뷰를 위한 좋은 코딩 - Javascript 편](https://amati.io/2019/04/18/good-coding-for-codereview-on-javascript/)
 
 --------------------------------------
 
