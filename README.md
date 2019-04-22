@@ -46,9 +46,18 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 4월 22일
+- [쓰레드풀 과 ForkJoinPool](https://hamait.tistory.com/m/612)
+- [여러 git repository에 한꺼번에 git 명령어 적용하기](http://tech.javacafe.io/2018/12/15/%EC%97%AC%EB%9F%AC_git_%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC_%ED%95%9C%EA%BA%BC%EB%B2%88%EC%97%90_git_%EB%AA%85%EB%A0%B9%EC%96%B4_%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
+- [Vue.js 면접 질문 모음 [번역]](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
+
+#### 2019년 4월 21일
+- [Spring batch & JPA에서 N+1 문제 해결](https://jojoldu.tistory.com/414)
+- [Async & Await 사용한 동기식 자바스크립트 사용](https://blueshw.github.io/2018/02/27/async-await/)
+
 #### 2019년 4월 20일
--
--
+- [서버리스 아키텍쳐 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture/)
+- [알리바바, AI로 코딩 점검 후 버그 수정](https://m.news.naver.com/read.nhn?mode=LSD&sid1=105&oid=092&aid=0002160319)
 
 #### 2019년 4월 19일
 - [웹 서비스 런칭 시 선택해야 할 것들](https://brunch.co.kr/@chiyodad/13)
