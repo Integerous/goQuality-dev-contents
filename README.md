@@ -46,21 +46,20 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 4월 24일 수요일
+-
+-
+
 #### 2019년 4월 23일 화요일
--
--
+- [101가지 Bash 명령어와 팁들 [영문]](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#first-commands)
+- [웹서버 개발의 Session 전략](https://devhaks.github.io/2019/04/20/session-strategy/)
+- [2019년 업데이트 - 내 마음대로 선정한 개발자/프로그래머 추천도서(필독서) 50선](https://www.sangkon.com/2018/08/27/good_books_for_dev_2018/)
+- [MySQL Ascending index vs Descending index](http://tech.kakao.com/2018/06/19/AscendingAndDescendingIndex/?sfns=1)
 
 #### 2019년 4월 22일 월요일
 - [쓰레드풀 과 ForkJoinPool](https://hamait.tistory.com/m/612)
 - [여러 git repository에 한꺼번에 git 명령어 적용하기](http://tech.javacafe.io/2018/12/15/%EC%97%AC%EB%9F%AC_git_%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC_%ED%95%9C%EA%BA%BC%EB%B2%88%EC%97%90_git_%EB%AA%85%EB%A0%B9%EC%96%B4_%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
 - [Vue.js 면접 질문 모음 [번역]](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
-
-#### 2019년 4월 21일 일요일
-- [Spring batch & JPA에서 N+1 문제 해결](https://jojoldu.tistory.com/414)
-- [Async & Await 사용한 동기식 자바스크립트 사용](https://blueshw.github.io/2018/02/27/async-await/)
-
-
-
 
 
 --------------------------------------
@@ -415,6 +414,7 @@
 - [초보가 이해하는 스프링 시큐리티](https://okky.kr/article/382738)
 - [jpa, hibernate, spring data jpa 각 차이점](https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/)
 - [자바 HashMap을 효과적으로 사용하는 방법](http://tech.javacafe.io/2018/12/03/HashMap/)
+- [Spring batch & JPA에서 N+1 문제 해결](https://jojoldu.tistory.com/414)
 
 --------------------------------------
 
@@ -702,6 +702,7 @@
 - [ECMAScript와 TC39](https://ahnheejong.name/articles/ecmascript-tc39/)
 - [Node.js의 순환 의존성](https://blog.outsider.ne.kr/1283?category=24)
 - [코드리뷰를 위한 좋은 코딩 - Javascript 편](https://amati.io/2019/04/18/good-coding-for-codereview-on-javascript/)
+- [Async & Await 사용한 동기식 자바스크립트 사용](https://blueshw.github.io/2018/02/27/async-await/)
 
 --------------------------------------
 
