@@ -46,9 +46,17 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 4월 25일 목요일
+-
+-
+
 #### 2019년 4월 24일 수요일
--
--
+- [싱가폴에서 일하는 데이터 엔지니어 이야기](https://brunch.co.kr/@imagineer/314)
+- [개발자 로드맵 번역본](https://github.com/devJang/developer-roadmap/blob/master/readme.md)
+- [자료 구조에 대한 설명과 코드들을 간략하게 잘 정리해 놓음](http://www.tutorialspoint.com/data_structures_algorithms)
+- [줌인터넷 신입사원 파일럿 프로젝트 후기](https://zuminternet.github.io/ZUM-Pilot-integer/)
+- [서블릿 컨테이너와 스프링 컨테이너](https://minwan1.github.io/2017/10/08/2017-10-08-Spring-Container,Servlet-Container/)
+- [문서화에 대해 아무도 말해주지 않은 것들](http://blog.weirdx.io/post/60414)
 
 #### 2019년 4월 23일 화요일
 - [101가지 Bash 명령어와 팁들 [영문]](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#first-commands)
