@@ -64,11 +64,6 @@
 - [2019년 업데이트 - 내 마음대로 선정한 개발자/프로그래머 추천도서(필독서) 50선](https://www.sangkon.com/2018/08/27/good_books_for_dev_2018/)
 - [MySQL Ascending index vs Descending index](http://tech.kakao.com/2018/06/19/AscendingAndDescendingIndex/?sfns=1)
 
-#### 2019년 4월 22일 월요일
-- [쓰레드풀 과 ForkJoinPool](https://hamait.tistory.com/m/612)
-- [여러 git repository에 한꺼번에 git 명령어 적용하기](http://tech.javacafe.io/2018/12/15/%EC%97%AC%EB%9F%AC_git_%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC_%ED%95%9C%EA%BA%BC%EB%B2%88%EC%97%90_git_%EB%AA%85%EB%A0%B9%EC%96%B4_%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
-- [Vue.js 면접 질문 모음 [번역]](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
-
 
 --------------------------------------
 </br>
@@ -333,6 +328,7 @@
 - [개발자가 영문 이력서 쓸 때 자주 저지르는 실수](https://brunch.co.kr/@imagineer/272)
 - [자바, 안드로이드 면접 질문 리스트](https://github.com/BearCola/ForJavaAndAndroidInterview)
 - [룩핀의 개발자 면접 질문을 공유합니다.](https://medium.com/lookpin-engineering/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-ae6e55d94f27)
+- [Vue.js 면접 질문 모음 [번역]](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
 
 --------------------------------------
 </br>
@@ -423,6 +419,7 @@
 - [jpa, hibernate, spring data jpa 각 차이점](https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/)
 - [자바 HashMap을 효과적으로 사용하는 방법](http://tech.javacafe.io/2018/12/03/HashMap/)
 - [Spring batch & JPA에서 N+1 문제 해결](https://jojoldu.tistory.com/414)
+- [손그림으로 설명하는 ThreadPool과 ForkJoinPool](https://hamait.tistory.com/m/612)
 
 --------------------------------------
 
@@ -861,6 +858,7 @@
 - [.git - 쩜깃의 이해](https://jusths.tistory.com/64)
 - [Github 마크다운 작성 시 이미지 업로드 꿀팁](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
 - [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
+- [여러 git repository에 한꺼번에 git 명령어 적용하기](http://tech.javacafe.io/2018/12/15/%EC%97%AC%EB%9F%AC_git_%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC_%ED%95%9C%EA%BA%BC%EB%B2%88%EC%97%90_git_%EB%AA%85%EB%A0%B9%EC%96%B4_%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
 
 --------------------------------------
 
