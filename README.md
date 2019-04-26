@@ -46,9 +46,20 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 4월 27일 토요일
+-
+-
+
+#### 2019년 4월 26일 금요일
+- [ShedLock을 이용한 Master - Slave (primary - secondary, leader - follower) 구분 없는 스케줄러 만들기](https://www.popit.kr/shedlock%ec%9d%84-%ec%9d%b4%ec%9a%a9%ed%95%9c-master-slave-primary-secondary-leader-follower-%ea%b5%ac%eb%b6%84-%ec%97%86%eb%8a%94-%ec%8a%a4%ec%bc%80%ec%a4%84%eb%9f%ac-%eb%a7%8c%eb%93%a4/)
+- [Kubernetes 03 – Kubernetes Cluster on AWS with kops](https://blog.2dal.com/2019/04/24/kubernetes-03-kubernetes-cluster-on-aws-with-kops/)
+- [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide?sfns=1)
+- [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
+
 #### 2019년 4월 25일 목요일
--
--
+- [Spring Boot - Logging, 20분 정리](https://www.sangkon.com/2019/03/18/hands-on-springboot-logging/)
+- [이메일 주소 형식 검증하기](https://johngrib.github.io/wiki/email-validation/)
+
 
 #### 2019년 4월 24일 수요일
 - [싱가폴에서 일하는 데이터 엔지니어 이야기](https://brunch.co.kr/@imagineer/314)
