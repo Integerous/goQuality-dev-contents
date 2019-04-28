@@ -46,9 +46,16 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2019년 4월 27일 토요일
+#### 2019년 4월 29일 월요일
 -
 -
+
+
+#### 2019년 4월 28일 일요일
+- [Linux에서 메모리를 다 써버렸을 때 일어나는 일 [번역]](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-linux%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A5%BC-%EB%8B%A4-%EC%8D%A8%EB%B2%84%EB%A0%B8%EC%9D%84-%EB%95%8C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC-9dadba29c89c)
+- [블록체인 개발자 면접 오픈북](https://hamait.tistory.com/m/1054)
+- [코딩 인터뷰에서 Golang을 사용해야하는 이유 [번역]](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0%EC%97%90%EC%84%9C-golang%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8b638ab33068)
+- [자바에서 null을 안전하게 다루는 방법 [슬라이드]](https://www.slideshare.net/mobile/gyumee/null-142590829)
 
 
 #### 2019년 4월 26일 금요일
@@ -56,11 +63,6 @@
 - [Kubernetes 03 – Kubernetes Cluster on AWS with kops](https://blog.2dal.com/2019/04/24/kubernetes-03-kubernetes-cluster-on-aws-with-kops/)
 - [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide?sfns=1)
 - [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
-
-
-#### 2019년 4월 25일 목요일
-- [Spring Boot - Logging, 20분 정리](https://www.sangkon.com/2019/03/18/hands-on-springboot-logging/)
-- [이메일 주소 형식 검증하기](https://johngrib.github.io/wiki/email-validation/)
 
 
 --------------------------------------
@@ -422,6 +424,8 @@
 - [Spring batch & JPA에서 N+1 문제 해결](https://jojoldu.tistory.com/414)
 - [손그림으로 설명하는 ThreadPool과 ForkJoinPool](https://hamait.tistory.com/m/612)
 - [서블릿 컨테이너와 스프링 컨테이너](https://minwan1.github.io/2017/10/08/2017-10-08-Spring-Container,Servlet-Container/)
+- [Spring Boot - Logging, 20분 정리](https://www.sangkon.com/2019/03/18/hands-on-springboot-logging/)
+
 
 --------------------------------------
 
@@ -961,6 +965,7 @@
 - [CI/CD란 무엇일까요?](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
 - [카카오페이 QR 코드 리버스 엔지니어링](http://philosophical.one/posts/kakaopay-qrcode/)
 - [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)
+- [이메일 주소 형식 검증하기](https://johngrib.github.io/wiki/email-validation/)
 
 ### 에러 발생한 컨텐츠들
 >이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
