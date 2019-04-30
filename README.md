@@ -46,9 +46,18 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+
+#### 2019년 4월 30일 화요일
+- [웹 개발자의 10가지 흔한 실수 [번역]](https://code.tutsplus.com/ko/articles/10-common-web-developer-mistakes--cms-24791)
+- [프로그래머는 몇 살까지 할 수 있나](https://m.blog.naver.com/birdparang/221525024009)
+- [최신 브라우저의 내부 살펴보기 4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
+- [c++, java등을 이용한 간단한 프로젝트들 [영문]](https://www.geeksforgeeks.org/computer-science-projects/)
+
+
 #### 2019년 4월 29일 월요일
--
--
+- [생애 첫 Heap 메모리 분석기 (feat. Eclipse MAT)](https://perfectacle.github.io/2019/04/28/heap-memory-analytics-with-eclipse-mat/)
+- [마이크로서비스 아키텍처(MSA) - 기본적인 개념과 우버적용 사례](https://brunch.co.kr/@yesjun/2)
+- [4년을 기다린 인프런 리뉴얼 후기](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88)
 
 
 #### 2019년 4월 28일 일요일
