@@ -65,11 +65,6 @@
 - [c++, java등을 이용한 간단한 프로젝트들 [영문]](https://www.geeksforgeeks.org/computer-science-projects/)
 
 
-#### 2019년 4월 29일 월요일
-- [생애 첫 Heap 메모리 분석기 (feat. Eclipse MAT)](https://perfectacle.github.io/2019/04/28/heap-memory-analytics-with-eclipse-mat/)
-- [마이크로서비스 아키텍처(MSA) - 기본적인 개념과 우버적용 사례](https://brunch.co.kr/@yesjun/2)
-- [4년을 기다린 인프런 리뉴얼 후기](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88)
-
 
 --------------------------------------
 </br>
@@ -172,6 +167,7 @@
 - [객체 지향 개발 5대 원리](http://www.nextree.co.kr/p6960/)
 - [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
 - [문서화에 대해 아무도 말해주지 않은 것들](http://blog.weirdx.io/post/60414)
+- [4년을 기다린 인프런 리뉴얼 후기](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88)
 
 --------------------------------------
 
@@ -573,6 +569,9 @@
 - [서버리스 아키텍쳐 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture/)
 - [웹서버 개발의 Session 전략](https://devhaks.github.io/2019/04/20/session-strategy/)
 - [Kubernetes 03 – Kubernetes Cluster on AWS with kops](https://blog.2dal.com/2019/04/24/kubernetes-03-kubernetes-cluster-on-aws-with-kops/)
+- [마이크로서비스 아키텍처(MSA) - 기본적인 개념과 우버적용 사례 [번역]](https://brunch.co.kr/@yesjun/2)
+
+
 --------------------------------------
 
 ### 데이터베이스 & SQL
