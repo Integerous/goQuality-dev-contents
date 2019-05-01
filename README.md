@@ -47,9 +47,15 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 5월 2일 목요일
+-
+-
+
+
 #### 2019년 5월 1일 수요일
--
--
+- [JUnit 5 매개변수 테스트](https://ntalbs.github.io/2019/junit5-parameterized-test/)
+- [따라가지 않으면, 도태되는 걸까?](https://brunch.co.kr/@pronist/6)
+- [[AWS Heroes 특집] 클라우드 전문가가 되는 6가지 방법](http://me2.do/xQAQECEM)
 
 
 #### 2019년 4월 30일 화요일
