@@ -51,21 +51,6 @@
 -
 -
 
-
-#### 2019년 5월 1일 수요일
-- [JUnit 5 매개변수 테스트](https://ntalbs.github.io/2019/junit5-parameterized-test/)
-- [따라가지 않으면, 도태되는 걸까?](https://brunch.co.kr/@pronist/6)
-- [[AWS Heroes 특집] 클라우드 전문가가 되는 6가지 방법](http://me2.do/xQAQECEM)
-
-
-#### 2019년 4월 30일 화요일
-- [웹 개발자의 10가지 흔한 실수 [번역]](https://code.tutsplus.com/ko/articles/10-common-web-developer-mistakes--cms-24791)
-- [프로그래머는 몇 살까지 할 수 있나](https://m.blog.naver.com/birdparang/221525024009)
-- [최신 브라우저의 내부 살펴보기 4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
-- [c++, java등을 이용한 간단한 프로젝트들 [영문]](https://www.geeksforgeeks.org/computer-science-projects/)
-
-
-
 --------------------------------------
 </br>
 </br>
@@ -236,6 +221,7 @@
 - [40대 후반 개발자의 고민에 대하여](https://brunch.co.kr/@nashorn74/18)
 - [2019년 업데이트 - 내 마음대로 선정한 개발자/프로그래머 추천도서(필독서) 50선](https://www.sangkon.com/2018/08/27/good_books_for_dev_2018/)
 - [싱가폴에서 일하는 데이터 엔지니어 이야기](https://brunch.co.kr/@imagineer/314)
+- [프로그래머는 몇 살까지 할 수 있나](https://m.blog.naver.com/birdparang/221525024009)
 
 --------------------------------------
 
@@ -430,6 +416,7 @@
 - [서블릿 컨테이너와 스프링 컨테이너](https://minwan1.github.io/2017/10/08/2017-10-08-Spring-Container,Servlet-Container/)
 - [Spring Boot - Logging, 20분 정리](https://www.sangkon.com/2019/03/18/hands-on-springboot-logging/)
 - [자바에서 null을 안전하게 다루는 방법 [슬라이드]](https://www.slideshare.net/mobile/gyumee/null-142590829)
+- [JUnit 5 매개변수 테스트](https://ntalbs.github.io/2019/junit5-parameterized-test/)
 
 --------------------------------------
 
@@ -825,6 +812,7 @@
 - [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 part 1](https://joshua1988.github.io/web-development/http-part1/)
 - [Websocket 실시간 개발하기](https://brunch.co.kr/@adrenalinee31/2)
 - [HTTPS는 어떻게 다를까?](https://parksb.github.io/article/24.html)
+- [최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처 [번역]](https://d2.naver.com/helloworld/2922312)
 
 --------------------------------------
 
