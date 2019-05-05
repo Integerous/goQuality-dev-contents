@@ -47,9 +47,33 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 5월 6일 월요일
+-
+-
+
+
+#### 2019년 5월 5일 일요일
+- [Builder 기반으로 객체를 안전하게 생성하는 방법](https://github.com/cheese10yun/blog-sample/tree/master/ddd)
+- [Entity, DTO, 그 사이의 ModelMapper 이야기](https://yonguri.tistory.com/m/entry/Entity-DTO-%EA%B7%B8-%EC%82%AC%EC%9D%B4%EC%9D%98-ModelMapper-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+- [스프링 학습 가이드](https://umanking.github.io/2019/05/05/spring-guide/)
+- [프로토콜 버퍼 스타일 가이드](https://lelecoder.tistory.com/15)
+- [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
+- [OAuth 정리](https://jungle.kim/2018/04/21/oauth/)
+
+
+#### 2019년 5월 4일 토요일
+- [무엇을 만들어야할지 고민일 때](https://github.com/florinpop17/app-ideas)
+- [Swift 예제로 구성된 GRASP 원칙](https://medium.com/@codesquad_yoda/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%EC%99%80-grasp-%ED%8C%A8%ED%84%B4-d5e37a1bb5dc)
+
+
 #### 2019년 5월 2일 목요일
--
--
+- [마틴 파울러가 설명하는 마이크로서비스 [번역]](http://channy.creation.net/articles/microservices-by-james_lewes-martin_fowler)
+- [완벽한 Mac 작업환경 세팅하기 (vim, zsh, iterm)](https://blog.pigno.se/post/184576332493/%EC%99%84%EB%B2%BD%ED%95%9C-mac-%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-vim-zsh-iterm)
+- [소프트웨어 아키텍처에 대해 알아보기](https://brunch.co.kr/@mobiinside/1514)
+- [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code/)
+
+
+
 
 --------------------------------------
 </br>
