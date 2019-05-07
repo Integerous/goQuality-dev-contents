@@ -47,36 +47,18 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 5월 8일 수요일
+-
+-
+
+
 #### 2019년 5월 7일 화요일
 - [JavaScript 바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자](https://moonformeli.tistory.com/28)
+
 
 #### 2019년 5월 6일 월요일
 -
 -
-
-
-#### 2019년 5월 5일 일요일
-- [Builder 기반으로 객체를 안전하게 생성하는 방법](https://github.com/cheese10yun/blog-sample/tree/master/ddd)
-- [Entity, DTO, 그 사이의 ModelMapper 이야기](https://yonguri.tistory.com/m/entry/Entity-DTO-%EA%B7%B8-%EC%82%AC%EC%9D%B4%EC%9D%98-ModelMapper-%EC%9D%B4%EC%95%BC%EA%B8%B0)
-- [스프링 학습 가이드](https://umanking.github.io/2019/05/05/spring-guide/)
-- [프로토콜 버퍼 스타일 가이드](https://lelecoder.tistory.com/15)
-- [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
-- [OAuth 정리](https://jungle.kim/2018/04/21/oauth/)
-
-
-#### 2019년 5월 4일 토요일
-- [무엇을 만들어야할지 고민일 때](https://github.com/florinpop17/app-ideas)
-- [Swift 예제로 구성된 GRASP 원칙](https://medium.com/@codesquad_yoda/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%EC%99%80-grasp-%ED%8C%A8%ED%84%B4-d5e37a1bb5dc)
-
-
-#### 2019년 5월 2일 목요일
-- [마틴 파울러가 설명하는 마이크로서비스 [번역]](http://channy.creation.net/articles/microservices-by-james_lewes-martin_fowler)
-- [완벽한 Mac 작업환경 세팅하기 (vim, zsh, iterm)](https://blog.pigno.se/post/184576332493/%EC%99%84%EB%B2%BD%ED%95%9C-mac-%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-vim-zsh-iterm)
-- [소프트웨어 아키텍처에 대해 알아보기](https://brunch.co.kr/@mobiinside/1514)
-- [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code/)
-
-
-
 
 --------------------------------------
 </br>
@@ -180,6 +162,7 @@
 - [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
 - [문서화에 대해 아무도 말해주지 않은 것들](http://blog.weirdx.io/post/60414)
 - [4년을 기다린 인프런 리뉴얼 후기](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88)
+- [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code/)
 
 --------------------------------------
 
@@ -444,6 +427,8 @@
 - [Spring Boot - Logging, 20분 정리](https://www.sangkon.com/2019/03/18/hands-on-springboot-logging/)
 - [자바에서 null을 안전하게 다루는 방법 [슬라이드]](https://www.slideshare.net/mobile/gyumee/null-142590829)
 - [JUnit 5 매개변수 테스트](https://ntalbs.github.io/2019/junit5-parameterized-test/)
+- [Builder 기반으로 객체를 안전하게 생성하는 방법](https://github.com/cheese10yun/blog-sample/tree/master/ddd)
+- [Entity, DTO, 그 사이의 ModelMapper 이야기](https://yonguri.tistory.com/m/entry/Entity-DTO-%EA%B7%B8-%EC%82%AC%EC%9D%B4%EC%9D%98-ModelMapper-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 
 --------------------------------------
 
@@ -584,7 +569,7 @@
 - [웹서버 개발의 Session 전략](https://devhaks.github.io/2019/04/20/session-strategy/)
 - [Kubernetes 03 – Kubernetes Cluster on AWS with kops](https://blog.2dal.com/2019/04/24/kubernetes-03-kubernetes-cluster-on-aws-with-kops/)
 - [마이크로서비스 아키텍처(MSA) - 기본적인 개념과 우버적용 사례 [번역]](https://brunch.co.kr/@yesjun/2)
-
+- [마틴 파울러가 설명하는 마이크로서비스 [번역]](http://channy.creation.net/articles/microservices-by-james_lewes-martin_fowler)
 
 --------------------------------------
 
@@ -840,6 +825,8 @@
 - [Websocket 실시간 개발하기](https://brunch.co.kr/@adrenalinee31/2)
 - [HTTPS는 어떻게 다를까?](https://parksb.github.io/article/24.html)
 - [최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처 [번역]](https://d2.naver.com/helloworld/2922312)
+- [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
+- [OAuth 정리](https://jungle.kim/2018/04/21/oauth/)
 
 --------------------------------------
 
@@ -992,6 +979,7 @@
 - [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)
 - [이메일 주소 형식 검증하기](https://johngrib.github.io/wiki/email-validation/)
 - [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide?sfns=1)
+- [완벽한 Mac 작업환경 세팅하기 (vim, zsh, iterm)](https://blog.pigno.se/post/184576332493/%EC%99%84%EB%B2%BD%ED%95%9C-mac-%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-vim-zsh-iterm)
 
 ### 에러 발생한 컨텐츠들
 >이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
