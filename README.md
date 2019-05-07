@@ -54,11 +54,17 @@
 
 #### 2019년 5월 7일 화요일
 - [JavaScript 바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자](https://moonformeli.tistory.com/28)
+- [Spring Guide - Domain 객체 가이드](https://www.popit.kr/spring-guide-domain-객체-가이드/?utm_source=dable)
+- ["마이크로서비스는 답이 아니었다" 세그먼트가 모놀리틱으로 돌아온 이유](http://www.ciokorea.com/news/39258)
+- [gc log 분석 시각화 무료 사이트 추천](https://blog.voidmainvoid.net/213)
+- [JPA를 대체할 수 있는 것들 [영상]](https://youtu.be/2zQdmC0vnFU)
+- [언어를 배우고 싶을 때 프로젝트를 기반으로 학습하기](https://github.com/tuvtran/project-based-learning)
 
 
 #### 2019년 5월 6일 월요일
--
--
+- [운영체제 개념정리](https://brunch.co.kr/@toughrogrammer/15)
+- [Spring HandlerMethodArgumentResolver 인터페이스](https://lelecoder.tistory.com/107)
+
 
 --------------------------------------
 </br>
