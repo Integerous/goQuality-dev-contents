@@ -47,9 +47,17 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 5월 9일 목요일
+-
+-
+
+
 #### 2019년 5월 8일 수요일
--
--
+- [개발자의 실력 vs 학력](https://brunch.co.kr/@mystoryg/66)
+- [API 용어 정의](https://steemit.com/kr/@yahweh87/it-api)
+- [(JVM) Garbage Collection Basic](https://perfectacle.github.io/2019/05/07/jvm-gc-basic/)
+- [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
+- [REST API 가이드](https://umanking.github.io/2019/04/20/rest-api/)
 
 
 #### 2019년 5월 7일 화요일
