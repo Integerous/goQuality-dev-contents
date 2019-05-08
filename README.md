@@ -69,11 +69,6 @@
 - [언어를 배우고 싶을 때 프로젝트를 기반으로 학습하기](https://github.com/tuvtran/project-based-learning)
 
 
-#### 2019년 5월 6일 월요일
-- [운영체제 개념정리](https://brunch.co.kr/@toughrogrammer/15)
-- [Spring HandlerMethodArgumentResolver 인터페이스](https://lelecoder.tistory.com/107)
-
-
 --------------------------------------
 </br>
 </br>
@@ -632,6 +627,7 @@
 - [윈도우에서  WSL을 이용해서 Linux 사용하기](https://code.apptilus.com/posts/tools/windows-subsystem-linux#)
 - [101가지 Bash 명령어와 팁들 [영문]](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#first-commands)
 - [Linux에서 메모리를 다 써버렸을 때 일어나는 일 [번역]](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-linux%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A5%BC-%EB%8B%A4-%EC%8D%A8%EB%B2%84%EB%A0%B8%EC%9D%84-%EB%95%8C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC-9dadba29c89c)
+- [운영체제 개념정리](https://brunch.co.kr/@toughrogrammer/15)
 
 
 --------------------------------------
