@@ -51,24 +51,6 @@
 -
 -
 
-
-#### 2019년 5월 8일 수요일
-- [개발자의 실력 vs 학력](https://brunch.co.kr/@mystoryg/66)
-- [API 용어 정의](https://steemit.com/kr/@yahweh87/it-api)
-- [(JVM) Garbage Collection Basic](https://perfectacle.github.io/2019/05/07/jvm-gc-basic/)
-- [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
-- [REST API 가이드](https://umanking.github.io/2019/04/20/rest-api/)
-
-
-#### 2019년 5월 7일 화요일
-- [JavaScript 바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자](https://moonformeli.tistory.com/28)
-- [Spring Guide - Domain 객체 가이드](https://www.popit.kr/spring-guide-domain-객체-가이드/?utm_source=dable)
-- ["마이크로서비스는 답이 아니었다" 세그먼트가 모놀리틱으로 돌아온 이유](http://www.ciokorea.com/news/39258)
-- [gc log 분석 시각화 무료 사이트 추천](https://blog.voidmainvoid.net/213)
-- [JPA를 대체할 수 있는 것들 [영상]](https://youtu.be/2zQdmC0vnFU)
-- [언어를 배우고 싶을 때 프로젝트를 기반으로 학습하기](https://github.com/tuvtran/project-based-learning)
-
-
 --------------------------------------
 </br>
 </br>
@@ -241,6 +223,7 @@
 - [2019년 업데이트 - 내 마음대로 선정한 개발자/프로그래머 추천도서(필독서) 50선](https://www.sangkon.com/2018/08/27/good_books_for_dev_2018/)
 - [싱가폴에서 일하는 데이터 엔지니어 이야기](https://brunch.co.kr/@imagineer/314)
 - [프로그래머는 몇 살까지 할 수 있나](https://m.blog.naver.com/birdparang/221525024009)
+- [개발자의 실력 vs 학력](https://brunch.co.kr/@mystoryg/66)
 
 --------------------------------------
 
@@ -271,6 +254,7 @@
 - [개발자 직군 파헤치기 [번역]](https://medium.com/code-states/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%81%EA%B5%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-1-%ED%94%84%EB%A1%A0%ED%8A%B8-front-%EB%B0%B1-back-%ED%92%80%EC%8A%A4%ED%83%9D-full-stack-%EA%B0%9C%EB%B0%9C%EC%9E%90-f6c2f53e5b3b)
 - [3개월차 주니어 서버개발자가 느끼는 나와 시니어의 차이](https://zeniuus.github.io/2019/02/06/difference-between-junior-and-senior/)
 - [줌인터넷 신입사원 파일럿 프로젝트 후기](https://zuminternet.github.io/ZUM-Pilot-integer/)
+- [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
 
 --------------------------------------
 
@@ -438,6 +422,9 @@
 - [JUnit 5 매개변수 테스트](https://ntalbs.github.io/2019/junit5-parameterized-test/)
 - [Builder 기반으로 객체를 안전하게 생성하는 방법](https://github.com/cheese10yun/blog-sample/tree/master/ddd)
 - [Entity, DTO, 그 사이의 ModelMapper 이야기](https://yonguri.tistory.com/m/entry/Entity-DTO-%EA%B7%B8-%EC%82%AC%EC%9D%B4%EC%9D%98-ModelMapper-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+- [Spring Guide - Domain 객체 가이드](https://www.popit.kr/spring-guide-domain-객체-가이드/?utm_source=dable)
+- [JPA를 대체할 수 있는 것들 [영상]](https://youtu.be/2zQdmC0vnFU)
+- [(JVM) Garbage Collection Basic](https://perfectacle.github.io/2019/05/07/jvm-gc-basic/)
 
 --------------------------------------
 
@@ -579,6 +566,7 @@
 - [Kubernetes 03 – Kubernetes Cluster on AWS with kops](https://blog.2dal.com/2019/04/24/kubernetes-03-kubernetes-cluster-on-aws-with-kops/)
 - [마이크로서비스 아키텍처(MSA) - 기본적인 개념과 우버적용 사례 [번역]](https://brunch.co.kr/@yesjun/2)
 - [마틴 파울러가 설명하는 마이크로서비스 [번역]](http://channy.creation.net/articles/microservices-by-james_lewes-martin_fowler)
+- ["마이크로서비스는 답이 아니었다" 세그먼트가 모놀리틱으로 돌아온 이유](http://www.ciokorea.com/news/39258)
 
 --------------------------------------
 
@@ -735,6 +723,8 @@
 - [코드리뷰를 위한 좋은 코딩 - Javascript 편](https://amati.io/2019/04/18/good-coding-for-codereview-on-javascript/)
 - [Async & Await 사용한 동기식 자바스크립트 사용](https://blueshw.github.io/2018/02/27/async-await/)
 - [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
+- [JavaScript 바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자](https://moonformeli.tistory.com/28)
+
 
 --------------------------------------
 
