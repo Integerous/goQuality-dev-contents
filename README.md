@@ -47,9 +47,14 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 5월 10일 금요일
+- [GRASP 패턴](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8586826397)
+- [고급 Bash 스크립팅 가이드 [번역]](https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/)
+
 #### 2019년 5월 9일 목요일
--
--
+- [구글I/O 2019 정리 기사](https://n.news.naver.com/article/293/0000024070)
+- [Spring Web MVC 구조](https://dadadamarine.github.io/java/spring/spring-MVC-%EA%B5%AC%EC%A1%B0/#)
+
 
 --------------------------------------
 </br>
