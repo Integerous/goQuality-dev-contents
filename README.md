@@ -46,6 +46,13 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 5월 12일 일요일
+-
+-
+
+#### 2019년 5월 11일 토요일
+- [나는 그 동안 무엇으로 성장했을까?](http://huns.me/development/2281)
+- [넷플릭스의 문화 : 자유와 책임 [번역] [슬라이드]](https://www.slideshare.net/watchncompass/freedom-responsibility-culture)
 
 #### 2019년 5월 10일 금요일
 - [GRASP 패턴](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8586826397)
