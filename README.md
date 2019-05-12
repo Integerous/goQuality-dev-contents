@@ -46,9 +46,18 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 5월 13일 월요일
+-
+-
+
+
 #### 2019년 5월 12일 일요일
--
--
+- [평범한 개발자의 학습 요령](https://umanking.github.io/2019/05/09/developer-study/)
+- [브라우저 렌더링에 대한 내용 깔끔 정리](https://12bme.tistory.com/140)
+- [IntelliJ 디버깅 방법 정리](https://jojoldu.tistory.com/149)
+- [스프링캠프 2019 발표자료 - "무엇을 테스트할 것인가, 어떻게 테스트할 것인가"](https://www.slideshare.net/ssuser59a869/ksug-2019)
+- [구글 IO 키노트 총 정리](https://byline.network/2019/05/08-15/)
+
 
 #### 2019년 5월 11일 토요일
 - [나는 그 동안 무엇으로 성장했을까?](http://huns.me/development/2281)
