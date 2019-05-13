@@ -46,9 +46,18 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+
+#### 2019년 5월 14일 화요일
+-
+-
+
+
 #### 2019년 5월 13일 월요일
--
--
+- [자바, 성능, 모니터링 테크세미나 정리 및 후기 (by 우아한 형제들)](https://taetaetae.github.io/2019/05/12/got-of-java-seminar/)
+- [Google I/O 1일차 후기](https://medium.com/@extJo/google-i-o-day-1-1c247d519fbd)
+- [괜찮은 프론트 개발자 :나는 어떤 개발자가 될 것인가?](https://cresumerjang.github.io/2019/05/10/Frontend-Developer/)
+- [Google I/O 2일차 후기 :)](https://medium.com/@extJo/google-i-o-day-2-150dfe05eb71?source=friends_link&sk=fd9911425bd7e958ee266e0b0e0de68c)
+- [Red-Black Tree](https://zeddios.tistory.com/237
 
 
 #### 2019년 5월 12일 일요일
