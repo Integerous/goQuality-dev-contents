@@ -68,15 +68,6 @@
 - [구글 IO 키노트 총 정리](https://byline.network/2019/05/08-15/)
 
 
-#### 2019년 5월 11일 토요일
-- [나는 그 동안 무엇으로 성장했을까?](http://huns.me/development/2281)
-- [넷플릭스의 문화 : 자유와 책임 [번역] [슬라이드]](https://www.slideshare.net/watchncompass/freedom-responsibility-culture)
-
-
-#### 2019년 5월 10일 금요일
-- [GRASP 패턴](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8586826397)
-- [고급 Bash 스크립팅 가이드 [번역]](https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/)
-
 
 --------------------------------------
 </br>
@@ -181,6 +172,7 @@
 - [문서화에 대해 아무도 말해주지 않은 것들](http://blog.weirdx.io/post/60414)
 - [4년을 기다린 인프런 리뉴얼 후기](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88)
 - [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code/)
+- [넷플릭스의 문화 : 자유와 책임 [번역] [슬라이드]](https://www.slideshare.net/watchncompass/freedom-responsibility-culture)
 
 --------------------------------------
 
@@ -251,6 +243,7 @@
 - [싱가폴에서 일하는 데이터 엔지니어 이야기](https://brunch.co.kr/@imagineer/314)
 - [프로그래머는 몇 살까지 할 수 있나](https://m.blog.naver.com/birdparang/221525024009)
 - [개발자의 실력 vs 학력](https://brunch.co.kr/@mystoryg/66)
+- [나는 그 동안 무엇으로 성장했을까?](http://huns.me/development/2281)
 
 --------------------------------------
 
@@ -643,7 +636,7 @@
 - [101가지 Bash 명령어와 팁들 [영문]](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#first-commands)
 - [Linux에서 메모리를 다 써버렸을 때 일어나는 일 [번역]](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-linux%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A5%BC-%EB%8B%A4-%EC%8D%A8%EB%B2%84%EB%A0%B8%EC%9D%84-%EB%95%8C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC-9dadba29c89c)
 - [운영체제 개념정리](https://brunch.co.kr/@toughrogrammer/15)
-
+- [고급 Bash 스크립팅 가이드 [번역]](https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/)
 
 --------------------------------------
 
