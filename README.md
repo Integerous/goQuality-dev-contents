@@ -47,9 +47,15 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 5월 15일 수요일
+-
+-
+
+
 #### 2019년 5월 14일 화요일
--
--
+- [어떤 주니어 개발자의 이야기](https://medium.com/@codesquad_yoda/%EC%BD%94%EB%94%A9-%EC%96%B4%EB%96%A4-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-1d210f2f4dae)
+- [SSH를 비밀번호 대입으로 해킹하려면](https://gigglehd.com/gg/soft/4877153)
+- [아는만큼 보이는 search tree](https://hackerwins.github.io/2019-05-10/search-tree?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 
 
 #### 2019년 5월 13일 월요일
