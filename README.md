@@ -47,9 +47,17 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 5월 16일 목요일
+- [온라인 서점 API 만들기로 살펴보는 Spring Boot OOP](https://github.com/minwan1/online-book-store)
+- [마이크로 서비스 관련 글 총정리](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B4%80%EB%A0%A8-%EA%B8%80-%EC%B4%9D%EC%A0%95%EB%A6%AC/?fbclid=IwAR2QFsIkD1aUu7pxV2AAt2Awgd0meniEHMljWcMUaz2_9qX1TQbLGap3M6Y)
+
+
 #### 2019년 5월 15일 수요일
--
--
+- [깃허브 패키지 레지스트리 베타 발표](https://www.44bits.io/ko/post/news--announcing-github-package-registry)
+- [개발자 인터뷰에서 면접관에게 할 만한 질문 모음](https://gomcine.tistory.com/entry/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%9E%85%EC%82%AC%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EB%A9%B4%EC%A0%91%EA%B4%80%EC%97%90%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0-%EC%A7%88%EB%AC%B8)
+- [흔하지 않고 좋은 웹 개발자가 되는 방법 [번역]](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
+- [Google I/O day3 & 마무리 후기 입니다](https://medium.com/@extJo/google-i-o-day-3-%EB%A7%88%EB%AC%B4%EB%A6%AC-15beacb54dcd)
+- [만들면서 배우는 AWS VPC 입문 - 아마존 웹 서비스 네트워크의 기초](https://www.44bits.io/ko/post/understanding_aws_vpc)
 
 
 #### 2019년 5월 14일 화요일
