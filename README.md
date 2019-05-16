@@ -47,6 +47,11 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 5월 17일 금요일
+-
+-
+
+
 #### 2019년 5월 16일 목요일
 - [온라인 서점 API 만들기로 살펴보는 Spring Boot OOP](https://github.com/minwan1/online-book-store)
 - [마이크로 서비스 관련 글 총정리](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B4%80%EB%A0%A8-%EA%B8%80-%EC%B4%9D%EC%A0%95%EB%A6%AC/?fbclid=IwAR2QFsIkD1aUu7pxV2AAt2Awgd0meniEHMljWcMUaz2_9qX1TQbLGap3M6Y)
@@ -58,29 +63,6 @@
 - [흔하지 않고 좋은 웹 개발자가 되는 방법 [번역]](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
 - [Google I/O day3 & 마무리 후기 입니다](https://medium.com/@extJo/google-i-o-day-3-%EB%A7%88%EB%AC%B4%EB%A6%AC-15beacb54dcd)
 - [만들면서 배우는 AWS VPC 입문 - 아마존 웹 서비스 네트워크의 기초](https://www.44bits.io/ko/post/understanding_aws_vpc)
-
-
-#### 2019년 5월 14일 화요일
-- [어떤 주니어 개발자의 이야기](https://medium.com/@codesquad_yoda/%EC%BD%94%EB%94%A9-%EC%96%B4%EB%96%A4-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-1d210f2f4dae)
-- [SSH를 비밀번호 대입으로 해킹하려면](https://gigglehd.com/gg/soft/4877153)
-- [아는만큼 보이는 search tree](https://hackerwins.github.io/2019-05-10/search-tree?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
-
-
-#### 2019년 5월 13일 월요일
-- [자바, 성능, 모니터링 테크세미나 정리 및 후기 (by 우아한 형제들)](https://taetaetae.github.io/2019/05/12/got-of-java-seminar/)
-- [Google I/O 1일차 후기](https://medium.com/@extJo/google-i-o-day-1-1c247d519fbd)
-- [괜찮은 프론트 개발자 :나는 어떤 개발자가 될 것인가?](https://cresumerjang.github.io/2019/05/10/Frontend-Developer/)
-- [Google I/O 2일차 후기 :)](https://medium.com/@extJo/google-i-o-day-2-150dfe05eb71?source=friends_link&sk=fd9911425bd7e958ee266e0b0e0de68c)
-- [Red-Black Tree](https://zeddios.tistory.com/237
-
-
-#### 2019년 5월 12일 일요일
-- [평범한 개발자의 학습 요령](https://umanking.github.io/2019/05/09/developer-study/)
-- [브라우저 렌더링에 대한 내용 깔끔 정리](https://12bme.tistory.com/140)
-- [IntelliJ 디버깅 방법 정리](https://jojoldu.tistory.com/149)
-- [스프링캠프 2019 발표자료 - "무엇을 테스트할 것인가, 어떻게 테스트할 것인가"](https://www.slideshare.net/ssuser59a869/ksug-2019)
-- [구글 IO 키노트 총 정리](https://byline.network/2019/05/08-15/)
-
 
 
 --------------------------------------
@@ -258,6 +240,8 @@
 - [프로그래머는 몇 살까지 할 수 있나](https://m.blog.naver.com/birdparang/221525024009)
 - [개발자의 실력 vs 학력](https://brunch.co.kr/@mystoryg/66)
 - [나는 그 동안 무엇으로 성장했을까?](http://huns.me/development/2281)
+- [괜찮은 프론트 개발자 :나는 어떤 개발자가 될 것인가?](https://cresumerjang.github.io/2019/05/10/Frontend-Developer/)
+
 
 --------------------------------------
 
@@ -289,6 +273,8 @@
 - [3개월차 주니어 서버개발자가 느끼는 나와 시니어의 차이](https://zeniuus.github.io/2019/02/06/difference-between-junior-and-senior/)
 - [줌인터넷 신입사원 파일럿 프로젝트 후기](https://zuminternet.github.io/ZUM-Pilot-integer/)
 - [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
+- [어떤 주니어 개발자의 이야기](https://medium.com/@codesquad_yoda/%EC%BD%94%EB%94%A9-%EC%96%B4%EB%96%A4-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-1d210f2f4dae)
+
 
 --------------------------------------
 
@@ -312,7 +298,8 @@
 - [GDG DevFest Seoul 2018 발표자료 모음](https://devfest-seoul18.gdg.kr/timetable)
 - [2018 마소콘 발표자료 모음](https://www.imaso.co.kr/archives/4510)
 - [Spring Camp 2018 영상 모음](https://www.youtube.com/playlist?list=PLdHtZnJh1KdZnswQEyrn5VKxAXluSlWJc)
-- [구글I/O 2019 정리 기사](https://n.news.naver.com/article/293/0000024070)
+- [구글 I/O 2019 정리 기사](https://n.news.naver.com/article/293/0000024070)
+- [구글 I/O 2019 키노트 총 정리](https://byline.network/2019/05/08-15/)
 
 --------------------------------------
 
@@ -459,6 +446,9 @@
 - [Spring Guide - Domain 객체 가이드](https://www.popit.kr/spring-guide-domain-객체-가이드/?utm_source=dable)
 - [JPA를 대체할 수 있는 것들 [영상]](https://youtu.be/2zQdmC0vnFU)
 - [(JVM) Garbage Collection Basic](https://perfectacle.github.io/2019/05/07/jvm-gc-basic/)
+- [IntelliJ 디버깅 방법 정리](https://jojoldu.tistory.com/149)
+- [자바, 성능, 모니터링 테크세미나 정리 및 후기 (by 우아한 형제들)](https://taetaetae.github.io/2019/05/12/got-of-java-seminar/)
+
 
 --------------------------------------
 
@@ -861,6 +851,7 @@
 - [최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처 [번역]](https://d2.naver.com/helloworld/2922312)
 - [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
 - [OAuth 정리](https://jungle.kim/2018/04/21/oauth/)
+- [브라우저 렌더링에 대한 내용 깔끔 정리](https://12bme.tistory.com/140)
 
 --------------------------------------
 
@@ -924,6 +915,7 @@
 - [알고리즘 학습에 대한 조언 [번역]](http://blog.weirdx.io/post/55358?fbclid=IwAR0Y8oCmcFoTHZrMwVSwFWHsQBGuhJkje89pDENK2c0g5BuhwGKLPtc5ylQ)
 - [정렬 알고리즘 간단 정리](https://link.medium.com/SdPjEJaHvT)
 - [알고리즘 기반별 정리](https://brunch.co.kr/@toughrogrammer/13)
+- [Red-Black Tree](https://zeddios.tistory.com/237)
 
 --------------------------------------
 
@@ -931,6 +923,8 @@
 - [비밀번호 해시에 소금치기(salting)](http://bit.ly/2A5ql94)
 - [패스워드 암호화 방법 총정리](http://bit.ly/2OYnCa0)
 - [안전한 SSL/TLS를 운영하기 위해 알아야하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
+- [SSH를 비밀번호 대입으로 해킹하려면](https://gigglehd.com/gg/soft/4877153)
+
 
 --------------------------------------
 
