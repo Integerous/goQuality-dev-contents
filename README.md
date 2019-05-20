@@ -47,9 +47,29 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 5월 21일 화요일
+-
+-
+
+
+#### 2019년 5월 20일 월요일
+- [주니어의 짝코딩 경험기](https://velog.io/@troflev/%EC%A3%BC%EB%8B%88%EC%96%B4%EC%9D%98-%EC%A7%9D%EC%BD%94%EB%94%A9-%EA%B2%BD%ED%97%98%EA%B8%B0-7njvfeief5)
+- [Jedis 보다 Lettuce를 쓰자](https://jojoldu.tistory.com/418)
+
+
+#### 2019년 5월 19일 일요일
+- [대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/mobile/charsyam2/massive-service-basic)
+- [대규모 서비스를 지탱하는 기술 - 중급편](https://www.slideshare.net/mobile/charsyam2/how-to-build-massive-service-for-advance)
+
+
+#### 2019년 5월 18일 토요일
+- [성능이 중요한 이유 [번역]](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+- [서비스의 분위기를 바꿀 수 있는, 무료 일러스트 모음 ‘OUCH!’](http://icunow.co.kr/ouch/)
+
+
 #### 2019년 5월 17일 금요일
--
--
+- [자바 checked Exception 가이드](https://github.com/cheese10yun/blog-sample/blob/master/exception/README.md)
+- [신입 개발자가 스타트업에서 AWS로 살아남는 이야기 - 조용진(모두의 캠퍼스)](https://youtu.be/r6TFnNQsQLY)
 
 
 --------------------------------------
