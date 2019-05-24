@@ -47,29 +47,30 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+
+#### 2019년 5월 25일 토요일
+-
+-
+
+
+#### 2019년 5월 24일 금요일
+-
+-
+
+
+#### 2019년 5월 23일 목요일
+-
+-
+
+
+#### 2019년 5월 22일 수요일
+-
+-
+
+
 #### 2019년 5월 21일 화요일
 -
 -
-
-
-#### 2019년 5월 20일 월요일
-- [주니어의 짝코딩 경험기](https://velog.io/@troflev/%EC%A3%BC%EB%8B%88%EC%96%B4%EC%9D%98-%EC%A7%9D%EC%BD%94%EB%94%A9-%EA%B2%BD%ED%97%98%EA%B8%B0-7njvfeief5)
-- [Jedis 보다 Lettuce를 쓰자](https://jojoldu.tistory.com/418)
-
-
-#### 2019년 5월 19일 일요일
-- [대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/mobile/charsyam2/massive-service-basic)
-- [대규모 서비스를 지탱하는 기술 - 중급편](https://www.slideshare.net/mobile/charsyam2/how-to-build-massive-service-for-advance)
-
-
-#### 2019년 5월 18일 토요일
-- [성능이 중요한 이유 [번역]](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
-- [서비스의 분위기를 바꿀 수 있는, 무료 일러스트 모음 ‘OUCH!’](http://icunow.co.kr/ouch/)
-
-
-#### 2019년 5월 17일 금요일
-- [자바 checked Exception 가이드](https://github.com/cheese10yun/blog-sample/blob/master/exception/README.md)
-- [신입 개발자가 스타트업에서 AWS로 살아남는 이야기 - 조용진(모두의 캠퍼스)](https://youtu.be/r6TFnNQsQLY)
 
 
 --------------------------------------
@@ -176,6 +177,8 @@
 - [4년을 기다린 인프런 리뉴얼 후기](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88)
 - [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code/)
 - [넷플릭스의 문화 : 자유와 책임 [번역] [슬라이드]](https://www.slideshare.net/watchncompass/freedom-responsibility-culture)
+- [주니어의 짝코딩 경험기](https://velog.io/@troflev/%EC%A3%BC%EB%8B%88%EC%96%B4%EC%9D%98-%EC%A7%9D%EC%BD%94%EB%94%A9-%EA%B2%BD%ED%97%98%EA%B8%B0-7njvfeief5)
+
 
 --------------------------------------
 
@@ -457,6 +460,7 @@
 - [IntelliJ 디버깅 방법 정리](https://jojoldu.tistory.com/149)
 - [자바, 성능, 모니터링 테크세미나 정리 및 후기 (by 우아한 형제들)](https://taetaetae.github.io/2019/05/12/got-of-java-seminar/)
 - [온라인 서점 API 만들기로 살펴보는 Spring Boot OOP](https://github.com/minwan1/online-book-store)
+- [자바 checked Exception 가이드](https://github.com/cheese10yun/blog-sample/blob/master/exception/README.md)
 
 --------------------------------------
 
@@ -601,6 +605,11 @@
 - ["마이크로서비스는 답이 아니었다" 세그먼트가 모놀리틱으로 돌아온 이유](http://www.ciokorea.com/news/39258)
 - [만들면서 배우는 AWS VPC 입문 - 아마존 웹 서비스 네트워크의 기초](https://www.44bits.io/ko/post/understanding_aws_vpc)
 - [마이크로 서비스 관련 글 총정리](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B4%80%EB%A0%A8-%EA%B8%80-%EC%B4%9D%EC%A0%95%EB%A6%AC/)
+- [신입 개발자가 스타트업에서 AWS로 살아남는 이야기 - 조용진(모두의 캠퍼스)](https://youtu.be/r6TFnNQsQLY)
+- [대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/mobile/charsyam2/massive-service-basic)
+- [대규모 서비스를 지탱하는 기술 - 중급편](https://www.slideshare.net/mobile/charsyam2/how-to-build-massive-service-for-advance)
+- [Jedis 보다 Lettuce를 쓰자](https://jojoldu.tistory.com/418)
+
 
 --------------------------------------
 
@@ -1018,6 +1027,8 @@
 - [이메일 주소 형식 검증하기](https://johngrib.github.io/wiki/email-validation/)
 - [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide?sfns=1)
 - [완벽한 Mac 작업환경 세팅하기 (vim, zsh, iterm)](https://blog.pigno.se/post/184576332493/%EC%99%84%EB%B2%BD%ED%95%9C-mac-%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-vim-zsh-iterm)
+- [성능이 중요한 이유 [번역]](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+
 
 ### 에러 발생한 컨텐츠들
 >이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
