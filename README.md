@@ -54,23 +54,24 @@
 
 
 #### 2019년 5월 24일 금요일
--
--
-
+- [블록체인 개발사 면접 오픈북과 지원자의 답변 공유](https://okky.kr/article/583445)
+- [JVM memory leak 찾아 해결하기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
 
 #### 2019년 5월 23일 목요일
--
--
+- [Vim, 두 가지 관점](https://johngrib.github.io/wiki/two-views-of-vim/)
+- [신입 개발자 취업 도전기](https://www.slideshare.net/ssuser565d51/ss-61448739)
 
 
 #### 2019년 5월 22일 수요일
--
--
+- [SQL joins visualizer](https://sql-joins.leopard.in.ua/)
 
 
 #### 2019년 5월 21일 화요일
--
--
+- [쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
+- [개발자들이 이름짓기 할때 참고하면 좋은 WordVis](http://wordvis.com/)
+- [변수명 지을때 참고하면 좋은 사이트](https://www.curioustore.com/)
+- [SI 탈출 가이드](http://blog.hwang.gg/20190508/?fbclid=IwAR0taRl7e5kBDfj4GsqGDdSrhGTW8xlhSgWUYf_0X8SsUS9hAIP11scMvBE)
+- [좋은 로그란 무엇인가? [슬라이드]](https://speakerdeck.com/devinjeon/jamag-ndc19-joheun-rogeuran-mueosinga-joheun-rogeureul-wihae-goryeohaeya-hal-geosdeul)
 
 
 --------------------------------------
