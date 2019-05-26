@@ -46,32 +46,18 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-
-
-#### 2019년 5월 25일 토요일
+#### 2019년 5월 27일 월요일
 -
 -
+
+#### 2019년 5월 26일 일요일
+- [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code/)
 
 
 #### 2019년 5월 24일 금요일
 - [블록체인 개발사 면접 오픈북과 지원자의 답변 공유](https://okky.kr/article/583445)
 - [JVM memory leak 찾아 해결하기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
 
-#### 2019년 5월 23일 목요일
-- [Vim, 두 가지 관점](https://johngrib.github.io/wiki/two-views-of-vim/)
-- [신입 개발자 취업 도전기](https://www.slideshare.net/ssuser565d51/ss-61448739)
-
-
-#### 2019년 5월 22일 수요일
-- [SQL joins visualizer](https://sql-joins.leopard.in.ua/)
-
-
-#### 2019년 5월 21일 화요일
-- [쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
-- [개발자들이 이름짓기 할때 참고하면 좋은 WordVis](http://wordvis.com/)
-- [변수명 지을때 참고하면 좋은 사이트](https://www.curioustore.com/)
-- [SI 탈출 가이드](http://blog.hwang.gg/20190508/?fbclid=IwAR0taRl7e5kBDfj4GsqGDdSrhGTW8xlhSgWUYf_0X8SsUS9hAIP11scMvBE)
-- [좋은 로그란 무엇인가? [슬라이드]](https://speakerdeck.com/devinjeon/jamag-ndc19-joheun-rogeuran-mueosinga-joheun-rogeureul-wihae-goryeohaeya-hal-geosdeul)
 
 
 --------------------------------------
@@ -610,6 +596,8 @@
 - [대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/mobile/charsyam2/massive-service-basic)
 - [대규모 서비스를 지탱하는 기술 - 중급편](https://www.slideshare.net/mobile/charsyam2/how-to-build-massive-service-for-advance)
 - [Jedis 보다 Lettuce를 쓰자](https://jojoldu.tistory.com/418)
+- [쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
+
 
 
 --------------------------------------
@@ -640,6 +628,8 @@
 - [Ubuntu 에서 실행중인 MySQL을 Docker Container 내부의 MySQL로 마이그레이션 하기](https://medium.com/@jihasong/ubuntu-%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EC%A4%91%EC%9D%B8-mysql%EC%9D%84-docker-container-%EB%82%B4%EB%B6%80%EC%9D%98-mysql%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-e97d6243b0cf)
 - [Apache ShardingSphere를 이용한 DB Sharding](https://blog.naver.com/PostView.nhn?blogId=asei&logNo=221511101848&proxyReferer=http%3A%2F%2Fm.facebook.com)
 - [MySQL Ascending index vs Descending index](http://tech.kakao.com/2018/06/19/AscendingAndDescendingIndex/?sfns=1)
+- [SQL joins visualizer](https://sql-joins.leopard.in.ua/)
+
 
 --------------------------------------
 
@@ -1029,6 +1019,10 @@
 - [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide?sfns=1)
 - [완벽한 Mac 작업환경 세팅하기 (vim, zsh, iterm)](https://blog.pigno.se/post/184576332493/%EC%99%84%EB%B2%BD%ED%95%9C-mac-%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-vim-zsh-iterm)
 - [성능이 중요한 이유 [번역]](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+- [좋은 로그란 무엇인가? [슬라이드]](https://speakerdeck.com/devinjeon/jamag-ndc19-joheun-rogeuran-mueosinga-joheun-rogeureul-wihae-goryeohaeya-hal-geosdeul)
+- [변수명 지을때 참고하면 좋은 사이트](https://www.curioustore.com/)
+- [개발자들이 이름짓기 할때 참고하면 좋은 WordVis](http://wordvis.com/)
+- [Vim, 두 가지 관점](https://johngrib.github.io/wiki/two-views-of-vim/)
 
 
 ### 에러 발생한 컨텐츠들
