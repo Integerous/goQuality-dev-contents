@@ -46,9 +46,25 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 5월 30일 목요일
+-
+-
+
+
+#### 2019년 5월 29일 수요일
+- [타다 클라이언트 개발기](http://engineering.vcnc.co.kr/2019/05/tada-client-development/)
+- [자바 - 람다, 함수형 인터페이스 정리](http://tcpschool.com/java/java_lambda_concept)
+- [레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/)
+
+
+#### 2019년 5월 28일 화요일
+- [스크롤과 관련된 CSS 속성 3가지](https://taegon.kim/archives/9807)
+- [Vim 도대체 왜 쓰는가](https://bengi.kr/1349)
+
+
 #### 2019년 5월 27일 월요일
--
--
+- [대기업 IT직군 코딩테스트 합격을 위한 현실적이고 직관적인 공부 순서 [영상]](https://www.youtube.com/watch?v=ukkLCl9yBvE)
+- [빠른 개발을 위한 기술 1편 [번역]](https://rinae.dev/posts/the-fine-art-of-fast-development-kr-1)
 
 
 
