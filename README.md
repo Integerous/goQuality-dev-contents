@@ -50,14 +50,6 @@
 -
 -
 
-#### 2019년 5월 26일 일요일
-- [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code/)
-
-
-#### 2019년 5월 24일 금요일
-- [블록체인 개발사 면접 오픈북과 지원자의 답변 공유](https://okky.kr/article/583445)
-- [JVM memory leak 찾아 해결하기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
-
 
 
 --------------------------------------
@@ -345,6 +337,9 @@
 - [코딩 인터뷰에서 Golang을 사용해야하는 이유 [번역]](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0%EC%97%90%EC%84%9C-golang%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8b638ab33068)
 - [블록체인 개발자 면접 오픈북](https://hamait.tistory.com/m/1054)
 - [개발자 인터뷰에서 면접관에게 할 만한 질문 모음](https://gomcine.tistory.com/entry/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%9E%85%EC%82%AC%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EB%A9%B4%EC%A0%91%EA%B4%80%EC%97%90%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0-%EC%A7%88%EB%AC%B8)
+- [블록체인 개발사 면접 오픈북과 지원자의 답변 공유](https://okky.kr/article/583445)
+
+
 --------------------------------------
 </br>
 </br>
@@ -448,6 +443,8 @@
 - [자바, 성능, 모니터링 테크세미나 정리 및 후기 (by 우아한 형제들)](https://taetaetae.github.io/2019/05/12/got-of-java-seminar/)
 - [온라인 서점 API 만들기로 살펴보는 Spring Boot OOP](https://github.com/minwan1/online-book-store)
 - [자바 checked Exception 가이드](https://github.com/cheese10yun/blog-sample/blob/master/exception/README.md)
+- [JVM memory leak 찾아 해결하기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
+
 
 --------------------------------------
 
@@ -1023,6 +1020,7 @@
 - [변수명 지을때 참고하면 좋은 사이트](https://www.curioustore.com/)
 - [개발자들이 이름짓기 할때 참고하면 좋은 WordVis](http://wordvis.com/)
 - [Vim, 두 가지 관점](https://johngrib.github.io/wiki/two-views-of-vim/)
+- [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code/)
 
 
 ### 에러 발생한 컨텐츠들
