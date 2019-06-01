@@ -46,9 +46,26 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 6월 2일 일요일
+-
+-
+
+
+#### 2019년 6월 1일 토요일
+- [내게 실용적이었던 프로그래밍 공부 방법들](https://velog.io/@city7310/%EB%82%B4%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D)
+- [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
+- [Google Docs 같은 실시간 협업 에디터를 만드는 방법](https://hackerwins.github.io/2019-04-16/co-editor)
+
+
+#### 2019년 5월 31일 금요일
+- [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
+- [자바 enum 활용하기](http://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
+
+
 #### 2019년 5월 30일 목요일
--
--
+- [쿠키, 세션, 캐시가 뭔가요?](https://youtu.be/OpoVuwxGRDI)
+- [개발을 잘하고 싶어요 - 네이버랩스 송기선님](https://www.slideshare.net/deview/ss-58739254)
+- [AWS로 사용자 천만 명 서비스 만들기 [슬라이드]](https://www.slideshare.net/awskorea/ct-2015-your-10million-users-on-aws-channy)
 
 
 #### 2019년 5월 29일 수요일
