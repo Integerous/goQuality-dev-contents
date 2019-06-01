@@ -62,29 +62,6 @@
 - [자바 enum 활용하기](http://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 
 
-#### 2019년 5월 30일 목요일
-- [쿠키, 세션, 캐시가 뭔가요?](https://youtu.be/OpoVuwxGRDI)
-- [개발을 잘하고 싶어요 - 네이버랩스 송기선님](https://www.slideshare.net/deview/ss-58739254)
-- [AWS로 사용자 천만 명 서비스 만들기 [슬라이드]](https://www.slideshare.net/awskorea/ct-2015-your-10million-users-on-aws-channy)
-
-
-#### 2019년 5월 29일 수요일
-- [타다 클라이언트 개발기](http://engineering.vcnc.co.kr/2019/05/tada-client-development/)
-- [자바 - 람다, 함수형 인터페이스 정리](http://tcpschool.com/java/java_lambda_concept)
-- [레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/)
-
-
-#### 2019년 5월 28일 화요일
-- [스크롤과 관련된 CSS 속성 3가지](https://taegon.kim/archives/9807)
-- [Vim 도대체 왜 쓰는가](https://bengi.kr/1349)
-
-
-#### 2019년 5월 27일 월요일
-- [대기업 IT직군 코딩테스트 합격을 위한 현실적이고 직관적인 공부 순서 [영상]](https://www.youtube.com/watch?v=ukkLCl9yBvE)
-- [빠른 개발을 위한 기술 1편 [번역]](https://rinae.dev/posts/the-fine-art-of-fast-development-kr-1)
-
-
-
 --------------------------------------
 </br>
 </br>
@@ -190,6 +167,8 @@
 - [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code/)
 - [넷플릭스의 문화 : 자유와 책임 [번역] [슬라이드]](https://www.slideshare.net/watchncompass/freedom-responsibility-culture)
 - [주니어의 짝코딩 경험기](https://velog.io/@troflev/%EC%A3%BC%EB%8B%88%EC%96%B4%EC%9D%98-%EC%A7%9D%EC%BD%94%EB%94%A9-%EA%B2%BD%ED%97%98%EA%B8%B0-7njvfeief5)
+- [빠른 개발을 위한 기술 1편 [번역]](https://rinae.dev/posts/the-fine-art-of-fast-development-kr-1)
+
 
 
 --------------------------------------
@@ -264,7 +243,7 @@
 - [나는 그 동안 무엇으로 성장했을까?](http://huns.me/development/2281)
 - [괜찮은 프론트 개발자 :나는 어떤 개발자가 될 것인가?](https://cresumerjang.github.io/2019/05/10/Frontend-Developer/)
 - [흔하지 않고 좋은 웹 개발자가 되는 방법 [번역]](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
-
+- [개발을 잘하고 싶어요 - 네이버랩스 송기선님](https://www.slideshare.net/deview/ss-58739254)
 
 --------------------------------------
 
@@ -371,7 +350,7 @@
 - [블록체인 개발자 면접 오픈북](https://hamait.tistory.com/m/1054)
 - [개발자 인터뷰에서 면접관에게 할 만한 질문 모음](https://gomcine.tistory.com/entry/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%9E%85%EC%82%AC%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EB%A9%B4%EC%A0%91%EA%B4%80%EC%97%90%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0-%EC%A7%88%EB%AC%B8)
 - [블록체인 개발사 면접 오픈북과 지원자의 답변 공유](https://okky.kr/article/583445)
-
+- [대기업 IT직군 코딩테스트 합격을 위한 현실적이고 직관적인 공부 순서 [영상]](https://www.youtube.com/watch?v=ukkLCl9yBvE)
 
 --------------------------------------
 </br>
@@ -627,8 +606,8 @@
 - [대규모 서비스를 지탱하는 기술 - 중급편](https://www.slideshare.net/mobile/charsyam2/how-to-build-massive-service-for-advance)
 - [Jedis 보다 Lettuce를 쓰자](https://jojoldu.tistory.com/418)
 - [쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
-
-
+- [레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/)
+- [AWS로 사용자 천만 명 서비스 만들기 [슬라이드]](https://www.slideshare.net/awskorea/ct-2015-your-10million-users-on-aws-channy)
 
 --------------------------------------
 
@@ -826,6 +805,8 @@
 - [2019 UX/UI 디자인 트렌드](https://brunch.co.kr/@usdlab/38?utm_medium=gaerae.com)
 - [웹폰트 경량화 - 폰트툴즈의 pyftsubset을 사용한 폰트 서브셋 만들기](https://www.44bits.io/ko/post/optimization_webfont_with_pyftsubnet)
 - [css, js로 position - sticky 구현 방법](https://moonformeli.tistory.com/24)
+- [스크롤과 관련된 CSS 속성 3가지](https://taegon.kim/archives/9807)
+
 
 --------------------------------------
 
@@ -841,6 +822,8 @@
 - [NAVER Tech Concert:Android 발표 영상 모음 [영상]](https://tv.naver.com/v/4409296/list/272653)
 - [Vue와 NativeScript로 네이티브 모바일 앱 만들기 [번역]](http://vuejs.kr/vue/nativescript/2017/08/11/introduce-vue-nativescript-01/)
 - [iOS 한국어 강의 및 세미나 자료 모음](https://github.com/ClintJang/awesome-swift-korean-lecture)
+- [타다 클라이언트 개발기](http://engineering.vcnc.co.kr/2019/05/tada-client-development/)
+
 
 --------------------------------------
 </br>
@@ -892,6 +875,8 @@
 - [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
 - [OAuth 정리](https://jungle.kim/2018/04/21/oauth/)
 - [브라우저 렌더링에 대한 내용 깔끔 정리](https://12bme.tistory.com/140)
+- [쿠키, 세션, 캐시가 뭔가요?](https://youtu.be/OpoVuwxGRDI)
+
 
 --------------------------------------
 
@@ -1054,6 +1039,7 @@
 - [개발자들이 이름짓기 할때 참고하면 좋은 WordVis](http://wordvis.com/)
 - [Vim, 두 가지 관점](https://johngrib.github.io/wiki/two-views-of-vim/)
 - [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code/)
+- [Vim 도대체 왜 쓰는가](https://bengi.kr/1349)
 
 
 ### 에러 발생한 컨텐츠들
