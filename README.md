@@ -46,9 +46,25 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 6월 5일 수요일
+-
+-
+
+
+#### 2019년 6월 4일 화요일
+- [서버비용을 70%나 줄인 온디맨드 리사이징 이야기 by VCNC](https://www.theteams.kr/teams/2739/post/68195)
+- [쉽게 이해하는 도커 & 젠킨스](https://tora-it-kingdom.tistory.com/21)
+- [IT직군별(개발,기획,디자인,마케터,대표) 동상이몽에 대하여…](https://medium.com/@baejinho/it%EC%A7%81%EA%B5%B0%EB%B3%84-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%A7%88%EC%BC%80%ED%84%B0-%EB%8C%80%ED%91%9C-%EB%8F%99%EC%83%81%EC%9D%B4%EB%AA%BD%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-3304929f7ab5)
+
+
+#### 2019년 6월 3일 월요일
+- [hadoop 총정리](http://www.incodom.kr/hadoop_총정리_2편)
+- [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
+
+
 #### 2019년 6월 2일 일요일
--
--
+- [프로그래밍 언어에서 제공하는 기본 정렬 함수가 사용하는 알고리즘](https://www.geeksforgeeks.org/know-sorting-algorithm-set-1-sorting-weapons-used-programming-languages/)
+- [자바 EE의 역사와 스프링의 관계](https://okky.kr/article/415474)
 
 
 #### 2019년 6월 1일 토요일
