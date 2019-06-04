@@ -46,6 +46,7 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+
 #### 2019년 6월 5일 수요일
 -
 -
@@ -61,21 +62,6 @@
 - [hadoop 총정리](http://www.incodom.kr/hadoop_총정리_2편)
 - [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
 
-
-#### 2019년 6월 2일 일요일
-- [프로그래밍 언어에서 제공하는 기본 정렬 함수가 사용하는 알고리즘](https://www.geeksforgeeks.org/know-sorting-algorithm-set-1-sorting-weapons-used-programming-languages/)
-- [자바 EE의 역사와 스프링의 관계](https://okky.kr/article/415474)
-
-
-#### 2019년 6월 1일 토요일
-- [내게 실용적이었던 프로그래밍 공부 방법들](https://velog.io/@city7310/%EB%82%B4%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D)
-- [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
-- [Google Docs 같은 실시간 협업 에디터를 만드는 방법](https://hackerwins.github.io/2019-04-16/co-editor)
-
-
-#### 2019년 5월 31일 금요일
-- [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
-- [자바 enum 활용하기](http://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 
 
 --------------------------------------
@@ -260,6 +246,8 @@
 - [괜찮은 프론트 개발자 :나는 어떤 개발자가 될 것인가?](https://cresumerjang.github.io/2019/05/10/Frontend-Developer/)
 - [흔하지 않고 좋은 웹 개발자가 되는 방법 [번역]](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
 - [개발을 잘하고 싶어요 - 네이버랩스 송기선님](https://www.slideshare.net/deview/ss-58739254)
+- [내게 실용적이었던 프로그래밍 공부 방법들](https://velog.io/@city7310/%EB%82%B4%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D)
+
 
 --------------------------------------
 
@@ -472,7 +460,7 @@
 - [온라인 서점 API 만들기로 살펴보는 Spring Boot OOP](https://github.com/minwan1/online-book-store)
 - [자바 checked Exception 가이드](https://github.com/cheese10yun/blog-sample/blob/master/exception/README.md)
 - [JVM memory leak 찾아 해결하기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
-
+- [자바 EE의 역사와 스프링의 관계](https://okky.kr/article/415474)
 
 --------------------------------------
 
@@ -624,6 +612,7 @@
 - [쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
 - [레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/)
 - [AWS로 사용자 천만 명 서비스 만들기 [슬라이드]](https://www.slideshare.net/awskorea/ct-2015-your-10million-users-on-aws-channy)
+- [시스템 디자인 학습 저장소 [영문]](https://github.com/donnemartin/system-design-primer)
 
 --------------------------------------
 
@@ -957,6 +946,7 @@
 - [정렬 알고리즘 간단 정리](https://link.medium.com/SdPjEJaHvT)
 - [알고리즘 기반별 정리](https://brunch.co.kr/@toughrogrammer/13)
 - [Red-Black Tree](https://zeddios.tistory.com/237)
+- [프로그래밍 언어에서 제공하는 기본 정렬 함수가 사용하는 알고리즘](https://www.geeksforgeeks.org/know-sorting-algorithm-set-1-sorting-weapons-used-programming-languages/)
 
 --------------------------------------
 
@@ -1056,7 +1046,7 @@
 - [Vim, 두 가지 관점](https://johngrib.github.io/wiki/two-views-of-vim/)
 - [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code/)
 - [Vim 도대체 왜 쓰는가](https://bengi.kr/1349)
-
+- [Google Docs 같은 실시간 협업 에디터를 만드는 방법](https://hackerwins.github.io/2019-04-16/co-editor)
 
 ### 에러 발생한 컨텐츠들
 >이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
