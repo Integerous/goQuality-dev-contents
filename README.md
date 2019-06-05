@@ -48,8 +48,8 @@
 
 
 #### 2019년 6월 5일 수요일
--
--
+- [React Native를 이용한 어플리케이션 개발](https://dev-yakuza.github.io/ko/react-native/)
+- [React Native를 이용한 우아한 형제들 라이더스 앱(IOS) 개발기](http://woowabros.github.io/experience/2018/05/19/build-app-by-react-native.html)
 
 
 #### 2019년 6월 4일 화요일
