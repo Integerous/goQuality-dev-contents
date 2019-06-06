@@ -47,9 +47,8 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 6월 5일 수요일
-- [React Native를 이용한 어플리케이션 개발](https://dev-yakuza.github.io/ko/react-native/)
-- [React Native를 이용한 우아한 형제들 라이더스 앱(IOS) 개발기](http://woowabros.github.io/experience/2018/05/19/build-app-by-react-native.html)
+#### 2019년 6월 6일 수요일
+- [React Native : 인스타그램 UI 만들기 시리즈 - 안피곤님](https://steempeak.com/@anpigon/react-native-ui-1)
 
 
 #### 2019년 6월 4일 화요일
