@@ -47,21 +47,28 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 6월 7일 금요일
+-
+-
+
+
+#### 2019년 6월 6일 목요일
+- [쿠팡의 MSA 적용기, 행복을 찾기위한 우리의 여정](https://medium.com/coupang-tech/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-94678fe9eb61)
+
+
 #### 2019년 6월 5일 수요일
 - [React Native를 이용한 어플리케이션 개발](https://dev-yakuza.github.io/ko/react-native/)
 - [React Native를 이용한 우아한 형제들 라이더스 앱(IOS) 개발기](http://woowabros.github.io/experience/2018/05/19/build-app-by-react-native.html)
+- [[Spring Cloud] Config Server에 관하여](http://blog.leekyoungil.com/?p=352)
+- [Docker-Compose 자세하게 나와있는 친절한 포스팅](https://jaehun2841.github.io/2018/12/01/2018-12-01-docker-4/#docker-compose-%EC%9D%B4%EB%9E%80)
+- [TensorFlow를 활용한 네이버쇼핑의 상품 카테고리 자동 분류 -](https://d2.naver.com/helloworld/1264836)
+- [브라우저는 어떻게 동작하는가 -](https://d2.naver.com/helloworld/59361)
 
 
 #### 2019년 6월 4일 화요일
 - [서버비용을 70%나 줄인 온디맨드 리사이징 이야기 by VCNC](https://www.theteams.kr/teams/2739/post/68195)
 - [쉽게 이해하는 도커 & 젠킨스](https://tora-it-kingdom.tistory.com/21)
 - [IT직군별(개발,기획,디자인,마케터,대표) 동상이몽에 대하여…](https://medium.com/@baejinho/it%EC%A7%81%EA%B5%B0%EB%B3%84-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%A7%88%EC%BC%80%ED%84%B0-%EB%8C%80%ED%91%9C-%EB%8F%99%EC%83%81%EC%9D%B4%EB%AA%BD%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-3304929f7ab5)
-
-
-#### 2019년 6월 3일 월요일
-- [hadoop 총정리](http://www.incodom.kr/hadoop_총정리_2편)
-- [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
-
 
 
 --------------------------------------
@@ -934,6 +941,8 @@
 - [Github 마크다운 작성 시 이미지 업로드 꿀팁](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
 - [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
 - [여러 git repository에 한꺼번에 git 명령어 적용하기](http://tech.javacafe.io/2018/12/15/%EC%97%AC%EB%9F%AC_git_%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC_%ED%95%9C%EA%BA%BC%EB%B2%88%EC%97%90_git_%EB%AA%85%EB%A0%B9%EC%96%B4_%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
+- [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
+
 
 --------------------------------------
 
