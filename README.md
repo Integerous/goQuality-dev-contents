@@ -47,9 +47,15 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 6월 8일 토요일
+- 
+-
+
+
 #### 2019년 6월 7일 금요일
--
--
+- [What's coming in Go 1.13](https://docs.google.com/presentation/d/e/2PACX-1vRo5urog_B76BcnQbIo7I391MZUKFj7l3gku6hypJ-WK1KCFw40A7BiM6NOVsqD17sA9jS7GyzCfnN4/pub?slide=id.g5b58fc9ce3_0_81)
+- [Java 안쪽 Integer 성능 최적화](https://meetup.toast.com/posts/185)
+- [작은 SI회사 개발자에서 우아한형제들로 이직 후 1년 회고](http://woowabros.github.io/experience/2019/05/30/settle-history.html)
 
 
 #### 2019년 6월 6일 목요일
