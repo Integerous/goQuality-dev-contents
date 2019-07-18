@@ -206,7 +206,7 @@
 - [개발자에서 개발팀장이 되기까지 겪은 5가지 실수 [번역]](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 - [10배 뛰어난 개발자 되기 [번역]](https://muchtrans.com/translations/10xdeveloper.ko.html)
 - [회사 밖에서 성장하기 [슬라이드]](https://speakerdeck.com/mingrammer/hoesa-baggeseo-seongjanghagi)
-- [개발자 필독서 50 선](https://www.sangkon.com/2016/02/10/good_books_for_dev/)
+- [개발자 필독서 50 선](https://www.sangkon.com/good_books_for_dev_2018/)
 - [지난 5년 동안 소프트웨어 개발자로서 배운 것들 [번역]](https://blog.rhostem.com/posts/2017-10-29-what-i-ve-learned-over-5-years-as-a-software-developer)
 - [1000 개의 코드 리뷰를 통해 배운 점 [번역]](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
 - [70세 현역 개발자에게 듣는 개발자의 길 [영상]](https://m.youtube.com/watch?v=E2P9MXvMgAI&feature=youtu.be)
