@@ -47,10 +47,7 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 6월 8일 토요일
-- 
--
-
+### 곧 정상적으로 운영될 예정입니다. 늦어서 죄송합니다.
 
 #### 2019년 6월 7일 금요일
 - [What's coming in Go 1.13](https://docs.google.com/presentation/d/e/2PACX-1vRo5urog_B76BcnQbIo7I391MZUKFj7l3gku6hypJ-WK1KCFw40A7BiM6NOVsqD17sA9jS7GyzCfnN4/pub?slide=id.g5b58fc9ce3_0_81)
@@ -66,16 +63,8 @@
 #### 2019년 6월 5일 수요일
 - [React Native를 이용한 어플리케이션 개발](https://dev-yakuza.github.io/ko/react-native/)
 - [React Native를 이용한 우아한 형제들 라이더스 앱(IOS) 개발기](http://woowabros.github.io/experience/2018/05/19/build-app-by-react-native.html)
-- [[Spring Cloud] Config Server에 관하여](http://blog.leekyoungil.com/?p=352)
+- [Spring Cloud - Config Server에 관하여](http://blog.leekyoungil.com/?p=352)
 - [Docker-Compose 자세하게 나와있는 친절한 포스팅](https://jaehun2841.github.io/2018/12/01/2018-12-01-docker-4/#docker-compose-%EC%9D%B4%EB%9E%80)
-- [TensorFlow를 활용한 네이버쇼핑의 상품 카테고리 자동 분류 -](https://d2.naver.com/helloworld/1264836)
-- [브라우저는 어떻게 동작하는가 -](https://d2.naver.com/helloworld/59361)
-
-
-#### 2019년 6월 4일 화요일
-- [서버비용을 70%나 줄인 온디맨드 리사이징 이야기 by VCNC](https://www.theteams.kr/teams/2739/post/68195)
-- [쉽게 이해하는 도커 & 젠킨스](https://tora-it-kingdom.tistory.com/21)
-- [IT직군별(개발,기획,디자인,마케터,대표) 동상이몽에 대하여…](https://medium.com/@baejinho/it%EC%A7%81%EA%B5%B0%EB%B3%84-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%A7%88%EC%BC%80%ED%84%B0-%EB%8C%80%ED%91%9C-%EB%8F%99%EC%83%81%EC%9D%B4%EB%AA%BD%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-3304929f7ab5)
 
 
 --------------------------------------
@@ -261,7 +250,7 @@
 - [흔하지 않고 좋은 웹 개발자가 되는 방법 [번역]](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
 - [개발을 잘하고 싶어요 - 네이버랩스 송기선님](https://www.slideshare.net/deview/ss-58739254)
 - [내게 실용적이었던 프로그래밍 공부 방법들](https://velog.io/@city7310/%EB%82%B4%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D)
-
+- [IT직군별(개발,기획,디자인,마케터,대표) 동상이몽에 대하여…](https://medium.com/@baejinho/it%EC%A7%81%EA%B5%B0%EB%B3%84-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%A7%88%EC%BC%80%ED%84%B0-%EB%8C%80%ED%91%9C-%EB%8F%99%EC%83%81%EC%9D%B4%EB%AA%BD%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-3304929f7ab5)
 
 --------------------------------------
 
@@ -627,6 +616,7 @@
 - [레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/)
 - [AWS로 사용자 천만 명 서비스 만들기 [슬라이드]](https://www.slideshare.net/awskorea/ct-2015-your-10million-users-on-aws-channy)
 - [시스템 디자인 학습 저장소 [영문]](https://github.com/donnemartin/system-design-primer)
+- [서버비용을 70%나 줄인 온디맨드 리사이징 이야기 by VCNC](https://www.theteams.kr/teams/2739/post/68195)
 
 --------------------------------------
 
@@ -996,6 +986,7 @@
 - [딥러닝을 활용한 거래량 예측 기능 개선](https://d2.naver.com/helloworld/0065813)
 - [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
 - [2019년 주요 AI 컨퍼런스](https://brunch.co.kr/@kakao-it/322)
+- [TensorFlow를 활용한 네이버쇼핑의 상품 카테고리 자동 분류](https://d2.naver.com/helloworld/1264836)
 
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
