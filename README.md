@@ -46,26 +46,9 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-
-### 곧 정상적으로 운영될 예정입니다. 늦어서 죄송합니다.
-
-#### 2019년 6월 7일 금요일
-- [What's coming in Go 1.13](https://docs.google.com/presentation/d/e/2PACX-1vRo5urog_B76BcnQbIo7I391MZUKFj7l3gku6hypJ-WK1KCFw40A7BiM6NOVsqD17sA9jS7GyzCfnN4/pub?slide=id.g5b58fc9ce3_0_81)
-- [Java 안쪽 Integer 성능 최적화](https://meetup.toast.com/posts/185)
-- [작은 SI회사 개발자에서 우아한형제들로 이직 후 1년 회고](http://woowabros.github.io/experience/2019/05/30/settle-history.html)
-
-
-#### 2019년 6월 6일 목요일
-- [쿠팡의 MSA 적용기, 행복을 찾기위한 우리의 여정](https://medium.com/coupang-tech/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-94678fe9eb61)
-- [React Native : 인스타그램 UI 만들기 시리즈 - 안피곤님](https://steempeak.com/@anpigon/react-native-ui-1)
-
-
-#### 2019년 6월 5일 수요일
-- [React Native를 이용한 어플리케이션 개발](https://dev-yakuza.github.io/ko/react-native/)
-- [React Native를 이용한 우아한 형제들 라이더스 앱(IOS) 개발기](http://woowabros.github.io/experience/2018/05/19/build-app-by-react-native.html)
-- [Spring Cloud - Config Server에 관하여](http://blog.leekyoungil.com/?p=352)
-- [Docker-Compose 자세하게 나와있는 친절한 포스팅](https://jaehun2841.github.io/2018/12/01/2018-12-01-docker-4/#docker-compose-%EC%9D%B4%EB%9E%80)
-
+#### 2019년 7월 19일 금요일
+-
+-
 
 --------------------------------------
 </br>
@@ -314,6 +297,7 @@
 
 ### 개발자 회고
 >[개발자 회고 모음](https://github.com/oaksong/developers-retrospective)에 가시면 더 많은 회고들이 있습니다!
+- [작은 SI회사 개발자에서 우아한형제들로 이직 후 1년 회고](http://woowabros.github.io/experience/2019/05/30/settle-history.html)
 - [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/2018/essay/memoirs2018/)
 - [열정 넘치는 주니어 개발자의 주간회고 모음](https://gwonsungjun.github.io/category/#/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0)
 - [Joshua님의 2018년 회고](http://blog.devjoshua.me/2018/12/30/181230-2018%EB%85%84%ED%9A%8C%EA%B3%A0/)
@@ -464,6 +448,8 @@
 - [자바 checked Exception 가이드](https://github.com/cheese10yun/blog-sample/blob/master/exception/README.md)
 - [JVM memory leak 찾아 해결하기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
 - [자바 EE의 역사와 스프링의 관계](https://okky.kr/article/415474)
+- [Spring Cloud - Config Server에 관하여](http://blog.leekyoungil.com/?p=352)
+- [[Java] Integer.valueOf(127) == Integer.valueOf(127) 는 참일까요?](https://meetup.toast.com/posts/185)
 
 --------------------------------------
 
@@ -617,6 +603,7 @@
 - [AWS로 사용자 천만 명 서비스 만들기 [슬라이드]](https://www.slideshare.net/awskorea/ct-2015-your-10million-users-on-aws-channy)
 - [시스템 디자인 학습 저장소 [영문]](https://github.com/donnemartin/system-design-primer)
 - [서버비용을 70%나 줄인 온디맨드 리사이징 이야기 by VCNC](https://www.theteams.kr/teams/2739/post/68195)
+- [쿠팡의 MSA 적용기, 행복을 찾기위한 우리의 여정](https://medium.com/coupang-tech/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-94678fe9eb61)
 
 --------------------------------------
 
@@ -832,7 +819,7 @@
 - [Vue와 NativeScript로 네이티브 모바일 앱 만들기 [번역]](http://vuejs.kr/vue/nativescript/2017/08/11/introduce-vue-nativescript-01/)
 - [iOS 한국어 강의 및 세미나 자료 모음](https://github.com/ClintJang/awesome-swift-korean-lecture)
 - [타다 클라이언트 개발기](http://engineering.vcnc.co.kr/2019/05/tada-client-development/)
-
+- [React Native를 이용한 어플리케이션 개발 기록](https://dev-yakuza.github.io/ko/react-native/)
 
 --------------------------------------
 </br>
