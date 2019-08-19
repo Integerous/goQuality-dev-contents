@@ -46,57 +46,8 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2019년 7월 20일 토요일
--
--
-
-
-#### 2019년 7월 19일 금요일
-- [알고리즘이 필요한 '진짜' 이유에 대해서](https://brunch.co.kr/@chickenmoim/4)
-- [리눅스 이야기: 네트워킹 [만화]](https://joone.net/2019/07/17/32-%eb%a6%ac%eb%88%85%ec%8a%a4-%ec%9d%b4%ec%95%bc%ea%b8%b0-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%82%b9/)
-- [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기(GitOps CI/CD) [슬라이드]](https://www.slideshare.net/mobile/subicura/gitops-cicd-156402754)
-- [포인터가 뭐고 왜 쓰는건가요? [영상]](https://www.youtube.com/watch?v=u65F4ECaKaY&t)
-
-
-#### 밀린 컨텐츠들 (6월 5일 ~ 7월 18일)
-- [LocalStack을 활용한 Integration Test 환경 만들기](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)
-- [ECS를 이용한 Serverless Batch 서버](https://medium.com/myrealtrip-product/ecs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-serverless-%EB%B0%B0%EC%B9%98-%EC%84%9C%EB%B2%84-63421bf55e67)
-- [Global Unique ID는 왜 필요할까? [슬라이드]](https://www.slideshare.net/charsyam2/why-guid-is-needed)
-- [소프트웨어 환멸감 [번역]](https://muchtrans.com/translations/software-disenchantment.ko.html)
-- [고수준에서 암호학 이해하기](https://gist.github.com/aJchemist/f2d08f328f0458be8ee8)
-- [보안 프로토콜 TLS 1.3](https://brunch.co.kr/@mobiinside/1482)
-- [spring actuator 기본 설정](https://github.com/cheese10yun/blog-sample/blob/master/actuator/README.md)
-- [멀티모듈 설계 이야기 with Spring, Gradle](http://woowabros.github.io/study/2019/07/01/multi-module.html)
-- [Android: RecyclerView에서 텍스트 레아이웃 미리 계산하기[구글 공식 국문 블로그]](https://developers-kr.googleblog.com/2018/08/prefetch-text-layout-in-recyclerview.html)
-- [우아한테크세미나 - 우아한 객체지향 [영상]](https://www.youtube.com/watch?v=dJ5C4qRqAgA)
-- [인텔리제이 스프링 부트 실행시 gralde에게 위임하기](https://github.com/cheese10yun/IntelliJ/blob/master/spring/spring-boot-out.md)
-- [네이버 동영상 플랫폼 개발 프레임워크의 Spring Boot 전환기](https://d2.naver.com/helloworld/5626759)
-- [꼼꼼하고 이해하기 쉬운 XLNet 논문 리뷰](https://blog.pingpong.us/xlnet-review/)
-- [Spring에서 Request를 우아하게 로깅하기](https://taetaetae.github.io/2019/06/30/controller-common-logging/)
-- [중국의 어떤 서버개발자의 DB설계](https://m.blog.naver.com/imays/221461537682)
-- [Kotlin 도입 과정에서 만난 문제와 해결 방법](https://d2.naver.com/helloworld/6685007)
-- [우아한테크토크 - 선착순 이벤트 서버 생존기! 47만 RPM에서 살아남기](https://www.youtube.com/watch?v=MTSn93rNPPE)
-- [Electron 시작부터 배포까지](https://docs.google.com/presentation/d/1PN_wmjhwyBrDvnV7FdwY8U4adoLpQR596fTxEC2IRFw/edit?usp=sharing)
-- [우아한 객체지향 [슬라이드]](https://www.slideshare.net/baejjae93/ss-150432699)
-- [Restful API 설계가이드](https://sanghaklee.tistory.com/m/57)
-- [분산 컨테이너 환경에서의 디자인 패턴](http://swalloow.github.io/container-patterns)
-- [개발자가 창업할 때 유의해야 할 세 가지](http://tkim.co/2019/05/30/%ea%b0%9c%eb%b0%9c%ec%9e%90%ea%b0%80-%ec%b0%bd%ec%97%85%ed%95%a0-%eb%95%8c-%ec%9c%a0%ec%9d%98%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%84%b8-%ea%b0%80%ec%a7%80/)
-- [자바 코딩 규칙 [번역]](https://myeonguni.tistory.com/1596)
-- [소프트웨어 개발자 되기는 왜 어려운가?](https://hl1itj.tistory.com/m/136?category=327240)
-- [Vscode로 SpringBoot 개발 환경 설정하기](http://blog.leekyoungil.com/?p=479)
-- [쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천 [번역]](https://codeameba.github.io/2019/06/10/tip-extensions/)
-- [Document의 head에 들어갈 수 있는 것들 목록](https://github.com/joshbuchea/HEAD)
-- [2019년과 이후 자바스크립트 동향](https://d2.naver.com/helloworld/4007447)
-- [css의 7가지 단위](https://webclub.tistory.com/356)
-- [모바일 UI·UX 디자인시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/8)
-- [Github blog로 결혼식 청첩장 만들기](https://blog.voidmainvoid.net/217)
-- [자바에서 데이터 캐시 구현하기](https://start.goodtime.co.kr/2015/06/자바에서-데이터-캐시-구현하기/)
-- [Kafka 운영자가 말하는 처음 접하는 Kafka](https://www.popit.kr/kafka-운영자가-말하는-처음-접하는-kafka/)
-- [Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)
-- [그들이 AWS 위에서 데이터 파이프라인을 운영하는 법 [슬라이드]](https://docs.google.com/presentation/d/11C_BKio0DZIop_ZjJk7ogxQtWV5qHIr-hHjw277z64k/)
-- [그림으로 배우는 Git Add와 Commit의 원리](https://milooy.wordpress.com/2019/06/08/git-add-commit/)
-- [The Art of Command Line [번역]](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)
-
+#### 밀린 컨텐츠들
+- 
 
 --------------------------------------
 </br>
@@ -198,14 +149,14 @@
 - [생각하라, 객체지향처럼](http://woowabros.github.io/study/2016/07/07/think_object_oriented.html)
 - [객체 지향 개발 5대 원리](http://www.nextree.co.kr/p6960/)
 - [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
-- [문서화에 대해 아무도 말해주지 않은 것들](http://blog.weirdx.io/post/60414)
 - [4년을 기다린 인프런 리뉴얼 후기](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88)
 - [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code/)
 - [넷플릭스의 문화 : 자유와 책임 [번역] [슬라이드]](https://www.slideshare.net/watchncompass/freedom-responsibility-culture)
 - [주니어의 짝코딩 경험기](https://velog.io/@troflev/%EC%A3%BC%EB%8B%88%EC%96%B4%EC%9D%98-%EC%A7%9D%EC%BD%94%EB%94%A9-%EA%B2%BD%ED%97%98%EA%B8%B0-7njvfeief5)
 - [빠른 개발을 위한 기술 1편 [번역]](https://rinae.dev/posts/the-fine-art-of-fast-development-kr-1)
-
-
+- [소프트웨어 개발자 되기는 왜 어려운가?](https://hl1itj.tistory.com/m/136?category=327240)
+- [개발자가 창업할 때 유의해야 할 세 가지](http://tkim.co/2019/05/30/%ea%b0%9c%eb%b0%9c%ec%9e%90%ea%b0%80-%ec%b0%bd%ec%97%85%ed%95%a0-%eb%95%8c-%ec%9c%a0%ec%9d%98%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%84%b8-%ea%b0%80%ec%a7%80/)
+- [소프트웨어 환멸감 [번역]](https://muchtrans.com/translations/software-disenchantment.ko.html)
 
 --------------------------------------
 
@@ -227,7 +178,7 @@
 - [함수형 프로그래밍과 테스트](https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/?fbclid=IwAR1a-npFrVXsevZq-tV6Vq0fQ-iUabeIUpDNBlA-dS_a32GHi7tCN5kVBek)
 - [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
 - [필요한 내용만 추려서 DDD 당장 써먹기](https://www.popit.kr/%ED%95%84%EC%9A%94%ED%95%9C-%EB%82%B4%EC%9A%A9%EB%A7%8C-%EC%B6%94%EB%A0%A4%EC%84%9C-ddd-%EB%8B%B9%EC%9E%A5-%EC%8D%A8%EB%A8%B9%EA%B8%B0/)
-
+- [LocalStack을 활용한 Integration Test 환경 만들기](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)
 
 --------------------------------------
 
@@ -498,6 +449,14 @@
 - [자바 EE의 역사와 스프링의 관계](https://okky.kr/article/415474)
 - [Spring Cloud - Config Server에 관하여](http://blog.leekyoungil.com/?p=352)
 - [[Java] Integer.valueOf(127) == Integer.valueOf(127) 는 참일까요?](https://meetup.toast.com/posts/185)
+- [Vscode로 SpringBoot 개발 환경 설정하기](http://blog.leekyoungil.com/?p=479)
+- [자바 코딩 규칙 [번역]](http://kwangshin.pe.kr/blog/java-code-conventions-%EC%9E%90%EB%B0%94-%EC%BD%94%EB%94%A9-%EA%B7%9C%EC%B9%99/)
+- [우아한 객체지향 [슬라이드]](https://www.slideshare.net/baejjae93/ss-150432699)
+- [우아한테크세미나 - 우아한 객체지향 [영상]](https://www.youtube.com/watch?v=dJ5C4qRqAgA)
+- [Kotlin 도입 과정에서 만난 문제와 해결 방법](https://d2.naver.com/helloworld/6685007)
+- [Spring에서 Request를 우아하게 로깅하기](https://taetaetae.github.io/2019/06/30/controller-common-logging/)
+- [네이버 동영상 플랫폼 개발 프레임워크의 Spring Boot 전환기](https://d2.naver.com/helloworld/5626759)
+- [멀티모듈 설계 이야기 with Spring, Gradle](http://woowabros.github.io/study/2019/07/01/multi-module.html)
 
 --------------------------------------
 
@@ -652,6 +611,10 @@
 - [시스템 디자인 학습 저장소 [영문]](https://github.com/donnemartin/system-design-primer)
 - [서버비용을 70%나 줄인 온디맨드 리사이징 이야기 by VCNC](https://www.theteams.kr/teams/2739/post/68195)
 - [쿠팡의 MSA 적용기, 행복을 찾기위한 우리의 여정](https://medium.com/coupang-tech/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-94678fe9eb61)
+- [그들이 AWS 위에서 데이터 파이프라인을 운영하는 법 [슬라이드]](https://docs.google.com/presentation/d/11C_BKio0DZIop_ZjJk7ogxQtWV5qHIr-hHjw277z64k/)
+- [우아한테크토크 - 선착순 이벤트 서버 생존기! 47만 RPM에서 살아남기](https://www.youtube.com/watch?v=MTSn93rNPPE)
+- [ECS를 이용한 Serverless Batch 서버](https://medium.com/myrealtrip-product/ecs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-serverless-%EB%B0%B0%EC%B9%98-%EC%84%9C%EB%B2%84-63421bf55e67)
+- [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기(GitOps CI/CD) [슬라이드]](https://www.slideshare.net/mobile/subicura/gitops-cicd-156402754)
 
 --------------------------------------
 
@@ -682,7 +645,7 @@
 - [Apache ShardingSphere를 이용한 DB Sharding](https://blog.naver.com/PostView.nhn?blogId=asei&logNo=221511101848&proxyReferer=http%3A%2F%2Fm.facebook.com)
 - [MySQL Ascending index vs Descending index](http://tech.kakao.com/2018/06/19/AscendingAndDescendingIndex/?sfns=1)
 - [SQL joins visualizer](https://sql-joins.leopard.in.ua/)
-
+- [중국의 어떤 서버 개발자의 DB설계](https://blog.naver.com/imays/221461537682)
 
 --------------------------------------
 
@@ -811,7 +774,7 @@
 - [Async & Await 사용한 동기식 자바스크립트 사용](https://blueshw.github.io/2018/02/27/async-await/)
 - [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
 - [JavaScript 바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자](https://moonformeli.tistory.com/28)
-
+- [2019년과 이후 자바스크립트 동향](https://d2.naver.com/helloworld/4007447)
 
 --------------------------------------
 
@@ -850,6 +813,8 @@
 - [웹폰트 경량화 - 폰트툴즈의 pyftsubset을 사용한 폰트 서브셋 만들기](https://www.44bits.io/ko/post/optimization_webfont_with_pyftsubnet)
 - [css, js로 position - sticky 구현 방법](https://moonformeli.tistory.com/24)
 - [스크롤과 관련된 CSS 속성 3가지](https://taegon.kim/archives/9807)
+- [모바일 UI·UX 디자인시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/8)
+- [css의 7가지 단위](https://webclub.tistory.com/356)
 
 
 --------------------------------------
@@ -868,6 +833,7 @@
 - [iOS 한국어 강의 및 세미나 자료 모음](https://github.com/ClintJang/awesome-swift-korean-lecture)
 - [타다 클라이언트 개발기](http://engineering.vcnc.co.kr/2019/05/tada-client-development/)
 - [React Native를 이용한 어플리케이션 개발 기록](https://dev-yakuza.github.io/ko/react-native/)
+- [Android: RecyclerView에서 텍스트 레아이웃 미리 계산하기](https://developers-kr.googleblog.com/2018/08/prefetch-text-layout-in-recyclerview.html)
 
 --------------------------------------
 </br>
@@ -920,7 +886,7 @@
 - [OAuth 정리](https://jungle.kim/2018/04/21/oauth/)
 - [브라우저 렌더링에 대한 내용 깔끔 정리](https://12bme.tistory.com/140)
 - [쿠키, 세션, 캐시가 뭔가요?](https://youtu.be/OpoVuwxGRDI)
-
+- [보안 프로토콜 TLS 1.3](https://brunch.co.kr/@mobiinside/1482)
 
 --------------------------------------
 
@@ -974,6 +940,8 @@
 - [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
 - [여러 git repository에 한꺼번에 git 명령어 적용하기](http://tech.javacafe.io/2018/12/15/%EC%97%AC%EB%9F%AC_git_%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC_%ED%95%9C%EA%BA%BC%EB%B2%88%EC%97%90_git_%EB%AA%85%EB%A0%B9%EC%96%B4_%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
 - [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
+- [Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)
+- [Github blog로 결혼식 청첩장 만들기](https://blog.voidmainvoid.net/217)
 
 
 --------------------------------------
@@ -988,6 +956,7 @@
 - [알고리즘 기반별 정리](https://brunch.co.kr/@toughrogrammer/13)
 - [Red-Black Tree](https://zeddios.tistory.com/237)
 - [프로그래밍 언어에서 제공하는 기본 정렬 함수가 사용하는 알고리즘](https://www.geeksforgeeks.org/know-sorting-algorithm-set-1-sorting-weapons-used-programming-languages/)
+- [알고리즘이 필요한 '진짜' 이유에 대해서](https://brunch.co.kr/@chickenmoim/4)
 
 --------------------------------------
 
@@ -996,7 +965,7 @@
 - [패스워드 암호화 방법 총정리](http://bit.ly/2OYnCa0)
 - [안전한 SSL/TLS를 운영하기 위해 알아야하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
 - [SSH를 비밀번호 대입으로 해킹하려면](https://gigglehd.com/gg/soft/4877153)
-
+- [고수준에서 암호학 이해하기](https://gist.github.com/aJchemist/f2d08f328f0458be8ee8)
 
 --------------------------------------
 
@@ -1022,6 +991,7 @@
 - [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
 - [2019년 주요 AI 컨퍼런스](https://brunch.co.kr/@kakao-it/322)
 - [TensorFlow를 활용한 네이버쇼핑의 상품 카테고리 자동 분류](https://d2.naver.com/helloworld/1264836)
+- [꼼꼼하고 이해하기 쉬운 XLNet 논문 리뷰](https://blog.pingpong.us/xlnet-review/)
 
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
@@ -1089,6 +1059,10 @@
 - [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code/)
 - [Vim 도대체 왜 쓰는가](https://bengi.kr/1349)
 - [Google Docs 같은 실시간 협업 에디터를 만드는 방법](https://hackerwins.github.io/2019-04-16/co-editor)
+- [쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천 [번역]](https://codeameba.github.io/2019/06/10/tip-extensions/)
+- [Electron 시작부터 배포까지 [슬라이드]](https://docs.google.com/presentation/d/1PN_wmjhwyBrDvnV7FdwY8U4adoLpQR596fTxEC2IRFw/edit?usp=sharing)
+- [Global Unique ID는 왜 필요할까? [슬라이드]](https://www.slideshare.net/charsyam2/why-guid-is-needed)
+- [포인터가 뭐고 왜 쓰는건가요? [영상]](https://www.youtube.com/watch?v=u65F4ECaKaY&t)
 
 ### 에러 발생한 컨텐츠들
 >이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
