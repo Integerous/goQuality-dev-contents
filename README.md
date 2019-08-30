@@ -47,7 +47,9 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 #### 밀린 컨텐츠들
-- 
+- [CSS Grid Garden](http://cssgridgarden.com/#ko)
+- [CSS FLEXBOX Froggy](http://flexboxfroggy.com/#ko)
+- [CSS Flexbox](https://flexbox.help/)
 
 --------------------------------------
 </br>
