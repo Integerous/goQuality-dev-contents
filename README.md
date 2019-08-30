@@ -226,7 +226,7 @@
 - [우아한형제들 이동욱(jojoldu) 개발자 인터뷰](https://www.imaso.co.kr/archives/4869)
 - [<개발자의 글쓰기> 원본 공개](https://drive.google.com/file/d/1ELeCi_1UzCEkj-UDSLM44h9HcgGiDQrb/view)
 - [40대 후반 개발자의 고민에 대하여](https://brunch.co.kr/@nashorn74/18)
-- [2019년 업데이트 - 내 마음대로 선정한 개발자/프로그래머 추천도서(필독서) 50선](https://www.sangkon.com/2018/08/27/good_books_for_dev_2018/)
+- [2019년 업데이트 - 내 마음대로 선정한 개발자/프로그래머 추천도서(필독서) 50선](https://www.sangkon.com/good_books_for_dev_2018/)
 - [싱가폴에서 일하는 데이터 엔지니어 이야기](https://brunch.co.kr/@imagineer/314)
 - [프로그래머는 몇 살까지 할 수 있나](https://m.blog.naver.com/birdparang/221525024009)
 - [개발자의 실력 vs 학력](https://brunch.co.kr/@mystoryg/66)
