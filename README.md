@@ -45,7 +45,7 @@
 # :mailbox: Queue
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
-우아한 tech세미나정리(https://jojoldu.tistory.com/444)
+>우아한 tech세미나정리(https://jojoldu.tistory.com/444)
 
 
 #### 밀린 컨텐츠들
