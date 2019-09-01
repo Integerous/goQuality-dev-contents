@@ -40,11 +40,17 @@
 
 --------------------------------------
 </br>
-</br>
 
 # :mailbox: Queue
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
+
+#### 2019년 9월 1일 일요일
+- [Intellij Setting 동기화하기](https://nesoy.github.io/articles/2019-08/Intellij-Setting-Sync)
+- [우아한 테크 - 멀티모듈 설계 세미나 정리(jojoldu blog)](https://jojoldu.tistory.com/444)
+- [HTTPS 전환 과정에서 read timeout 오류 해결 과정](https://d2.naver.com/helloworld/1469717)
+- [비동기 프로그래밍이 뭔가요?](https://www.youtube.com/watch?v=m0icCqHY39U)
+- [리디북스 서비스 장애 복구 후기](https://www.ridicorp.com/blog/2016/09/02/idc-outage/)
 
 
 #### 밀린 컨텐츠들
