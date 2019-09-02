@@ -45,6 +45,16 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 9월 3일 화요일
+-
+-
+
+#### 2019년 9월 2일 월요일
+- [5년차 프로그래머의 이직 일기](https://www.leadme.today/post/6656428033966080)
+- [반응형 웹을 위해 기술자가 꼭 알아야하는 기술들](https://www.samsungsds.com/global/ko/support/insights/Responsive_web_1.html)
+- [그로스 만병통치약의 허와 실](https://brunch.co.kr/@netking77/2)
+- [Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다. [번역]](https://gist.github.com/Hazealign/1bbc586ded1649a8f08f)
+
 #### 2019년 9월 1일 일요일
 - [Intellij Setting 동기화하기](https://nesoy.github.io/articles/2019-08/Intellij-Setting-Sync)
 - [우아한 테크 - 멀티모듈 설계 세미나 정리(jojoldu blog)](https://jojoldu.tistory.com/444)
@@ -112,8 +122,8 @@
 - [Linux 퍼포먼스 60s 분석 [영문]](https://link.medium.com/o4WHJtN9sZ)
 - [개발자가 공부로 살아남는 방법](https://evan-moon.github.io/2019/08/26/how-does-developer-study/)
 - [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
-- [이벤트 기반 분산 시스템을 향한 여정 [슬라이드]](https://www.slideshare.net/arawnkr/ss-94475606)
-- [사람들이 잘 안알려주는 GitHub 팁](https://medium.com/@kkweon/%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%98-%EC%95%88%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-github-%ED%8C%81-941e4d644402)
+
+
 --------------------------------------
 </br>
 </br>
@@ -680,6 +690,7 @@
 - [우아한테크토크 - 선착순 이벤트 서버 생존기! 47만 RPM에서 살아남기](https://www.youtube.com/watch?v=MTSn93rNPPE)
 - [ECS를 이용한 Serverless Batch 서버](https://medium.com/myrealtrip-product/ecs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-serverless-%EB%B0%B0%EC%B9%98-%EC%84%9C%EB%B2%84-63421bf55e67)
 - [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기(GitOps CI/CD) [슬라이드]](https://www.slideshare.net/mobile/subicura/gitops-cicd-156402754)
+- [이벤트 기반 분산 시스템을 향한 여정 [슬라이드]](https://www.slideshare.net/arawnkr/ss-94475606)
 
 --------------------------------------
 
@@ -1007,7 +1018,7 @@
 - [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
 - [Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)
 - [Github blog로 결혼식 청첩장 만들기](https://blog.voidmainvoid.net/217)
-
+- [사람들이 잘 안알려주는 GitHub 팁](https://medium.com/@kkweon/%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%98-%EC%95%88%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-github-%ED%8C%81-941e4d644402)
 
 --------------------------------------
 
