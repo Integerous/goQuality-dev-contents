@@ -45,9 +45,15 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 9월 4일 수요일
+-
+-
+
 #### 2019년 9월 3일 화요일
--
--
+- [AWS로 토이프로젝트 운영삽질기](https://medium.com/harrythegreat/aws%EB%A1%9C-%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-5a77f7e13521)
+- [문과생의 카카오 개발자 이직기](https://zorba91.tistory.com/m/270?category=876991)
+- [Spring 테스트 코드 작성에 대한 나름의 고찰](https://www.popit.kr/spring-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bd%94%eb%93%9c-%ec%9e%91%ec%84%b1%ec%97%90-%eb%8c%80%ed%95%9c-%eb%82%98%eb%a6%84%ec%9d%98-%ea%b3%a0%ec%b0%b0/)
+- [SOAP REST 이해](http://www.slideshare.net/yjaeseok/soap-rest)
 
 #### 2019년 9월 2일 월요일
 - [5년차 프로그래머의 이직 일기](https://www.leadme.today/post/6656428033966080)
