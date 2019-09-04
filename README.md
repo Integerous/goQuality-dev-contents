@@ -49,6 +49,11 @@
 -
 -
 
+#### 2019년 9월 4일 수요일
+- [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+- [If 카카오 2일차 슬라이드 모음](https://www.notion.so/if-2-777b70ec30354292805432dc15af2234)
+- [가장 쉽게 AWS VPC 개념잡기](https://medium.com/harrythegreat/aws-%EA%B0%80%EC%9E%A5%EC%89%BD%EA%B2%8C-vpc-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0-71eef95a7098)
+
 #### 2019년 9월 3일 화요일
 - [AWS로 토이프로젝트 운영삽질기](https://medium.com/harrythegreat/aws%EB%A1%9C-%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-5a77f7e13521)
 - [문과생의 카카오 개발자 이직기](https://zorba91.tistory.com/m/270?category=876991)
