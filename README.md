@@ -45,9 +45,13 @@
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2019년 9월 4일 수요일
+#### 2019년 9월 6일 금요일
 -
 -
+
+#### 2019년 9월 5일 목요일
+- [컨테이너와 쿠버네티스 쉽게 이해하기](https://medium.com/@dodghekgoo/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%A5%BC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-3bd07ff0a02d)
+- [글쓰기 화면에서 카테고리 자동 추천하는 모델 만들기](https://medium.com/daangn/%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%B6%94%EC%B2%9C%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-cbbcc43e1f7f)   
 
 #### 2019년 9월 4일 수요일
 - [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
@@ -60,21 +64,17 @@
 - [Spring 테스트 코드 작성에 대한 나름의 고찰](https://www.popit.kr/spring-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bd%94%eb%93%9c-%ec%9e%91%ec%84%b1%ec%97%90-%eb%8c%80%ed%95%9c-%eb%82%98%eb%a6%84%ec%9d%98-%ea%b3%a0%ec%b0%b0/)
 - [SOAP REST 이해](http://www.slideshare.net/yjaeseok/soap-rest)
 
-#### 2019년 9월 2일 월요일
+
+#### 밀린 컨텐츠들
 - [5년차 프로그래머의 이직 일기](https://www.leadme.today/post/6656428033966080)
 - [반응형 웹을 위해 기술자가 꼭 알아야하는 기술들](https://www.samsungsds.com/global/ko/support/insights/Responsive_web_1.html)
 - [그로스 만병통치약의 허와 실](https://brunch.co.kr/@netking77/2)
 - [Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다. [번역]](https://gist.github.com/Hazealign/1bbc586ded1649a8f08f)
-
-#### 2019년 9월 1일 일요일
 - [Intellij Setting 동기화하기](https://nesoy.github.io/articles/2019-08/Intellij-Setting-Sync)
 - [우아한 테크 - 멀티모듈 설계 세미나 정리(jojoldu blog)](https://jojoldu.tistory.com/444)
 - [HTTPS 전환 과정에서 read timeout 오류 해결 과정](https://d2.naver.com/helloworld/1469717)
 - [비동기 프로그래밍이 뭔가요?](https://www.youtube.com/watch?v=m0icCqHY39U)
 - [리디북스 서비스 장애 복구 후기](https://www.ridicorp.com/blog/2016/09/02/idc-outage/)
-
-
-#### 밀린 컨텐츠들
 - [CSS Grid Garden](http://cssgridgarden.com/#ko)
 - [CSS FLEXBOX Froggy](http://flexboxfroggy.com/#ko)
 - [CSS Flexbox](https://flexbox.help/)
