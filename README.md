@@ -44,11 +44,13 @@
 # :mailbox: Queue
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
->우아한 tech세미나정리(https://jojoldu.tistory.com/444)
+
+
+#### 2019년 9월 7일 토요일
+- [git이 저장하는 방식](https://junwoo45.github.io/2019-09-03-git%EC%9D%B4%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94%EB%B0%A9%EC%8B%9D/)
 
 #### 2019년 9월 6일 금요일
--
-- [git이 저장하는 방식](https://junwoo45.github.io/2019-09-03-git%EC%9D%B4%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94%EB%B0%A9%EC%8B%9D/)
+- [구글의 코드 리뷰 가이드](https://google.github.io/eng-practices/review/)
 
 #### 2019년 9월 5일 목요일
 - [컨테이너와 쿠버네티스 쉽게 이해하기](https://medium.com/@dodghekgoo/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%A5%BC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-3bd07ff0a02d)
