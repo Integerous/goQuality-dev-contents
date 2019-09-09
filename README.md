@@ -40,19 +40,108 @@
 
 --------------------------------------
 </br>
-</br>
 
 # :mailbox: Queue
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+
+#### 2019년 9월 10일 화요일
+-
+-
+
+#### 2019년 9월 9일 월요일
 - [협업이 힘들었던 개발자의 특성](https://millenial-dev.tistory.com/15?fbclid=IwAR2SRXvPDeaxSdmK4L4blAScBEoubbIU-hvdlPbVTlLhczXSiDaSIEZFde0)
 - [커밋 히스토리를 이쁘게 관리하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/?fbclid=IwAR2A8rQIpndhz3SJuArm6gWlw-y2a5vEylloYWoOsNqOAZADWXkUBYwFTRg)
+- [Elasticsearch 버전 업데이트 썰 (Nori 형태소 분석기 shallow dive) [영상]](https://www.youtube.com/watch?v=UgJQQ-1HHaw)
+- [EKS 서비스 사용법 및 예제](https://blog.wonizz.tk/2019/09/09/aws-eks/)
+- [네트워크 모니터링이 궁금할땐 ? Packetbeat !](https://taetaetae.github.io/2019/09/08/network-monitor-by-packetbeat/)
+
+#### 2019년 9월 7일 토요일
+- [git이 저장하는 방식](https://junwoo45.github.io/2019-09-03-git%EC%9D%B4%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94%EB%B0%A9%EC%8B%9D/)
+
+#### 2019년 9월 6일 금요일
+- [구글의 코드 리뷰 가이드](https://google.github.io/eng-practices/review/)
+
 
 #### 밀린 컨텐츠들
+- [컨테이너와 쿠버네티스 쉽게 이해하기](https://medium.com/@dodghekgoo/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%A5%BC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-3bd07ff0a02d)
+- [글쓰기 화면에서 카테고리 자동 추천하는 모델 만들기](https://medium.com/daangn/%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%B6%94%EC%B2%9C%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-cbbcc43e1f7f)
+- [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+- [If 카카오 2일차 슬라이드 모음](https://www.notion.so/if-2-777b70ec30354292805432dc15af2234)
+- [가장 쉽게 AWS VPC 개념잡기](https://medium.com/harrythegreat/aws-%EA%B0%80%EC%9E%A5%EC%89%BD%EA%B2%8C-vpc-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0-71eef95a7098)
+- [AWS로 토이프로젝트 운영삽질기](https://medium.com/harrythegreat/aws%EB%A1%9C-%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-5a77f7e13521)
+- [문과생의 카카오 개발자 이직기](https://zorba91.tistory.com/m/270?category=876991)
+- [Spring 테스트 코드 작성에 대한 나름의 고찰](https://www.popit.kr/spring-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bd%94%eb%93%9c-%ec%9e%91%ec%84%b1%ec%97%90-%eb%8c%80%ed%95%9c-%eb%82%98%eb%a6%84%ec%9d%98-%ea%b3%a0%ec%b0%b0/)
+- [SOAP REST 이해](http://www.slideshare.net/yjaeseok/soap-rest)
+- [5년차 프로그래머의 이직 일기](https://www.leadme.today/post/6656428033966080)
+- [반응형 웹을 위해 기술자가 꼭 알아야하는 기술들](https://www.samsungsds.com/global/ko/support/insights/Responsive_web_1.html)
+- [그로스 만병통치약의 허와 실](https://brunch.co.kr/@netking77/2)
+- [Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다. [번역]](https://gist.github.com/Hazealign/1bbc586ded1649a8f08f)
+- [Intellij Setting 동기화하기](https://nesoy.github.io/articles/2019-08/Intellij-Setting-Sync)
+- [우아한 테크 - 멀티모듈 설계 세미나 정리(jojoldu blog)](https://jojoldu.tistory.com/444)
+- [HTTPS 전환 과정에서 read timeout 오류 해결 과정](https://d2.naver.com/helloworld/1469717)
+- [비동기 프로그래밍이 뭔가요?](https://www.youtube.com/watch?v=m0icCqHY39U)
+- [리디북스 서비스 장애 복구 후기](https://www.ridicorp.com/blog/2016/09/02/idc-outage/)
 - [CSS Grid Garden](http://cssgridgarden.com/#ko)
 - [CSS FLEXBOX Froggy](http://flexboxfroggy.com/#ko)
 - [CSS Flexbox](https://flexbox.help/)
+- [HTTP에서부터 WEBSOCKET까지](https://medium.com/@chullino/http%EC%97%90%EC%84%9C%EB%B6%80%ED%84%B0-websocket%EA%B9%8C%EC%A7%80-94df91988788)
+- [React Native로 성공적인 MVP 개발하기](https://drive.google.com/file/d/1LKtyaDE9qnrqOeJvQRhIhWqdZ229ofR7/view)
+- [생산성 향상 - 비기는 없다](https://cheese10yun.github.io/%EC%83%9D%EC%82%B0%EC%84%B1%ED%96%A5%EC%83%81/)
+- [Ansible(앤서블)로 전체 서버 사용자 추가하기](https://jojoldu.tistory.com/432?category=777282)
+- [30개의 와이어프레임 examples](https://designseer.com/website-wireframe-examples/)
+- [MongoDB 한 페이지에 끝내기](https://blog.voidmainvoid.net/239)
+- [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
+- [더 작은 APK를 위한 Android App Bundle에 대해서](https://medium.com/daangn/%EB%8D%94-%EC%9E%91%EC%9D%80-apk%EB%A5%BC-%EC%9C%84%ED%95%9C-android-app-bundle%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-345a656eee85)
+- [이동욱님의 2019 상반기 회고](https://jojoldu.tistory.com/436)
+- [SpringBoot기반 Redis Cache 활용법](https://link.medium.com/ZFeC4JCSUY)
+- [웹 MVC 프레임워크](https://blog.outsider.ne.kr/903?category=2)
+- [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
+- [개인의 '성장'과 회사의 '성장'
+'성장'에 갈증을 느끼는 사람을 위하여(개발자 편)](https://brunch.co.kr/@chickenmoim/7)
+- [아파치 로드밸런싱으로 여러 WAS 운영하기](https://taetaetae.github.io/2019/08/04/apache-load-balancing/)
+- [당신의 사이드 프로젝트를 위한 10가지 팁](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects)
+- [흔한 주니어 개발자의 VueJS 책 집필기](https://blog.martinwork.co.kr/review/2019/07/18/publish-book-for-beginner.html)
+- [MSA, K8S를 이용한 대륙의 서비스 개발 사례](https://www.slideshare.net/mobile/babokim/open-infradays-2019msak8s)
+- [mage 요소 아래에 패딩된 여분의 공간 제거하기](https://poiemaweb.com/css3-removing-white-space-image-element)
+- [스프링기반 테스트 코드 작성에 대한 고찰](https://github.com/cheese10yun/blog-sample/blob/master/test-code/README.md)
+- [kafka burrow를 사용하여 consumer의 상태를 판별하기](https://blog.voidmainvoid.net/244)
+- [git 팁 - 잘못 커밋한 대용량 파일 처리하기](https://youtu.be/yd1TO-my6lw)
+- [Github에 100MB 이상의 파일을 올리는 방법](https://medium.com/@stargt/github%EC%97%90-100mb-%EC%9D%B4%EC%83%81%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95-9d9e6e3b94ef)
+- [카카오 개발자가 본 ‘요즘 클라우드 흐름’ 세 가지](http://m.zdnet.co.kr/news_view.asp?article_id=20190721085551&re=zdk#imadnews)
+- [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
+- [Dagger 적용기](http://woowabros.github.io/experience/2019/07/31/android-dagger.html)
+- [나는 "코더"다](http://toby.epril.com/?p=897)
+- [PM 이직기입니다](https://medium.com/@sean26/product-manager%EC%9D%98-%EC%9D%B4%EC%A7%81-%ED%83%90%ED%97%98%EA%B8%B0-1-cfa002f2233e)
+- [멀티모듈 설계 이야기 with Spring, Gradle](http://woowabros.github.io/study/2019/07/01/multi-module.html)
+- [내게 실용적이었던 프로그래밍 공부 방법들](https://velog.io/@city7310/%EB%82%B4%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D)
+- [(Docker) Spring Boot Application Image 최적화하기](https://perfectacle.github.io/2019/04/16/spring-boot-docker-image-optimization/)
+- [현직 우버 개발자가 느낀 신입 개발자들이 제일 많이 하는 실수 3가지](https://www.youtube.com/watch?v=6qcQd4HPpTU)
+- [테스트자동화와 TDD [슬라이드]](https://www.slideshare.net/debop/tdd-67066777?from_m_app=ios)
+- [I/O에서 발표된 Android의 현재를 정리해보았습니다. [번역]](https://developers-kr.googleblog.com/2019/08/whats-now-in-android.html)
+- [Hardening Your HTTP Security Headers](https://www.keycdn.com/blog/)
+- [테스트 용이성(Testability) 향상을 위한 델리게이션(Delegation)](https://www.popit.kr/%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9a%a9%ec%9d%b4%ec%84%b1testability-%ed%96%a5%ec%83%81%ec%9d%84-%ec%9c%84%ed%95%9c-%eb%8d%b8%eb%a6%ac%ea%b2%8c%ec%9d%b4%ec%85%98delegation/)
+- [질의형 인터페이스 입력 UI 원칙](https://brunch.co.kr/@ebprux/742)
+- [쿠버네티스 네트워킹 이해하기 [번역]](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
+- [갈피: 나의 첫 모바일 앱 개발기](https://ahnheejong.name/articles/galpi-development-diary/)
+- [CloudWatch 메트릭 그래프 스냅샷 만들기](https://brunch.co.kr/@alden/53)
+- [Top UI/UX Design Works for Inspiration](https://uxplanet.org/top-ui-ux-design-inspiration-f9a4bdc6e378)
+- [개인정보보호를 위한 망분리 법령 분석(왜 망분리를 해야하나?)](https://blogger.pe.kr/618)
+- [정규표현식으로 5일 걸리는 작업, 15분만에 끝내기 [번역]](https://medium.com/@jwyeom63/%EB%B2%88%EC%97%AD-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9C%BC%EB%A1%9C-5%EC%9D%BC-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9E%91%EC%97%85-15%EB%B6%84%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-2e615a907048)
+- [동형암호화와 블록체인의 개인정보보호](https://medium.com/humanscape-tech/%EB%8F%99%ED%98%95%EC%95%94%ED%98%B8%ED%99%94%EC%99%80-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%98-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8-c290e30cac67)
+- [야놀자를 떠나며.. (feat.레저큐)](https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq/#disqus_thread)
+- [iOS 프리랜서로 산다는 것](https://youtu.be/1QlneFvP0K8)
+- [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
+- [hashCode 메소드](https://johngrib.github.io/wiki/Object-hashCode/)
+- [jQuery를 배워야할까? - 노마드 코더](https://youtu.be/6FnkGKYK6iQ)
+- ["프로젝트가 서쪽으로 가는 까닭은" 요약](https://blog.ordinarysimple.com/posts/book/2019/2019-08-14-adrenaline-junkies/)
+- [20 essential terms in web development](https://link.medium.com/s5LuepzYtZ)
+- [보일러플레이트란 대체 무엇인가](https://brunch.co.kr/@kooslab/144)
+- [Linux 퍼포먼스 60s 분석 [영문]](https://link.medium.com/o4WHJtN9sZ)
+- [개발자가 공부로 살아남는 방법](https://evan-moon.github.io/2019/08/26/how-does-developer-study/)
+- [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
+
 
 --------------------------------------
 </br>
@@ -228,7 +317,7 @@
 - [우아한형제들 이동욱(jojoldu) 개발자 인터뷰](https://www.imaso.co.kr/archives/4869)
 - [<개발자의 글쓰기> 원본 공개](https://drive.google.com/file/d/1ELeCi_1UzCEkj-UDSLM44h9HcgGiDQrb/view)
 - [40대 후반 개발자의 고민에 대하여](https://brunch.co.kr/@nashorn74/18)
-- [2019년 업데이트 - 내 마음대로 선정한 개발자/프로그래머 추천도서(필독서) 50선](https://www.sangkon.com/2018/08/27/good_books_for_dev_2018/)
+- [2019년 업데이트 - 내 마음대로 선정한 개발자/프로그래머 추천도서(필독서) 50선](https://www.sangkon.com/good_books_for_dev_2018/)
 - [싱가폴에서 일하는 데이터 엔지니어 이야기](https://brunch.co.kr/@imagineer/314)
 - [프로그래머는 몇 살까지 할 수 있나](https://m.blog.naver.com/birdparang/221525024009)
 - [개발자의 실력 vs 학력](https://brunch.co.kr/@mystoryg/66)
@@ -620,6 +709,7 @@
 - [우아한테크토크 - 선착순 이벤트 서버 생존기! 47만 RPM에서 살아남기](https://www.youtube.com/watch?v=MTSn93rNPPE)
 - [ECS를 이용한 Serverless Batch 서버](https://medium.com/myrealtrip-product/ecs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-serverless-%EB%B0%B0%EC%B9%98-%EC%84%9C%EB%B2%84-63421bf55e67)
 - [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기(GitOps CI/CD) [슬라이드]](https://www.slideshare.net/mobile/subicura/gitops-cicd-156402754)
+- [이벤트 기반 분산 시스템을 향한 여정 [슬라이드]](https://www.slideshare.net/arawnkr/ss-94475606)
 
 --------------------------------------
 
@@ -947,7 +1037,7 @@
 - [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
 - [Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)
 - [Github blog로 결혼식 청첩장 만들기](https://blog.voidmainvoid.net/217)
-
+- [사람들이 잘 안알려주는 GitHub 팁](https://medium.com/@kkweon/%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%98-%EC%95%88%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-github-%ED%8C%81-941e4d644402)
 
 --------------------------------------
 
