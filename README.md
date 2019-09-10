@@ -58,6 +58,8 @@
 - [IoC, DI란 무엇일까](https://biggwang.github.io/2019/08/31/Spring/IoC,%20DI란%20무엇일까/)
 
 #### 2019년 9월 9일 월요일
+- [협업이 힘들었던 개발자의 특성](https://millenial-dev.tistory.com/15?fbclid=IwAR2SRXvPDeaxSdmK4L4blAScBEoubbIU-hvdlPbVTlLhczXSiDaSIEZFde0)
+- [커밋 히스토리를 이쁘게 관리하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/?fbclid=IwAR2A8rQIpndhz3SJuArm6gWlw-y2a5vEylloYWoOsNqOAZADWXkUBYwFTRg)
 - [Elasticsearch 버전 업데이트 썰 (Nori 형태소 분석기 shallow dive) [영상]](https://www.youtube.com/watch?v=UgJQQ-1HHaw)
 - [EKS 서비스 사용법 및 예제](https://blog.wonizz.tk/2019/09/09/aws-eks/)
 - [네트워크 모니터링이 궁금할땐 ? Packetbeat !](https://taetaetae.github.io/2019/09/08/network-monitor-by-packetbeat/)
@@ -67,7 +69,7 @@
 
 #### 2019년 9월 6일 금요일
 - [구글의 코드 리뷰 가이드](https://google.github.io/eng-practices/review/)
-   
+
 
 #### 밀린 컨텐츠들
 - [컨테이너와 쿠버네티스 쉽게 이해하기](https://medium.com/@dodghekgoo/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%A5%BC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-3bd07ff0a02d)
