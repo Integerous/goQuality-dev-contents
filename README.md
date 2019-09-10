@@ -46,9 +46,16 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 9월 11일 수요일
+-
+-
+
 #### 2019년 9월 10일 화요일
--
--
+- [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/)
+- [프론트엔드 개발자 학습 방향](https://youtu.be/02RCNUF-2Vw)
+- [당신의 API가 Restful 하지 않은 5가지 증거](https://beyondj2ee.wordpress.com/2013/03/21/당신의-api가-restful-하지-않은-5가지-증거/)
+- [클라우드에서 트랜잭션 관리 - 트랜잭션의 기초 및 분산 트랜잭션](https://developer.ibm.com/kr/developer-%EA%B8%B0%EC%88%A0-%ED%8F%AC%EB%9F%BC/2017/08/14/%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%97%86%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
+- [IoC, DI란 무엇일까](https://biggwang.github.io/2019/08/31/Spring/IoC,%20DI란%20무엇일까/)
 
 #### 2019년 9월 9일 월요일
 - [Elasticsearch 버전 업데이트 썰 (Nori 형태소 분석기 shallow dive) [영상]](https://www.youtube.com/watch?v=UgJQQ-1HHaw)
