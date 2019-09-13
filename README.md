@@ -46,9 +46,13 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 9월 14일 토요일
+-
+-
+
 #### 2019년 9월 13일 금요일
--
--
+- [깃허브 대 비트버킷 대 깃랩: 개발자의 마음을 사기 위한 치열한 경쟁 - ITWorld Korea -](http://www.itworld.co.kr/news/109976?page=0,0)
+- [if kakao 2019 발표자료&영상](https://if.kakao.com/program)
 
 #### 2019년 9월 11일 수요일
 - [검색엔진과 DB Like 검색의 결과가 다른 이유](https://www.slideshare.net/mobile/heungrae_kim/db-like)
