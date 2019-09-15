@@ -46,9 +46,11 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 9월 15일 일요일
+- [14일만에 GitHub 스타 1K 받은 차트 오픈소스 개발기](https://www.slideshare.net/netil/deview-2017-14-github-1k)
+
 #### 2019년 9월 14일 토요일
 - [Ajax & CORS Overview](https://wit.nts-corp.com/2014/04/22/1400)
--
 
 #### 2019년 9월 13일 금요일
 - [깃허브 대 비트버킷 대 깃랩: 개발자의 마음을 사기 위한 치열한 경쟁 - ITWorld Korea -](http://www.itworld.co.kr/news/109976?page=0,0)
@@ -59,16 +61,13 @@
 - [MSA에서 메시징 트랜잭션 처리하기](https://www.popit.kr/msa에서-메시징-트랜잭션-처리하기/)
 - [Git fork와 clone의 차이점](https://velog.io/@imacoolgirlyo/Git-fork%EC%99%80-clone-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-5sjuhwfzgp)
 
-#### 2019년 9월 10일 화요일
+
+#### 밀린 컨텐츠들
 - [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/)
 - [프론트엔드 개발자 학습 방향](https://youtu.be/02RCNUF-2Vw)
 - [당신의 API가 Restful 하지 않은 5가지 증거](https://beyondj2ee.wordpress.com/2013/03/21/당신의-api가-restful-하지-않은-5가지-증거/)
 - [클라우드에서 트랜잭션 관리 - 트랜잭션의 기초 및 분산 트랜잭션](https://developer.ibm.com/kr/developer-%EA%B8%B0%EC%88%A0-%ED%8F%AC%EB%9F%BC/2017/08/14/%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%97%86%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 - [IoC, DI란 무엇일까](https://biggwang.github.io/2019/08/31/Spring/IoC,%20DI란%20무엇일까/)
-
-
-
-#### 밀린 컨텐츠들
 - [협업이 힘들었던 개발자의 특성](https://millenial-dev.tistory.com/15?fbclid=IwAR2SRXvPDeaxSdmK4L4blAScBEoubbIU-hvdlPbVTlLhczXSiDaSIEZFde0)
 - [커밋 히스토리를 이쁘게 관리하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/?fbclid=IwAR2A8rQIpndhz3SJuArm6gWlw-y2a5vEylloYWoOsNqOAZADWXkUBYwFTRg)
 - [Elasticsearch 버전 업데이트 썰 (Nori 형태소 분석기 shallow dive) [영상]](https://www.youtube.com/watch?v=UgJQQ-1HHaw)
