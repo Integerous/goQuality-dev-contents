@@ -44,6 +44,8 @@
 # :mailbox: Queue
 >컨텐츠 링크를 이 곳에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
+- [비전공 개발자가 전공자보다 정말 불리할까?](https://evan-moon.github.io/2019/09/09/major-is-not-important/)
+- [TIL을 1년동안 진행하며](https://junwoo45.github.io/2019-09-10-til_%ED%9B%84%EA%B8%B0/)
 
 
 #### 2019년 9월 15일 일요일
