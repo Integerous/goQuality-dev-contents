@@ -46,23 +46,27 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 9월 17일 화요일
+-
+-
+
+#### 2019년 9월 16일 월요일
+- [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
+
 #### 2019년 9월 15일 일요일
 - [14일만에 GitHub 스타 1K 받은 차트 오픈소스 개발기](https://www.slideshare.net/netil/deview-2017-14-github-1k)
 
 #### 2019년 9월 14일 토요일
 - [Ajax & CORS Overview](https://wit.nts-corp.com/2014/04/22/1400)
 
-#### 2019년 9월 13일 금요일
-- [깃허브 대 비트버킷 대 깃랩: 개발자의 마음을 사기 위한 치열한 경쟁 - ITWorld Korea -](http://www.itworld.co.kr/news/109976?page=0,0)
-- [if kakao 2019 발표자료&영상](https://if.kakao.com/program)
-
-#### 2019년 9월 11일 수요일
-- [검색엔진과 DB Like 검색의 결과가 다른 이유](https://www.slideshare.net/mobile/heungrae_kim/db-like)
-- [MSA에서 메시징 트랜잭션 처리하기](https://www.popit.kr/msa에서-메시징-트랜잭션-처리하기/)
-- [Git fork와 clone의 차이점](https://velog.io/@imacoolgirlyo/Git-fork%EC%99%80-clone-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-5sjuhwfzgp)
 
 
 #### 밀린 컨텐츠들
+- [깃허브 대 비트버킷 대 깃랩: 개발자의 마음을 사기 위한 치열한 경쟁 - ITWorld Korea -](http://www.itworld.co.kr/news/109976?page=0,0)
+- [if kakao 2019 발표 자료 & 영상](https://if.kakao.com/program)
+- [검색엔진과 DB Like 검색의 결과가 다른 이유](https://www.slideshare.net/mobile/heungrae_kim/db-like)
+- [MSA에서 메시징 트랜잭션 처리하기](https://www.popit.kr/msa에서-메시징-트랜잭션-처리하기/)
+- [Git fork와 clone의 차이점](https://velog.io/@imacoolgirlyo/Git-fork%EC%99%80-clone-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-5sjuhwfzgp)
 - [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/)
 - [프론트엔드 개발자 학습 방향](https://youtu.be/02RCNUF-2Vw)
 - [당신의 API가 Restful 하지 않은 5가지 증거](https://beyondj2ee.wordpress.com/2013/03/21/당신의-api가-restful-하지-않은-5가지-증거/)
