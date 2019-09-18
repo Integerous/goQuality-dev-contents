@@ -46,7 +46,7 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 9월 18일 수요일
+#### 2019년 9월 19일 목요일
 - **(이 곳에 추가해주세요)**
 -
 
@@ -58,11 +58,9 @@
 #### 2019년 9월 16일 월요일
 - [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
 
-#### 2019년 9월 15일 일요일
-- [14일만에 GitHub 스타 1K 받은 차트 오픈소스 개발기](https://www.slideshare.net/netil/deview-2017-14-github-1k)
-
 
 #### 밀린 컨텐츠들
+- [14일만에 GitHub 스타 1K 받은 차트 오픈소스 개발기](https://www.slideshare.net/netil/deview-2017-14-github-1k)
 - [Ajax & CORS Overview](https://wit.nts-corp.com/2014/04/22/1400)
 - [깃허브 대 비트버킷 대 깃랩: 개발자의 마음을 사기 위한 치열한 경쟁 - ITWorld Korea -](http://www.itworld.co.kr/news/109976?page=0,0)
 - [if kakao 2019 발표 자료 & 영상](https://if.kakao.com/program)
@@ -144,19 +142,14 @@
 - [CloudWatch 메트릭 그래프 스냅샷 만들기](https://brunch.co.kr/@alden/53)
 - [Top UI/UX Design Works for Inspiration](https://uxplanet.org/top-ui-ux-design-inspiration-f9a4bdc6e378)
 - [개인정보보호를 위한 망분리 법령 분석(왜 망분리를 해야하나?)](https://blogger.pe.kr/618)
-- [정규표현식으로 5일 걸리는 작업, 15분만에 끝내기 [번역]](https://medium.com/@jwyeom63/%EB%B2%88%EC%97%AD-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9C%BC%EB%A1%9C-5%EC%9D%BC-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9E%91%EC%97%85-15%EB%B6%84%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-2e615a907048)
 - [동형암호화와 블록체인의 개인정보보호](https://medium.com/humanscape-tech/%EB%8F%99%ED%98%95%EC%95%94%ED%98%B8%ED%99%94%EC%99%80-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%98-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8-c290e30cac67)
-- [야놀자를 떠나며.. (feat.레저큐)](https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq/#disqus_thread)
 - [iOS 프리랜서로 산다는 것](https://youtu.be/1QlneFvP0K8)
-- [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
 - [hashCode 메소드](https://johngrib.github.io/wiki/Object-hashCode/)
 - [jQuery를 배워야할까? - 노마드 코더](https://youtu.be/6FnkGKYK6iQ)
 - ["프로젝트가 서쪽으로 가는 까닭은" 요약](https://blog.ordinarysimple.com/posts/book/2019/2019-08-14-adrenaline-junkies/)
-- [20 essential terms in web development](https://link.medium.com/s5LuepzYtZ)
-- [보일러플레이트란 대체 무엇인가](https://brunch.co.kr/@kooslab/144)
-- [Linux 퍼포먼스 60s 분석 [영문]](https://link.medium.com/o4WHJtN9sZ)
-- [개발자가 공부로 살아남는 방법](https://evan-moon.github.io/2019/08/26/how-does-developer-study/)
-- [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
+
+
+
 
 
 --------------------------------------
@@ -343,6 +336,8 @@
 - [개발을 잘하고 싶어요 - 네이버랩스 송기선님](https://www.slideshare.net/deview/ss-58739254)
 - [내게 실용적이었던 프로그래밍 공부 방법들](https://velog.io/@city7310/%EB%82%B4%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D)
 - [IT직군별(개발,기획,디자인,마케터,대표) 동상이몽에 대하여…](https://medium.com/@baejinho/it%EC%A7%81%EA%B5%B0%EB%B3%84-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%A7%88%EC%BC%80%ED%84%B0-%EB%8C%80%ED%91%9C-%EB%8F%99%EC%83%81%EC%9D%B4%EB%AA%BD%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-3304929f7ab5)
+- [개발자가 공부로 살아남는 방법](https://evan-moon.github.io/2019/08/26/how-does-developer-study/)
+- [야놀자를 떠나며.. (feat.레저큐)](https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq/#disqus_thread)
 
 --------------------------------------
 
@@ -778,6 +773,7 @@
 - [Linux에서 메모리를 다 써버렸을 때 일어나는 일 [번역]](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-linux%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A5%BC-%EB%8B%A4-%EC%8D%A8%EB%B2%84%EB%A0%B8%EC%9D%84-%EB%95%8C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC-9dadba29c89c)
 - [운영체제 개념정리](https://brunch.co.kr/@toughrogrammer/15)
 - [고급 Bash 스크립팅 가이드 [번역]](https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/)
+- [Linux 퍼포먼스 60s 분석 [영문]](https://link.medium.com/o4WHJtN9sZ)
 
 --------------------------------------
 
@@ -926,7 +922,7 @@
 - [스크롤과 관련된 CSS 속성 3가지](https://taegon.kim/archives/9807)
 - [모바일 UI·UX 디자인시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/8)
 - [css의 7가지 단위](https://webclub.tistory.com/356)
-
+- [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
 
 --------------------------------------
 
@@ -1054,6 +1050,7 @@
 - [Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)
 - [Github blog로 결혼식 청첩장 만들기](https://blog.voidmainvoid.net/217)
 - [사람들이 잘 안알려주는 GitHub 팁](https://medium.com/@kkweon/%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%98-%EC%95%88%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-github-%ED%8C%81-941e4d644402)
+- [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
 
 --------------------------------------
 
@@ -1087,6 +1084,7 @@
 - [데이터 사이언스 학습자료 모음](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki)
 - [데이터 엔지니어가 하는 일](https://brunch.co.kr/@imagineer/301)
 - [빅데이터를 넘어 패스트 데이터 시대로](https://brunch.co.kr/@imagineer/302)
+- [정규표현식으로 5일 걸리는 작업, 15분만에 끝내기 [번역]](https://medium.com/@jwyeom63/%EB%B2%88%EC%97%AD-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9C%BC%EB%A1%9C-5%EC%9D%BC-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9E%91%EC%97%85-15%EB%B6%84%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-2e615a907048)
 
 ### 머신러닝 & 딥러닝 & AI
 - [머신러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
