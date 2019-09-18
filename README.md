@@ -48,7 +48,12 @@
 
 #### 2019년 9월 18일 수요일
 - **(이 곳에 추가해주세요)**
--
+- [비전공 개발자가 전공자보다 정말 불리할까?](https://evan-moon.github.io/2019/09/09/major-is-not-important/)
+- [TIL을 1년동안 진행하며](https://junwoo45.github.io/2019-09-10-til_%ED%9B%84%EA%B8%B0/)
+- [본격 macOS에 개발 환경 구축하기](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
+- [Intersection Observer API의 사용법과 활용방법](http://blog.hyeyoonjung.com/2019/01/09/intersectionobserver-tutorial/)
+- [event-stream 공격 사건의 전말](https://blog.ull.im/engineering/2018/11/30/event-stream-issue.html)
+
 
 #### 2019년 9월 17일 화요일
 - [휴면 계정 처리 – 배치에서 온라인 시스템으로](http://www.chidoo.me/index.php/2019/09/14/from-batch-to-online-processing-in-msa/)
