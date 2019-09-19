@@ -142,19 +142,6 @@
 - [Hardening Your HTTP Security Headers](https://www.keycdn.com/blog/)
 - [테스트 용이성(Testability) 향상을 위한 델리게이션(Delegation)](https://www.popit.kr/%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9a%a9%ec%9d%b4%ec%84%b1testability-%ed%96%a5%ec%83%81%ec%9d%84-%ec%9c%84%ed%95%9c-%eb%8d%b8%eb%a6%ac%ea%b2%8c%ec%9d%b4%ec%85%98delegation/)
 - [질의형 인터페이스 입력 UI 원칙](https://brunch.co.kr/@ebprux/742)
-- [쿠버네티스 네트워킹 이해하기 [번역]](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
-- [갈피: 나의 첫 모바일 앱 개발기](https://ahnheejong.name/articles/galpi-development-diary/)
-- [CloudWatch 메트릭 그래프 스냅샷 만들기](https://brunch.co.kr/@alden/53)
-- [Top UI/UX Design Works for Inspiration](https://uxplanet.org/top-ui-ux-design-inspiration-f9a4bdc6e378)
-- [개인정보보호를 위한 망분리 법령 분석(왜 망분리를 해야하나?)](https://blogger.pe.kr/618)
-- [동형암호화와 블록체인의 개인정보보호](https://medium.com/humanscape-tech/%EB%8F%99%ED%98%95%EC%95%94%ED%98%B8%ED%99%94%EC%99%80-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%98-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8-c290e30cac67)
-- [iOS 프리랜서로 산다는 것](https://youtu.be/1QlneFvP0K8)
-- [hashCode 메소드](https://johngrib.github.io/wiki/Object-hashCode/)
-- [jQuery를 배워야할까? - 노마드 코더](https://youtu.be/6FnkGKYK6iQ)
-- ["프로젝트가 서쪽으로 가는 까닭은" 요약](https://blog.ordinarysimple.com/posts/book/2019/2019-08-14-adrenaline-junkies/)
-
-
-
 
 
 --------------------------------------
@@ -567,6 +554,7 @@
 - [Spring에서 Request를 우아하게 로깅하기](https://taetaetae.github.io/2019/06/30/controller-common-logging/)
 - [네이버 동영상 플랫폼 개발 프레임워크의 Spring Boot 전환기](https://d2.naver.com/helloworld/5626759)
 - [멀티모듈 설계 이야기 with Spring, Gradle](http://woowabros.github.io/study/2019/07/01/multi-module.html)
+- [hashCode 메소드](https://johngrib.github.io/wiki/Object-hashCode/)
 
 --------------------------------------
 
@@ -726,6 +714,8 @@
 - [ECS를 이용한 Serverless Batch 서버](https://medium.com/myrealtrip-product/ecs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-serverless-%EB%B0%B0%EC%B9%98-%EC%84%9C%EB%B2%84-63421bf55e67)
 - [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기(GitOps CI/CD) [슬라이드]](https://www.slideshare.net/mobile/subicura/gitops-cicd-156402754)
 - [이벤트 기반 분산 시스템을 향한 여정 [슬라이드]](https://www.slideshare.net/arawnkr/ss-94475606)
+- [CloudWatch 메트릭 그래프 스냅샷 만들기](https://brunch.co.kr/@alden/53)
+- [쿠버네티스 네트워킹 이해하기 [번역]](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
 
 --------------------------------------
 
@@ -887,6 +877,7 @@
 - [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
 - [JavaScript 바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자](https://moonformeli.tistory.com/28)
 - [2019년과 이후 자바스크립트 동향](https://d2.naver.com/helloworld/4007447)
+- [jQuery를 배워야할까? [영상]](https://youtu.be/6FnkGKYK6iQ)
 
 --------------------------------------
 
@@ -928,6 +919,8 @@
 - [모바일 UI·UX 디자인시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/8)
 - [css의 7가지 단위](https://webclub.tistory.com/356)
 - [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
+- [Top UI/UX Design Works for Inspiration](https://uxplanet.org/top-ui-ux-design-inspiration-f9a4bdc6e378)
+
 
 --------------------------------------
 
@@ -946,6 +939,9 @@
 - [타다 클라이언트 개발기](http://engineering.vcnc.co.kr/2019/05/tada-client-development/)
 - [React Native를 이용한 어플리케이션 개발 기록](https://dev-yakuza.github.io/ko/react-native/)
 - [Android: RecyclerView에서 텍스트 레아이웃 미리 계산하기](https://developers-kr.googleblog.com/2018/08/prefetch-text-layout-in-recyclerview.html)
+- [iOS 프리랜서로 산다는 것 [영상]](https://youtu.be/1QlneFvP0K8)
+- [갈피: 나의 첫 모바일 앱 개발기](https://ahnheejong.name/articles/galpi-development-diary/)
+
 
 --------------------------------------
 </br>
