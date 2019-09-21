@@ -50,6 +50,9 @@
 - **(이 곳에 추가해주세요)**
 -
 
+#### 2019년 9월 20일 금요일
+- [플러터를 배우기 위한 강좌 및 사이트 추천](https://medium.com/@sangin84/flutter-%ED%94%8C%EB%9F%AC%ED%84%B0-%EB%A5%BC-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EA%B0%95%EC%A2%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EC%B2%9C-97bfee35b20)
+
 #### 2019년 9월 19일 목요일
 - [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
 - [개발자 머피의 법칙](http://woowabros.github.io/experience/2019/09/19/programmer-murphy-law.html)
@@ -57,13 +60,11 @@
 - [JDK 13 둘러보기](https://johngrib.github.io/wiki/jdk13/)
 - [Kafka 개념정리](https://www.slipp.net/wiki/plugins/servlet/mobile?contentId=30772803#content/view/30772803)
 
-#### 2019년 9월 17일 화요일
+
+#### 밀린 컨텐츠들
 - [휴면 계정 처리 – 배치에서 온라인 시스템으로](http://www.chidoo.me/index.php/2019/09/14/from-batch-to-online-processing-in-msa/)
 - [테스트 상태인 Private 메소드를 Public메소드로 변환시 Unit Testing은 어떻게 해야하나?](https://www.slipp.net/questions/253)
 - [sql 쿼리에서 따옴표의 사용 MySQL 에러 1064(42000) 관련 도움](https://chartio.com/learn/sql-tips/single-double-quote-and-backticks-in-mysql-queries/)
-
-
-#### 밀린 컨텐츠들
 - [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
 - [14일만에 GitHub 스타 1K 받은 차트 오픈소스 개발기](https://www.slideshare.net/netil/deview-2017-14-github-1k)
 - [Ajax & CORS Overview](https://wit.nts-corp.com/2014/04/22/1400)
