@@ -117,35 +117,6 @@
 - [MongoDB 한 페이지에 끝내기](https://blog.voidmainvoid.net/239)
 - [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
 - [더 작은 APK를 위한 Android App Bundle에 대해서](https://medium.com/daangn/%EB%8D%94-%EC%9E%91%EC%9D%80-apk%EB%A5%BC-%EC%9C%84%ED%95%9C-android-app-bundle%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-345a656eee85)
-- [이동욱님의 2019 상반기 회고](https://jojoldu.tistory.com/436)
-- [SpringBoot기반 Redis Cache 활용법](https://link.medium.com/ZFeC4JCSUY)
-- [웹 MVC 프레임워크](https://blog.outsider.ne.kr/903?category=2)
-- [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
-- [개인의 '성장'과 회사의 '성장'
-'성장'에 갈증을 느끼는 사람을 위하여(개발자 편)](https://brunch.co.kr/@chickenmoim/7)
-- [아파치 로드밸런싱으로 여러 WAS 운영하기](https://taetaetae.github.io/2019/08/04/apache-load-balancing/)
-- [당신의 사이드 프로젝트를 위한 10가지 팁](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects)
-- [흔한 주니어 개발자의 VueJS 책 집필기](https://blog.martinwork.co.kr/review/2019/07/18/publish-book-for-beginner.html)
-- [MSA, K8S를 이용한 대륙의 서비스 개발 사례](https://www.slideshare.net/mobile/babokim/open-infradays-2019msak8s)
-- [mage 요소 아래에 패딩된 여분의 공간 제거하기](https://poiemaweb.com/css3-removing-white-space-image-element)
-- [스프링기반 테스트 코드 작성에 대한 고찰](https://github.com/cheese10yun/blog-sample/blob/master/test-code/README.md)
-- [kafka burrow를 사용하여 consumer의 상태를 판별하기](https://blog.voidmainvoid.net/244)
-- [git 팁 - 잘못 커밋한 대용량 파일 처리하기](https://youtu.be/yd1TO-my6lw)
-- [Github에 100MB 이상의 파일을 올리는 방법](https://medium.com/@stargt/github%EC%97%90-100mb-%EC%9D%B4%EC%83%81%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95-9d9e6e3b94ef)
-- [카카오 개발자가 본 ‘요즘 클라우드 흐름’ 세 가지](http://m.zdnet.co.kr/news_view.asp?article_id=20190721085551&re=zdk#imadnews)
-- [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
-- [Dagger 적용기](http://woowabros.github.io/experience/2019/07/31/android-dagger.html)
-- [나는 "코더"다](http://toby.epril.com/?p=897)
-- [PM 이직기입니다](https://medium.com/@sean26/product-manager%EC%9D%98-%EC%9D%B4%EC%A7%81-%ED%83%90%ED%97%98%EA%B8%B0-1-cfa002f2233e)
-- [멀티모듈 설계 이야기 with Spring, Gradle](http://woowabros.github.io/study/2019/07/01/multi-module.html)
-- [내게 실용적이었던 프로그래밍 공부 방법들](https://velog.io/@city7310/%EB%82%B4%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D)
-- [(Docker) Spring Boot Application Image 최적화하기](https://perfectacle.github.io/2019/04/16/spring-boot-docker-image-optimization/)
-- [현직 우버 개발자가 느낀 신입 개발자들이 제일 많이 하는 실수 3가지](https://www.youtube.com/watch?v=6qcQd4HPpTU)
-- [테스트자동화와 TDD [슬라이드]](https://www.slideshare.net/debop/tdd-67066777?from_m_app=ios)
-- [I/O에서 발표된 Android의 현재를 정리해보았습니다. [번역]](https://developers-kr.googleblog.com/2019/08/whats-now-in-android.html)
-- [Hardening Your HTTP Security Headers](https://www.keycdn.com/blog/)
-- [테스트 용이성(Testability) 향상을 위한 델리게이션(Delegation)](https://www.popit.kr/%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9a%a9%ec%9d%b4%ec%84%b1testability-%ed%96%a5%ec%83%81%ec%9d%84-%ec%9c%84%ed%95%9c-%eb%8d%b8%eb%a6%ac%ea%b2%8c%ec%9d%b4%ec%85%98delegation/)
-- [질의형 인터페이스 입력 UI 원칙](https://brunch.co.kr/@ebprux/742)
 
 
 --------------------------------------
@@ -334,6 +305,9 @@
 - [IT직군별(개발,기획,디자인,마케터,대표) 동상이몽에 대하여…](https://medium.com/@baejinho/it%EC%A7%81%EA%B5%B0%EB%B3%84-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%A7%88%EC%BC%80%ED%84%B0-%EB%8C%80%ED%91%9C-%EB%8F%99%EC%83%81%EC%9D%B4%EB%AA%BD%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-3304929f7ab5)
 - [개발자가 공부로 살아남는 방법](https://evan-moon.github.io/2019/08/26/how-does-developer-study/)
 - [야놀자를 떠나며.. (feat.레저큐)](https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq/#disqus_thread)
+- [내게 실용적이었던 프로그래밍 공부 방법들](https://velog.io/@city7310/%EB%82%B4%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D)
+- [당신의 사이드 프로젝트를 위한 10가지 팁](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects)
+- ['성장'에 갈증을 느끼는 사람을 위하여(개발자 편)](https://brunch.co.kr/@chickenmoim/7)
 
 --------------------------------------
 
@@ -366,7 +340,7 @@
 - [줌인터넷 신입사원 파일럿 프로젝트 후기](https://zuminternet.github.io/ZUM-Pilot-integer/)
 - [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
 - [어떤 주니어 개발자의 이야기](https://medium.com/@codesquad_yoda/%EC%BD%94%EB%94%A9-%EC%96%B4%EB%96%A4-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-1d210f2f4dae)
-
+- [현직 우버 개발자가 느낀 신입 개발자들이 제일 많이 하는 실수 3가지](https://www.youtube.com/watch?v=6qcQd4HPpTU)
 
 --------------------------------------
 
@@ -405,6 +379,8 @@
 - [창천항로님의 2018년 하반기 회고](https://jojoldu.tistory.com/373)
 - [Velopert님의 2018년 회고](https://velog.io/@velopert/2018.log)
 - [권용근님의 2018년 회고 - 3년차 웹 개발자](http://blog.kingbbode.com/posts/who-am-i-3)
+- [이동욱님의 2019 상반기 회고](https://jojoldu.tistory.com/436)
+
 
 --------------------------------------
 
@@ -442,6 +418,8 @@
 - [개발자 인터뷰에서 면접관에게 할 만한 질문 모음](https://gomcine.tistory.com/entry/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%9E%85%EC%82%AC%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EB%A9%B4%EC%A0%91%EA%B4%80%EC%97%90%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0-%EC%A7%88%EB%AC%B8)
 - [블록체인 개발사 면접 오픈북과 지원자의 답변 공유](https://okky.kr/article/583445)
 - [대기업 IT직군 코딩테스트 합격을 위한 현실적이고 직관적인 공부 순서 [영상]](https://www.youtube.com/watch?v=ukkLCl9yBvE)
+- [Product Manager의 이직 탐험기 #1](https://medium.com/@sean26/product-manager%EC%9D%98-%EC%9D%B4%EC%A7%81-%ED%83%90%ED%97%98%EA%B8%B0-1-cfa002f2233e)
+
 
 --------------------------------------
 </br>
@@ -559,6 +537,11 @@
 - [네이버 동영상 플랫폼 개발 프레임워크의 Spring Boot 전환기](https://d2.naver.com/helloworld/5626759)
 - [멀티모듈 설계 이야기 with Spring, Gradle](http://woowabros.github.io/study/2019/07/01/multi-module.html)
 - [hashCode 메소드](https://johngrib.github.io/wiki/Object-hashCode/)
+- [(Docker) Spring Boot Application Image 최적화하기](https://perfectacle.github.io/2019/04/16/spring-boot-docker-image-optimization/)
+- [멀티모듈 설계 이야기 with Spring, Gradle](http://woowabros.github.io/study/2019/07/01/multi-module.html)
+- [스프링기반 테스트 코드 작성에 대한 고찰](https://github.com/cheese10yun/blog-sample/blob/master/test-code/README.md)
+- [[Spring 레퍼런스] 웹 MVC 프레임워크](https://blog.outsider.ne.kr/903?category=2)
+- [SpringBoot기반 Redis Cache 활용법](https://link.medium.com/ZFeC4JCSUY)
 
 --------------------------------------
 
@@ -720,6 +703,10 @@
 - [이벤트 기반 분산 시스템을 향한 여정 [슬라이드]](https://www.slideshare.net/arawnkr/ss-94475606)
 - [CloudWatch 메트릭 그래프 스냅샷 만들기](https://brunch.co.kr/@alden/53)
 - [쿠버네티스 네트워킹 이해하기 [번역]](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
+- [카카오 개발자가 본 ‘요즘 클라우드 흐름’ 세 가지](http://m.zdnet.co.kr/news_view.asp?article_id=20190721085551&re=zdk#imadnews)
+- [MSA, K8S를 이용한 대륙의 서비스 개발 사례 [슬라이드]](https://www.slideshare.net/mobile/babokim/open-infradays-2019msak8s)
+- [아파치 로드밸런싱으로 여러 WAS 운영하기](https://taetaetae.github.io/2019/08/04/apache-load-balancing/)
+
 
 --------------------------------------
 
@@ -882,6 +869,8 @@
 - [JavaScript 바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자](https://moonformeli.tistory.com/28)
 - [2019년과 이후 자바스크립트 동향](https://d2.naver.com/helloworld/4007447)
 - [jQuery를 배워야할까? [영상]](https://youtu.be/6FnkGKYK6iQ)
+- [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
+- [TypeScript Deep Dive [영문]](https://basarat.gitbooks.io/typescript/content/)
 
 --------------------------------------
 
@@ -924,7 +913,7 @@
 - [css의 7가지 단위](https://webclub.tistory.com/356)
 - [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
 - [Top UI/UX Design Works for Inspiration](https://uxplanet.org/top-ui-ux-design-inspiration-f9a4bdc6e378)
-
+- [image 요소 아래에 패딩된 여분의 공간 제거하기](https://poiemaweb.com/css3-removing-white-space-image-element)
 
 --------------------------------------
 
@@ -945,7 +934,7 @@
 - [Android: RecyclerView에서 텍스트 레아이웃 미리 계산하기](https://developers-kr.googleblog.com/2018/08/prefetch-text-layout-in-recyclerview.html)
 - [iOS 프리랜서로 산다는 것 [영상]](https://youtu.be/1QlneFvP0K8)
 - [갈피: 나의 첫 모바일 앱 개발기](https://ahnheejong.name/articles/galpi-development-diary/)
-
+- [I/O에서 발표된 Android의 현재를 정리해보았습니다. [번역]](https://developers-kr.googleblog.com/2019/08/whats-now-in-android.html)
 
 --------------------------------------
 </br>
@@ -1056,6 +1045,9 @@
 - [Github blog로 결혼식 청첩장 만들기](https://blog.voidmainvoid.net/217)
 - [사람들이 잘 안알려주는 GitHub 팁](https://medium.com/@kkweon/%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%98-%EC%95%88%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-github-%ED%8C%81-941e4d644402)
 - [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
+- [git 팁 - 잘못 커밋한 대용량 파일 처리하기](https://youtu.be/yd1TO-my6lw)
+- [Github에 100MB 이상의 파일을 올리는 방법](https://medium.com/@stargt/github%EC%97%90-100mb-%EC%9D%B4%EC%83%81%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95-9d9e6e3b94ef)
+
 
 --------------------------------------
 
