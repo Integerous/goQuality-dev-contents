@@ -46,20 +46,22 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 9월 24일 화요일
+#### 2019년 9월 25일 수요일
 - **(이 곳에 추가해주세요)**
 -
+
+#### 2019년 9월 24일 화요일
+- [SI 개발 10년차인데 코드 좀 봐주세요](https://www.popit.kr/si-%EA%B0%9C%EB%B0%9C-10%EB%85%84%EC%B0%A8%EC%9D%B8%EB%8D%B0-%EC%BD%94%EB%93%9C-%EC%A2%80-%EB%B4%90%EC%A3%BC%EC%84%B8%EC%9A%94/)
 
 #### 2019년 9월 23일 월요일
 - [내가 StackOverflow를 사용하는 방법 [번역]](https://rinae.dev/posts/how-i-use-stackoverflow-kor)
 - [스프링 애플리케이션에서 레디스 Read From Slave 구현하기](https://brunch.co.kr/@springboot/218)
 
-#### 2019년 9월 22일 일요일
-- [스프링 기반 커스텀 Validation 효과적으로 하기](https://github.com/cheese10yun/blog-sample/blob/master/custom-validation/docs/class-validation.md?fbclid=IwAR16eYTQKLEzErCoC04SsSKu1FjdSv00FbhAQMJd_AWggrP4xus_1fJYcrw)
-- [Promise.allsettled 관하여 및 직접 만들어보기](https://medium.com/@hyunwoojo/javascript-promise-allsettled-에-대해서-12d8f2d6b7c0)
 
 
 #### 밀린 컨텐츠들
+- [스프링 기반 커스텀 Validation 효과적으로 하기](https://github.com/cheese10yun/blog-sample/blob/master/custom-validation/docs/class-validation.md?fbclid=IwAR16eYTQKLEzErCoC04SsSKu1FjdSv00FbhAQMJd_AWggrP4xus_1fJYcrw)
+- [Promise.allsettled 관하여 및 직접 만들어보기](https://medium.com/@hyunwoojo/javascript-promise-allsettled-에-대해서-12d8f2d6b7c0)
 - [웹디자이너를 위한 크롬 확장 프로그램 10선](https://uxdesign.cc/10-best-chrome-extensions-for-designers-a76540b93836)
 - [플러터를 배우기 위한 강좌 및 사이트 추천](https://medium.com/@sangin84/flutter-%ED%94%8C%EB%9F%AC%ED%84%B0-%EB%A5%BC-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EA%B0%95%EC%A2%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EC%B2%9C-97bfee35b20)
 - [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
