@@ -98,27 +98,8 @@
 - [AWS로 토이프로젝트 운영삽질기](https://medium.com/harrythegreat/aws%EB%A1%9C-%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-5a77f7e13521)
 - [문과생의 카카오 개발자 이직기](https://zorba91.tistory.com/m/270?category=876991)
 - [Spring 테스트 코드 작성에 대한 나름의 고찰](https://www.popit.kr/spring-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bd%94%eb%93%9c-%ec%9e%91%ec%84%b1%ec%97%90-%eb%8c%80%ed%95%9c-%eb%82%98%eb%a6%84%ec%9d%98-%ea%b3%a0%ec%b0%b0/)
-- [SOAP REST 이해](http://www.slideshare.net/yjaeseok/soap-rest)
 - [5년차 프로그래머의 이직 일기](https://www.leadme.today/post/6656428033966080)
-- [반응형 웹을 위해 기술자가 꼭 알아야하는 기술들](https://www.samsungsds.com/global/ko/support/insights/Responsive_web_1.html)
-- [그로스 만병통치약의 허와 실](https://brunch.co.kr/@netking77/2)
-- [Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다. [번역]](https://gist.github.com/Hazealign/1bbc586ded1649a8f08f)
-- [Intellij Setting 동기화하기](https://nesoy.github.io/articles/2019-08/Intellij-Setting-Sync)
-- [우아한 테크 - 멀티모듈 설계 세미나 정리(jojoldu blog)](https://jojoldu.tistory.com/444)
-- [HTTPS 전환 과정에서 read timeout 오류 해결 과정](https://d2.naver.com/helloworld/1469717)
-- [비동기 프로그래밍이 뭔가요?](https://www.youtube.com/watch?v=m0icCqHY39U)
-- [리디북스 서비스 장애 복구 후기](https://www.ridicorp.com/blog/2016/09/02/idc-outage/)
-- [CSS Grid Garden](http://cssgridgarden.com/#ko)
-- [CSS FLEXBOX Froggy](http://flexboxfroggy.com/#ko)
-- [CSS Flexbox](https://flexbox.help/)
-- [HTTP에서부터 WEBSOCKET까지](https://medium.com/@chullino/http%EC%97%90%EC%84%9C%EB%B6%80%ED%84%B0-websocket%EA%B9%8C%EC%A7%80-94df91988788)
-- [React Native로 성공적인 MVP 개발하기](https://drive.google.com/file/d/1LKtyaDE9qnrqOeJvQRhIhWqdZ229ofR7/view)
-- [생산성 향상 - 비기는 없다](https://cheese10yun.github.io/%EC%83%9D%EC%82%B0%EC%84%B1%ED%96%A5%EC%83%81/)
-- [Ansible(앤서블)로 전체 서버 사용자 추가하기](https://jojoldu.tistory.com/432?category=777282)
-- [30개의 와이어프레임 examples](https://designseer.com/website-wireframe-examples/)
-- [MongoDB 한 페이지에 끝내기](https://blog.voidmainvoid.net/239)
-- [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
-- [더 작은 APK를 위한 Android App Bundle에 대해서](https://medium.com/daangn/%EB%8D%94-%EC%9E%91%EC%9D%80-apk%EB%A5%BC-%EC%9C%84%ED%95%9C-android-app-bundle%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-345a656eee85)
+
 
 
 --------------------------------------
@@ -708,7 +689,7 @@
 - [카카오 개발자가 본 ‘요즘 클라우드 흐름’ 세 가지](http://m.zdnet.co.kr/news_view.asp?article_id=20190721085551&re=zdk#imadnews)
 - [MSA, K8S를 이용한 대륙의 서비스 개발 사례 [슬라이드]](https://www.slideshare.net/mobile/babokim/open-infradays-2019msak8s)
 - [아파치 로드밸런싱으로 여러 WAS 운영하기](https://taetaetae.github.io/2019/08/04/apache-load-balancing/)
-
+- [리디북스 서비스 장애 복구 후기](https://www.ridicorp.com/blog/2016/09/02/idc-outage/)
 
 --------------------------------------
 
@@ -762,6 +743,8 @@
 - [운영체제 개념정리](https://brunch.co.kr/@toughrogrammer/15)
 - [고급 Bash 스크립팅 가이드 [번역]](https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/)
 - [Linux 퍼포먼스 60s 분석 [영문]](https://link.medium.com/o4WHJtN9sZ)
+- [Ansible(앤서블)로 전체 서버 사용자 추가하기](https://jojoldu.tistory.com/432?category=777282)
+
 
 --------------------------------------
 
@@ -873,6 +856,8 @@
 - [jQuery를 배워야할까? [영상]](https://youtu.be/6FnkGKYK6iQ)
 - [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
 - [TypeScript Deep Dive [영문]](https://basarat.gitbooks.io/typescript/content/)
+- [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
+
 
 --------------------------------------
 
@@ -916,6 +901,10 @@
 - [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
 - [Top UI/UX Design Works for Inspiration](https://uxplanet.org/top-ui-ux-design-inspiration-f9a4bdc6e378)
 - [image 요소 아래에 패딩된 여분의 공간 제거하기](https://poiemaweb.com/css3-removing-white-space-image-element)
+- [30개의 와이어프레임 examples](https://designseer.com/website-wireframe-examples/)
+- [CSS Grid Garden](http://cssgridgarden.com/#ko)
+- [CSS FLEXBOX Froggy](http://flexboxfroggy.com/#ko)
+- [CSS Flexbox](https://flexbox.help/)
 
 --------------------------------------
 
@@ -937,6 +926,10 @@
 - [iOS 프리랜서로 산다는 것 [영상]](https://youtu.be/1QlneFvP0K8)
 - [갈피: 나의 첫 모바일 앱 개발기](https://ahnheejong.name/articles/galpi-development-diary/)
 - [I/O에서 발표된 Android의 현재를 정리해보았습니다. [번역]](https://developers-kr.googleblog.com/2019/08/whats-now-in-android.html)
+- [더 작은 APK를 위한 Android App Bundle에 대해서](https://medium.com/daangn/%EB%8D%94-%EC%9E%91%EC%9D%80-apk%EB%A5%BC-%EC%9C%84%ED%95%9C-android-app-bundle%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-345a656eee85)
+- [React Native로 성공적인 MVP 개발하기](https://drive.google.com/file/d/1LKtyaDE9qnrqOeJvQRhIhWqdZ229ofR7/view)
+- [Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다. [번역]](https://gist.github.com/Hazealign/1bbc586ded1649a8f08f)
+
 
 --------------------------------------
 </br>
@@ -990,6 +983,8 @@
 - [브라우저 렌더링에 대한 내용 깔끔 정리](https://12bme.tistory.com/140)
 - [쿠키, 세션, 캐시가 뭔가요?](https://youtu.be/OpoVuwxGRDI)
 - [보안 프로토콜 TLS 1.3](https://brunch.co.kr/@mobiinside/1482)
+- [HTTP에서부터 WEBSOCKET까지](https://medium.com/@chullino/http%EC%97%90%EC%84%9C%EB%B6%80%ED%84%B0-websocket%EA%B9%8C%EC%A7%80-94df91988788)
+- [HTTPS 전환 과정에서 read timeout 오류 해결 과정](https://d2.naver.com/helloworld/1469717)
 
 --------------------------------------
 
@@ -1171,6 +1166,8 @@
 - [Electron 시작부터 배포까지 [슬라이드]](https://docs.google.com/presentation/d/1PN_wmjhwyBrDvnV7FdwY8U4adoLpQR596fTxEC2IRFw/edit?usp=sharing)
 - [Global Unique ID는 왜 필요할까? [슬라이드]](https://www.slideshare.net/charsyam2/why-guid-is-needed)
 - [포인터가 뭐고 왜 쓰는건가요? [영상]](https://www.youtube.com/watch?v=u65F4ECaKaY&t)
+- [비동기 프로그래밍이 뭔가요? [영상]](https://www.youtube.com/watch?v=m0icCqHY39U)
+- [Intellij Setting 동기화하기](https://nesoy.github.io/articles/2019-08/Intellij-Setting-Sync)
 
 ### 에러 발생한 컨텐츠들
 >이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
