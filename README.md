@@ -46,20 +46,22 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 9월 25일 수요일
+#### 2019년 9월 26일 목요일
 - **(이 곳에 추가해주세요)**
 -
+
+#### 2019년 9월 25일 수요일
+- [IntelliJ 2019.2 에서 Gradle로 run과 test가 실행될때](https://jojoldu.tistory.com/450)
+- [Unit Test (단위 테스트) 도입하기 - 1편](https://www.popit.kr/unit-test-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-1%ED%8E%B8/?utm_source=dable)
+- [GraphQL 개념잡기](https://tech.kakao.com/2019/08/01/graphql-basic/)
 
 #### 2019년 9월 24일 화요일
 - [SI 개발 10년차인데 코드 좀 봐주세요](https://www.popit.kr/si-%EA%B0%9C%EB%B0%9C-10%EB%85%84%EC%B0%A8%EC%9D%B8%EB%8D%B0-%EC%BD%94%EB%93%9C-%EC%A2%80-%EB%B4%90%EC%A3%BC%EC%84%B8%EC%9A%94/)
 
-#### 2019년 9월 23일 월요일
-- [내가 StackOverflow를 사용하는 방법 [번역]](https://rinae.dev/posts/how-i-use-stackoverflow-kor)
-- [스프링 애플리케이션에서 레디스 Read From Slave 구현하기](https://brunch.co.kr/@springboot/218)
-
-
 
 #### 밀린 컨텐츠들
+- [내가 StackOverflow를 사용하는 방법 [번역]](https://rinae.dev/posts/how-i-use-stackoverflow-kor)
+- [스프링 애플리케이션에서 레디스 Read From Slave 구현하기](https://brunch.co.kr/@springboot/218)
 - [스프링 기반 커스텀 Validation 효과적으로 하기](https://github.com/cheese10yun/blog-sample/blob/master/custom-validation/docs/class-validation.md?fbclid=IwAR16eYTQKLEzErCoC04SsSKu1FjdSv00FbhAQMJd_AWggrP4xus_1fJYcrw)
 - [Promise.allsettled 관하여 및 직접 만들어보기](https://medium.com/@hyunwoojo/javascript-promise-allsettled-에-대해서-12d8f2d6b7c0)
 - [웹디자이너를 위한 크롬 확장 프로그램 10선](https://uxdesign.cc/10-best-chrome-extensions-for-designers-a76540b93836)
