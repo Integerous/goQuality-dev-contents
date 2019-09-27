@@ -46,9 +46,12 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 9월 27일 금요일
+#### 2019년 9월 28일 토요일
 - **(이 곳에 추가해주세요)**
 -
+
+#### 2019년 9월 27일 금요일
+- [Spring IoC](https://johngrib.github.io/wiki/spring-ioc/)
 
 #### 2019년 9월 26일 목요일
 - [스프링 - 생성자 주입을 사용해야 하는 이유, 필드인젝션이 좋지 않은 이유](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
@@ -57,13 +60,11 @@
 - [Reflection이란?](https://www.charlezz.com/?p=756)
 - [자바 기본 API의 버전별 차이를 비교해놓은 저장소](https://github.com/marchof/java-almanac)
 
-#### 2019년 9월 25일 수요일
+
+#### 밀린 컨텐츠들
 - [IntelliJ 2019.2 에서 Gradle로 run과 test가 실행될때](https://jojoldu.tistory.com/450)
 - [Unit Test (단위 테스트) 도입하기 - 1편](https://www.popit.kr/unit-test-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-1%ED%8E%B8/?utm_source=dable)
 - [GraphQL 개념잡기](https://tech.kakao.com/2019/08/01/graphql-basic/)
-
-
-#### 밀린 컨텐츠들
 - [SI 개발 10년차인데 코드 좀 봐주세요](https://www.popit.kr/si-%EA%B0%9C%EB%B0%9C-10%EB%85%84%EC%B0%A8%EC%9D%B8%EB%8D%B0-%EC%BD%94%EB%93%9C-%EC%A2%80-%EB%B4%90%EC%A3%BC%EC%84%B8%EC%9A%94/)
 - [내가 StackOverflow를 사용하는 방법 [번역]](https://rinae.dev/posts/how-i-use-stackoverflow-kor)
 - [스프링 애플리케이션에서 레디스 Read From Slave 구현하기](https://brunch.co.kr/@springboot/218)
