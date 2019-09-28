@@ -46,22 +46,23 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 9월 28일 토요일
+#### 2019년 9월 29일 일요일
 - **(이 곳에 추가해주세요)**
 -
+
+#### 2019년 9월 28일 토요일
+- [GitHub 커밋 메세지에 JIRA 이슈번호 자동으로 넣어주기](https://medium.com/prnd/github-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%84%B8%EC%A7%80%EC%97%90-jira-%EC%9D%B4%EC%8A%88%EB%B2%88%ED%98%B8-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%84%A3%EC%96%B4%EC%A3%BC%EA%B8%B0-779048784037)
 
 #### 2019년 9월 27일 금요일
 - [Spring IoC](https://johngrib.github.io/wiki/spring-ioc/)
 
-#### 2019년 9월 26일 목요일
+
+#### 밀린 컨텐츠들
 - [스프링 - 생성자 주입을 사용해야 하는 이유, 필드인젝션이 좋지 않은 이유](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
 - [CSS - 잘 알려지지 않은 유용한 CSS 속성들](https://ahnheejong.name/articles/less-famous-css-properties/)
 - [Google에서 제작한 PWA 라이브러리](https://github.com/GoogleChrome/workbox)
 - [Reflection이란?](https://www.charlezz.com/?p=756)
 - [자바 기본 API의 버전별 차이를 비교해놓은 저장소](https://github.com/marchof/java-almanac)
-
-
-#### 밀린 컨텐츠들
 - [IntelliJ 2019.2 에서 Gradle로 run과 test가 실행될때](https://jojoldu.tistory.com/450)
 - [Unit Test (단위 테스트) 도입하기 - 1편](https://www.popit.kr/unit-test-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-1%ED%8E%B8/?utm_source=dable)
 - [GraphQL 개념잡기](https://tech.kakao.com/2019/08/01/graphql-basic/)
