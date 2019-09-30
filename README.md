@@ -47,7 +47,10 @@
 
 
 #### 2019년 10월 1일 화요일
-- **(이 곳에 추가해주세요)**
+- [코더가 아닌 개발자가 되려면](https://brunch.co.kr/@pronist/28)
+- [#1. C언어로 구현하는 자료구조 - 배열, 데크](https://brunch.co.kr/@pronist/38)
+- [#2. C언어로 구현하는 자료구조 - 링크드 리스트, 큐, 스택](https://brunch.co.kr/@pronist/40)
+- [#3. C언어로 구현하는 자료구조 - 트리](https://brunch.co.kr/@pronist/41)
 -
 
 #### 2019년 9월 30일 월요일
