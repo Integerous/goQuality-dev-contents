@@ -46,18 +46,22 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 9월 29일 일요일
+#### 2019년 10월 1일 화요일
 - **(이 곳에 추가해주세요)**
 -
+
+#### 2019년 9월 30일 월요일
+- [Spring Batch의 멱등성 유지하기](https://jojoldu.tistory.com/451)
+- [초보자를 위한 vim 입문서](https://www.joinc.co.kr/w/Site/Vim/Documents/UsedVim#AEN18)
+- [우아한 스프링 배치 테크세미나 정리 및 후기 (by 우아한 형제들)](https://taetaetae.github.io/2019/09/29/woowabros-spring-batch/?fbclid=IwAR3shX8lxNAH9PGbeZLvGofm665jRpoxE-8HpLUqdXMI_Ong_rT7UajlXEY)
+- [Docker Compose 구성과 사용법](https://blog.wonizz.tk/2019/08/13/docker-compose/)
 
 #### 2019년 9월 28일 토요일
 - [GitHub 커밋 메세지에 JIRA 이슈번호 자동으로 넣어주기](https://medium.com/prnd/github-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%84%B8%EC%A7%80%EC%97%90-jira-%EC%9D%B4%EC%8A%88%EB%B2%88%ED%98%B8-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%84%A3%EC%96%B4%EC%A3%BC%EA%B8%B0-779048784037)
 
-#### 2019년 9월 27일 금요일
-- [Spring IoC](https://johngrib.github.io/wiki/spring-ioc/)
-
 
 #### 밀린 컨텐츠들
+- [Spring IoC](https://johngrib.github.io/wiki/spring-ioc/)
 - [스프링 - 생성자 주입을 사용해야 하는 이유, 필드인젝션이 좋지 않은 이유](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
 - [CSS - 잘 알려지지 않은 유용한 CSS 속성들](https://ahnheejong.name/articles/less-famous-css-properties/)
 - [Google에서 제작한 PWA 라이브러리](https://github.com/GoogleChrome/workbox)
