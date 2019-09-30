@@ -46,9 +46,11 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 9월 29일 일요일
-- **(이 곳에 추가해주세요)**
--
+#### 2019년 9월 30일 월요일
+- [코더가 아닌 개발자가 되려면](https://brunch.co.kr/@pronist/28)
+- [#1. C언어로 구현하는 자료구조 - 배열, 데크](https://brunch.co.kr/@pronist/38)
+- [#2. C언어로 구현하는 자료구조 - 링크드 리스트, 큐, 스택](https://brunch.co.kr/@pronist/40)
+- [#3. C언어로 구현하는 자료구조 - 트리](https://brunch.co.kr/@pronist/41)
 
 #### 2019년 9월 28일 토요일
 - [GitHub 커밋 메세지에 JIRA 이슈번호 자동으로 넣어주기](https://medium.com/prnd/github-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%84%B8%EC%A7%80%EC%97%90-jira-%EC%9D%B4%EC%8A%88%EB%B2%88%ED%98%B8-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%84%A3%EC%96%B4%EC%A3%BC%EA%B8%B0-779048784037)
