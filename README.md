@@ -46,25 +46,26 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 3일 목요일
+#### 2019년 10월 4일 금요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 10월 3일 목요일
+- [코드로 만드는 Design System](https://medium.com/@kykkjh2984/%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-design-system-b04bb916a02b)
 
 #### 2019년 10월 2일 수요일
 - [AWS EKS 서비스 사용법 및 예제](https://blog.wonizz.tk/2019/09/09/aws-eks/)
 - [HTTP/3: 과거, 현재 그리고 미래 [번역]](https://blog.cloudflare.com/ko/)
 - [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
 
-#### 2019년 10월 1일 화요일
+
+#### 밀린 컨텐츠들
 - [훈련소에서 매일 뉴스 받아보기](https://parksb.github.io/article/34.html)
 - [Quartz 스케줄러 적용 아키텍처 개선](https://homoefficio.github.io/2019/09/28/Quartz-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC-%EC%A0%81%EC%9A%A9-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B0%9C%EC%84%A0-1/)
 - [코더가 아닌 개발자가 되려면](https://brunch.co.kr/@pronist/28)
 - [#1. C언어로 구현하는 자료구조 - 배열, 데크](https://brunch.co.kr/@pronist/38)
 - [#2. C언어로 구현하는 자료구조 - 링크드 리스트, 큐, 스택](https://brunch.co.kr/@pronist/40)
 - [#3. C언어로 구현하는 자료구조 - 트리](https://brunch.co.kr/@pronist/41)
-
-
-#### 밀린 컨텐츠들
 - [Spring Batch의 멱등성 유지하기](https://jojoldu.tistory.com/451)
 - [초보자를 위한 vim 입문서](https://www.joinc.co.kr/w/Site/Vim/Documents/UsedVim#AEN18)
 - [우아한 스프링 배치 테크세미나 정리 및 후기 (by 우아한 형제들)](https://taetaetae.github.io/2019/09/29/woowabros-spring-batch/?fbclid=IwAR3shX8lxNAH9PGbeZLvGofm665jRpoxE-8HpLUqdXMI_Ong_rT7UajlXEY)
