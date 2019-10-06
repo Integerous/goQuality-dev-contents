@@ -46,18 +46,19 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 6일 일요일
+#### 2019년 10월 7일 월요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 10월 6일 일요일
+- [개발자를 위한 도커 입문](https://github.com/voyagerwoo/docker-hands-on)
 
 #### 2019년 10월 4일 금요일
 - [javascript ajax 크로스도메인 요청-CORS](https://brunch.co.kr/@adrenalinee31/1#comment)
 
-#### 2019년 10월 3일 목요일
-- [코드로 만드는 Design System](https://medium.com/@kykkjh2984/%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-design-system-b04bb916a02b)
-
 
 #### 밀린 컨텐츠들
+- [코드로 만드는 Design System](https://medium.com/@kykkjh2984/%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-design-system-b04bb916a02b)
 - [AWS EKS 서비스 사용법 및 예제](https://blog.wonizz.tk/2019/09/09/aws-eks/)
 - [HTTP/3: 과거, 현재 그리고 미래 [번역]](https://blog.cloudflare.com/ko/)
 - [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
@@ -129,7 +130,6 @@
 
 
 --------------------------------------
-</br>
 </br>
 
 # :mag_right: 카테고리
