@@ -46,18 +46,21 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 7일 월요일
+#### 2019년 10월 8일 화요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 10월 7일 월요일
+- [Builder 기반으로 객체를 안전하게 생성하는 방법](https://www.popit.kr/builder-%ea%b8%b0%eb%b0%98%ec%9c%bc%eb%a1%9c-%ea%b0%9d%ec%b2%b4%eb%a5%bc-%ec%95%88%ec%a0%84%ed%95%98%ea%b2%8c-%ec%83%9d%ec%84%b1%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/)
+- [Jenkins 파이프라인 사용법](https://blog.wonizz.tk/2019/08/04/jenkins-pipeline/)
+- [메모리단편화가 무엇이고 왜 발생하는가?](https://jeong-pro.tistory.com/91)
 
 #### 2019년 10월 6일 일요일
 - [개발자를 위한 도커 입문](https://github.com/voyagerwoo/docker-hands-on)
 
-#### 2019년 10월 4일 금요일
-- [javascript ajax 크로스도메인 요청-CORS](https://brunch.co.kr/@adrenalinee31/1#comment)
-
 
 #### 밀린 컨텐츠들
+- [javascript ajax 크로스도메인 요청-CORS](https://brunch.co.kr/@adrenalinee31/1#comment)
 - [코드로 만드는 Design System](https://medium.com/@kykkjh2984/%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-design-system-b04bb916a02b)
 - [AWS EKS 서비스 사용법 및 예제](https://blog.wonizz.tk/2019/09/09/aws-eks/)
 - [HTTP/3: 과거, 현재 그리고 미래 [번역]](https://blog.cloudflare.com/ko/)
