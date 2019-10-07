@@ -54,6 +54,11 @@
 - [Builder 기반으로 객체를 안전하게 생성하는 방법](https://www.popit.kr/builder-%ea%b8%b0%eb%b0%98%ec%9c%bc%eb%a1%9c-%ea%b0%9d%ec%b2%b4%eb%a5%bc-%ec%95%88%ec%a0%84%ed%95%98%ea%b2%8c-%ec%83%9d%ec%84%b1%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/)
 - [Jenkins 파이프라인 사용법](https://blog.wonizz.tk/2019/08/04/jenkins-pipeline/)
 - [메모리단편화가 무엇이고 왜 발생하는가?](https://jeong-pro.tistory.com/91)
+- [비전공 개발자가 전공자보다 정말 불리할까?](https://evan-moon.github.io/2019/09/09/major-is-not-important/)
+- [TIL을 1년동안 진행하며](https://junwoo45.github.io/2019-09-10-til_%ED%9B%84%EA%B8%B0/)
+- [본격 macOS에 개발 환경 구축하기](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
+- [Intersection Observer API의 사용법과 활용방법](http://blog.hyeyoonjung.com/2019/01/09/intersectionobserver-tutorial/)
+- [event-stream 공격 사건의 전말](https://blog.ull.im/engineering/2018/11/30/event-stream-issue.html)
 
 #### 2019년 10월 6일 일요일
 - [개발자를 위한 도커 입문](https://github.com/voyagerwoo/docker-hands-on)
