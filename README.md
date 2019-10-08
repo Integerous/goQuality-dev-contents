@@ -46,9 +46,15 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 8일 화요일
+#### 2019년 10월 9일 수요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 10월 8일 화요일
+- [쿠키런 1년, 서버개발 분투기 [슬라이드]](https://www.slideshare.net/mobile/serialxnet/1-35304689)
+- [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
+- [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
+- [Java Optional 바르게 쓰기](http://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0/)
 
 #### 2019년 10월 7일 월요일
 - [Builder 기반으로 객체를 안전하게 생성하는 방법](https://www.popit.kr/builder-%ea%b8%b0%eb%b0%98%ec%9c%bc%eb%a1%9c-%ea%b0%9d%ec%b2%b4%eb%a5%bc-%ec%95%88%ec%a0%84%ed%95%98%ea%b2%8c-%ec%83%9d%ec%84%b1%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/)
@@ -60,11 +66,9 @@
 - [Intersection Observer API의 사용법과 활용방법](http://blog.hyeyoonjung.com/2019/01/09/intersectionobserver-tutorial/)
 - [event-stream 공격 사건의 전말](https://blog.ull.im/engineering/2018/11/30/event-stream-issue.html)
 
-#### 2019년 10월 6일 일요일
-- [개발자를 위한 도커 입문](https://github.com/voyagerwoo/docker-hands-on)
-
 
 #### 밀린 컨텐츠들
+- [개발자를 위한 도커 입문](https://github.com/voyagerwoo/docker-hands-on)
 - [javascript ajax 크로스도메인 요청-CORS](https://brunch.co.kr/@adrenalinee31/1#comment)
 - [코드로 만드는 Design System](https://medium.com/@kykkjh2984/%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-design-system-b04bb916a02b)
 - [AWS EKS 서비스 사용법 및 예제](https://blog.wonizz.tk/2019/09/09/aws-eks/)
