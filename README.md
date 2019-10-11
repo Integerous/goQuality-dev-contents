@@ -46,9 +46,14 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 11일 금요일
+#### 2019년 10월 12일 토요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 10월 11일 금요일
+- [완전 초보를 위한 Vim](https://nolboo.kim/blog/2016/11/15/vim-for-beginner/)
+- [왜 도커를 사용해야할까요?](https://youtu.be/3FcFL2C3ME8)
+- [개발자를 위한 OS X(>= Catalina) 설정](https://www.sangkon.com/osx-setting-for-developer/)
 
 #### 2019년 10월 10일 목요일
 - [Dan Abramov의 'A Complete Guide to useEffect 번역'](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
@@ -56,11 +61,9 @@
 - [민사고 간편 결제 제작기](https://blog.chosunghyun.com/kr/minsapay/)
 - [자바 비동기 프로그래밍을 위한 CompletableFuture 검토](https://brunch.co.kr/@springboot/267)
 
-#### 2019년 10월 9일 수요일
-- [앱의 프론트엔드 성능을 향상시키는 방법 - 5가지 코딩 팁 [번역]](https://junwoo45.github.io/2019-10-05-frontend-performance/)
-
 
 #### 밀린 컨텐츠들
+- [앱의 프론트엔드 성능을 향상시키는 방법 - 5가지 코딩 팁 [번역]](https://junwoo45.github.io/2019-10-05-frontend-performance/)
 - [쿠키런 1년, 서버개발 분투기 [슬라이드]](https://www.slideshare.net/mobile/serialxnet/1-35304689)
 - [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
 - [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
