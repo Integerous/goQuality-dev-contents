@@ -46,23 +46,28 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 12일 토요일
+#### 2019년 10월 14일 월요일
 - (여기에 추가해주세요!)
 -
 
-#### 2019년 10월 11일 금요일
+#### 2019년 10월 13일 일요일
+- [꼬리 재귀 최적화(Tail Recursion)](https://bozeury.tistory.com/m/entry/꼬리-재귀-최적화Tail-Recursion)
+- [우아한 스프링배치 [영상]](https://www.youtube.com/watch?v=_nkJkWVH-mo)
+
+#### 2019년 10월 12일 토요일
+- [JSConf Korea 2019 발표 영상 모음](https://www.youtube.com/watch?v=hbsIOHktvfo&list=PL37ZVnwpeshGanWnYhTdoFLM2IDF28MaQ)
+- [코드리뷰의 진짜 목적은 따로있다](https://blog.logi-spot.com/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EC%9D%98-%EC%A7%84%EC%A7%9C-%EB%AA%A9%EC%A0%81%EC%9D%80-%EB%94%B0%EB%A1%9C%EC%9E%88%EB%8B%A4/)
+- [콘퍼런스 참가 신청 기능 개발기](https://d2.naver.com/helloworld/5048491)
+
+
+#### 밀린 컨텐츠들
 - [완전 초보를 위한 Vim](https://nolboo.kim/blog/2016/11/15/vim-for-beginner/)
 - [왜 도커를 사용해야할까요?](https://youtu.be/3FcFL2C3ME8)
 - [개발자를 위한 OS X(>= Catalina) 설정](https://www.sangkon.com/osx-setting-for-developer/)
-
-#### 2019년 10월 10일 목요일
 - [Dan Abramov의 'A Complete Guide to useEffect 번역'](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
 - [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-)
 - [민사고 간편 결제 제작기](https://blog.chosunghyun.com/kr/minsapay/)
 - [자바 비동기 프로그래밍을 위한 CompletableFuture 검토](https://brunch.co.kr/@springboot/267)
-
-
-#### 밀린 컨텐츠들
 - [앱의 프론트엔드 성능을 향상시키는 방법 - 5가지 코딩 팁 [번역]](https://junwoo45.github.io/2019-10-05-frontend-performance/)
 - [쿠키런 1년, 서버개발 분투기 [슬라이드]](https://www.slideshare.net/mobile/serialxnet/1-35304689)
 - [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
