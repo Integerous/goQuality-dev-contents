@@ -65,7 +65,7 @@
 - [왜 도커를 사용해야할까요?](https://youtu.be/3FcFL2C3ME8)
 - [개발자를 위한 OS X(>= Catalina) 설정](https://www.sangkon.com/osx-setting-for-developer/)
 - [Dan Abramov의 'A Complete Guide to useEffect 번역'](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
-- [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-)
+- [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3)
 - [민사고 간편 결제 제작기](https://blog.chosunghyun.com/kr/minsapay/)
 - [자바 비동기 프로그래밍을 위한 CompletableFuture 검토](https://brunch.co.kr/@springboot/267)
 - [앱의 프론트엔드 성능을 향상시키는 방법 - 5가지 코딩 팁 [번역]](https://junwoo45.github.io/2019-10-05-frontend-performance/)
