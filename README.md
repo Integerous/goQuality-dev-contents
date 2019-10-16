@@ -1,4 +1,4 @@
-
+﻿
 
 [![author](https://img.shields.io/badge/author-Integerous-lightgray.svg?style=flat-square)](https://ryan-han.com)
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
@@ -47,8 +47,9 @@
 
 
 #### 2019년 10월 16일 수요일
-- (여기에 추가해주세요!)
--
+- [오픈소스를 여행하는 히치하이커를 위한 안내서 [슬라이드]](https://www.slideshare.net/sunhyouplee/ss-122400504)
+- [송창규, unity build로 빌드타임 반토막내기, NDC2010 [슬라이드]](https://www.slideshare.net/devcatpublications/ndc2010-unity-build)
+- [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial)
 
 #### 2019년 10월 15일 화요일
 - [파이썬(Python) 3.8 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
