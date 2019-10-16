@@ -46,7 +46,15 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 10월 17일 목요일
+- (여기에 추가해주세요!)
+-
+
 #### 2019년 10월 16일 수요일
+- [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0)
+- [아이오닉 + 리액트](https://ionicframework.com/blog/announcing-ionic-react/)
+- [리액트와 찰떡궁합 next.js](https://youtu.be/jg2ha2RIWN0)
+- [JavaScript 첫걸음](https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps)
 - [오픈소스를 여행하는 히치하이커를 위한 안내서 [슬라이드]](https://www.slideshare.net/sunhyouplee/ss-122400504)
 - [송창규, unity build로 빌드타임 반토막내기, NDC2010 [슬라이드]](https://www.slideshare.net/devcatpublications/ndc2010-unity-build)
 - [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial)
@@ -54,7 +62,8 @@
 #### 2019년 10월 15일 화요일
 - [파이썬(Python) 3.8 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
 
-#### 2019년 10월 14일 월요일
+
+#### 밀린 컨텐츠들
 - [문제를 해결할 때 사고가 중요한 이유](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/)
 - [클린 아키텍쳐 - 좋은 프로그램은 무엇인가?](https://brunch.co.kr/@dotori/17)
 - [아틀라시안 취업후기](http://www.tacogrammer.com/%EC%95%84%ED%8B%80%EB%9D%BC%EC%8B%9C%EC%95%88-%EC%B7%A8%EC%97%85%ED%9B%84%EA%B8%B0/)
@@ -63,9 +72,6 @@
 - [스프링 배치 무중단 배포 시나리오](https://taetaetae.github.io/2019/10/13/batch-nondisruptive-deploy/)
 - [대학생이 신입 개발자로 공개 구직한 후기](https://miryang.dev/2019/10/14/job-hunting-review/)
 - [『곽철용 짤 생성기』, 이렇게 만들어졌습니다](https://wormwlrm.github.io/2019/10/13/Kwakcheolyong-Image-Creator-Development-Story.html)
-
-
-#### 밀린 컨텐츠들
 - [꼬리 재귀 최적화(Tail Recursion)](https://bozeury.tistory.com/m/entry/꼬리-재귀-최적화Tail-Recursion)
 - [우아한 스프링배치 [영상]](https://www.youtube.com/watch?v=_nkJkWVH-mo)
 - [JSConf Korea 2019 발표 영상 모음](https://www.youtube.com/watch?v=hbsIOHktvfo&list=PL37ZVnwpeshGanWnYhTdoFLM2IDF28MaQ)
