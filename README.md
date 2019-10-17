@@ -46,9 +46,16 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 17일 목요일
+#### 2019년 10월 18일 금요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 10월 17일 목요일
+- [인텔리제이에서 gradle 쉽게 사용하기](https://cheese10yun.github.io/intellij-execute-gradle-task/)
+- [남은 2019년에 프론트엔드 개발자가 배워야 할 것들 🧐](https://dev.to/frontendmasters/what-front-end-developer-skills-should-you-focus-on-learning-for-the-rest-of-2019-10c5)
+- [구글 머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course?hl=ko)
+- [JavaScript 재입문하기 (JS ​튜토리얼)](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
+- [Vim의 탭은 그렇게 쓰는 게 아니다. 버퍼와 탭의 사용법 [번역]](https://bakyeono.net/post/2015-08-13-vim-tab-madness-translate.html)
 
 #### 2019년 10월 16일 수요일
 - [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0)
@@ -56,11 +63,9 @@
 - [리액트와 찰떡궁합 next.js](https://youtu.be/jg2ha2RIWN0)
 - [JavaScript 첫걸음](https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps)
 
-#### 2019년 10월 15일 화요일
-- [파이썬(Python) 3.8 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
-
 
 #### 밀린 컨텐츠들
+- [파이썬(Python) 3.8 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
 - [문제를 해결할 때 사고가 중요한 이유](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/)
 - [클린 아키텍쳐 - 좋은 프로그램은 무엇인가?](https://brunch.co.kr/@dotori/17)
 - [아틀라시안 취업후기](http://www.tacogrammer.com/%EC%95%84%ED%8B%80%EB%9D%BC%EC%8B%9C%EC%95%88-%EC%B7%A8%EC%97%85%ED%9B%84%EA%B8%B0/)
