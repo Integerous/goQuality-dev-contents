@@ -1,4 +1,4 @@
-
+﻿
 
 [![author](https://img.shields.io/badge/author-Integerous-lightgray.svg?style=flat-square)](https://ryan-han.com)
 [![HitCount](http://hits.dwyl.io/Integerous/goQuality-dev-contents.svg)](http://hits.dwyl.io/Integerous/goQuality-dev-contents)
@@ -62,6 +62,12 @@
 - [아이오닉 + 리액트](https://ionicframework.com/blog/announcing-ionic-react/)
 - [리액트와 찰떡궁합 next.js](https://youtu.be/jg2ha2RIWN0)
 - [JavaScript 첫걸음](https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps)
+- [오픈소스를 여행하는 히치하이커를 위한 안내서 [슬라이드]](https://www.slideshare.net/sunhyouplee/ss-122400504)
+- [송창규, unity build로 빌드타임 반토막내기, NDC2010 [슬라이드]](https://www.slideshare.net/devcatpublications/ndc2010-unity-build)
+- [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial)
+- [비전공 백엔드 개발자 - 우아한 테크코스 비전공자 크루가 직접 들려주는 이야기](https://www.youtube.com/watch?v=esHqxCKOO4E&t=10s)
+- [더 나은 개발자로 성장하는 팁](https://www.youtube.com/watch?v=yEcCQZlFmaM)
+- [자바 코딩규칙 (자바 컨벤션)](https://myeonguni.tistory.com/1596)
 
 
 #### 밀린 컨텐츠들
@@ -214,7 +220,6 @@
 - [유용한 도구](https://github.com/Integerous/goQuality-dev-contents#%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%8F%84%EA%B5%AC)
 - [기타](https://github.com/Integerous/goQuality-dev-contents#%EA%B8%B0%ED%83%80)
 - [에러 발생한 컨텐츠들](https://github.com/Integerous/goQuality-dev-contents#%EC%97%90%EB%9F%AC-%EB%B0%9C%EC%83%9D%ED%95%9C-%EC%BB%A8%ED%85%90%EC%B8%A0%EB%93%A4)
-
 
 --------------------------------------
 </br>
@@ -433,7 +438,6 @@
 - [권용근님의 2018년 회고 - 3년차 웹 개발자](http://blog.kingbbode.com/posts/who-am-i-3)
 - [이동욱님의 2019 상반기 회고](https://jojoldu.tistory.com/436)
 
-
 --------------------------------------
 
 ### 취업 & 이직 & 면접 & 코딩테스트
@@ -471,7 +475,6 @@
 - [블록체인 개발사 면접 오픈북과 지원자의 답변 공유](https://okky.kr/article/583445)
 - [대기업 IT직군 코딩테스트 합격을 위한 현실적이고 직관적인 공부 순서 [영상]](https://www.youtube.com/watch?v=ukkLCl9yBvE)
 - [Product Manager의 이직 탐험기 #1](https://medium.com/@sean26/product-manager%EC%9D%98-%EC%9D%B4%EC%A7%81-%ED%83%90%ED%97%98%EA%B8%B0-1-cfa002f2233e)
-
 
 --------------------------------------
 </br>
@@ -814,7 +817,6 @@
 - [Linux 퍼포먼스 60s 분석 [영문]](https://link.medium.com/o4WHJtN9sZ)
 - [Ansible(앤서블)로 전체 서버 사용자 추가하기](https://jojoldu.tistory.com/432?category=777282)
 
-
 --------------------------------------
 
 ### 네트워크
@@ -822,7 +824,6 @@
 - [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667)
 - [최신 네트워크 로드 밸런싱 및 프록시 소개 [번역]](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
 - [네트워크의 기본 'OSI 7계층'··· 한번에 이해하고 외우는 방법](http://www.ciokorea.com/news/36536#csidxa7b8fb7c6c7e34a85f2253bf8c1b283)
-
 
 --------------------------------------
 </br>
@@ -927,7 +928,6 @@
 - [TypeScript Deep Dive [영문]](https://basarat.gitbooks.io/typescript/content/)
 - [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
 
-
 --------------------------------------
 
 ### 디자인 & UI/UX & 폰트
@@ -998,7 +998,6 @@
 - [더 작은 APK를 위한 Android App Bundle에 대해서](https://medium.com/daangn/%EB%8D%94-%EC%9E%91%EC%9D%80-apk%EB%A5%BC-%EC%9C%84%ED%95%9C-android-app-bundle%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-345a656eee85)
 - [React Native로 성공적인 MVP 개발하기](https://drive.google.com/file/d/1LKtyaDE9qnrqOeJvQRhIhWqdZ229ofR7/view)
 - [Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다. [번역]](https://gist.github.com/Hazealign/1bbc586ded1649a8f08f)
-
 
 --------------------------------------
 </br>
@@ -1113,7 +1112,6 @@
 - [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
 - [git 팁 - 잘못 커밋한 대용량 파일 처리하기](https://youtu.be/yd1TO-my6lw)
 - [Github에 100MB 이상의 파일을 올리는 방법](https://medium.com/@stargt/github%EC%97%90-100mb-%EC%9D%B4%EC%83%81%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95-9d9e6e3b94ef)
-
 
 --------------------------------------
 
@@ -1241,7 +1239,6 @@
 ### 에러 발생한 컨텐츠들
 >이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
 - [왜 자바에서 static의 사용을 지양해야 하는가?](http://bit.ly/2q1PprF)
-
 
 --------------------------------------
 </br>
