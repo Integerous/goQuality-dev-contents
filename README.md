@@ -46,9 +46,15 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 18일 금요일
+#### 2019년 10월 19일 토요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 10월 18일 금요일
+- [postman 활용 1~3편](https://blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221669110777&proxyReferer=)
+- [여러 기술들의 API 도큐먼트 모음집](https://devdocs.io)
+- [스파게티 조인을 피하고 경계안에서 캐시 구현하기](https://www.popit.kr/%ec%8a%a4%ed%8c%8c%ea%b2%8c%ed%8b%b0-%ec%a1%b0%ec%9d%b8%ec%9d%84-%ed%94%bc%ed%95%98%ea%b3%a0-%ea%b2%bd%ea%b3%84%ec%95%88%ec%97%90%ec%84%9c-%ec%ba%90%ec%8b%9c-%ea%b5%ac%ed%98%84%ed%95%98%ea%b8%b0/)
+- [리눅스 명령어 삼대장: find, grep, awk](https://jybaek.tistory.com/m/704?category=251617)
 
 #### 2019년 10월 17일 목요일
 - [인텔리제이에서 gradle 쉽게 사용하기](https://cheese10yun.github.io/intellij-execute-gradle-task/)
@@ -57,7 +63,8 @@
 - [JavaScript 재입문하기 (JS ​튜토리얼)](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
 - [Vim의 탭은 그렇게 쓰는 게 아니다. 버퍼와 탭의 사용법 [번역]](https://bakyeono.net/post/2015-08-13-vim-tab-madness-translate.html)
 
-#### 2019년 10월 16일 수요일
+
+#### 밀린 컨텐츠들
 - [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0)
 - [아이오닉 + 리액트](https://ionicframework.com/blog/announcing-ionic-react/)
 - [리액트와 찰떡궁합 next.js](https://youtu.be/jg2ha2RIWN0)
@@ -68,9 +75,6 @@
 - [비전공 백엔드 개발자 - 우아한 테크코스 비전공자 크루가 직접 들려주는 이야기](https://www.youtube.com/watch?v=esHqxCKOO4E&t=10s)
 - [더 나은 개발자로 성장하는 팁](https://www.youtube.com/watch?v=yEcCQZlFmaM)
 - [자바 코딩규칙 (자바 컨벤션)](https://myeonguni.tistory.com/1596)
-
-
-#### 밀린 컨텐츠들
 - [파이썬(Python) 3.8 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
 - [문제를 해결할 때 사고가 중요한 이유](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/)
 - [클린 아키텍쳐 - 좋은 프로그램은 무엇인가?](https://brunch.co.kr/@dotori/17)
