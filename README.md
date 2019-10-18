@@ -158,25 +158,6 @@
 - [프론트엔드 개발자 학습 방향](https://youtu.be/02RCNUF-2Vw)
 - [당신의 API가 Restful 하지 않은 5가지 증거](https://beyondj2ee.wordpress.com/2013/03/21/당신의-api가-restful-하지-않은-5가지-증거/)
 - [클라우드에서 트랜잭션 관리 - 트랜잭션의 기초 및 분산 트랜잭션](https://developer.ibm.com/kr/developer-%EA%B8%B0%EC%88%A0-%ED%8F%AC%EB%9F%BC/2017/08/14/%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%97%86%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
-- [IoC, DI란 무엇일까](https://biggwang.github.io/2019/08/31/Spring/IoC,%20DI란%20무엇일까/)
-- [협업이 힘들었던 개발자의 특성](https://millenial-dev.tistory.com/15?fbclid=IwAR2SRXvPDeaxSdmK4L4blAScBEoubbIU-hvdlPbVTlLhczXSiDaSIEZFde0)
-- [커밋 히스토리를 이쁘게 관리하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/?fbclid=IwAR2A8rQIpndhz3SJuArm6gWlw-y2a5vEylloYWoOsNqOAZADWXkUBYwFTRg)
-- [Elasticsearch 버전 업데이트 썰 (Nori 형태소 분석기 shallow dive) [영상]](https://www.youtube.com/watch?v=UgJQQ-1HHaw)
-- [EKS 서비스 사용법 및 예제](https://blog.wonizz.tk/2019/09/09/aws-eks/)
-- [네트워크 모니터링이 궁금할땐 ? Packetbeat !](https://taetaetae.github.io/2019/09/08/network-monitor-by-packetbeat/)
-- [git이 저장하는 방식](https://junwoo45.github.io/2019-09-03-git%EC%9D%B4%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94%EB%B0%A9%EC%8B%9D/)
-- [구글의 코드 리뷰 가이드](https://google.github.io/eng-practices/review/)
-- [컨테이너와 쿠버네티스 쉽게 이해하기](https://medium.com/@dodghekgoo/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%A5%BC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-3bd07ff0a02d)
-- [글쓰기 화면에서 카테고리 자동 추천하는 모델 만들기](https://medium.com/daangn/%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%B6%94%EC%B2%9C%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-cbbcc43e1f7f)
-- [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
-- [If 카카오 2일차 슬라이드 모음](https://www.notion.so/if-2-777b70ec30354292805432dc15af2234)
-- [가장 쉽게 AWS VPC 개념잡기](https://medium.com/harrythegreat/aws-%EA%B0%80%EC%9E%A5%EC%89%BD%EA%B2%8C-vpc-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0-71eef95a7098)
-- [AWS로 토이프로젝트 운영삽질기](https://medium.com/harrythegreat/aws%EB%A1%9C-%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-5a77f7e13521)
-- [문과생의 카카오 개발자 이직기](https://zorba91.tistory.com/m/270?category=876991)
-- [Spring 테스트 코드 작성에 대한 나름의 고찰](https://www.popit.kr/spring-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bd%94%eb%93%9c-%ec%9e%91%ec%84%b1%ec%97%90-%eb%8c%80%ed%95%9c-%eb%82%98%eb%a6%84%ec%9d%98-%ea%b3%a0%ec%b0%b0/)
-- [5년차 프로그래머의 이직 일기](https://www.leadme.today/post/6656428033966080)
-
-
 
 --------------------------------------
 </br>
@@ -398,6 +379,7 @@
 - [SI 탈출 가이드](http://blog.hwang.gg/20190508/)
 - [어떤 주니어 개발자의 이야기](https://medium.com/@codesquad_yoda/%EC%BD%94%EB%94%A9-%EC%96%B4%EB%96%A4-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-1d210f2f4dae)
 - [현직 우버 개발자가 느낀 신입 개발자들이 제일 많이 하는 실수 3가지](https://www.youtube.com/watch?v=6qcQd4HPpTU)
+- [문과생의 카카오 개발자 이직기](https://zorba91.tistory.com/m/270?category=876991)
 
 --------------------------------------
 
@@ -475,6 +457,7 @@
 - [블록체인 개발사 면접 오픈북과 지원자의 답변 공유](https://okky.kr/article/583445)
 - [대기업 IT직군 코딩테스트 합격을 위한 현실적이고 직관적인 공부 순서 [영상]](https://www.youtube.com/watch?v=ukkLCl9yBvE)
 - [Product Manager의 이직 탐험기 #1](https://medium.com/@sean26/product-manager%EC%9D%98-%EC%9D%B4%EC%A7%81-%ED%83%90%ED%97%98%EA%B8%B0-1-cfa002f2233e)
+- [5년차 프로그래머의 이직 일기](https://www.leadme.today/post/6656428033966080)
 
 --------------------------------------
 </br>
@@ -597,6 +580,8 @@
 - [스프링기반 테스트 코드 작성에 대한 고찰](https://github.com/cheese10yun/blog-sample/blob/master/test-code/README.md)
 - [[Spring 레퍼런스] 웹 MVC 프레임워크](https://blog.outsider.ne.kr/903?category=2)
 - [SpringBoot기반 Redis Cache 활용법](https://link.medium.com/ZFeC4JCSUY)
+- [Spring 테스트 코드 작성에 대한 나름의 고찰](https://www.popit.kr/spring-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bd%94%eb%93%9c-%ec%9e%91%ec%84%b1%ec%97%90-%eb%8c%80%ed%95%9c-%eb%82%98%eb%a6%84%ec%9d%98-%ea%b3%a0%ec%b0%b0/)
+- [IoC, DI란 무엇일까](https://biggwang.github.io/2019/08/31/Spring/IoC,%20DI란%20무엇일까/)
 
 --------------------------------------
 
@@ -762,7 +747,10 @@
 - [MSA, K8S를 이용한 대륙의 서비스 개발 사례 [슬라이드]](https://www.slideshare.net/mobile/babokim/open-infradays-2019msak8s)
 - [아파치 로드밸런싱으로 여러 WAS 운영하기](https://taetaetae.github.io/2019/08/04/apache-load-balancing/)
 - [리디북스 서비스 장애 복구 후기](https://www.ridicorp.com/blog/2016/09/02/idc-outage/)
-
+- [EKS 서비스 사용법 및 예제](https://blog.wonizz.tk/2019/09/09/aws-eks/)
+- [컨테이너와 쿠버네티스 쉽게 이해하기](https://medium.com/@dodghekgoo/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%A5%BC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-3bd07ff0a02d)
+- [가장 쉽게 AWS VPC 개념잡기](https://medium.com/harrythegreat/aws-%EA%B0%80%EC%9E%A5%EC%89%BD%EA%B2%8C-vpc-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0-71eef95a7098)
+- [AWS로 토이프로젝트 운영삽질기](https://medium.com/harrythegreat/aws%EB%A1%9C-%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-5a77f7e13521)
 --------------------------------------
 
 ### 데이터베이스 & SQL
@@ -824,6 +812,7 @@
 - [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667)
 - [최신 네트워크 로드 밸런싱 및 프록시 소개 [번역]](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
 - [네트워크의 기본 'OSI 7계층'··· 한번에 이해하고 외우는 방법](http://www.ciokorea.com/news/36536#csidxa7b8fb7c6c7e34a85f2253bf8c1b283)
+- [네트워크 모니터링이 궁금할땐 ? Packetbeat !](https://taetaetae.github.io/2019/09/08/network-monitor-by-packetbeat/)
 
 --------------------------------------
 </br>
@@ -1112,6 +1101,9 @@
 - [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
 - [git 팁 - 잘못 커밋한 대용량 파일 처리하기](https://youtu.be/yd1TO-my6lw)
 - [Github에 100MB 이상의 파일을 올리는 방법](https://medium.com/@stargt/github%EC%97%90-100mb-%EC%9D%B4%EC%83%81%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95-9d9e6e3b94ef)
+- [커밋 히스토리를 이쁘게 관리하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/?fbclid=IwAR2A8rQIpndhz3SJuArm6gWlw-y2a5vEylloYWoOsNqOAZADWXkUBYwFTRg)
+- [git이 저장하는 방식](https://junwoo45.github.io/2019-09-03-git%EC%9D%B4%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94%EB%B0%A9%EC%8B%9D/)
+- [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 
 --------------------------------------
 
@@ -1162,6 +1154,7 @@
 - [2019년 주요 AI 컨퍼런스](https://brunch.co.kr/@kakao-it/322)
 - [TensorFlow를 활용한 네이버쇼핑의 상품 카테고리 자동 분류](https://d2.naver.com/helloworld/1264836)
 - [꼼꼼하고 이해하기 쉬운 XLNet 논문 리뷰](https://blog.pingpong.us/xlnet-review/)
+- [글쓰기 화면에서 카테고리 자동 추천하는 모델 만들기](https://medium.com/daangn/%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%B6%94%EC%B2%9C%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-cbbcc43e1f7f)
 
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
@@ -1235,6 +1228,8 @@
 - [포인터가 뭐고 왜 쓰는건가요? [영상]](https://www.youtube.com/watch?v=u65F4ECaKaY&t)
 - [비동기 프로그래밍이 뭔가요? [영상]](https://www.youtube.com/watch?v=m0icCqHY39U)
 - [Intellij Setting 동기화하기](https://nesoy.github.io/articles/2019-08/Intellij-Setting-Sync)
+- [구글의 코드 리뷰 가이드](https://google.github.io/eng-practices/review/)
+- [Elasticsearch 버전 업데이트 썰 (Nori 형태소 분석기 shallow dive) [영상]](https://www.youtube.com/watch?v=UgJQQ-1HHaw)
 
 ### 에러 발생한 컨텐츠들
 >이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
