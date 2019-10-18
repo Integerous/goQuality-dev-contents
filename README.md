@@ -157,7 +157,7 @@
 - [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/)
 - [프론트엔드 개발자 학습 방향](https://youtu.be/02RCNUF-2Vw)
 - [당신의 API가 Restful 하지 않은 5가지 증거](https://beyondj2ee.wordpress.com/2013/03/21/당신의-api가-restful-하지-않은-5가지-증거/)
-- [클라우드에서 트랜잭션 관리 - 트랜잭션의 기초 및 분산 트랜잭션](https://developer.ibm.com/kr/developer-%EA%B8%B0%EC%88%A0-%ED%8F%AC%EB%9F%BC/2017/08/14/%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%97%86%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
+- [클라우드에서 트랜잭션 관리 - 트랜잭션의 기초 및 분산 트랜잭션](https://developer.ibm.com/kr/cloud/2017/08/11/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%98-%EA%B8%B0%EC%B4%88-%EB%B0%8F-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98/)
 
 --------------------------------------
 </br>
