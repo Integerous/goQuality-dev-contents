@@ -46,9 +46,14 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 19일 토요일
+#### 2019년 10월 20일 일요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 10월 19일 토요일
+- [인생 첫 open source 기여 경험기](https://minu94.tistory.com/m/3)
+- [날짜와 시간 표시에 대한 디테일](https://brunch.co.kr/@anitooni/3)
+- [웹서버 부하테스트 실전 노하우 [슬라이드]](https://www.slideshare.net/IMQAGroup/ss-183469952)
 
 #### 2019년 10월 18일 금요일
 - [postman 활용 1~3편](https://blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221669110777&proxyReferer=)
@@ -56,15 +61,13 @@
 - [스파게티 조인을 피하고 경계안에서 캐시 구현하기](https://www.popit.kr/%ec%8a%a4%ed%8c%8c%ea%b2%8c%ed%8b%b0-%ec%a1%b0%ec%9d%b8%ec%9d%84-%ed%94%bc%ed%95%98%ea%b3%a0-%ea%b2%bd%ea%b3%84%ec%95%88%ec%97%90%ec%84%9c-%ec%ba%90%ec%8b%9c-%ea%b5%ac%ed%98%84%ed%95%98%ea%b8%b0/)
 - [리눅스 명령어 삼대장: find, grep, awk](https://jybaek.tistory.com/m/704?category=251617)
 
-#### 2019년 10월 17일 목요일
+
+#### 밀린 컨텐츠들
 - [인텔리제이에서 gradle 쉽게 사용하기](https://cheese10yun.github.io/intellij-execute-gradle-task/)
 - [남은 2019년에 프론트엔드 개발자가 배워야 할 것들 🧐](https://dev.to/frontendmasters/what-front-end-developer-skills-should-you-focus-on-learning-for-the-rest-of-2019-10c5)
 - [구글 머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course?hl=ko)
 - [JavaScript 재입문하기 (JS ​튜토리얼)](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
 - [Vim의 탭은 그렇게 쓰는 게 아니다. 버퍼와 탭의 사용법 [번역]](https://bakyeono.net/post/2015-08-13-vim-tab-madness-translate.html)
-
-
-#### 밀린 컨텐츠들
 - [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0)
 - [아이오닉 + 리액트](https://ionicframework.com/blog/announcing-ionic-react/)
 - [리액트와 찰떡궁합 next.js](https://youtu.be/jg2ha2RIWN0)
