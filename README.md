@@ -46,23 +46,28 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 22일 화요일
+#### 2019년 10월 24일 목요일
 - (여기에 추가해주세요!)
 -
 
-#### 2019년 10월 21일 월요일
+#### 2019년 10월 23일 수요일
+- [Cloudflare 도입 후기](https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts/)
+- [차근차근 오픈소스에 기여해보기](https://rinae.dev/posts/how-to-contribute-oss)
+- [스포카에서 신입 개발자가 적응하는 법: 부트캠프 후기](https://spoqa.github.io/2019/10/22/bootcamp-review.html)
+
+#### 2019년 10월 22일 화요일
+- [스타트업에서 데이터를 더하는 법](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit?usp=sharing)
+- [웹 서비스 개발시 사용가능한 무료 도구들 [영상]](https://m.youtube.com/watch?v=u3Ph_M2bySg)
+
+
+#### 밀린 컨텐츠들
 - [Jest - expect.extend 사용하는 방법](https://moonformeli.tistory.com/29)
 - [Modern background execution in Android (안드로이드 유즈케이스 별 백그라운드?)](https://android.jlelse.eu/modern-background-execution-in-android-bfae13c61b6b)
 - [HTTP 접근 제어 (CORS)](https://developer.mozilla.org/ko/docs/Web/HTTP/Access_control_CORS)
 - [Open Session In View Pattern](http://pds19.egloos.com/pds/201106/28/18/Open_Session_In_View_Pattern.pdf)
 - [AWS 솔루션 아키텍트 어소시에이트 자격증 취득 후기](https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate)
-
-#### 2019년 10월 20일 일요일
 - [(번역)Javascript 생성자에서 private 변수 정의하기](https://doong-jo.github.io/javascript/2019/10/19/(%EB%B2%88%EC%97%AD)-javascript-%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90%EC%84%9C-private-%EB%B3%80%EC%88%98-%EC%A0%95%EC%9D%98%ED%95%98%EA%B8%B0/)
 - [평범한 개발자 그 이상이 되기 위한 야생 학습 비결](https://www.popit.kr/%ed%8f%89%eb%b2%94%ed%95%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ea%b7%b8-%ec%9d%b4%ec%83%81%ec%9d%b4-%eb%90%98%ea%b8%b0-%ec%9c%84%ed%95%9c-%ec%95%bc%ec%83%9d-%ed%95%99%ec%8a%b5-%eb%b9%84%ea%b2%b0/)
-
-
-#### 밀린 컨텐츠들
 - [인생 첫 open source 기여 경험기](https://minu94.tistory.com/m/3)
 - [날짜와 시간 표시에 대한 디테일](https://brunch.co.kr/@anitooni/3)
 - [웹서버 부하테스트 실전 노하우 [슬라이드]](https://www.slideshare.net/IMQAGroup/ss-183469952)
