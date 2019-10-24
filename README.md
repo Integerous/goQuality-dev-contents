@@ -46,21 +46,25 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 24일 목요일
+#### 2019년 10월 25일 금요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 10월 24일 목요일
+- [스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들](https://www.mimul.com/blog/linux-server-operations/)
+- [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/)
+- [모두를 위한 설계. 레진 웹 접근성 가이드라인.](https://github.com/lezhin/accessibility/)
+- [웹 개발자로서 생산성을 향상시킬 수 있는 7가지 방법 [영문]](https://dev.to/mustapha/7-tips-to-boost-your-productivity-as-a-web-developer-4jh7)
 
 #### 2019년 10월 23일 수요일
 - [Cloudflare 도입 후기](https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts/)
 - [차근차근 오픈소스에 기여해보기](https://rinae.dev/posts/how-to-contribute-oss)
 - [스포카에서 신입 개발자가 적응하는 법: 부트캠프 후기](https://spoqa.github.io/2019/10/22/bootcamp-review.html)
 
-#### 2019년 10월 22일 화요일
-- [스타트업에서 데이터를 더하는 법](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit?usp=sharing)
-- [웹 서비스 개발시 사용가능한 무료 도구들 [영상]](https://m.youtube.com/watch?v=u3Ph_M2bySg)
-
 
 #### 밀린 컨텐츠들
+- [스타트업에서 데이터를 더하는 법](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit?usp=sharing)
+- [웹 서비스 개발시 사용가능한 무료 도구들 [영상]](https://m.youtube.com/watch?v=u3Ph_M2bySg)
 - [Jest - expect.extend 사용하는 방법](https://moonformeli.tistory.com/29)
 - [Modern background execution in Android (안드로이드 유즈케이스 별 백그라운드?)](https://android.jlelse.eu/modern-background-execution-in-android-bfae13c61b6b)
 - [HTTP 접근 제어 (CORS)](https://developer.mozilla.org/ko/docs/Web/HTTP/Access_control_CORS)
