@@ -46,9 +46,17 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 25일 금요일
+#### 2019년 10월 26일 토요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 10월 25일 금요일
+- [카카오 if 개발자 컨퍼런스 발표자료](https://if.kakao.com/2019/program)
+- [REST API가 뭔가요? [영상]](https://youtu.be/iOueE9AXDQQ)
+- [아파치 카프카 개요 및 설명 [영상]](https://youtu.be/waw0XXNX-uQ)
+- [[Spring 레퍼런스] 28장 캐시 추상화](https://blog.outsider.ne.kr/1094)
+- [logrotate를 이용하여 로그 파일을 자동으로 삭제하기](https://medium.com/encored-technologies-engineering-data-science/logrotate%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A1%9C%EA%B7%B8-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0-dccf7b1b52b0)
+- [코드스피츠 85 거침없는 자바스크립트 - 1회차 [영상]](https://www.youtube.com/watch?v=0NsJsBdYVHI)
 
 #### 2019년 10월 24일 목요일
 - [스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들](https://www.mimul.com/blog/linux-server-operations/)
@@ -56,13 +64,11 @@
 - [모두를 위한 설계. 레진 웹 접근성 가이드라인.](https://github.com/lezhin/accessibility/)
 - [웹 개발자로서 생산성을 향상시킬 수 있는 7가지 방법 [영문]](https://dev.to/mustapha/7-tips-to-boost-your-productivity-as-a-web-developer-4jh7)
 
-#### 2019년 10월 23일 수요일
+
+#### 밀린 컨텐츠들
 - [Cloudflare 도입 후기](https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts/)
 - [차근차근 오픈소스에 기여해보기](https://rinae.dev/posts/how-to-contribute-oss)
 - [스포카에서 신입 개발자가 적응하는 법: 부트캠프 후기](https://spoqa.github.io/2019/10/22/bootcamp-review.html)
-
-
-#### 밀린 컨텐츠들
 - [스타트업에서 데이터를 더하는 법](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit?usp=sharing)
 - [웹 서비스 개발시 사용가능한 무료 도구들 [영상]](https://m.youtube.com/watch?v=u3Ph_M2bySg)
 - [Jest - expect.extend 사용하는 방법](https://moonformeli.tistory.com/29)
