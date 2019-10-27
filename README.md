@@ -46,23 +46,25 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 27일 일요일
+#### 2019년 10월 28일 월요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 10월 27일 일요일
+- [[개발자 고민상담소] 지난 경력이 '물경력' 같다는 3년차 웹 개발자](https://prgms.tistory.com/18)
+- [JPA N+1 발생원인과 해결방법](https://github.com/cheese10yun/blog-sample/tree/master/jpa-n-plus-1)
 
 #### 2019년 10월 26일 토요일
 - [TensorFlow KR 3차 오프라인 모임 발표 자료 모음](https://gist.github.com/nacyot/74e299da77cc524dc44c41e6642643f4)
 
-#### 2019년 10월 25일 금요일
+
+#### 밀린 컨텐츠들
 - [카카오 if 개발자 컨퍼런스 발표자료](https://if.kakao.com/2019/program)
 - [REST API가 뭔가요? [영상]](https://youtu.be/iOueE9AXDQQ)
 - [아파치 카프카 개요 및 설명 [영상]](https://youtu.be/waw0XXNX-uQ)
 - [[Spring 레퍼런스] 28장 캐시 추상화](https://blog.outsider.ne.kr/1094)
 - [logrotate를 이용하여 로그 파일을 자동으로 삭제하기](https://medium.com/encored-technologies-engineering-data-science/logrotate%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A1%9C%EA%B7%B8-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0-dccf7b1b52b0)
 - [코드스피츠 85 거침없는 자바스크립트 - 1회차 [영상]](https://www.youtube.com/watch?v=0NsJsBdYVHI)
-
-
-#### 밀린 컨텐츠들
 - [스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들](https://www.mimul.com/blog/linux-server-operations/)
 - [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/)
 - [모두를 위한 설계. 레진 웹 접근성 가이드라인.](https://github.com/lezhin/accessibility/)
