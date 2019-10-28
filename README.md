@@ -183,13 +183,7 @@
 - [Ajax & CORS Overview](https://wit.nts-corp.com/2014/04/22/1400)
 - [깃허브 대 비트버킷 대 깃랩: 개발자의 마음을 사기 위한 치열한 경쟁 - ITWorld Korea -](http://www.itworld.co.kr/news/109976?page=0,0)
 - [if kakao 2019 발표 자료 & 영상](https://if.kakao.com/program)
-- [검색엔진과 DB Like 검색의 결과가 다른 이유](https://www.slideshare.net/mobile/heungrae_kim/db-like)
-- [MSA에서 메시징 트랜잭션 처리하기](https://www.popit.kr/msa에서-메시징-트랜잭션-처리하기/)
-- [Git fork와 clone의 차이점](https://velog.io/@imacoolgirlyo/Git-fork%EC%99%80-clone-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-5sjuhwfzgp)
-- [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/)
-- [프론트엔드 개발자 학습 방향](https://youtu.be/02RCNUF-2Vw)
-- [당신의 API가 Restful 하지 않은 5가지 증거](https://beyondj2ee.wordpress.com/2013/03/21/당신의-api가-restful-하지-않은-5가지-증거/)
-- [클라우드에서 트랜잭션 관리 - 트랜잭션의 기초 및 분산 트랜잭션](https://developer.ibm.com/kr/cloud/2017/08/11/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%98-%EA%B8%B0%EC%B4%88-%EB%B0%8F-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98/)
+
 
 --------------------------------------
 </br>
@@ -378,7 +372,7 @@
 - [내게 실용적이었던 프로그래밍 공부 방법들](https://velog.io/@city7310/%EB%82%B4%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D)
 - [당신의 사이드 프로젝트를 위한 10가지 팁](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects)
 - ['성장'에 갈증을 느끼는 사람을 위하여(개발자 편)](https://brunch.co.kr/@chickenmoim/7)
-
+- [프론트엔드 개발자 학습 방향](https://youtu.be/02RCNUF-2Vw)
 --------------------------------------
 
 ### 비전공자 & 신입
@@ -783,6 +777,8 @@
 - [컨테이너와 쿠버네티스 쉽게 이해하기](https://medium.com/@dodghekgoo/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%A5%BC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-3bd07ff0a02d)
 - [가장 쉽게 AWS VPC 개념잡기](https://medium.com/harrythegreat/aws-%EA%B0%80%EC%9E%A5%EC%89%BD%EA%B2%8C-vpc-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0-71eef95a7098)
 - [AWS로 토이프로젝트 운영삽질기](https://medium.com/harrythegreat/aws%EB%A1%9C-%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-5a77f7e13521)
+- [클라우드에서 트랜잭션 관리 - 트랜잭션의 기초 및 분산 트랜잭션](https://developer.ibm.com/kr/cloud/2017/08/11/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%98-%EA%B8%B0%EC%B4%88-%EB%B0%8F-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98/)
+
 --------------------------------------
 
 ### 데이터베이스 & SQL
@@ -1136,6 +1132,7 @@
 - [커밋 히스토리를 이쁘게 관리하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/?fbclid=IwAR2A8rQIpndhz3SJuArm6gWlw-y2a5vEylloYWoOsNqOAZADWXkUBYwFTRg)
 - [git이 저장하는 방식](https://junwoo45.github.io/2019-09-03-git%EC%9D%B4%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94%EB%B0%A9%EC%8B%9D/)
 - [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+- [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/)
 
 --------------------------------------
 
