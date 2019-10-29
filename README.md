@@ -46,19 +46,23 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 28일 월요일
+#### 2019년 10월 30일 수요일
 - (여기에 추가해주세요!)
 -
 
-#### 2019년 10월 27일 일요일
-- [[개발자 고민상담소] 지난 경력이 '물경력' 같다는 3년차 웹 개발자](https://prgms.tistory.com/18)
-- [JPA N+1 발생원인과 해결방법](https://github.com/cheese10yun/blog-sample/tree/master/jpa-n-plus-1)
+#### 2019년 10월 29일 화요일
+- [LINE에서 Kafka를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
+- [Vue.js 입문자가 실무에서 주의해야 할 5가지 특징 [슬라이드]](https://drive.google.com/file/d/0B3AcM_ZW0sOceDJVNHZYTHR6MlVRbWt2LXRCWVAzLTMyTHNN/view)
 
-#### 2019년 10월 26일 토요일
-- [TensorFlow KR 3차 오프라인 모임 발표 자료 모음](https://gist.github.com/nacyot/74e299da77cc524dc44c41e6642643f4)
+#### 2019년 10월 28일 월요일
+- [개발하기 바쁜데 글까지 쓰라고? (글쓰는 개발자가 되자.)](https://taetaetae.github.io/2019/10/27/a-reason-for-writing/)
+- [간단하게 만드는 랜덤런치 그룹 생성기](https://johngrib.github.io/wiki/random-lunch/)
 
 
 #### 밀린 컨텐츠들
+- [[개발자 고민상담소] 지난 경력이 '물경력' 같다는 3년차 웹 개발자](https://prgms.tistory.com/18)
+- [JPA N+1 발생원인과 해결방법](https://github.com/cheese10yun/blog-sample/tree/master/jpa-n-plus-1)
+- [TensorFlow KR 3차 오프라인 모임 발표 자료 모음](https://gist.github.com/nacyot/74e299da77cc524dc44c41e6642643f4)
 - [카카오 if 개발자 컨퍼런스 발표자료](https://if.kakao.com/2019/program)
 - [REST API가 뭔가요? [영상]](https://youtu.be/iOueE9AXDQQ)
 - [아파치 카프카 개요 및 설명 [영상]](https://youtu.be/waw0XXNX-uQ)
