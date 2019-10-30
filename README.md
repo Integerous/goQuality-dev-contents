@@ -46,20 +46,22 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 10월 30일 수요일
+#### 2019년 10월 31일 목요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 10월 30일 수요일
+- [누구나 한 번쯤은 띄워본 JavaScript 에러 TOP 10 [번역]](https://blog.meeta.io/10)
+- [Git을 사용할 때 알아야 할 4 가지](https://medium.com/@moonformeli/git%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-4-%EA%B0%80%EC%A7%80-f8a64f5fa558)
 
 #### 2019년 10월 29일 화요일
 - [LINE에서 Kafka를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
 - [Vue.js 입문자가 실무에서 주의해야 할 5가지 특징 [슬라이드]](https://drive.google.com/file/d/0B3AcM_ZW0sOceDJVNHZYTHR6MlVRbWt2LXRCWVAzLTMyTHNN/view)
 
-#### 2019년 10월 28일 월요일
-- [개발하기 바쁜데 글까지 쓰라고? (글쓰는 개발자가 되자.)](https://taetaetae.github.io/2019/10/27/a-reason-for-writing/)
-- [간단하게 만드는 랜덤런치 그룹 생성기](https://johngrib.github.io/wiki/random-lunch/)
-
 
 #### 밀린 컨텐츠들
+- [개발하기 바쁜데 글까지 쓰라고? (글쓰는 개발자가 되자.)](https://taetaetae.github.io/2019/10/27/a-reason-for-writing/)
+- [간단하게 만드는 랜덤런치 그룹 생성기](https://johngrib.github.io/wiki/random-lunch/)
 - [[개발자 고민상담소] 지난 경력이 '물경력' 같다는 3년차 웹 개발자](https://prgms.tistory.com/18)
 - [JPA N+1 발생원인과 해결방법](https://github.com/cheese10yun/blog-sample/tree/master/jpa-n-plus-1)
 - [TensorFlow KR 3차 오프라인 모임 발표 자료 모음](https://gist.github.com/nacyot/74e299da77cc524dc44c41e6642643f4)
