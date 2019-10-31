@@ -176,20 +176,6 @@
 - [Promise.allsettled 관하여 및 직접 만들어보기](https://medium.com/@hyunwoojo/javascript-promise-allsettled-에-대해서-12d8f2d6b7c0)
 - [웹디자이너를 위한 크롬 확장 프로그램 10선](https://uxdesign.cc/10-best-chrome-extensions-for-designers-a76540b93836)
 - [플러터를 배우기 위한 강좌 및 사이트 추천](https://medium.com/@sangin84/flutter-%ED%94%8C%EB%9F%AC%ED%84%B0-%EB%A5%BC-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EA%B0%95%EC%A2%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EC%B2%9C-97bfee35b20)
-- [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
-- [개발자 머피의 법칙](http://woowabros.github.io/experience/2019/09/19/programmer-murphy-law.html)
-- [2019년 상반기 LINE 인턴 채용 코딩테스트 문제 해설](https://engineering.linecorp.com/ko/blog/2019-firsthalf-line-internship-recruit-coding-test)
-- [JDK 13 둘러보기](https://johngrib.github.io/wiki/jdk13/)
-- [Kafka 개념정리](https://www.slipp.net/wiki/plugins/servlet/mobile?contentId=30772803#content/view/30772803)
-- [휴면 계정 처리 – 배치에서 온라인 시스템으로](http://www.chidoo.me/index.php/2019/09/14/from-batch-to-online-processing-in-msa/)
-- [테스트 상태인 Private 메소드를 Public메소드로 변환시 Unit Testing은 어떻게 해야하나?](https://www.slipp.net/questions/253)
-- [sql 쿼리에서 따옴표의 사용 MySQL 에러 1064(42000) 관련 도움](https://chartio.com/learn/sql-tips/single-double-quote-and-backticks-in-mysql-queries/)
-- [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
-- [14일만에 GitHub 스타 1K 받은 차트 오픈소스 개발기](https://www.slideshare.net/netil/deview-2017-14-github-1k)
-- [Ajax & CORS Overview](https://wit.nts-corp.com/2014/04/22/1400)
-- [깃허브 대 비트버킷 대 깃랩: 개발자의 마음을 사기 위한 치열한 경쟁 - ITWorld Korea -](http://www.itworld.co.kr/news/109976?page=0,0)
-- [if kakao 2019 발표 자료 & 영상](https://if.kakao.com/program)
-
 
 --------------------------------------
 </br>
@@ -297,6 +283,8 @@
 - [소프트웨어 개발자 되기는 왜 어려운가?](https://hl1itj.tistory.com/m/136?category=327240)
 - [개발자가 창업할 때 유의해야 할 세 가지](http://tkim.co/2019/05/30/%ea%b0%9c%eb%b0%9c%ec%9e%90%ea%b0%80-%ec%b0%bd%ec%97%85%ed%95%a0-%eb%95%8c-%ec%9c%a0%ec%9d%98%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%84%b8-%ea%b0%80%ec%a7%80/)
 - [소프트웨어 환멸감 [번역]](https://muchtrans.com/translations/software-disenchantment.ko.html)
+- [개발자 머피의 법칙](http://woowabros.github.io/experience/2019/09/19/programmer-murphy-law.html)
+
 
 --------------------------------------
 
@@ -319,6 +307,8 @@
 - [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
 - [필요한 내용만 추려서 DDD 당장 써먹기](https://www.popit.kr/%ED%95%84%EC%9A%94%ED%95%9C-%EB%82%B4%EC%9A%A9%EB%A7%8C-%EC%B6%94%EB%A0%A4%EC%84%9C-ddd-%EB%8B%B9%EC%9E%A5-%EC%8D%A8%EB%A8%B9%EA%B8%B0/)
 - [LocalStack을 활용한 Integration Test 환경 만들기](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)
+- [테스트 상태인 Private 메소드를 Public메소드로 변환시 Unit Testing은 어떻게 해야하나?](https://www.slipp.net/questions/253)
+
 
 --------------------------------------
 
@@ -412,6 +402,8 @@
 - [어떤 주니어 개발자의 이야기](https://medium.com/@codesquad_yoda/%EC%BD%94%EB%94%A9-%EC%96%B4%EB%96%A4-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-1d210f2f4dae)
 - [현직 우버 개발자가 느낀 신입 개발자들이 제일 많이 하는 실수 3가지](https://www.youtube.com/watch?v=6qcQd4HPpTU)
 - [문과생의 카카오 개발자 이직기](https://zorba91.tistory.com/m/270?category=876991)
+- [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
+
 
 --------------------------------------
 
@@ -437,6 +429,8 @@
 - [Spring Camp 2018 영상 모음](https://www.youtube.com/playlist?list=PLdHtZnJh1KdZnswQEyrn5VKxAXluSlWJc)
 - [구글 I/O 2019 정리 기사](https://n.news.naver.com/article/293/0000024070)
 - [구글 I/O 2019 키노트 총 정리](https://byline.network/2019/05/08-15/)
+- [if kakao 2019 발표 자료 & 영상](https://if.kakao.com/program)
+- [Deview 2019 발표자료 모음](https://deview.kr/2019/schedule)
 
 --------------------------------------
 
@@ -614,6 +608,8 @@
 - [SpringBoot기반 Redis Cache 활용법](https://link.medium.com/ZFeC4JCSUY)
 - [Spring 테스트 코드 작성에 대한 나름의 고찰](https://www.popit.kr/spring-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bd%94%eb%93%9c-%ec%9e%91%ec%84%b1%ec%97%90-%eb%8c%80%ed%95%9c-%eb%82%98%eb%a6%84%ec%9d%98-%ea%b3%a0%ec%b0%b0/)
 - [IoC, DI란 무엇일까](https://biggwang.github.io/2019/08/31/Spring/IoC,%20DI란%20무엇일까/)
+- [JDK 13 둘러보기](https://johngrib.github.io/wiki/jdk13/)
+- [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
 
 --------------------------------------
 
@@ -784,6 +780,8 @@
 - [가장 쉽게 AWS VPC 개념잡기](https://medium.com/harrythegreat/aws-%EA%B0%80%EC%9E%A5%EC%89%BD%EA%B2%8C-vpc-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0-71eef95a7098)
 - [AWS로 토이프로젝트 운영삽질기](https://medium.com/harrythegreat/aws%EB%A1%9C-%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-5a77f7e13521)
 - [클라우드에서 트랜잭션 관리 - 트랜잭션의 기초 및 분산 트랜잭션](https://developer.ibm.com/kr/cloud/2017/08/11/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%98-%EA%B8%B0%EC%B4%88-%EB%B0%8F-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98/)
+- [휴면 계정 처리 – 배치에서 온라인 시스템으로](http://www.chidoo.me/index.php/2019/09/14/from-batch-to-online-processing-in-msa/)
+
 
 --------------------------------------
 
@@ -1076,6 +1074,8 @@
 - [보안 프로토콜 TLS 1.3](https://brunch.co.kr/@mobiinside/1482)
 - [HTTP에서부터 WEBSOCKET까지](https://medium.com/@chullino/http%EC%97%90%EC%84%9C%EB%B6%80%ED%84%B0-websocket%EA%B9%8C%EC%A7%80-94df91988788)
 - [HTTPS 전환 과정에서 read timeout 오류 해결 과정](https://d2.naver.com/helloworld/1469717)
+- [Ajax & CORS Overview](https://wit.nts-corp.com/2014/04/22/1400)
+
 
 --------------------------------------
 
@@ -1265,6 +1265,10 @@
 - [Intellij Setting 동기화하기](https://nesoy.github.io/articles/2019-08/Intellij-Setting-Sync)
 - [구글의 코드 리뷰 가이드](https://google.github.io/eng-practices/review/)
 - [Elasticsearch 버전 업데이트 썰 (Nori 형태소 분석기 shallow dive) [영상]](https://www.youtube.com/watch?v=UgJQQ-1HHaw)
+- [14일만에 GitHub 스타 1K 받은 차트 오픈소스 개발기](https://www.slideshare.net/netil/deview-2017-14-github-1k)
+
+
+
 
 ### 에러 발생한 컨텐츠들
 >이 곳에 모아두었다가, 에러가 해결되면 원래 위치로 원복 예정.
