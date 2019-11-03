@@ -46,19 +46,27 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 1일 금요일
+#### 2019년 11월 4일 월요일
 - (여기에 추가해주세요!)
 -
 
-#### 2019년 10월 31일 목요일
-- [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 1](https://d2.naver.com/helloworld/7700312)
+#### 2019년 11월 3일 일요일
+- [만화로 보는 DNS over HTTPS](http://hacks.mozilla.or.kr/2019/10/a-cartoon-intro-to-dns-over-)
+- [Apache Spark - DataSource V2(1)](https://leeyh0216.github.io/2019-11-01/spark-datasource-v2-1)
+- [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
 
-#### 2019년 10월 30일 수요일
-- [누구나 한 번쯤은 띄워본 JavaScript 에러 TOP 10 [번역]](https://blog.meeta.io/10)
-- [Git을 사용할 때 알아야 할 4 가지](https://medium.com/@moonformeli/git%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-4-%EA%B0%80%EC%A7%80-f8a64f5fa558)
+#### 2019년 11월 2일 토요일
+- [모바일 UI 디자인 기본 요소 - 버튼](https://brunch.co.kr/@chulhochoiucj0/23)
 
 
 #### 밀린 컨텐츠들
+- [한재엽님의 DEVIEW 2일차 웹 프론트 관련 세션 간단 정리](https://jbee.io/etc/deview-2day-review/)
+- [쿠팡 데이터 플랫폼의 진화](https://medium.com/coupang-tech/%EC%BF%A0%ED%8C%A1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%98-%EC%A7%84%ED%99%94-26c827c1ec09)
+- [‘리셋(Reset)/취소(Cancel)’ 버튼은 사라져야 한다.](https://naradesign.github.io/article/do-not-use-reset-cancel.html)
+- [User Session Security 를 위해 알아야 할 모든 것](https://dzone.com/articles/all-you-need-to-know-about-user-session-security)
+- [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 1](https://d2.naver.com/helloworld/7700312)
+- [누구나 한 번쯤은 띄워본 JavaScript 에러 TOP 10 [번역]](https://blog.meeta.io/10)
+- [Git을 사용할 때 알아야 할 4 가지](https://medium.com/@moonformeli/git%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-4-%EA%B0%80%EC%A7%80-f8a64f5fa558)
 - [LINE에서 Kafka를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
 - [Vue.js 입문자가 실무에서 주의해야 할 5가지 특징 [슬라이드]](https://drive.google.com/file/d/0B3AcM_ZW0sOceDJVNHZYTHR6MlVRbWt2LXRCWVAzLTMyTHNN/view)
 - [개발하기 바쁜데 글까지 쓰라고? (글쓰는 개발자가 되자.)](https://taetaetae.github.io/2019/10/27/a-reason-for-writing/)
