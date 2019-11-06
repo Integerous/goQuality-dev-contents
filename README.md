@@ -46,22 +46,26 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 6일 수요일
+#### 2019년 11월 7일 목요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 11월 6일 수요일
+- [강의를 처음 제안 받았다면?!](https://brunch.co.kr/@chickenmoim/11)
+- [Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5)
+- [나른할 때 읽기 좋은 실리콘밸리 개발자 인터뷰](https://brunch.co.kr/@sweetnsour/6)
+- [성능이 중요한 이유](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 
 #### 2019년 11월 5일 화요일
 - [엔터프라이즈 어플리케이션을 위한 효과적인 프로세싱 전략 [영상]](https://youtu.be/IafgrRB2quY)
 - [N명의 개발자, N개의 조언 [슬라이드]](https://speakerdeck.com/hanjung/nmyeongyi-gaebalja-ngaeyi-joeon)
 
-#### 2019년 11월 4일 월요일
+
+#### 밀린 컨텐츠들
 - [프로젝트에서 jQuery 를 그만 사용해야겠다고 결심한 이유](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-jquery-%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B2%A0%EB%8B%A4%EA%B3%A0-%EA%B2%B0%EC%8B%AC%ED%95%9C-%EC%9D%B4%EC%9C%A0-45379cba95b6)
 - [자바스크립트, 세미콜론을 써야 하나 말아야 하나](https://bakyeono.net/post/2018-01-19-javascript-use-semicolon-or-not.html)
 - [junit5 with kotlin 사용법 정리](https://github.com/cheese10yun/blog-sample/tree/master/kotlin-junit5)
 - [개발자가 밤 새는 것은 과연 용서가 되는가](https://hl1itj.tistory.com/78)
-
-
-#### 밀린 컨텐츠들
 - [만화로 보는 DNS over HTTPS](http://hacks.mozilla.or.kr/2019/10/a-cartoon-intro-to-dns-over-)
 - [Apache Spark - DataSource V2(1)](https://leeyh0216.github.io/2019-11-01/spark-datasource-v2-1)
 - [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
