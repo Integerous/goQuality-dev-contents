@@ -46,9 +46,13 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 8일 금요일
+#### 2019년 11월 9일 토요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 11월 8일 금요일
+- [카프카를 쿠버네티스에서 운영하는것이 좋을까?](https://blog.voidmainvoid.net/280)
+- [데이터 사이언스 벤 다이어그램](https://www.lucypark.kr/blog/2015/06/21/the-data-science-venn-diagram/)
 
 #### 2019년 11월 7일 목요일
 - [멀티클라우드를 이용한 로그 분석 플랫폼 개발하기](https://link.medium.com/yuZDbtqcp1)
@@ -58,14 +62,12 @@
 - [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
 - [타다 (TADA) 서비스의 데이터 웨어하우스 : 태초부터 현재까지 [슬라이드]](https://speakerdeck.com/vcnc/tada-tada-seobiseuyi-deiteo-weeohauseu-taecobuteo-hyeonjaeggaji)
 
-#### 2019년 11월 6일 수요일
+
+#### 밀린 컨텐츠들
 - [강의를 처음 제안 받았다면?!](https://brunch.co.kr/@chickenmoim/11)
 - [Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5)
 - [나른할 때 읽기 좋은 실리콘밸리 개발자 인터뷰](https://brunch.co.kr/@sweetnsour/6)
 - [성능이 중요한 이유](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
-
-
-#### 밀린 컨텐츠들
 - [엔터프라이즈 어플리케이션을 위한 효과적인 프로세싱 전략 [영상]](https://youtu.be/IafgrRB2quY)
 - [N명의 개발자, N개의 조언 [슬라이드]](https://speakerdeck.com/hanjung/nmyeongyi-gaebalja-ngaeyi-joeon)
 - [프로젝트에서 jQuery 를 그만 사용해야겠다고 결심한 이유](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-jquery-%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B2%A0%EB%8B%A4%EA%B3%A0-%EA%B2%B0%EC%8B%AC%ED%95%9C-%EC%9D%B4%EC%9C%A0-45379cba95b6)
