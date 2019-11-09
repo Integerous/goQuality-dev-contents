@@ -46,9 +46,14 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 9일 토요일
+#### 2019년 11월 10일 일요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 11월 9일 토요일
+- [성능덕후를 위한 자바스크립트 코딩 패턴(중급)](https://joshua1988.github.io/web-development/javascript/javascript-best-practices/)
+- [기술 업계의 독성 말투 문제](https://edykim.com/ko/post/tech-has-a-toxic-tone-problem-lets-fix-it/)
+- [지긋지긋한 CORS 파헤쳐보자](https://velog.io/@jmkim87/%EC%A7%80%EA%B8%8B%EC%A7%80%EA%B8%8B%ED%95%9C-CORS-%ED%8C%8C%ED%97%A4%EC%B3%90%EB%B3%B4%EC%9E%90)
 
 #### 2019년 11월 8일 금요일
 - [카프카를 쿠버네티스에서 운영하는것이 좋을까?](https://blog.voidmainvoid.net/280)
