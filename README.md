@@ -59,14 +59,6 @@
 - [카프카를 쿠버네티스에서 운영하는것이 좋을까?](https://blog.voidmainvoid.net/280)
 - [데이터 사이언스 벤 다이어그램](https://www.lucypark.kr/blog/2015/06/21/the-data-science-venn-diagram/)
 
-#### 2019년 11월 7일 목요일
-- [멀티클라우드를 이용한 로그 분석 플랫폼 개발하기](https://link.medium.com/yuZDbtqcp1)
-- [푸시 데몬 메모리 누수 디버깅하기](https://mingrammer.com/debug-memory-leak-with-node-heapdump/)
-- [Why you need Use Cases/Interactors](https://link.medium.com/dyxvbeUqp1)
-- [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 2](https://d2.naver.com/helloworld/7975004)
-- [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
-- [타다 (TADA) 서비스의 데이터 웨어하우스 : 태초부터 현재까지 [슬라이드]](https://speakerdeck.com/vcnc/tada-tada-seobiseuyi-deiteo-weeohauseu-taecobuteo-hyeonjaeggaji)
-
 
 --------------------------------------
 </br>
@@ -731,6 +723,9 @@
 - [쿠팡 데이터 플랫폼의 진화](https://medium.com/coupang-tech/%EC%BF%A0%ED%8C%A1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%98-%EC%A7%84%ED%99%94-26c827c1ec09)
 - [엔터프라이즈 어플리케이션을 위한 효과적인 프로세싱 전략 [영상]](https://youtu.be/IafgrRB2quY)
 - [Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5)
+- [타다 (TADA) 서비스의 데이터 웨어하우스 : 태초부터 현재까지 [슬라이드]](https://speakerdeck.com/vcnc/tada-tada-seobiseuyi-deiteo-weeohauseu-taecobuteo-hyeonjaeggaji)
+- [푸시 데몬 메모리 누수 디버깅하기](https://mingrammer.com/debug-memory-leak-with-node-heapdump/)
+- [멀티클라우드를 이용한 로그 분석 플랫폼 개발하기](https://link.medium.com/yuZDbtqcp1)
 
 
 --------------------------------------
