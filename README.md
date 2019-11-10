@@ -46,18 +46,18 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 10일 일요일
+#### 2019년 11월 11일 월요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 11월 10일 일요일
+- [Mastering Chaos - A Netflix Guide to Microservices [영상]](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+- [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기 [번역]](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
 
 #### 2019년 11월 9일 토요일
 - [성능덕후를 위한 자바스크립트 코딩 패턴(중급)](https://joshua1988.github.io/web-development/javascript/javascript-best-practices/)
 - [기술 업계의 독성 말투 문제](https://edykim.com/ko/post/tech-has-a-toxic-tone-problem-lets-fix-it/)
 - [지긋지긋한 CORS 파헤쳐보자](https://velog.io/@jmkim87/%EC%A7%80%EA%B8%8B%EC%A7%80%EA%B8%8B%ED%95%9C-CORS-%ED%8C%8C%ED%97%A4%EC%B3%90%EB%B3%B4%EC%9E%90)
-
-#### 2019년 11월 8일 금요일
-- [카프카를 쿠버네티스에서 운영하는것이 좋을까?](https://blog.voidmainvoid.net/280)
-- [데이터 사이언스 벤 다이어그램](https://www.lucypark.kr/blog/2015/06/21/the-data-science-venn-diagram/)
 
 
 --------------------------------------
@@ -1157,6 +1157,7 @@
 - [빅데이터를 넘어 패스트 데이터 시대로](https://brunch.co.kr/@imagineer/302)
 - [정규표현식으로 5일 걸리는 작업, 15분만에 끝내기 [번역]](https://medium.com/@jwyeom63/%EB%B2%88%EC%97%AD-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9C%BC%EB%A1%9C-5%EC%9D%BC-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9E%91%EC%97%85-15%EB%B6%84%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-2e615a907048)
 - [스타트업에서 데이터를 더하는 법 [슬라이드]](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit?usp=sharing)
+- [데이터 사이언스 벤 다이어그램 [번역]](https://www.lucypark.kr/blog/2015/06/21/the-data-science-venn-diagram/)
 
 
 ### 머신러닝 & 딥러닝 & AI
