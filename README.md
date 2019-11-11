@@ -61,11 +61,6 @@
 - [Mastering Chaos - A Netflix Guide to Microservices [영상]](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 - [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기 [번역]](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
 
-#### 2019년 11월 9일 토요일
-- [성능덕후를 위한 자바스크립트 코딩 패턴(중급)](https://joshua1988.github.io/web-development/javascript/javascript-best-practices/)
-- [기술 업계의 독성 말투 문제](https://edykim.com/ko/post/tech-has-a-toxic-tone-problem-lets-fix-it/)
-- [지긋지긋한 CORS 파헤쳐보자](https://velog.io/@jmkim87/%EC%A7%80%EA%B8%8B%EC%A7%80%EA%B8%8B%ED%95%9C-CORS-%ED%8C%8C%ED%97%A4%EC%B3%90%EB%B3%B4%EC%9E%90)
-
 
 --------------------------------------
 </br>
@@ -918,6 +913,7 @@
 - [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 1](https://d2.naver.com/helloworld/7700312)
 - [자바스크립트, 세미콜론을 써야 하나 말아야 하나](https://bakyeono.net/post/2018-01-19-javascript-use-semicolon-or-not.html)
 - [프로젝트에서 jQuery를 그만 사용해야겠다고 결심한 이유 [번역]](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-jquery-%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B2%A0%EB%8B%A4%EA%B3%A0-%EA%B2%B0%EC%8B%AC%ED%95%9C-%EC%9D%B4%EC%9C%A0-45379cba95b6)
+- [성능덕후를 위한 자바스크립트 코딩 패턴(중급)](https://joshua1988.github.io/web-development/javascript/javascript-best-practices/)
 
 
 --------------------------------------
@@ -1061,6 +1057,7 @@
 - [레진 웹 접근성 가이드라인](https://github.com/lezhin/accessibility/)
 - [User Session Security 를 위해 알아야 할 모든 것](https://dzone.com/articles/all-you-need-to-know-about-user-session-security)
 - [만화로 보는 DNS over HTTPS](http://hacks.mozilla.or.kr/2019/10/a-cartoon-intro-to-dns-over-https/)
+- [지긋지긋한 CORS 파헤쳐보자](https://velog.io/@jmkim87/%EC%A7%80%EA%B8%8B%EC%A7%80%EA%B8%8B%ED%95%9C-CORS-%ED%8C%8C%ED%97%A4%EC%B3%90%EB%B3%B4%EC%9E%90)
 
 
 --------------------------------------
