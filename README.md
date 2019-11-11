@@ -46,9 +46,16 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 11일 월요일
+#### 2019년 11월 12일 화요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 11월 11일 월요일
+- [웹서비스 백엔드 애플리케이션 아키텍처](https://brunch.co.kr/@springboot/228#comment)
+- [마이크로서비스, 어디까지 해봤니? [영상]](https://youtu.be/F7EnW8dfetU)
+- [자바스크립트의 메모리 모델 [번역]](https://junwoo45.github.io/2019-11-04-memory_model)
+- [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
+- [나는 어떻게 공부했는가?](https://medium.com/@euncho/%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%96%88%EB%8A%94%EA%B0%80-709df6714c42)
 
 #### 2019년 11월 10일 일요일
 - [Mastering Chaos - A Netflix Guide to Microservices [영상]](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
