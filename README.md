@@ -60,13 +60,6 @@
 #### 2019년 11월 12일 화요일
 - [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기](https://www.popit.kr/msa%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%97%AC%EB%9F%AC-api-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%A4%84%EC%9D%B4%EA%B8%B0)
 
-#### 2019년 11월 11일 월요일
-- [웹서비스 백엔드 애플리케이션 아키텍처](https://brunch.co.kr/@springboot/228#comment)
-- [마이크로서비스, 어디까지 해봤니? [영상]](https://youtu.be/F7EnW8dfetU)
-- [자바스크립트의 메모리 모델 [번역]](https://junwoo45.github.io/2019-11-04-memory_model)
-- [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
-- [나는 어떻게 공부했는가?](https://medium.com/@euncho/%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%96%88%EB%8A%94%EA%B0%80-709df6714c42)
-
 
 --------------------------------------
 </br>
@@ -275,6 +268,7 @@
 - [평범한 개발자 그 이상이 되기 위한 야생 학습 비결](https://www.popit.kr/%ed%8f%89%eb%b2%94%ed%95%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ea%b7%b8-%ec%9d%b4%ec%83%81%ec%9d%b4-%eb%90%98%ea%b8%b0-%ec%9c%84%ed%95%9c-%ec%95%bc%ec%83%9d-%ed%95%99%ec%8a%b5-%eb%b9%84%ea%b2%b0/)
 - [차근차근 오픈소스에 기여해보기](https://rinae.dev/posts/how-to-contribute-oss)
 - [개발하기 바쁜데 글까지 쓰라고? (글쓰는 개발자가 되자.)](https://taetaetae.github.io/2019/10/27/a-reason-for-writing/)
+- [나는 어떻게 공부했는가?](https://medium.com/@euncho/%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%96%88%EB%8A%94%EA%B0%80-709df6714c42)
 
 
 --------------------------------------
@@ -314,6 +308,7 @@
 - [비전공 개발자가 전공자보다 정말 불리할까?](https://evan-moon.github.io/2019/09/09/major-is-not-important/)
 - [스포카에서 신입 개발자가 적응하는 법: 부트캠프 후기](https://spoqa.github.io/2019/10/22/bootcamp-review.html)
 - [N명의 개발자, N개의 조언 [슬라이드]](https://speakerdeck.com/hanjung/nmyeongyi-gaebalja-ngaeyi-joeon)
+- [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
 
 
 --------------------------------------
@@ -735,6 +730,8 @@
 - [푸시 데몬 메모리 누수 디버깅하기](https://mingrammer.com/debug-memory-leak-with-node-heapdump/)
 - [멀티클라우드를 이용한 로그 분석 플랫폼 개발하기](https://link.medium.com/yuZDbtqcp1)
 - [Mastering Chaos - A Netflix Guide to Microservices [영상]](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+- [웹서비스 백엔드 애플리케이션 아키텍처](https://brunch.co.kr/@springboot/228#comment)
+- [마이크로서비스, 어디까지 해봤니? [영상]](https://youtu.be/F7EnW8dfetU)
 
 
 --------------------------------------
@@ -922,6 +919,7 @@
 - [프로젝트에서 jQuery를 그만 사용해야겠다고 결심한 이유 [번역]](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-jquery-%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B2%A0%EB%8B%A4%EA%B3%A0-%EA%B2%B0%EC%8B%AC%ED%95%9C-%EC%9D%B4%EC%9C%A0-45379cba95b6)
 - [성능덕후를 위한 자바스크립트 코딩 패턴(중급)](https://joshua1988.github.io/web-development/javascript/javascript-best-practices/)
 - [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기 [번역]](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
+- [자바스크립트의 메모리 모델 [번역]](https://junwoo45.github.io/2019-11-04-memory_model)
 
 
 --------------------------------------
