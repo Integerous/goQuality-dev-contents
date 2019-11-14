@@ -62,9 +62,6 @@
 - [코드리뷰에 대해 [슬라이드]](https://www.slideshare.net/codetemplate/2019-11code-review)
 - [Embedded Tomcat in 스프링 부트](https://brunch.co.kr/@springboot/98)
 
-#### 2019년 11월 12일 화요일
-- [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기](https://www.popit.kr/msa%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%97%AC%EB%9F%AC-api-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%A4%84%EC%9D%B4%EA%B8%B0)
-
 
 --------------------------------------
 </br>
@@ -737,6 +734,7 @@
 - [Mastering Chaos - A Netflix Guide to Microservices [영상]](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 - [웹서비스 백엔드 애플리케이션 아키텍처](https://brunch.co.kr/@springboot/228#comment)
 - [마이크로서비스, 어디까지 해봤니? [영상]](https://youtu.be/F7EnW8dfetU)
+- [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기](https://www.popit.kr/msa%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%97%AC%EB%9F%AC-api-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%A4%84%EC%9D%B4%EA%B8%B0)
 
 
 --------------------------------------
