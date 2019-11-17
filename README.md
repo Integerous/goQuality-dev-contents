@@ -55,12 +55,7 @@
 - [스타트업 팀개발, 협업능력의 중요성](https://greypencil.tistory.com/m/121)
 - [EC2, Fargate 약정 할인 AWS Savings Plans 발표](https://www.44bits.io/ko/post/aws-introducing-savings-plans)
 
-#### 2019년 11월 13일 수요일
-- [자바스크립트 코딩테스트에서 가장 많이하는 실수들](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%B4%ED%95%98%EB%8A%94-%EC%8B%A4%EC%88%98%EB%93%A4-a10df2c884c)
-- [애자일과 소프트웨어 장인정신](https://brunch.co.kr/@cleancode/39)
-- [The Javascript Handbook [영문]](https://drive.google.com/file/d/1KkOb8_7a3YT_GrFvJCmxu9LrLVksy2kP/view)
-- [코드리뷰에 대해 [슬라이드]](https://www.slideshare.net/codetemplate/2019-11code-review)
-- [Embedded Tomcat in 스프링 부트](https://brunch.co.kr/@springboot/98)
+
 
 
 --------------------------------------
@@ -397,6 +392,7 @@
 - [아틀라시안 취업후기](http://www.tacogrammer.com/%EC%95%84%ED%8B%80%EB%9D%BC%EC%8B%9C%EC%95%88-%EC%B7%A8%EC%97%85%ED%9B%84%EA%B8%B0/)
 - [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/)
 - [지난 경력이 '물경력' 같다는 3년차 웹 개발자](https://prgms.tistory.com/18)
+- [자바스크립트 코딩테스트에서 가장 많이하는 실수들](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%B4%ED%95%98%EB%8A%94-%EC%8B%A4%EC%88%98%EB%93%A4-a10df2c884c)
 
 
 --------------------------------------
@@ -542,6 +538,8 @@
 - [인텔리제이에서 gradle 쉽게 사용하기](https://cheese10yun.github.io/intellij-execute-gradle-task/)
 - [Spring 레퍼런스 - 캐시 추상화](https://blog.outsider.ne.kr/1094)
 - [JPA N+1 발생원인과 해결방법](https://github.com/cheese10yun/blog-sample/tree/master/jpa-n-plus-1)
+- [Embedded Tomcat in 스프링 부트](https://brunch.co.kr/@springboot/98)
+
 
 --------------------------------------
 
@@ -923,6 +921,7 @@
 - [성능덕후를 위한 자바스크립트 코딩 패턴(중급)](https://joshua1988.github.io/web-development/javascript/javascript-best-practices/)
 - [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기 [번역]](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
 - [자바스크립트의 메모리 모델 [번역]](https://junwoo45.github.io/2019-11-04-memory_model)
+- [The Javascript Handbook [영문]](https://drive.google.com/file/d/1KkOb8_7a3YT_GrFvJCmxu9LrLVksy2kP/view)
 
 
 --------------------------------------
