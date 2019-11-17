@@ -46,9 +46,17 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 15일 금요일
+#### 2019년 11월 18일 월요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 11월 17일 일요일
+- [GitHub Action을 사용해 새로 올라온 전월세 방 목록 받아보기](https://ahnheejong.name/articles/receive-new-room-notification-mails-using-github-action/)
+
+#### 2019년 11월 15일 금요일
+- [macOS 초심자를 위한 터미널 공부 가이드](https://johngrib.github.io/wiki/my-mac-os-terminal/)
+- [구글 픽셀4에 쓰인 머신러닝, 오픈소스로 공개](https://v.kakao.com/v/20191115142941357)
+- [Apache Hadoop - Fair Scheduler](https://leeyh0216.github.io/2019-11-16/Fair-Scheduler)
 
 #### 2019년 11월 14일 목요일
 - [VS Code로 컨테이너 안에서 개발하기](https://medium.com/@ssowonny/vs-code%EB%A1%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%95%88%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d8ed0950d69a)
