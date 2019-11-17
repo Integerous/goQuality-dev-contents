@@ -58,13 +58,6 @@
 - [구글 픽셀4에 쓰인 머신러닝, 오픈소스로 공개](https://v.kakao.com/v/20191115142941357)
 - [Apache Hadoop - Fair Scheduler](https://leeyh0216.github.io/2019-11-16/Fair-Scheduler)
 
-#### 2019년 11월 14일 목요일
-- [VS Code로 컨테이너 안에서 개발하기](https://medium.com/@ssowonny/vs-code%EB%A1%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%95%88%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d8ed0950d69a)
-- [스타트업 팀개발, 협업능력의 중요성](https://greypencil.tistory.com/m/121)
-- [EC2, Fargate 약정 할인 AWS Savings Plans 발표](https://www.44bits.io/ko/post/aws-introducing-savings-plans)
-
-
-
 
 --------------------------------------
 </br>
@@ -741,6 +734,7 @@
 - [웹서비스 백엔드 애플리케이션 아키텍처](https://brunch.co.kr/@springboot/228#comment)
 - [마이크로서비스, 어디까지 해봤니? [영상]](https://youtu.be/F7EnW8dfetU)
 - [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기](https://www.popit.kr/msa%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%97%AC%EB%9F%AC-api-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%A4%84%EC%9D%B4%EA%B8%B0)
+- [EC2, Fargate 약정 할인 AWS Savings Plans 발표](https://www.44bits.io/ko/post/aws-introducing-savings-plans)
 
 
 --------------------------------------
@@ -1288,7 +1282,7 @@
 - [Open Session In View Pattern](http://pds19.egloos.com/pds/201106/28/18/Open_Session_In_View_Pattern.pdf)
 - [웹 서비스 구현의 모든 것! 무료 제작툴 39개 몽땅 알려드림! [영상]](https://youtube.com/watch?v=u3Ph_M2bySg)
 - [간단하게 만드는 랜덤런치 그룹 생성기](https://johngrib.github.io/wiki/random-lunch/)
-
+- [VS Code로 컨테이너 안에서 개발하기](https://medium.com/@ssowonny/vs-code%EB%A1%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%95%88%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d8ed0950d69a)
 
 --------------------------------------
 </br>
