@@ -49,6 +49,7 @@
 #### 2019년 11월 20일 수요일
 - (여기에 추가해주세요!)
 -
+
 #### 2019년 11월 19일 화요일
 - [Puppeteer를 이용해 간단한 React App을 테스트해봤다](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/puppeteer-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EA%B0%84%EB%8B%A8%ED%95%9C-react-app-%EC%9D%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%B4%EB%B4%A4%EB%8B%A4-6581441f4607)
 - [Java Lambda Expression과 성능](https://brunch.co.kr/@heracul/3)
@@ -58,9 +59,6 @@
 - [개발자가 알아두면 좋은 영어 표현들 및 발음 실수들](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%B2%88%EC%99%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%98%81%EC%96%B4-%ED%91%9C%ED%98%84%EB%93%A4-%EB%B0%8F-%EB%B0%9C%EC%9D%8C-%EC%8B%A4%EC%88%98%EB%93%A4-db8f1b83d96e)
 - [Developer Roadmaps](https://roadmap.sh/)
 - [최악의 클라우드 보안 위협 11가지](http://www.itworld.co.kr/insight/133619?page=0,1)
-
-#### 2019년 11월 17일 일요일
-- [GitHub Action을 사용해 새로 올라온 전월세 방 목록 받아보기](https://ahnheejong.name/articles/receive-new-room-notification-mails-using-github-action/)
 
 
 --------------------------------------
@@ -1139,6 +1137,7 @@
 - [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/)
 - [GitHub 커밋 메세지에 JIRA 이슈번호 자동으로 넣어주기](https://medium.com/prnd/github-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%84%B8%EC%A7%80%EC%97%90-jira-%EC%9D%B4%EC%8A%88%EB%B2%88%ED%98%B8-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%84%A3%EC%96%B4%EC%A3%BC%EA%B8%B0-779048784037)
 - [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial)
+- [GitHub Action을 사용해 새로 올라온 전월세 방 목록 받아보기](https://ahnheejong.name/articles/receive-new-room-notification-mails-using-github-action/)
 
 
 --------------------------------------
