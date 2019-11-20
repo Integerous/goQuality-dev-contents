@@ -46,9 +46,12 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 20일 수요일
+#### 2019년 11월 21일 목요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 11월 20일 수요일
+- [Feconf Korea 2019 영상](https://m.youtube.com/watch?v=gEAfqCo56Xs&list=PLZl3coZhX98rhAwsQ7ZuT4ItnsaY1sRcd&index=1)
 
 #### 2019년 11월 19일 화요일
 - [Puppeteer를 이용해 간단한 React App을 테스트해봤다](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/puppeteer-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EA%B0%84%EB%8B%A8%ED%95%9C-react-app-%EC%9D%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%B4%EB%B4%A4%EB%8B%A4-6581441f4607)
