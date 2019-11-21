@@ -46,9 +46,15 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 21일 목요일
+#### 2019년 11월 22일 금요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 11월 21일 목요일
+- [자바 명명 규칙 [슬라이드]](https://www.slideshare.net/debop/java-naming-strategy)
+- [2019 카카오 FE Meetup 요약](https://qvil.github.io/conference/kakao-fe-meetup/)
+- [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474)
+- [잘 키운 모노리스 하나 열 마이크로서비스 안 부럽다 [슬라이드]](https://www.slideshare.net/arawnkr/ss-195979955)
 
 #### 2019년 11월 20일 수요일
 - [Feconf Korea 2019 영상](https://m.youtube.com/watch?v=gEAfqCo56Xs&list=PLZl3coZhX98rhAwsQ7ZuT4ItnsaY1sRcd&index=1)
