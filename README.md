@@ -53,11 +53,6 @@
 #### 2019년 11월 20일 수요일
 - [Feconf Korea 2019 영상](https://m.youtube.com/watch?v=gEAfqCo56Xs&list=PLZl3coZhX98rhAwsQ7ZuT4ItnsaY1sRcd&index=1)
 
-#### 2019년 11월 19일 화요일
-- [Puppeteer를 이용해 간단한 React App을 테스트해봤다](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/puppeteer-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EA%B0%84%EB%8B%A8%ED%95%9C-react-app-%EC%9D%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%B4%EB%B4%A4%EB%8B%A4-6581441f4607)
-- [Java Lambda Expression과 성능](https://brunch.co.kr/@heracul/3)
-- [이제는 Immutable이 기본입니다, 4가지 변수 이야기 [영상]](https://www.youtube.com/watch?v=K8C3OGzz7tQ)
-
 
 --------------------------------------
 </br>
@@ -542,6 +537,7 @@
 - [Spring 레퍼런스 - 캐시 추상화](https://blog.outsider.ne.kr/1094)
 - [JPA N+1 발생원인과 해결방법](https://github.com/cheese10yun/blog-sample/tree/master/jpa-n-plus-1)
 - [Embedded Tomcat in 스프링 부트](https://brunch.co.kr/@springboot/98)
+- [Java Lambda Expression과 성능](https://brunch.co.kr/@heracul/3)
 
 
 --------------------------------------
@@ -926,6 +922,7 @@
 - [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기 [번역]](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
 - [자바스크립트의 메모리 모델 [번역]](https://junwoo45.github.io/2019-11-04-memory_model)
 - [The Javascript Handbook [영문]](https://drive.google.com/file/d/1KkOb8_7a3YT_GrFvJCmxu9LrLVksy2kP/view)
+- [이제는 Immutable이 기본입니다, 4가지 변수 이야기 [영상]](https://www.youtube.com/watch?v=K8C3OGzz7tQ)
 
 
 --------------------------------------
