@@ -46,9 +46,14 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 23일 토요일
+#### 2019년 11월 25일 월요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 11월 24일 일요일
+- [javascript var, let, const 차이점](https://gist.github.com/LeoHeo/7c2a2a6dbcf80becaaa1e61e90091e5d)
+- [git rebase 이해하기](https://junwoo45.github.io/2019-10-23-rebase/)
+- [서버리스를 활용한 분산 처리 [슬라이드]](https://www.slideshare.net/MinJunKim5/masocon-2019-serverless-kimminjun)
 
 #### 2019년 11월 22일 금요일
 - [우아한 Redis 세미나 후기](https://ict-nroo.tistory.com/133)
