@@ -55,11 +55,6 @@
 - [git rebase 이해하기](https://junwoo45.github.io/2019-10-23-rebase/)
 - [서버리스를 활용한 분산 처리 [슬라이드]](https://www.slideshare.net/MinJunKim5/masocon-2019-serverless-kimminjun)
 
-#### 2019년 11월 22일 금요일
-- [우아한 Redis 세미나 후기](https://ict-nroo.tistory.com/133)
-- [TypeScript로 디자인 시스템에 날개 달기](https://hewonjeong.github.io/how-to-typescript-can-power-design-systems/)
-- [우아한 Redis 발표자료 [슬라이드]](https://www.slideshare.net/charsyam2/redis-196314086)
-
 
 --------------------------------------
 </br>
@@ -743,6 +738,8 @@
 - [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기](https://www.popit.kr/msa%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%97%AC%EB%9F%AC-api-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%A4%84%EC%9D%B4%EA%B8%B0)
 - [EC2, Fargate 약정 할인 AWS Savings Plans 발표](https://www.44bits.io/ko/post/aws-introducing-savings-plans)
 - [잘 키운 모노리스 하나 열 마이크로서비스 안 부럽다 [슬라이드]](https://www.slideshare.net/arawnkr/ss-195979955)
+- [우아한 Redis 세미나 후기](https://ict-nroo.tistory.com/133)
+- [우아한 Redis 발표자료 [슬라이드]](https://www.slideshare.net/charsyam2/redis-196314086)
 
 
 --------------------------------------
