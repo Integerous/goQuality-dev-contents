@@ -46,9 +46,14 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 25일 월요일
+#### 2019년 11월 26일 화요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 11월 25일 월요일
+- [Custom Promise 구현으로 프로미스 파혜치기](https://p-iknow.netlify.com/js/custom-promise)
+- [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/)
+- [모던 자바스크립트 튜토리얼](https://ko.javascript.info)
 
 #### 2019년 11월 24일 일요일
 - [javascript var, let, const 차이점](https://gist.github.com/LeoHeo/7c2a2a6dbcf80becaaa1e61e90091e5d)
