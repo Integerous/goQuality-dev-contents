@@ -55,11 +55,6 @@
 - [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/)
 - [모던 자바스크립트 튜토리얼](https://ko.javascript.info)
 
-#### 2019년 11월 24일 일요일
-- [javascript var, let, const 차이점](https://gist.github.com/LeoHeo/7c2a2a6dbcf80becaaa1e61e90091e5d)
-- [git rebase 이해하기](https://junwoo45.github.io/2019-10-23-rebase/)
-- [서버리스를 활용한 분산 처리 [슬라이드]](https://www.slideshare.net/MinJunKim5/masocon-2019-serverless-kimminjun)
-
 
 --------------------------------------
 </br>
@@ -547,6 +542,7 @@
 - [Embedded Tomcat in 스프링 부트](https://brunch.co.kr/@springboot/98)
 - [Java Lambda Expression과 성능](https://brunch.co.kr/@heracul/3)
 - [자바 명명 규칙 [슬라이드]](https://www.slideshare.net/debop/java-naming-strategy)
+- [서버리스를 활용한 분산 처리 [슬라이드]](https://www.slideshare.net/MinJunKim5/masocon-2019-serverless-kimminjun)
 
 
 --------------------------------------
@@ -1147,6 +1143,7 @@
 - [GitHub 커밋 메세지에 JIRA 이슈번호 자동으로 넣어주기](https://medium.com/prnd/github-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%84%B8%EC%A7%80%EC%97%90-jira-%EC%9D%B4%EC%8A%88%EB%B2%88%ED%98%B8-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%84%A3%EC%96%B4%EC%A3%BC%EA%B8%B0-779048784037)
 - [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial)
 - [GitHub Action을 사용해 새로 올라온 전월세 방 목록 받아보기](https://ahnheejong.name/articles/receive-new-room-notification-mails-using-github-action/)
+- [git rebase를 이해하기](https://junwoo45.github.io/2019-10-23-rebase/)
 
 
 --------------------------------------
