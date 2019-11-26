@@ -46,9 +46,15 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 26일 화요일
+#### 2019년 11월 27일 수요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 11월 26일 화요일
+- [Webpack: When to use and Why](https://blog.andrewray.me/webpack-when-to-use-and-why/amp/)
+- [java null 서바이벌 가이드](https://www.slideshare.net/gyumee/java-null-survival-guide?from_m_app=ios)
+- [세상에서 가장 쉬운 인공지능 만들기 [영상]](https://youtu.be/USQGTW34lO8)
+- [우아한테크코스 Level 3 회고](https://velog.io/@codemcd/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-Level-3-%ED%9A%8C%EA%B3%A0)
 
 #### 2019년 11월 25일 월요일
 - [Custom Promise 구현으로 프로미스 파혜치기](https://p-iknow.netlify.com/js/custom-promise)
