@@ -56,11 +56,6 @@
 - [세상에서 가장 쉬운 인공지능 만들기 [영상]](https://youtu.be/USQGTW34lO8)
 - [우아한테크코스 Level 3 회고](https://velog.io/@codemcd/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-Level-3-%ED%9A%8C%EA%B3%A0)
 
-#### 2019년 11월 25일 월요일
-- [Custom Promise 구현으로 프로미스 파혜치기](https://p-iknow.netlify.com/js/custom-promise)
-- [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/)
-- [모던 자바스크립트 튜토리얼](https://ko.javascript.info)
-
 
 --------------------------------------
 </br>
@@ -937,7 +932,8 @@
 - [자바스크립트의 메모리 모델 [번역]](https://junwoo45.github.io/2019-11-04-memory_model)
 - [The Javascript Handbook [영문]](https://drive.google.com/file/d/1KkOb8_7a3YT_GrFvJCmxu9LrLVksy2kP/view)
 - [이제는 Immutable이 기본입니다, 4가지 변수 이야기 [영상]](https://www.youtube.com/watch?v=K8C3OGzz7tQ)
-
+- [Custom Promise 구현으로 프로미스 파혜치기](https://p-iknow.netlify.com/js/custom-promise)
+- [모던 자바스크립트 튜토리얼](https://ko.javascript.info)
 
 --------------------------------------
 
@@ -1081,6 +1077,7 @@
 - [User Session Security 를 위해 알아야 할 모든 것](https://dzone.com/articles/all-you-need-to-know-about-user-session-security)
 - [만화로 보는 DNS over HTTPS](http://hacks.mozilla.or.kr/2019/10/a-cartoon-intro-to-dns-over-https/)
 - [지긋지긋한 CORS 파헤쳐보자](https://velog.io/@jmkim87/%EC%A7%80%EA%B8%8B%EC%A7%80%EA%B8%8B%ED%95%9C-CORS-%ED%8C%8C%ED%97%A4%EC%B3%90%EB%B3%B4%EC%9E%90)
+- [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/)
 
 
 --------------------------------------
