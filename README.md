@@ -46,9 +46,16 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 27일 수요일
+#### 2019년 11월 28일 목요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 11월 27일 수요일
+- [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55#gaerae.com)
+- [웹에서 쓰기 좋은 216개의 컬러 모음](https://favpng.com/png_colors)
+- [OpenGL ES 2.0 예제](https://brunch.co.kr/@mystoryg/102)
+- [훌륭한 소프트웨어 엔지니어란?](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%9E%80-%EB%8B%B5-%EC%B9%B4%EB%A9%9C%EB%A0%88%EC%98%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-b73502a63016)
+- [AWS S3 정적호스팅 SPA에 동적 메타태그 적용하기](https://urbanbase.github.io/dev/2019/11/25/AWS-S3-SPA.html)
 
 #### 2019년 11월 26일 화요일
 - [Webpack: When to use and Why](https://blog.andrewray.me/webpack-when-to-use-and-why/amp/)
