@@ -46,7 +46,7 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 28일 목요일
+#### 2019년 11월 29일 금요일
 - (여기에 추가해주세요!)
 -
 
@@ -56,12 +56,6 @@
 - [OpenGL ES 2.0 예제](https://brunch.co.kr/@mystoryg/102)
 - [훌륭한 소프트웨어 엔지니어란?](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%9E%80-%EB%8B%B5-%EC%B9%B4%EB%A9%9C%EB%A0%88%EC%98%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-b73502a63016)
 - [AWS S3 정적호스팅 SPA에 동적 메타태그 적용하기](https://urbanbase.github.io/dev/2019/11/25/AWS-S3-SPA.html)
-
-#### 2019년 11월 26일 화요일
-- [Webpack: When to use and Why](https://blog.andrewray.me/webpack-when-to-use-and-why/amp/)
-- [java null 서바이벌 가이드](https://www.slideshare.net/gyumee/java-null-survival-guide?from_m_app=ios)
-- [세상에서 가장 쉬운 인공지능 만들기 [영상]](https://youtu.be/USQGTW34lO8)
-- [우아한테크코스 Level 3 회고](https://velog.io/@codemcd/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-Level-3-%ED%9A%8C%EA%B3%A0)
 
 
 --------------------------------------
@@ -551,6 +545,7 @@
 - [Java Lambda Expression과 성능](https://brunch.co.kr/@heracul/3)
 - [자바 명명 규칙 [슬라이드]](https://www.slideshare.net/debop/java-naming-strategy)
 - [서버리스를 활용한 분산 처리 [슬라이드]](https://www.slideshare.net/MinJunKim5/masocon-2019-serverless-kimminjun)
+- [java null 서바이벌 가이드 [슬라이드]](https://www.slideshare.net/gyumee/java-null-survival-guide?from_m_app=ios)
 
 
 --------------------------------------
@@ -941,6 +936,8 @@
 - [이제는 Immutable이 기본입니다, 4가지 변수 이야기 [영상]](https://www.youtube.com/watch?v=K8C3OGzz7tQ)
 - [Custom Promise 구현으로 프로미스 파혜치기](https://p-iknow.netlify.com/js/custom-promise)
 - [모던 자바스크립트 튜토리얼](https://ko.javascript.info)
+- [Webpack: When to use and Why](https://blog.andrewray.me/webpack-when-to-use-and-why/amp/)
+
 
 --------------------------------------
 
