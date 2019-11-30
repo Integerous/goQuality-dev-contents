@@ -46,9 +46,19 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 11월 29일 금요일
+#### 2019년 12월 1일 일요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 11월 30일 토요일
+- [Storybook 적용기](https://codingwalk.tistory.com/85)
+
+#### 2019년 11월 29일 금요일
+- [캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/)
+- [NHN FORWARD 2019 후기](https://ict-nroo.tistory.com/134)
+- [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
+- [바닥부터 시작하는 Vue 테스트와 리팩토링](https://www.slideshare.net/ifkakao/kakao-fe-meetup-vue-test-re)
+- [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
 
 #### 2019년 11월 27일 수요일
 - [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55#gaerae.com)
