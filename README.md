@@ -57,13 +57,6 @@
 #### 2019년 11월 30일 토요일
 - [Storybook 적용기](https://codingwalk.tistory.com/85)
 
-#### 2019년 11월 29일 금요일
-- [캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/)
-- [NHN FORWARD 2019 후기](https://ict-nroo.tistory.com/134)
-- [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
-- [바닥부터 시작하는 Vue 테스트와 리팩토링](https://www.slideshare.net/ifkakao/kakao-fe-meetup-vue-test-re)
-- [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
-
 
 --------------------------------------
 </br>
@@ -346,7 +339,7 @@
 - [if kakao 2019 발표 자료 & 영상](https://if.kakao.com/program)
 - [Deview 2019 발표자료 모음](https://deview.kr/2019/schedule)
 - [JSConf Korea 2019 발표 영상 모음](https://www.youtube.com/watch?v=hbsIOHktvfo&list=PL37ZVnwpeshGanWnYhTdoFLM2IDF28MaQ)
-
+- [NHN FORWARD 2019 후기](https://ict-nroo.tistory.com/134)
 
 --------------------------------------
 
@@ -554,6 +547,7 @@
 - [자바 명명 규칙 [슬라이드]](https://www.slideshare.net/debop/java-naming-strategy)
 - [서버리스를 활용한 분산 처리 [슬라이드]](https://www.slideshare.net/MinJunKim5/masocon-2019-serverless-kimminjun)
 - [java null 서바이벌 가이드 [슬라이드]](https://www.slideshare.net/gyumee/java-null-survival-guide?from_m_app=ios)
+- [캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/)
 
 
 --------------------------------------
@@ -947,6 +941,8 @@
 - [Custom Promise 구현으로 프로미스 파혜치기](https://p-iknow.netlify.com/js/custom-promise)
 - [모던 자바스크립트 튜토리얼](https://ko.javascript.info)
 - [Webpack: When to use and Why](https://blog.andrewray.me/webpack-when-to-use-and-why/amp/)
+- [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
+- [바닥부터 시작하는 Vue 테스트와 리팩토링 [슬라이드]](https://www.slideshare.net/ifkakao/kakao-fe-meetup-vue-test-re)
 
 
 --------------------------------------
