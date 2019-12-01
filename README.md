@@ -46,9 +46,13 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 1일 일요일
+#### 2019년 12월 2일 월요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 12월 1일 일요일
+- [[스프링 부트와 AWS로 혼자 구현하는 웹 서비스] 출간 후기](https://jojoldu.tistory.com/463)
+- [Guide to Java Versions and Features](https://dzone.com/articles/a-guide-to-java-versions-and-features)
 
 #### 2019년 11월 30일 토요일
 - [Storybook 적용기](https://codingwalk.tistory.com/85)
