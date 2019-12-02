@@ -46,17 +46,17 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 2일 월요일
+#### 2019년 12월 3일 월요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 12월 2일 월요일
+- [REST API 응답은 어떻게 줘야할까?](https://jeong-pro.tistory.com/200)
+- [라즈베리파이4로 토이프로젝트용 서버 만들기 - 1편](https://ryan-han.com/post/server/raspberry_server_1/)
 
 #### 2019년 12월 1일 일요일
 - [[스프링 부트와 AWS로 혼자 구현하는 웹 서비스] 출간 후기](https://jojoldu.tistory.com/463)
 - [Guide to Java Versions and Features](https://dzone.com/articles/a-guide-to-java-versions-and-features)
-
-#### 2019년 11월 30일 토요일
-- [Storybook 적용기](https://codingwalk.tistory.com/85)
-
 
 --------------------------------------
 </br>
