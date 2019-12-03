@@ -50,6 +50,11 @@
 - (여기에 추가해주세요!)
 -
 
+#### 2019년 12월 3일 화요일
+- [마소콘 2019 발표자료 모음](https://www.imaso.co.kr/archives/5590)
+- [스케일아웃없이 순간 급증하는 주문 처리하기](https://tv.naver.com/v/11212897)
+- [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지 [영상]](https://www.youtube.com/watch?v=V9AGvwPmnZU)
+
 #### 2019년 12월 2일 월요일
 - [REST API 응답은 어떻게 줘야할까?](https://jeong-pro.tistory.com/200)
 - [라즈베리파이4로 토이프로젝트용 서버 만들기 - 1편](https://ryan-han.com/post/server/raspberry_server_1/)
