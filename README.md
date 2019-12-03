@@ -46,7 +46,7 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 3일 월요일
+#### 2019년 12월 4일 수요일
 - (여기에 추가해주세요!)
 -
 
@@ -54,9 +54,6 @@
 - [REST API 응답은 어떻게 줘야할까?](https://jeong-pro.tistory.com/200)
 - [라즈베리파이4로 토이프로젝트용 서버 만들기 - 1편](https://ryan-han.com/post/server/raspberry_server_1/)
 
-#### 2019년 12월 1일 일요일
-- [[스프링 부트와 AWS로 혼자 구현하는 웹 서비스] 출간 후기](https://jojoldu.tistory.com/463)
-- [Guide to Java Versions and Features](https://dzone.com/articles/a-guide-to-java-versions-and-features)
 
 --------------------------------------
 </br>
@@ -548,6 +545,7 @@
 - [서버리스를 활용한 분산 처리 [슬라이드]](https://www.slideshare.net/MinJunKim5/masocon-2019-serverless-kimminjun)
 - [java null 서바이벌 가이드 [슬라이드]](https://www.slideshare.net/gyumee/java-null-survival-guide?from_m_app=ios)
 - [캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/)
+- [Guide to Java Versions and Features](https://dzone.com/articles/a-guide-to-java-versions-and-features)
 
 
 --------------------------------------
@@ -1307,6 +1305,7 @@
 - [간단하게 만드는 랜덤런치 그룹 생성기](https://johngrib.github.io/wiki/random-lunch/)
 - [VS Code로 컨테이너 안에서 개발하기](https://medium.com/@ssowonny/vs-code%EB%A1%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%95%88%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d8ed0950d69a)
 - [macOS 초심자를 위한 터미널 공부 가이드](https://johngrib.github.io/wiki/my-mac-os-terminal/)
+- [[스프링 부트와 AWS로 혼자 구현하는 웹 서비스] 출간 후기](https://jojoldu.tistory.com/463)
 
 
 --------------------------------------
