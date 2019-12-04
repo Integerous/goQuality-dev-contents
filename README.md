@@ -55,10 +55,6 @@
 - [스케일아웃없이 순간 급증하는 주문 처리하기](https://tv.naver.com/v/11212897)
 - [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지 [영상]](https://www.youtube.com/watch?v=V9AGvwPmnZU)
 
-#### 2019년 12월 2일 월요일
-- [REST API 응답은 어떻게 줘야할까?](https://jeong-pro.tistory.com/200)
-- [라즈베리파이4로 토이프로젝트용 서버 만들기 - 1편](https://ryan-han.com/post/server/raspberry_server_1/)
-
 
 --------------------------------------
 </br>
@@ -751,6 +747,7 @@
 - [우아한 Redis 발표자료 [슬라이드]](https://www.slideshare.net/charsyam2/redis-196314086)
 - [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55#gaerae.com)
 - [AWS S3 정적호스팅 SPA에 동적 메타태그 적용하기](https://urbanbase.github.io/dev/2019/11/25/AWS-S3-SPA.html)
+- [라즈베리파이4로 토이프로젝트용 서버 만들기 - 1편](https://ryan-han.com/post/server/raspberry_server_1/)
 
 
 --------------------------------------
