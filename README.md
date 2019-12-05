@@ -58,11 +58,6 @@
 - [AWS re:Invent 2019 첫 날 참가 후기: 먼데이 나이트 라이브 등 [영상]](https://youtu.be/pMQcQWe7DjU)
 - [솔직한 피드백으로 좋은 팀워크를 만들 수 있을까? - 파워풀을 읽고](https://evan-moon.github.io/2019/12/04/about-honestly-feedback/)
 
-#### 2019년 12월 3일 화요일
-- [마소콘 2019 발표자료 모음](https://www.imaso.co.kr/archives/5590)
-- [스케일아웃없이 순간 급증하는 주문 처리하기](https://tv.naver.com/v/11212897)
-- [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지 [영상]](https://www.youtube.com/watch?v=V9AGvwPmnZU)
-
 
 --------------------------------------
 </br>
@@ -316,6 +311,7 @@
 - [스포카에서 신입 개발자가 적응하는 법: 부트캠프 후기](https://spoqa.github.io/2019/10/22/bootcamp-review.html)
 - [N명의 개발자, N개의 조언 [슬라이드]](https://speakerdeck.com/hanjung/nmyeongyi-gaebalja-ngaeyi-joeon)
 - [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
+- [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지 [영상]](https://www.youtube.com/watch?v=V9AGvwPmnZU)
 
 
 --------------------------------------
@@ -346,6 +342,8 @@
 - [Deview 2019 발표자료 모음](https://deview.kr/2019/schedule)
 - [JSConf Korea 2019 발표 영상 모음](https://www.youtube.com/watch?v=hbsIOHktvfo&list=PL37ZVnwpeshGanWnYhTdoFLM2IDF28MaQ)
 - [NHN FORWARD 2019 후기](https://ict-nroo.tistory.com/134)
+- [마소콘 2019 발표자료 모음](https://www.imaso.co.kr/archives/5590)
+
 
 --------------------------------------
 
@@ -756,6 +754,7 @@
 - [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55#gaerae.com)
 - [AWS S3 정적호스팅 SPA에 동적 메타태그 적용하기](https://urbanbase.github.io/dev/2019/11/25/AWS-S3-SPA.html)
 - [라즈베리파이4로 토이프로젝트용 서버 만들기 - 1편](https://ryan-han.com/post/server/raspberry_server_1/)
+- [스케일아웃없이 순간 급증하는 주문 처리하기 [영상]](https://tv.naver.com/v/11212897)
 
 
 --------------------------------------
