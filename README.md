@@ -48,7 +48,7 @@
 
 #### 2019년 12월 7일 토요일
 - (여기에 추가해주세요!)
--
+- [JavaScript 메모리 관리와 가비지 컬렉션 동작 방식](https://eblee-repo.tistory.com/52)
 
 #### 2019년 12월 6일 금요일
 - [기초적인 Docker 명령어](https://sksggg123.github.io/docker/docker-command/)
