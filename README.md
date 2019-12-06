@@ -54,10 +54,6 @@
 - [자바스크립트에서 유용할 수도 있는 연산자들 모음](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9C%A0%EC%9A%A9%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8A%94-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4-%EB%AA%A8%EC%9D%8C-3450083838fb)
 - [AWS에서의 5년… 글로벌 회사에서 배운 것](http://channy.creation.net/blog/1231)
 
-#### 2019년 12월 4일 수요일
-- [AWS re:Invent 2019 첫 날 참가 후기: 먼데이 나이트 라이브 등 [영상]](https://youtu.be/pMQcQWe7DjU)
-- [솔직한 피드백으로 좋은 팀워크를 만들 수 있을까? - 파워풀을 읽고](https://evan-moon.github.io/2019/12/04/about-honestly-feedback/)
-
 
 --------------------------------------
 </br>
@@ -174,6 +170,7 @@
 - [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
 - [성능이 중요한 이유](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 - [훌륭한 소프트웨어 엔지니어란?](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%9E%80-%EB%8B%B5-%EC%B9%B4%EB%A9%9C%EB%A0%88%EC%98%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-b73502a63016)
+- [솔직한 피드백으로 좋은 팀워크를 만들 수 있을까? - 파워풀을 읽고](https://evan-moon.github.io/2019/12/04/about-honestly-feedback/)
 
 
 --------------------------------------
