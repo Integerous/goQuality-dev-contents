@@ -46,9 +46,17 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 6일 금요일
+#### 2019년 12월 7일 토요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 12월 6일 금요일
+- [기초적인 Docker 명령어](https://sksggg123.github.io/docker/docker-command/)
+- [생성자 안 만들고 생성자 주입을 쓸 수 있다?! [영상]](https://www.youtube.com/watch?v=qmI7uJapocw#action=share)
+- [DeepComposer 언박싱, AI가 만든 음악 대공개! - AWS re:Invent 2019](https://youtu.be/xsCyolRioAE)
+- [한국 고객을 위한 AWS re:Invent 2019 신규 서비스 소개](https://www.slideshare.net/awskorea/kor201-new-service-launches-aws-reinvent-2019)
+- [스프링 MVC 초기화 및 처리 과정](https://okky.kr/article/657080)
+- [Django 3.0 릴리스와 주요 변경 사항 MariaDB 지원, ASGI 지원, 필터 표현식 등](https://www.44bits.io/ko/post/django-3-0-release-note-summary)
 
 #### 2019년 12월 5일 목요일
 - [자바스크립트에서 유용할 수도 있는 연산자들 모음](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9C%A0%EC%9A%A9%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8A%94-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4-%EB%AA%A8%EC%9D%8C-3450083838fb)
