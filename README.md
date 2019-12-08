@@ -62,10 +62,6 @@
 - [스프링 MVC 초기화 및 처리 과정](https://okky.kr/article/657080)
 - [Django 3.0 릴리스와 주요 변경 사항 MariaDB 지원, ASGI 지원, 필터 표현식 등](https://www.44bits.io/ko/post/django-3-0-release-note-summary)
 
-#### 2019년 12월 5일 목요일
-- [자바스크립트에서 유용할 수도 있는 연산자들 모음](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9C%A0%EC%9A%A9%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8A%94-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4-%EB%AA%A8%EC%9D%8C-3450083838fb)
-- [AWS에서의 5년… 글로벌 회사에서 배운 것](http://channy.creation.net/blog/1231)
-
 
 --------------------------------------
 </br>
@@ -183,6 +179,7 @@
 - [성능이 중요한 이유](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 - [훌륭한 소프트웨어 엔지니어란?](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%9E%80-%EB%8B%B5-%EC%B9%B4%EB%A9%9C%EB%A0%88%EC%98%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-b73502a63016)
 - [솔직한 피드백으로 좋은 팀워크를 만들 수 있을까? - 파워풀을 읽고](https://evan-moon.github.io/2019/12/04/about-honestly-feedback/)
+- [AWS에서의 5년… 글로벌 회사에서 배운 것](http://channy.creation.net/blog/1231)
 
 
 --------------------------------------
@@ -959,6 +956,7 @@
 - [Webpack: When to use and Why](https://blog.andrewray.me/webpack-when-to-use-and-why/amp/)
 - [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
 - [바닥부터 시작하는 Vue 테스트와 리팩토링 [슬라이드]](https://www.slideshare.net/ifkakao/kakao-fe-meetup-vue-test-re)
+- [자바스크립트에서 유용할 수도 있는 연산자들 모음](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9C%A0%EC%9A%A9%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8A%94-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4-%EB%AA%A8%EC%9D%8C-3450083838fb)
 
 
 --------------------------------------
