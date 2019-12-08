@@ -46,9 +46,13 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 7일 토요일
+#### 2019년 12월 9일 월요일
 - (여기에 추가해주세요!)
-- [JavaScript 메모리 관리와 가비지 컬렉션 동작 방식](https://eblee-repo.tistory.com/52)
+- 
+
+#### 2019년 12월 7일 토요일
+- [ActiveMQ의 Virtual Destinations를 활용한 메세지 로드밸런싱](https://ryan-han.com/post/server/activemq_virtual_destinations/)
+- [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
 
 #### 2019년 12월 6일 금요일
 - [기초적인 Docker 명령어](https://sksggg123.github.io/docker/docker-command/)
