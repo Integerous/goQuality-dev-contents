@@ -65,14 +65,6 @@
 - [ActiveMQ의 Virtual Destinations를 활용한 메세지 로드밸런싱](https://ryan-han.com/post/server/activemq_virtual_destinations/)
 - [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
 
-#### 2019년 12월 6일 금요일
-- [기초적인 Docker 명령어](https://sksggg123.github.io/docker/docker-command/)
-- [생성자 안 만들고 생성자 주입을 쓸 수 있다?! [영상]](https://www.youtube.com/watch?v=qmI7uJapocw#action=share)
-- [DeepComposer 언박싱, AI가 만든 음악 대공개! - AWS re:Invent 2019](https://youtu.be/xsCyolRioAE)
-- [한국 고객을 위한 AWS re:Invent 2019 신규 서비스 소개](https://www.slideshare.net/awskorea/kor201-new-service-launches-aws-reinvent-2019)
-- [스프링 MVC 초기화 및 처리 과정](https://okky.kr/article/657080)
-- [Django 3.0 릴리스와 주요 변경 사항 MariaDB 지원, ASGI 지원, 필터 표현식 등](https://www.44bits.io/ko/post/django-3-0-release-note-summary)
-
 
 --------------------------------------
 </br>
@@ -570,6 +562,7 @@
 - [java null 서바이벌 가이드 [슬라이드]](https://www.slideshare.net/gyumee/java-null-survival-guide?from_m_app=ios)
 - [캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/)
 - [Guide to Java Versions and Features](https://dzone.com/articles/a-guide-to-java-versions-and-features)
+- [기초적인 Docker 명령어](https://sksggg123.github.io/docker/docker-command/)
 
 
 --------------------------------------
@@ -582,6 +575,8 @@
 - [Python GC가 작동하는 원리](https://winterj.me/python-gc/)
 - [Python 프로젝트 시작하기](http://j.mp/2Ss7xrx)
 - [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
+- [Django 3.0 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-3-0-release-note-summary)
+
 
 --------------------------------------
 
