@@ -46,9 +46,20 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 9일 월요일
+#### 2019년 12월 10일 화요일
 - (여기에 추가해주세요!)
 - 
+
+#### 2019년 12월 9일 월요일
+- [개발자를 위한 A/B 테스트 해시 샘플링](https://brunch.co.kr/@springboot/283)
+- [미리 알아야 할 개발 공부와 개발 실무의 차이](https://brunch.co.kr/@chickenmoim/13)
+- [2년차 서버 개발자가 바라본 LINE의 개발 문화](https://engineering.linecorp.com/ko/blog/new-server-developer-at-line/)
+- [연말정산 초보자를 위한 핵심 가이드](https://blog.toss.im/2019/12/05/money/life/year-end-tax-adjustment-guide/)
+- [벤처 허생전, Circa 2019 – Live & Venture -](https://liveandventure.com/2019/12/08/venturehuh/)
+- [나는 어떻게 공부했는가 ?](https://medium.com/@euncho/%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%96%88%EB%8A%94%EA%B0%80-709df6714c42)
+- [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
+- [토스 서비스를 든든하게 지키는 사람들, 서버 플랫폼 팀을 만나다](https://blog.toss.im/2019/11/26/tossteam/people/serverplatformteam-interview/)
+- [웹 서비스 출시 전 확인사항](https://hodolman.com/25)
 
 #### 2019년 12월 7일 토요일
 - [ActiveMQ의 Virtual Destinations를 활용한 메세지 로드밸런싱](https://ryan-han.com/post/server/activemq_virtual_destinations/)
