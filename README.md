@@ -68,10 +68,6 @@
 - [토스 서비스를 든든하게 지키는 사람들, 서버 플랫폼 팀을 만나다](https://blog.toss.im/2019/11/26/tossteam/people/serverplatformteam-interview/)
 - [웹 서비스 출시 전 확인사항](https://hodolman.com/25)
 
-#### 2019년 12월 7일 토요일
-- [ActiveMQ의 Virtual Destinations를 활용한 메세지 로드밸런싱](https://ryan-han.com/post/server/activemq_virtual_destinations/)
-- [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
-
 
 --------------------------------------
 </br>
@@ -774,6 +770,7 @@
 - [AWS S3 정적호스팅 SPA에 동적 메타태그 적용하기](https://urbanbase.github.io/dev/2019/11/25/AWS-S3-SPA.html)
 - [라즈베리파이4로 토이프로젝트용 서버 만들기 - 1편](https://ryan-han.com/post/server/raspberry_server_1/)
 - [스케일아웃없이 순간 급증하는 주문 처리하기 [영상]](https://tv.naver.com/v/11212897)
+- [ActiveMQ의 Virtual Destinations를 활용한 메세지 로드밸런싱](https://ryan-han.com/post/server/activemq_virtual_destinations/)
 
 
 --------------------------------------
@@ -970,6 +967,7 @@
 - [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
 - [바닥부터 시작하는 Vue 테스트와 리팩토링 [슬라이드]](https://www.slideshare.net/ifkakao/kakao-fe-meetup-vue-test-re)
 - [자바스크립트에서 유용할 수도 있는 연산자들 모음](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9C%A0%EC%9A%A9%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8A%94-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4-%EB%AA%A8%EC%9D%8C-3450083838fb)
+- [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
 
 
 --------------------------------------
