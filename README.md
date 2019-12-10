@@ -46,9 +46,16 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 10일 화요일
+#### 2019년 12월 11일 수요일
 - (여기에 추가해주세요!)
 - 
+
+#### 2019년 12월 10일 화요일
+- [토스 서비스를 든든하게 지키는 사람들, 서버 플랫폼 팀을 만나다](https://blog.toss.im/2019/11/26/tossteam/people/serverplatformteam-interview/)
+- [웹 서비스 출시 전 확인사항](https://hodolman.com/25)
+- [SpringBoot 와 GraphQL을 이용한 API 샘플](https://github.com/Jae-Young-Kim/sample-graphql-springboot)
+- [프로비저닝이란 무엇인가??](https://asfirstalways.tistory.com/279)
+- [GitHub Universe 2019 참석기](https://blog.outsider.ne.kr/1469)
 
 #### 2019년 12월 9일 월요일
 - [개발자를 위한 A/B 테스트 해시 샘플링](https://brunch.co.kr/@springboot/283)
