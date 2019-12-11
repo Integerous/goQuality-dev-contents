@@ -57,17 +57,6 @@
 - [프로비저닝이란 무엇인가??](https://asfirstalways.tistory.com/279)
 - [GitHub Universe 2019 참석기](https://blog.outsider.ne.kr/1469)
 
-#### 2019년 12월 9일 월요일
-- [개발자를 위한 A/B 테스트 해시 샘플링](https://brunch.co.kr/@springboot/283)
-- [미리 알아야 할 개발 공부와 개발 실무의 차이](https://brunch.co.kr/@chickenmoim/13)
-- [2년차 서버 개발자가 바라본 LINE의 개발 문화](https://engineering.linecorp.com/ko/blog/new-server-developer-at-line/)
-- [연말정산 초보자를 위한 핵심 가이드](https://blog.toss.im/2019/12/05/money/life/year-end-tax-adjustment-guide/)
-- [벤처 허생전, Circa 2019 – Live & Venture -](https://liveandventure.com/2019/12/08/venturehuh/)
-- [나는 어떻게 공부했는가 ?](https://medium.com/@euncho/%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%96%88%EB%8A%94%EA%B0%80-709df6714c42)
-- [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
-- [토스 서비스를 든든하게 지키는 사람들, 서버 플랫폼 팀을 만나다](https://blog.toss.im/2019/11/26/tossteam/people/serverplatformteam-interview/)
-- [웹 서비스 출시 전 확인사항](https://hodolman.com/25)
-
 
 --------------------------------------
 </br>
@@ -186,6 +175,8 @@
 - [훌륭한 소프트웨어 엔지니어란?](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%9E%80-%EB%8B%B5-%EC%B9%B4%EB%A9%9C%EB%A0%88%EC%98%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-b73502a63016)
 - [솔직한 피드백으로 좋은 팀워크를 만들 수 있을까? - 파워풀을 읽고](https://evan-moon.github.io/2019/12/04/about-honestly-feedback/)
 - [AWS에서의 5년… 글로벌 회사에서 배운 것](http://channy.creation.net/blog/1231)
+- [토스 서비스를 든든하게 지키는 사람들, 서버 플랫폼 팀을 만나다](https://blog.toss.im/2019/11/26/tossteam/people/serverplatformteam-interview/)
+- [2년차 서버 개발자가 바라본 LINE의 개발 문화](https://engineering.linecorp.com/ko/blog/new-server-developer-at-line/)
 
 
 --------------------------------------
@@ -212,6 +203,7 @@
 - [테스트 상태인 Private 메소드를 Public메소드로 변환시 Unit Testing은 어떻게 해야하나?](https://www.slipp.net/questions/253)
 - [Unit Test (단위 테스트) 도입하기 - 1편](https://www.popit.kr/unit-test-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-1%ED%8E%B8/?utm_source=dable)
 - [junit5 with kotlin 사용법 정리](https://github.com/cheese10yun/blog-sample/tree/master/kotlin-junit5)
+- [개발자를 위한 A/B 테스트 해시 샘플링](https://brunch.co.kr/@springboot/283)
 
 
 --------------------------------------
@@ -968,7 +960,7 @@
 - [바닥부터 시작하는 Vue 테스트와 리팩토링 [슬라이드]](https://www.slideshare.net/ifkakao/kakao-fe-meetup-vue-test-re)
 - [자바스크립트에서 유용할 수도 있는 연산자들 모음](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9C%A0%EC%9A%A9%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8A%94-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4-%EB%AA%A8%EC%9D%8C-3450083838fb)
 - [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
-
+- [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
 
 --------------------------------------
 
@@ -1333,6 +1325,8 @@
 - [VS Code로 컨테이너 안에서 개발하기](https://medium.com/@ssowonny/vs-code%EB%A1%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%95%88%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d8ed0950d69a)
 - [macOS 초심자를 위한 터미널 공부 가이드](https://johngrib.github.io/wiki/my-mac-os-terminal/)
 - [[스프링 부트와 AWS로 혼자 구현하는 웹 서비스] 출간 후기](https://jojoldu.tistory.com/463)
+- [웹 서비스 출시 전 확인사항](https://hodolman.com/25)
+- [벤처 허생전, Circa 2019 – Live & Venture -](https://liveandventure.com/2019/12/08/venturehuh/)
 
 
 --------------------------------------
