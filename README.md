@@ -46,9 +46,20 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 11일 수요일
+#### 2019년 12월 12일 목요일
 - (여기에 추가해주세요!)
 - 
+
+#### 2019년 12월 11일 수요일
+- [프론트엔드 개발 환경의 이해 : NPM](http://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
+- [크로스 브라우징에 대한 이해와 오해](https://mulder21c.github.io/2019/01/30/what-is-cross-browsing/)
+- [AWS SA 자격증 후기](https://medium.com/@tkdgy0801/대학생도-딸-수-있는-aws-solutions-architect-associate-시험-후기-baee6e8aec62#gaerae.com)
+- [우아한테크세미나 - 우아한 레디스 [영상]](https://youtu.be/mPB2CZiAkKM)
+- [(고급) 자바스크립트 문제 [번역]](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md)
+- [NPM 배포하기 - Vue.js ESLint 패키지](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
+- [Vim 에디터는 처음입니다만 [영상]](https://youtu.be/rjIzxFuiBqI)
+- [NodeJS 2020년에 새로 바뀌는 것들(영어)](https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020)
+- [복잡한 업무 코드를 빠르게 분석하기](https://www.popit.kr/%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%97%85%EB%AC%B4-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0/)
 
 #### 2019년 12월 10일 화요일
 - [토스 서비스를 든든하게 지키는 사람들, 서버 플랫폼 팀을 만나다](https://blog.toss.im/2019/11/26/tossteam/people/serverplatformteam-interview/)
