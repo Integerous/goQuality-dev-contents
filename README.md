@@ -61,13 +61,6 @@
 - [NodeJS 2020년에 새로 바뀌는 것들(영어)](https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020)
 - [복잡한 업무 코드를 빠르게 분석하기](https://www.popit.kr/%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%97%85%EB%AC%B4-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0/)
 
-#### 2019년 12월 10일 화요일
-- [토스 서비스를 든든하게 지키는 사람들, 서버 플랫폼 팀을 만나다](https://blog.toss.im/2019/11/26/tossteam/people/serverplatformteam-interview/)
-- [웹 서비스 출시 전 확인사항](https://hodolman.com/25)
-- [SpringBoot 와 GraphQL을 이용한 API 샘플](https://github.com/Jae-Young-Kim/sample-graphql-springboot)
-- [프로비저닝이란 무엇인가??](https://asfirstalways.tistory.com/279)
-- [GitHub Universe 2019 참석기](https://blog.outsider.ne.kr/1469)
-
 
 --------------------------------------
 </br>
@@ -79,7 +72,7 @@
 - [TDD & 테스트 관련](https://github.com/Integerous/goQuality-dev-contents/blob/master/README.md#tdd--%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8)
 - [개발자 성장](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%84%B1%EC%9E%A5)
 - [비전공자 & 신입](https://github.com/Integerous/goQuality-dev-contents#%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90--%EC%8B%A0%EC%9E%85)
-- [세미나/컨퍼런스 후기](https://github.com/Integerous/goQuality-dev-contents#%EC%84%B8%EB%AF%B8%EB%82%98%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0)
+- [세미나/컨퍼런스 후기 및 발표자료](https://github.com/Integerous/goQuality-dev-contents#%EC%84%B8%EB%AF%B8%EB%82%98%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0)
 - [개발자 회고](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EA%B3%A0)
 - [취업 & 이직 & 면접 & 코딩테스트](https://github.com/Integerous/goQuality-dev-contents#%EC%B7%A8%EC%97%85--%EC%9D%B4%EC%A7%81--%EB%A9%B4%EC%A0%91--%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
 
@@ -331,7 +324,7 @@
 
 --------------------------------------
 
-### 세미나/컨퍼런스 후기
+### 세미나/컨퍼런스 후기 및 발표자료
 >같은 세미나인데 더 좋은 후기가 있으면 공유해주세요! :pray:  
 해당 이벤트의 가장 고퀄리티의 후기 하나만 남기겠습니다.
 
@@ -358,7 +351,7 @@
 - [JSConf Korea 2019 발표 영상 모음](https://www.youtube.com/watch?v=hbsIOHktvfo&list=PL37ZVnwpeshGanWnYhTdoFLM2IDF28MaQ)
 - [NHN FORWARD 2019 후기](https://ict-nroo.tistory.com/134)
 - [마소콘 2019 발표자료 모음](https://www.imaso.co.kr/archives/5590)
-
+- [GitHub Universe 2019 참석기](https://blog.outsider.ne.kr/1469)
 
 --------------------------------------
 
@@ -568,8 +561,7 @@
 - [java null 서바이벌 가이드 [슬라이드]](https://www.slideshare.net/gyumee/java-null-survival-guide?from_m_app=ios)
 - [캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/)
 - [Guide to Java Versions and Features](https://dzone.com/articles/a-guide-to-java-versions-and-features)
-- [기초적인 Docker 명령어](https://sksggg123.github.io/docker/docker-command/)
-
+- [SpringBoot 와 GraphQL을 이용한 API 샘플](https://github.com/Jae-Young-Kim/sample-graphql-springboot)
 
 --------------------------------------
 
@@ -774,6 +766,7 @@
 - [라즈베리파이4로 토이프로젝트용 서버 만들기 - 1편](https://ryan-han.com/post/server/raspberry_server_1/)
 - [스케일아웃없이 순간 급증하는 주문 처리하기 [영상]](https://tv.naver.com/v/11212897)
 - [ActiveMQ의 Virtual Destinations를 활용한 메세지 로드밸런싱](https://ryan-han.com/post/server/activemq_virtual_destinations/)
+- [기초적인 Docker 명령어](https://sksggg123.github.io/docker/docker-command/)
 
 
 --------------------------------------
