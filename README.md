@@ -46,9 +46,17 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 12일 목요일
+#### 2019년 12월 13일 금요일
 - (여기에 추가해주세요!)
 - 
+
+#### 2019년 12월 12일 목요일
+- [프렌즈타임 웹앱 삽질기](https://tech.kakao.com/2019/11/27/friendstime-web-app/)
+- [객체지향 5대 원칙](https://hg-pyun.github.io/solid/)
+- [스프링 개발 가이드](https://www.slideshare.net/ssuser565d51/spring-guide-202753526)
+- [다가오는 2020년 프로그래밍 트렌드 (언어)](https://joshua-dev-story.blogspot.com/2019/11/2020-programming-language-learn.html)
+- [반응형 시스템 개선하기 (feat. TOAST UI Grid)](https://meetup.toast.com/posts/210)
+- [소주 1병 조지고 쓴 1년차 개발자의 아찔했던 순간들](https://jay-ji.tistory.com/m/42)
 
 #### 2019년 12월 11일 수요일
 - [프론트엔드 개발 환경의 이해 : NPM](http://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
