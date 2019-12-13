@@ -58,17 +58,6 @@
 - [반응형 시스템 개선하기 (feat. TOAST UI Grid)](https://meetup.toast.com/posts/210)
 - [소주 1병 조지고 쓴 1년차 개발자의 아찔했던 순간들](https://jay-ji.tistory.com/m/42)
 
-#### 2019년 12월 11일 수요일
-- [프론트엔드 개발 환경의 이해 : NPM](http://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
-- [크로스 브라우징에 대한 이해와 오해](https://mulder21c.github.io/2019/01/30/what-is-cross-browsing/)
-- [AWS SA 자격증 후기](https://medium.com/@tkdgy0801/대학생도-딸-수-있는-aws-solutions-architect-associate-시험-후기-baee6e8aec62#gaerae.com)
-- [우아한테크세미나 - 우아한 레디스 [영상]](https://youtu.be/mPB2CZiAkKM)
-- [(고급) 자바스크립트 문제 [번역]](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md)
-- [NPM 배포하기 - Vue.js ESLint 패키지](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
-- [Vim 에디터는 처음입니다만 [영상]](https://youtu.be/rjIzxFuiBqI)
-- [NodeJS 2020년에 새로 바뀌는 것들(영어)](https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020)
-- [복잡한 업무 코드를 빠르게 분석하기](https://www.popit.kr/%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%97%85%EB%AC%B4-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0/)
-
 
 --------------------------------------
 </br>
@@ -189,6 +178,7 @@
 - [AWS에서의 5년… 글로벌 회사에서 배운 것](http://channy.creation.net/blog/1231)
 - [토스 서비스를 든든하게 지키는 사람들, 서버 플랫폼 팀을 만나다](https://blog.toss.im/2019/11/26/tossteam/people/serverplatformteam-interview/)
 - [2년차 서버 개발자가 바라본 LINE의 개발 문화](https://engineering.linecorp.com/ko/blog/new-server-developer-at-line/)
+- [복잡한 업무 코드를 빠르게 분석하기](https://www.popit.kr/%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%97%85%EB%AC%B4-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0/)
 
 
 --------------------------------------
@@ -775,6 +765,7 @@
 - [스케일아웃없이 순간 급증하는 주문 처리하기 [영상]](https://tv.naver.com/v/11212897)
 - [ActiveMQ의 Virtual Destinations를 활용한 메세지 로드밸런싱](https://ryan-han.com/post/server/activemq_virtual_destinations/)
 - [기초적인 Docker 명령어](https://sksggg123.github.io/docker/docker-command/)
+- [우아한테크세미나 - 우아한 레디스 [영상]](https://youtu.be/mPB2CZiAkKM)
 
 
 --------------------------------------
@@ -973,6 +964,11 @@
 - [자바스크립트에서 유용할 수도 있는 연산자들 모음](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9C%A0%EC%9A%A9%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8A%94-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4-%EB%AA%A8%EC%9D%8C-3450083838fb)
 - [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
 - [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
+- [NodeJS 2020년에 새로 바뀌는 것들 [영문]](https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020)
+- [NPM 배포하기 - Vue.js ESLint 패키지](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
+- [(고급) 자바스크립트 질문 목록 [번역]](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md)
+- [프론트엔드 개발 환경의 이해 : NPM](http://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
+
 
 --------------------------------------
 
@@ -1339,6 +1335,7 @@
 - [[스프링 부트와 AWS로 혼자 구현하는 웹 서비스] 출간 후기](https://jojoldu.tistory.com/463)
 - [웹 서비스 출시 전 확인사항](https://hodolman.com/25)
 - [벤처 허생전, Circa 2019 – Live & Venture -](https://liveandventure.com/2019/12/08/venturehuh/)
+- [Vim 에디터는 처음입니다만 [영상]](https://www.youtube.com/playlist?list=PLGPF8gvWLYyrmWBOzypMlVgWKfqTzYvgQ)
 
 
 --------------------------------------
