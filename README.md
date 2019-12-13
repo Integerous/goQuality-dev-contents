@@ -46,9 +46,19 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 13일 금요일
+#### 2019년 12월 14일 토요일
 - (여기에 추가해주세요!)
 - 
+
+#### 2019년 12월 13일 금요일
+- [Docker image](https://trylhc.tistory.com/m/entry/Docker-image)
+- [깃헙 액션을 사용해서 애저 블롭 저장소에 정적 웹사이트 배포하기](https://blog.aliencube.org/ko/2019/12/13/publishing-static-website-to-azure-blob-storage-via-github-actions/)
+- [SCSS에 새로 추가된 Module System (@use, @forward)](https://blueshw.github.io/2019/10/27/scss-module-system/)
+- [Web Development In 2020 - A Practical Guide Course List](https://github.com/andrews1022/web-development-2020-course-list#web-development-in-2020---a-practical-guide-course-list)
+- [ActiveMQ의 Virtual Destinations를 활용한 메세지 로드밸런싱](https://ryan-han.com/post/server/activemq_virtual_destinations/)
+- [왜 굳이 도커(컨테이너)를 써야 하나요? - 컨테이너를 사용해야 하는 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
+- [컨트리뷰톤 2019 참가 후기](https://blog.outsider.ne.kr/1468)
+- [enum 찾기의 달인](https://sjh836.tistory.com/m/175)
 
 #### 2019년 12월 12일 목요일
 - [프렌즈타임 웹앱 삽질기](https://tech.kakao.com/2019/11/27/friendstime-web-app/)
