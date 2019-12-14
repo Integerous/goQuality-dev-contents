@@ -46,9 +46,13 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 14일 토요일
+#### 2019년 12월 15일 일요일
 - (여기에 추가해주세요!)
-- 
+-
+
+#### 2019년 12월 14일 토요일
+- [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
+- [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531/)
 
 #### 2019년 12월 13일 금요일
 - [Docker image](https://trylhc.tistory.com/m/entry/Docker-image)
