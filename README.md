@@ -60,14 +60,6 @@
 - [컨트리뷰톤 2019 참가 후기](https://blog.outsider.ne.kr/1468)
 - [enum 찾기의 달인](https://sjh836.tistory.com/m/175)
 
-#### 2019년 12월 12일 목요일
-- [프렌즈타임 웹앱 삽질기](https://tech.kakao.com/2019/11/27/friendstime-web-app/)
-- [객체지향 5대 원칙](https://hg-pyun.github.io/solid/)
-- [스프링 개발 가이드](https://www.slideshare.net/ssuser565d51/spring-guide-202753526)
-- [다가오는 2020년 프로그래밍 트렌드 (언어)](https://joshua-dev-story.blogspot.com/2019/11/2020-programming-language-learn.html)
-- [반응형 시스템 개선하기 (feat. TOAST UI Grid)](https://meetup.toast.com/posts/210)
-- [소주 1병 조지고 쓴 1년차 개발자의 아찔했던 순간들](https://jay-ji.tistory.com/m/42)
-
 
 --------------------------------------
 </br>
@@ -328,6 +320,7 @@
 - [N명의 개발자, N개의 조언 [슬라이드]](https://speakerdeck.com/hanjung/nmyeongyi-gaebalja-ngaeyi-joeon)
 - [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
 - [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지 [영상]](https://www.youtube.com/watch?v=V9AGvwPmnZU)
+- [소주 1병 조지고 쓴 1년차 개발자의 아찔했던 순간들](https://jay-ji.tistory.com/m/42)
 
 
 --------------------------------------
@@ -570,6 +563,8 @@
 - [캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/)
 - [Guide to Java Versions and Features](https://dzone.com/articles/a-guide-to-java-versions-and-features)
 - [SpringBoot 와 GraphQL을 이용한 API 샘플](https://github.com/Jae-Young-Kim/sample-graphql-springboot)
+- [스프링 개발 가이드 [슬라이드]](https://www.slideshare.net/ssuser565d51/spring-guide-202753526)
+
 
 --------------------------------------
 
@@ -978,6 +973,8 @@
 - [NPM 배포하기 - Vue.js ESLint 패키지](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
 - [(고급) 자바스크립트 질문 목록 [번역]](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md)
 - [프론트엔드 개발 환경의 이해 : NPM](http://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
+- [반응형 시스템 개선하기 (feat. TOAST UI Grid)](https://meetup.toast.com/posts/210)
+- [프렌즈타임 웹앱 삽질기](https://tech.kakao.com/2019/11/27/friendstime-web-app/)
 
 
 --------------------------------------
