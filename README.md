@@ -46,23 +46,16 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 15일 일요일
+#### 2019년 12월 16일 월요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 12월 15일 일요일
+- [원티드 - 요즘 "프론트엔드 개발" 어떻게 하지? 참관 후기](https://velog.io/@velopert/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%9A%94%EC%A6%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EC%A7%80-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0)
 
 #### 2019년 12월 14일 토요일
 - [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
 - [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531/)
-
-#### 2019년 12월 13일 금요일
-- [Docker image](https://trylhc.tistory.com/m/entry/Docker-image)
-- [깃헙 액션을 사용해서 애저 블롭 저장소에 정적 웹사이트 배포하기](https://blog.aliencube.org/ko/2019/12/13/publishing-static-website-to-azure-blob-storage-via-github-actions/)
-- [SCSS에 새로 추가된 Module System (@use, @forward)](https://blueshw.github.io/2019/10/27/scss-module-system/)
-- [Web Development In 2020 - A Practical Guide Course List](https://github.com/andrews1022/web-development-2020-course-list#web-development-in-2020---a-practical-guide-course-list)
-- [ActiveMQ의 Virtual Destinations를 활용한 메세지 로드밸런싱](https://ryan-han.com/post/server/activemq_virtual_destinations/)
-- [왜 굳이 도커(컨테이너)를 써야 하나요? - 컨테이너를 사용해야 하는 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
-- [컨트리뷰톤 2019 참가 후기](https://blog.outsider.ne.kr/1468)
-- [enum 찾기의 달인](https://sjh836.tistory.com/m/175)
 
 
 --------------------------------------
@@ -357,6 +350,8 @@
 - [NHN FORWARD 2019 후기](https://ict-nroo.tistory.com/134)
 - [마소콘 2019 발표자료 모음](https://www.imaso.co.kr/archives/5590)
 - [GitHub Universe 2019 참석기](https://blog.outsider.ne.kr/1469)
+- [컨트리뷰톤 2019 참가 후기](https://blog.outsider.ne.kr/1468)
+
 
 --------------------------------------
 
@@ -1031,6 +1026,7 @@
 - [코드로 만드는 Design System](https://medium.com/@kykkjh2984/%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-design-system-b04bb916a02b)
 - [모바일 UI 디자인 기본 요소 - 버튼](https://brunch.co.kr/@chulhochoiucj0/23)
 - [웹에서 쓰기 좋은 216개의 컬러 모음](https://favpng.com/png_colors)
+- [SCSS에 새로 추가된 Module System (@use, @forward)](https://blueshw.github.io/2019/10/27/scss-module-system/)
 
 
 --------------------------------------
@@ -1194,6 +1190,7 @@
 - [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial)
 - [GitHub Action을 사용해 새로 올라온 전월세 방 목록 받아보기](https://ahnheejong.name/articles/receive-new-room-notification-mails-using-github-action/)
 - [git rebase를 이해하기](https://junwoo45.github.io/2019-10-23-rebase/)
+- [깃헙 액션을 사용해서 애저 블롭 저장소에 정적 웹사이트 배포하기](https://blog.aliencube.org/ko/2019/12/13/publishing-static-website-to-azure-blob-storage-via-github-actions/)
 
 
 --------------------------------------
