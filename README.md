@@ -62,10 +62,6 @@
 #### 2019년 12월 15일 일요일
 - [원티드 - 요즘 "프론트엔드 개발" 어떻게 하지? 참관 후기](https://velog.io/@velopert/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%9A%94%EC%A6%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EC%A7%80-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0)
 
-#### 2019년 12월 14일 토요일
-- [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
-- [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531/)
-
 
 --------------------------------------
 </br>
@@ -572,6 +568,7 @@
 - [Guide to Java Versions and Features](https://dzone.com/articles/a-guide-to-java-versions-and-features)
 - [SpringBoot 와 GraphQL을 이용한 API 샘플](https://github.com/Jae-Young-Kim/sample-graphql-springboot)
 - [스프링 개발 가이드 [슬라이드]](https://www.slideshare.net/ssuser565d51/spring-guide-202753526)
+- [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
 
 
 --------------------------------------
@@ -983,6 +980,7 @@
 - [프론트엔드 개발 환경의 이해 : NPM](http://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
 - [반응형 시스템 개선하기 (feat. TOAST UI Grid)](https://meetup.toast.com/posts/210)
 - [프렌즈타임 웹앱 삽질기](https://tech.kakao.com/2019/11/27/friendstime-web-app/)
+- [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531/)
 
 
 --------------------------------------
