@@ -46,9 +46,18 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 16일 월요일
+#### 2019년 12월 17일 화요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 12월 16일 월요일
+- [One UI Design Guide KOR.pdf](http://www.design.samsung.com/kr/contents/one-ui/download/oneui_design_guide_kor.pdf)
+- [방 정보 크롤링 및 필터링 하기](https://jen6.github.io/2019/12/find-house-for-me.html)
+- [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://meetup.toast.com/posts/106)
+- [일일커밋 3주년 회고](https://jojoldu.tistory.com/464)
+- [[javascript] Selection과 Range를 통해 내맘대로 커서 조작하기 - Selection편](https://gdtbgl93.tistory.com/175)
+- [Multi CDN 트래픽 모니터링을 위한 클러스터 구축기](https://engineering.linecorp.com/ko/blog/build-cluster-for-multi-cdn-traffic-monitoring/)
+- [글로벌 LINE DEV의 기술 공유 문화](https://engineering.linecorp.com/ko/blog/global-line-dev-tech-sharing-culture/)
 
 #### 2019년 12월 15일 일요일
 - [원티드 - 요즘 "프론트엔드 개발" 어떻게 하지? 참관 후기](https://velog.io/@velopert/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%9A%94%EC%A6%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EC%A7%80-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0)
