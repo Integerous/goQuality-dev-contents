@@ -46,9 +46,13 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 17일 화요일
+#### 2019년 12월 18일 수요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 12월 17일 화요일
+- [DBA와 개발자가 모두 행복해지는 Hibernate의 in_clause_parameter_padding 옵션](https://meetup.toast.com/posts/211)
+- [Journey of Feature Flag development in LINE Android [슬라이드]](https://speakerdeck.com/line_devday2019/journey-of-feature-flag-development-in-line-android)
 
 #### 2019년 12월 16일 월요일
 - [One UI Design Guide KOR.pdf](http://www.design.samsung.com/kr/contents/one-ui/download/oneui_design_guide_kor.pdf)
