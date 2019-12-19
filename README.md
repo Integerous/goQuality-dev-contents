@@ -50,7 +50,6 @@
 - (여기에 추가해주세요!)
 -
 
-
 #### 2019년 12월 19일 목요일
 - [WATCHA PLAY 서비스 MSA 적용하기](https://medium.com/watcha/watcha-play-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-31e06fe039a0)
 - [[Vue.js] SPA 튜토리얼 — Part1](https://medium.com/hivelab-dev/vue-js-spa-tutorial-part1-d74aca1bba58)
@@ -65,10 +64,6 @@
 - [What’s coming to JavaScript in 2020](https://medium.com/javascript-in-plain-english/whats-coming-to-javascript-in-2020-c2a02cf52d01)
 - [React Hooks는 어떻게 function component를 다시 그릴까?](https://www.awesomezero.com/development/reacthook/)
 - [기존의 사고 방식을 깨부수는 함수형 사고](https://evan-moon.github.io/2019/12/15/about-functional-thinking/)
-
-#### 2019년 12월 17일 화요일
-- [DBA와 개발자가 모두 행복해지는 Hibernate의 in_clause_parameter_padding 옵션](https://meetup.toast.com/posts/211)
-- [Journey of Feature Flag development in LINE Android [슬라이드]](https://speakerdeck.com/line_devday2019/journey-of-feature-flag-development-in-line-android)
 
 
 --------------------------------------
@@ -579,6 +574,7 @@
 - [SpringBoot 와 GraphQL을 이용한 API 샘플](https://github.com/Jae-Young-Kim/sample-graphql-springboot)
 - [스프링 개발 가이드 [슬라이드]](https://www.slideshare.net/ssuser565d51/spring-guide-202753526)
 - [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
+- [DBA와 개발자가 모두 행복해지는 Hibernate의 in_clause_parameter_padding 옵션](https://meetup.toast.com/posts/211)
 
 
 --------------------------------------
@@ -1210,6 +1206,7 @@
 - [GitHub Action을 사용해 새로 올라온 전월세 방 목록 받아보기](https://ahnheejong.name/articles/receive-new-room-notification-mails-using-github-action/)
 - [git rebase를 이해하기](https://junwoo45.github.io/2019-10-23-rebase/)
 - [깃헙 액션을 사용해서 애저 블롭 저장소에 정적 웹사이트 배포하기](https://blog.aliencube.org/ko/2019/12/13/publishing-static-website-to-azure-blob-storage-via-github-actions/)
+- [Journey of Feature Flag development in LINE Android [슬라이드]](https://speakerdeck.com/line_devday2019/journey-of-feature-flag-development-in-line-android)
 
 
 --------------------------------------
