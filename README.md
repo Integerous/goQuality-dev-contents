@@ -46,9 +46,25 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 18일 수요일
+#### 2019년 12월 20일 금요일
 - (여기에 추가해주세요!)
 -
+
+
+#### 2019년 12월 19일 목요일
+- [WATCHA PLAY 서비스 MSA 적용하기](https://medium.com/watcha/watcha-play-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-31e06fe039a0)
+- [[Vue.js] SPA 튜토리얼 — Part1](https://medium.com/hivelab-dev/vue-js-spa-tutorial-part1-d74aca1bba58)
+- [NLP 논문 모음](https://github.com/newhiwoong/NLP-Papers)
+- [리눅스 grep 명령어 사용법](https://recipes4dev.tistory.com/m/157?fbclid=IwAR0jRN5wFvSyKE9l8ic-oOR1Mn9qD8pO9pDSznkZyLyWfXYyooPNPzVu_IE)
+
+#### 2019년 12월 18일 수요일
+- [개발자의 경력 전환](https://brunch.co.kr/@imagineer/323)
+- [가성비 넘치게 0원으로 사이드프로젝트 VWAVWA 시작하기](https://miryang.dev/2019/12/17/start-sideproject-vwavwa/)
+- [Hide :: Monolithic에서 MSA로의 전환기 -](https://www.hides.kr/1057)
+- [QA Mock System](https://medium.com/coupang-tech/qa-mock-system-6fbb9980cccb)
+- [What’s coming to JavaScript in 2020](https://medium.com/javascript-in-plain-english/whats-coming-to-javascript-in-2020-c2a02cf52d01)
+- [React Hooks는 어떻게 function component를 다시 그릴까?](https://www.awesomezero.com/development/reacthook/)
+- [기존의 사고 방식을 깨부수는 함수형 사고](https://evan-moon.github.io/2019/12/15/about-functional-thinking/)
 
 #### 2019년 12월 17일 화요일
 - [DBA와 개발자가 모두 행복해지는 Hibernate의 in_clause_parameter_padding 옵션](https://meetup.toast.com/posts/211)
