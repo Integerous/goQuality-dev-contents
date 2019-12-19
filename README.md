@@ -70,15 +70,6 @@
 - [DBA와 개발자가 모두 행복해지는 Hibernate의 in_clause_parameter_padding 옵션](https://meetup.toast.com/posts/211)
 - [Journey of Feature Flag development in LINE Android [슬라이드]](https://speakerdeck.com/line_devday2019/journey-of-feature-flag-development-in-line-android)
 
-#### 2019년 12월 16일 월요일
-- [One UI Design Guide KOR.pdf](http://www.design.samsung.com/kr/contents/one-ui/download/oneui_design_guide_kor.pdf)
-- [방 정보 크롤링 및 필터링 하기](https://jen6.github.io/2019/12/find-house-for-me.html)
-- [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://meetup.toast.com/posts/106)
-- [일일커밋 3주년 회고](https://jojoldu.tistory.com/464)
-- [[javascript] Selection과 Range를 통해 내맘대로 커서 조작하기 - Selection편](https://gdtbgl93.tistory.com/175)
-- [Multi CDN 트래픽 모니터링을 위한 클러스터 구축기](https://engineering.linecorp.com/ko/blog/build-cluster-for-multi-cdn-traffic-monitoring/)
-- [글로벌 LINE DEV의 기술 공유 문화](https://engineering.linecorp.com/ko/blog/global-line-dev-tech-sharing-culture/)
-
 
 --------------------------------------
 </br>
@@ -200,6 +191,7 @@
 - [토스 서비스를 든든하게 지키는 사람들, 서버 플랫폼 팀을 만나다](https://blog.toss.im/2019/11/26/tossteam/people/serverplatformteam-interview/)
 - [2년차 서버 개발자가 바라본 LINE의 개발 문화](https://engineering.linecorp.com/ko/blog/new-server-developer-at-line/)
 - [복잡한 업무 코드를 빠르게 분석하기](https://www.popit.kr/%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%97%85%EB%AC%B4-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0/)
+- [글로벌 LINE DEV의 기술 공유 문화](https://engineering.linecorp.com/ko/blog/global-line-dev-tech-sharing-culture/)
 
 
 --------------------------------------
@@ -298,7 +290,7 @@
 - [개발자가 알아두면 좋은 영어 표현들 및 발음 실수들](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%B2%88%EC%99%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%98%81%EC%96%B4-%ED%91%9C%ED%98%84%EB%93%A4-%EB%B0%8F-%EB%B0%9C%EC%9D%8C-%EC%8B%A4%EC%88%98%EB%93%A4-db8f1b83d96e)
 - [개발자 로드맵 모음 [영문]](https://roadmap.sh/)
 - [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474)
-
+- [일일커밋 3주년 회고](https://jojoldu.tistory.com/464)
 
 --------------------------------------
 
@@ -794,6 +786,7 @@
 - [ActiveMQ의 Virtual Destinations를 활용한 메세지 로드밸런싱](https://ryan-han.com/post/server/activemq_virtual_destinations/)
 - [기초적인 Docker 명령어](https://sksggg123.github.io/docker/docker-command/)
 - [우아한테크세미나 - 우아한 레디스 [영상]](https://youtu.be/mPB2CZiAkKM)
+- [Multi CDN 트래픽 모니터링을 위한 클러스터 구축기](https://engineering.linecorp.com/ko/blog/build-cluster-for-multi-cdn-traffic-monitoring/)
 
 
 --------------------------------------
@@ -1052,6 +1045,7 @@
 - [모바일 UI 디자인 기본 요소 - 버튼](https://brunch.co.kr/@chulhochoiucj0/23)
 - [웹에서 쓰기 좋은 216개의 컬러 모음](https://favpng.com/png_colors)
 - [SCSS에 새로 추가된 Module System (@use, @forward)](https://blueshw.github.io/2019/10/27/scss-module-system/)
+- [One UI Design Guide KOR.pdf](http://www.design.samsung.com/kr/contents/one-ui/download/oneui_design_guide_kor.pdf)
 
 
 --------------------------------------
