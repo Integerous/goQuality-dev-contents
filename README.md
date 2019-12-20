@@ -46,9 +46,15 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 20일 금요일
+#### 2019년 12월 21일 토요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 12월 20일 금요일
+- [깃헙 액션으로 경계가 명확한 CI/CD 파이프라인 구현하기](https://blog.aliencube.org/ko/2019/12/18/building-ci-cd-pipelines-with-github-actions/)
+- [안드로이드 개발자라면 꼭 해야하는 & 알아야 하는 6가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%9D%BC%EB%A9%B4-%EA%BC%AD-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94-6%EA%B0%80%EC%A7%80-23df7f059da3)
+- [Line의 인프라 비용을 절감한 6가지 사례](https://engineering.linecorp.com/ko/blog/6-practices-of-reducing-line-infra-costs/)
+- [PyTorch 학습](https://github.com/newhiwoong/PyTorch)
 
 #### 2019년 12월 19일 목요일
 - [WATCHA PLAY 서비스 MSA 적용하기](https://medium.com/watcha/watcha-play-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-31e06fe039a0)
