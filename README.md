@@ -62,15 +62,6 @@
 - [NLP 논문 모음](https://github.com/newhiwoong/NLP-Papers)
 - [리눅스 grep 명령어 사용법](https://recipes4dev.tistory.com/m/157?fbclid=IwAR0jRN5wFvSyKE9l8ic-oOR1Mn9qD8pO9pDSznkZyLyWfXYyooPNPzVu_IE)
 
-#### 2019년 12월 18일 수요일
-- [개발자의 경력 전환](https://brunch.co.kr/@imagineer/323)
-- [가성비 넘치게 0원으로 사이드프로젝트 VWAVWA 시작하기](https://miryang.dev/2019/12/17/start-sideproject-vwavwa/)
-- [Hide :: Monolithic에서 MSA로의 전환기 -](https://www.hides.kr/1057)
-- [QA Mock System](https://medium.com/coupang-tech/qa-mock-system-6fbb9980cccb)
-- [What’s coming to JavaScript in 2020](https://medium.com/javascript-in-plain-english/whats-coming-to-javascript-in-2020-c2a02cf52d01)
-- [React Hooks는 어떻게 function component를 다시 그릴까?](https://www.awesomezero.com/development/reacthook/)
-- [기존의 사고 방식을 깨부수는 함수형 사고](https://evan-moon.github.io/2019/12/15/about-functional-thinking/)
-
 
 --------------------------------------
 </br>
@@ -220,6 +211,7 @@
 - [Unit Test (단위 테스트) 도입하기 - 1편](https://www.popit.kr/unit-test-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-1%ED%8E%B8/?utm_source=dable)
 - [junit5 with kotlin 사용법 정리](https://github.com/cheese10yun/blog-sample/tree/master/kotlin-junit5)
 - [개발자를 위한 A/B 테스트 해시 샘플링](https://brunch.co.kr/@springboot/283)
+- [QA Mock System](https://medium.com/coupang-tech/qa-mock-system-6fbb9980cccb)
 
 
 --------------------------------------
@@ -292,6 +284,8 @@
 - [개발자 로드맵 모음 [영문]](https://roadmap.sh/)
 - [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474)
 - [일일커밋 3주년 회고](https://jojoldu.tistory.com/464)
+- [개발자에서 세일즈맨으로](https://brunch.co.kr/@imagineer/323)
+
 
 --------------------------------------
 
@@ -789,6 +783,8 @@
 - [기초적인 Docker 명령어](https://sksggg123.github.io/docker/docker-command/)
 - [우아한테크세미나 - 우아한 레디스 [영상]](https://youtu.be/mPB2CZiAkKM)
 - [Multi CDN 트래픽 모니터링을 위한 클러스터 구축기](https://engineering.linecorp.com/ko/blog/build-cluster-for-multi-cdn-traffic-monitoring/)
+- [가성비 넘치게 0원으로 사이드프로젝트 VWAVWA 시작하기](https://miryang.dev/2019/12/17/start-sideproject-vwavwa/)
+- [Monolithic에서 MSA로의 전환기](https://www.hides.kr/1057)
 
 
 --------------------------------------
@@ -994,6 +990,8 @@
 - [반응형 시스템 개선하기 (feat. TOAST UI Grid)](https://meetup.toast.com/posts/210)
 - [프렌즈타임 웹앱 삽질기](https://tech.kakao.com/2019/11/27/friendstime-web-app/)
 - [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531/)
+- [What’s coming to JavaScript in 2020](https://medium.com/javascript-in-plain-english/whats-coming-to-javascript-in-2020-c2a02cf52d01)
+- [React Hooks는 어떻게 function component를 다시 그릴까?](https://www.awesomezero.com/development/reacthook/)
 
 
 --------------------------------------
@@ -1366,6 +1364,7 @@
 - [웹 서비스 출시 전 확인사항](https://hodolman.com/25)
 - [벤처 허생전, Circa 2019 – Live & Venture -](https://liveandventure.com/2019/12/08/venturehuh/)
 - [Vim 에디터는 처음입니다만 [영상]](https://www.youtube.com/playlist?list=PLGPF8gvWLYyrmWBOzypMlVgWKfqTzYvgQ)
+- [기존의 사고 방식을 깨부수는 함수형 사고](https://evan-moon.github.io/2019/12/15/about-functional-thinking/)
 
 
 --------------------------------------
