@@ -46,9 +46,16 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 21일 토요일
+#### 2019년 12월 23일 월요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 12월 22일 일요일
+- [주니어 개발자의 CI/CD 도입기](http://bit.ly/34JfNJ2)
+- [체대 출신 개발자의 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/)
+
+#### 2019년 12월 21일 토요일
+- [데이터 기반으로 지속적인 CI/CD 개선 환경 만들기](https://engineering.linecorp.com/ko/blog/build-a-continuous-cicd-environment-based-on-data/)
 
 #### 2019년 12월 20일 금요일
 - [깃헙 액션으로 경계가 명확한 CI/CD 파이프라인 구현하기](https://blog.aliencube.org/ko/2019/12/18/building-ci-cd-pipelines-with-github-actions/)
