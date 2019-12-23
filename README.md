@@ -46,9 +46,15 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
-#### 2019년 12월 23일 월요일
+#### 2019년 12월 24일 화요일
 - (여기에 추가해주세요!)
 -
+
+#### 2019년 12월 23일 월요일
+- [다시 보는 2019 한국의 주요 IT 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/replay-2019-korea-tech-development-conferences)
+- [2018년 디자인 툴 설문조사](https://www.zalhan.world/whattools)
+- [과연 이 언어가 C.C++를 대체할 수 있을까? feat.아마존 [영상]](https://youtu.be/S-01KjUJ3_Q)
+- [핵심 머신러닝 강의 [영상]](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/videos)
 
 #### 2019년 12월 22일 일요일
 - [주니어 개발자의 CI/CD 도입기](http://bit.ly/34JfNJ2)
