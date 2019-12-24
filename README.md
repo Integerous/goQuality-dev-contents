@@ -577,7 +577,7 @@
 - [서버리스를 활용한 분산 처리 [슬라이드]](https://www.slideshare.net/MinJunKim5/masocon-2019-serverless-kimminjun)
 - [java null 서바이벌 가이드 [슬라이드]](https://www.slideshare.net/gyumee/java-null-survival-guide?from_m_app=ios)
 - [캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/)
-- [Guide to Java Versions and Features](https://dzone.com/articles/a-guide-to-java-versions-and-features)
+- [Guide to Java Versions and Features](https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features)
 - [SpringBoot 와 GraphQL을 이용한 API 샘플](https://github.com/Jae-Young-Kim/sample-graphql-springboot)
 - [스프링 개발 가이드 [슬라이드]](https://www.slideshare.net/ssuser565d51/spring-guide-202753526)
 - [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
