@@ -42,13 +42,13 @@
 </br>
 
 # :mailbox: Queue
->컨텐츠 링크를 이 곳에 추가해주세요!  
+>컨텐츠 링크를 아래에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
 #### 2019년 12월 24일 화요일
-- (여기에 추가해주세요!)
--
+- [함수형 프로그래머가 되고 싶다고? (Part 1)](https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1))
+- [DEVGROUND JUNIOR 2019 참여 후기](https://samsara1019.tistory.com/68)
 
 #### 2019년 12월 23일 월요일
 - [다시 보는 2019 한국의 주요 IT 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/replay-2019-korea-tech-development-conferences)
