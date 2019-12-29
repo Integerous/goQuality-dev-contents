@@ -45,6 +45,8 @@
 >컨텐츠 링크를 아래에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
+#### 2019년 12월 29일 일요일
+- [2019년 회고: 마지막 직장일 줄 알았던 신한은행을 퇴사하였다.](https://onelife2live.tistory.com/32)
 
 #### 2019년 12월 24일 화요일
 - [함수형 프로그래머가 되고 싶다고? (Part 1)](https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1))
