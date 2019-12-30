@@ -55,38 +55,6 @@
 - [IntersectionObserver API로 무한스크롤 구현하기](https://medium.com/@inthewalter/infinite-scroll-with-intersection-obsever-api-d672a80c8507)
 - [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
 
-#### 2019년 12월 29일 일요일
-- [이종립님의 2019년 회고](https://johngrib.github.io/wiki/review-2019/)
-- [생활코딩 마인드맵 라이브러리 cytoscape 사용법](https://velog.io/@takeknowledge/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5-cytoscape-%ED%99%9C%EC%9A%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-56k4in7315)
-
-#### 2019년 12월 28일 토요일
-- [소프트웨어 테스팅의 False Positive](https://gyuwon.github.io/blog/2018/12/19/false-positive-in-software-testing.html)
-- [2019년 회고 모음](https://www.notion.so/2019-09f05e04c3bc4019b42e619403ca757f)
-
-#### 2019년 12월 27일 금요일
-- [[초보개발자 일지] 소프트웨어 개발 3원칙](https://link.medium.com/U43ALk3oK2)
-- [축구부 출신 개발자 '디마리아'의 개발이야기 (feat. 부스트캠프 2019 후기)](https://youtu.be/a-gRzCAy_bM)
-- [JavaScript SDK 성능개선 방법 - 압축과 최적화로 실행시간 단축하기](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
-- [[초보개발자 일지] HTTP 프로토콜의 이해](https://link.medium.com/0D0vlK1kL2)
-
-#### 2019년 12월 26일 목요일
-- [만들면서 이해하는 도커(Docker) 이미지의 구조도커 이미지 빌드 원리와 OverayFS](https://www.44bits.io/ko/post/how-docker-image-work)
-- [개발자에서 엔지니어로 다시 개발자로](https://www.popit.kr/%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%97%90%ec%84%9c-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a1%9c-%eb%8b%a4%ec%8b%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90%eb%a1%9c/?fbclid=IwAR0L3pwwW0slJV4rP-lFxPXAclbCJca6dHViNLKXChJFFXyfBQQSTeaXD0M)
-- [[초보개발자 일지] 오픈소스 라이선스 알아보기](https://link.medium.com/EBLSXVFeJ2)
-- [자바스크립트 이벤트 제대로 이해하기(Part 1)](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-part-1-2a7d4b9eb468)
-
-#### 2019년 12월 25일 수요일
-- [2019년 주목받은 AI 이슈 모음](https://brunch.co.kr/@omniousofficial/75/?fbclid=IwAR3kapl8LwiaPXt0FlGbAh8SrxqPajrsjRuJF_-KCmKZHxyajEnr-Op0lCU)
-- [리눅스 cat, more, less, head, tail 명령어 비교 정리 (파일 내용 확인 출력) -](https://withcoding.com/111)
-- [크리스마스에 치앙마이에서 2019년 회고 쓰는 내 인생이 레전드다](https://blog.holy.kiwi/gen/2019-developer-review-christmas-chiangmai/)
-- [Tistory TOC(Table Of Contents) 구현기](https://www.wbluke.com/21)
-- [Iteration vs Recursion](https://medium.com/backticks-tildes/iteration-vs-recursion-c2017a483890)
-- [딥러닝을 이용하여 더욱 현실감 있는 AR 앱 만들기](https://nero.devstory.co.kr/2019/12/25/pj-too-real-01/)
-
-#### 2019년 12월 24일 화요일
-- [시각적 위계를 활용한 경험 설계](https://brunch.co.kr/@cliche-cliche/25)
-- [훌륭한 프로그래머가 되고 싶다면 만들어야할 앱 8선 [번역]](https://tagilog.tistory.com/579?fbclid=IwAR3VNuZqDucGJ-EFrIH8XKvstuPIgF_XvfylLo4TPD5xIRLYc-UaN2CP2-c)
-
 
 --------------------------------------
 </br>
@@ -115,7 +83,7 @@
 
 ### 4. [프론트엔드](https://github.com/Integerous/goQuality-dev-contents#4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-1)
 - [Javascript 관련](https://github.com/Integerous/goQuality-dev-contents#javascript-%EA%B4%80%EB%A0%A8)
-- [디자인 & UI/UX & 폰트](https://github.com/Integerous/goQuality-dev-contents#%EB%94%94%EC%9E%90%EC%9D%B8--uiux--%ED%8F%B0%ED%8A%B8)
+- [디자인 & UI/UX & CSS](https://github.com/Integerous/goQuality-dev-contents#%EB%94%94%EC%9E%90%EC%9D%B8--uiux--%ED%8F%B0%ED%8A%B8)
 - [모바일 & iOS & 안드로이드](https://github.com/Integerous/goQuality-dev-contents#%EB%AA%A8%EB%B0%94%EC%9D%BC--ios--%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 
 ### 5. [기타](https://github.com/Integerous/goQuality-dev-contents#5-%EA%B8%B0%ED%83%80-1)
@@ -237,6 +205,7 @@
 - [junit5 with kotlin 사용법 정리](https://github.com/cheese10yun/blog-sample/tree/master/kotlin-junit5)
 - [개발자를 위한 A/B 테스트 해시 샘플링](https://brunch.co.kr/@springboot/283)
 - [QA Mock System](https://medium.com/coupang-tech/qa-mock-system-6fbb9980cccb)
+- [소프트웨어 테스팅의 False Positive](https://gyuwon.github.io/blog/2018/12/19/false-positive-in-software-testing.html)
 
 
 --------------------------------------
@@ -404,6 +373,9 @@
 - [권용근님의 2018년 회고 - 3년차 웹 개발자](http://blog.kingbbode.com/posts/who-am-i-3)
 - [이동욱님의 2019 상반기 회고](https://jojoldu.tistory.com/436)
 - [체대 출신 개발자의 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/)
+- [크리스마스에 치앙마이에서 2019년 회고 쓰는 내 인생이 레전드다](https://blog.holy.kiwi/gen/2019-developer-review-christmas-chiangmai/)
+- [2019년 회고 모음](https://www.notion.so/2019-09f05e04c3bc4019b42e619403ca757f)
+- [이종립님의 2019년 회고](https://johngrib.github.io/wiki/review-2019/)
 
 
 --------------------------------------
@@ -818,6 +790,7 @@
 - [WATCHA PLAY 서비스 MSA 적용하기](https://medium.com/watcha/watcha-play-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-31e06fe039a0)
 - [데이터 기반으로 지속적인 CI/CD 개선 환경 만들기](https://engineering.linecorp.com/ko/blog/build-a-continuous-cicd-environment-based-on-data/)
 - [주니어 개발자의 CI/CD 도입기](http://bit.ly/34JfNJ2)
+- [만들면서 이해하는 도커(Docker) 이미지의 구조도커 이미지 빌드 원리와 OverayFS](https://www.44bits.io/ko/post/how-docker-image-work)
 
 
 --------------------------------------
@@ -1026,11 +999,12 @@
 - [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531/)
 - [What’s coming to JavaScript in 2020](https://medium.com/javascript-in-plain-english/whats-coming-to-javascript-in-2020-c2a02cf52d01)
 - [React Hooks는 어떻게 function component를 다시 그릴까?](https://www.awesomezero.com/development/reacthook/)
+- [자바스크립트 이벤트 제대로 이해하기(Part 1)](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-part-1-2a7d4b9eb468)
 
 
 --------------------------------------
 
-### 디자인 & UI/UX & 폰트
+### 디자인 & UI/UX & CSS
 - [미니멀 UI의 차기 트렌드 '컴플렉션 리덕션'](http://bit.ly/2RBMNxA)
 - [Material 디자인의 밀도에 대한 설명](http://bit.ly/2C4N0nx)
 - [키오스크 UI 설계 시 고려할 것들](http://bit.ly/2RBnawK)
@@ -1081,6 +1055,7 @@
 - [SCSS에 새로 추가된 Module System (@use, @forward)](https://blueshw.github.io/2019/10/27/scss-module-system/)
 - [One UI Design Guide KOR.pdf](http://www.design.samsung.com/kr/contents/one-ui/download/oneui_design_guide_kor.pdf)
 - [웹디자이너를 위한 크롬 확장 프로그램 10선](https://uxdesign.cc/10-best-chrome-extensions-for-designers-a76540b93836)
+- [시각적 위계를 활용한 경험 설계](https://brunch.co.kr/@cliche-cliche/25)
 
 
 --------------------------------------
@@ -1304,6 +1279,8 @@
 - [구글 머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course?hl=ko)
 - [NLP 논문 모음](https://github.com/newhiwoong/NLP-Papers)
 - [핵심 머신러닝 강의 [영상]](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/videos)
+- [딥러닝을 이용하여 더욱 현실감 있는 AR 앱 만들기](https://nero.devstory.co.kr/2019/12/25/pj-too-real-01/)
+- [2019년 주목받은 AI 이슈 모음](https://brunch.co.kr/@omniousofficial/75/?fbclid=IwAR3kapl8LwiaPXt0FlGbAh8SrxqPajrsjRuJF_-KCmKZHxyajEnr-Op0lCU)
 
 
 ### 블록체인
@@ -1404,6 +1381,8 @@
 - [기존의 사고 방식을 깨부수는 함수형 사고](https://evan-moon.github.io/2019/12/15/about-functional-thinking/)
 - [과연 Rust가 C.C++를 대체할 수 있을까? [영상]](https://youtu.be/S-01KjUJ3_Q)
 - [함수형 프로그래머가 되고 싶다고? (Part 1)](https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1))
+- [Tistory TOC(Table Of Contents) 구현기](https://www.wbluke.com/21)
+- [생활코딩 마인드맵 라이브러리 cytoscape 사용법](https://velog.io/@takeknowledge/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5-cytoscape-%ED%99%9C%EC%9A%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-56k4in7315)
 
 
 --------------------------------------
