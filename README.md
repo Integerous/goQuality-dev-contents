@@ -94,17 +94,16 @@
 - [모바일 & iOS & 안드로이드](https://github.com/Integerous/goQuality-dev-contents#%EB%AA%A8%EB%B0%94%EC%9D%BC--ios--%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 
 ### 5. [기타](https://github.com/Integerous/goQuality-dev-contents#5-%EA%B8%B0%ED%83%80-1)
+- [Git](https://github.com/Integerous/goQuality-dev-contents#git)
 - [웹 관련](https://github.com/Integerous/goQuality-dev-contents#%EC%9B%B9-%EA%B4%80%EB%A0%A8)
 - [REST 관련](https://github.com/Integerous/goQuality-dev-contents/blob/master/README.md#rest-%EA%B4%80%EB%A0%A8)
-- [Git](https://github.com/Integerous/goQuality-dev-contents#git)
 - [알고리즘 & 자료구조](https://github.com/Integerous/goQuality-dev-contents#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98--%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
-- [보안](https://github.com/Integerous/goQuality-dev-contents#%EB%B3%B4%EC%95%88)
-- [데이터 사이언스](https://github.com/Integerous/goQuality-dev-contents#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4)
 - [머신러닝 & 딥러닝 & AI](https://github.com/Integerous/goQuality-dev-contents#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D--%EB%94%A5%EB%9F%AC%EB%8B%9D--ai)
+- [데이터 사이언스](https://github.com/Integerous/goQuality-dev-contents#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4)
 - [블록체인](https://github.com/Integerous/goQuality-dev-contents#%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
-- [유용한 도구](https://github.com/Integerous/goQuality-dev-contents#%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%8F%84%EA%B5%AC)
+- [보안](https://github.com/Integerous/goQuality-dev-contents#%EB%B3%B4%EC%95%88)
+- [Vim](https://github.com/Integerous/goQuality-dev-contents#vim)
 - [기타](https://github.com/Integerous/goQuality-dev-contents#%EA%B8%B0%ED%83%80)
-- [에러 발생한 컨텐츠들](https://github.com/Integerous/goQuality-dev-contents#%EC%97%90%EB%9F%AC-%EB%B0%9C%EC%83%9D%ED%95%9C-%EC%BB%A8%ED%85%90%EC%B8%A0%EB%93%A4)
 
 --------------------------------------
 </br>
@@ -1109,6 +1108,63 @@
 
 # 5. 기타
 
+
+### Git
+- [Git 브랜칭 실습사이트! (한국어판)](http://bit.ly/2NzKcRa)
+- [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우 [번역]](http://bit.ly/2pZMJLj)
+- [GitHub로 프로젝트 관리하기 - 이슈 발급 부터 코드리뷰까지](https://github.com/cheese10yun/github-project-management)
+- [Git flow, GitHub flow, GitLab flow 정리](http://bit.ly/2PCULEZ)
+- [Git의 요술 책갈피, Stash 기능 소개](http://bit.ly/2IQOF1j)
+- [팀에서 깃헙 Enterprise Plan을 써야하는 이유(Developer Plan과의 비교)](http://bit.ly/2RFSslU)
+- [GitHub에서 사용할 수 있는 이모지(emoji) 목록](http://bit.ly/2CE6X5G)
+- [초보자를 위한 Git 텍스트 강의](http://bit.ly/2RbYyJJ)
+- [Pull Request를 보내기 전에, Rebase를 해야 할까요 혹은 merge commit을 만들어야 할까요?](http://bit.ly/2z1EGBO)
+- [Github vs Bitbucket vs Gitlab 비교](http://www.itworld.co.kr/news/109976)
+- [우린 Git-flow를 사용하고 있어요 - 우아한형제들](http://bit.ly/2Q8ci8l)
+- [Git fight rules (Git 사용하다 문제 발생시 해결책 모음)[번역]](https://github.com/k88hudson/git-flight-rules/blob/master/README_kr.md)
+- [Github의 역대급 사고(10월21일) 사후 분석 [영문]](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/)
+- [Git Submodule 이해하기](http://ohgyun.com/711)
+- [깃헙 저장소를 분석해서 대시보드로 만들어주는 서비스](https://sourcerer.io/start)
+- [Git 사용 팁 저장소 [한국어 버전]](https://github.com/mingrammer/git-tips)
+- [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.toast.com/posts/122)
+- [Github Universe 2018 참석기 1편](https://blog.outsider.ne.kr/1407)
+- [깃(Git)은 뭐가 다른가?](https://tech.10000lab.xyz/git/how-git-is-different.html)
+- [Github Actions 소개](https://blog.outsider.ne.kr/1412?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss_outsider_dev+%28Outsider%27s+Dev+Story%29)
+- [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/intro/intro1_1.html?fbclid=IwAR0i2cl1khBuMez9FaWISUBsUN-2DvI5h_lWwnYYRlk4BHAQEnAzKxh8qRQ)
+- [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속 [번역]](https://meetup.toast.com/posts/106)
+- [깃허브 후크API와 슬랙에 알림 전달하기](https://blog.nacyot.com/articles/2014-01-30-github-hook-api-slack-sample/)
+- [편리한 git alias 설정하기](https://johngrib.github.io/wiki/git-alias/)
+- [Github Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
+- [Github를 이용하는 전체 흐름 이해하기](https://blog.outsider.ne.kr/865)
+- [git add -p와 git commit -v의 사용](https://blog.outsider.ne.kr/1247?category=18)
+- [주니어 개발자가 처음 Pull Request보내본 썰](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)
+- [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
+- [.git - 쩜깃의 이해](https://jusths.tistory.com/64)
+- [Github 마크다운 작성 시 이미지 업로드 꿀팁](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
+- [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
+- [여러 git repository에 한꺼번에 git 명령어 적용하기](http://tech.javacafe.io/2018/12/15/%EC%97%AC%EB%9F%AC_git_%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC_%ED%95%9C%EA%BA%BC%EB%B2%88%EC%97%90_git_%EB%AA%85%EB%A0%B9%EC%96%B4_%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
+- [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
+- [Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)
+- [Github blog로 결혼식 청첩장 만들기](https://blog.voidmainvoid.net/217)
+- [사람들이 잘 안알려주는 GitHub 팁](https://medium.com/@kkweon/%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%98-%EC%95%88%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-github-%ED%8C%81-941e4d644402)
+- [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
+- [git 팁 - 잘못 커밋한 대용량 파일 처리하기](https://youtu.be/yd1TO-my6lw)
+- [Github에 100MB 이상의 파일을 올리는 방법](https://medium.com/@stargt/github%EC%97%90-100mb-%EC%9D%B4%EC%83%81%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95-9d9e6e3b94ef)
+- [커밋 히스토리를 이쁘게 관리하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/?fbclid=IwAR2A8rQIpndhz3SJuArm6gWlw-y2a5vEylloYWoOsNqOAZADWXkUBYwFTRg)
+- [git이 저장하는 방식](https://junwoo45.github.io/2019-09-03-git%EC%9D%B4%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94%EB%B0%A9%EC%8B%9D/)
+- [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+- [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/)
+- [GitHub 커밋 메세지에 JIRA 이슈번호 자동으로 넣어주기](https://medium.com/prnd/github-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%84%B8%EC%A7%80%EC%97%90-jira-%EC%9D%B4%EC%8A%88%EB%B2%88%ED%98%B8-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%84%A3%EC%96%B4%EC%A3%BC%EA%B8%B0-779048784037)
+- [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial)
+- [GitHub Action을 사용해 새로 올라온 전월세 방 목록 받아보기](https://ahnheejong.name/articles/receive-new-room-notification-mails-using-github-action/)
+- [git rebase를 이해하기](https://junwoo45.github.io/2019-10-23-rebase/)
+- [깃헙 액션을 사용해서 애저 블롭 저장소에 정적 웹사이트 배포하기](https://blog.aliencube.org/ko/2019/12/13/publishing-static-website-to-azure-blob-storage-via-github-actions/)
+- [Journey of Feature Flag development in LINE Android [슬라이드]](https://speakerdeck.com/line_devday2019/journey-of-feature-flag-development-in-line-android)
+
+
+--------------------------------------
+
+
 ### 웹 관련
 - [JWT(JSON Web Token)을 이용한 API 인증 [시리즈]](http://bit.ly/2pQNBSy)
 - [모던 웹 브라우저의 내부 살펴보기 1편 [시리즈]](http://bit.ly/2CrD6MO)
@@ -1172,7 +1228,6 @@
 
 --------------------------------------
 
-
 ### REST 관련
 - [REST API에서 Put 과 Post 의 차이](http://bit.ly/2CFGzIM)
 - [REST API의 이해와 설계  1편 - 개념 소개](http://bit.ly/2QX4lD8)
@@ -1184,61 +1239,6 @@
 - [REST FULL 한 웹서비스 > Stateless와 HATEOAS 개념](http://anster.tistory.com/163)
 - [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest의-representation이란-무엇인가/)
 - [REST API가 뭔가요? [영상]](https://youtu.be/iOueE9AXDQQ)
-
---------------------------------------
-
-
-### Git
-- [Git 브랜칭 실습사이트! (한국어판)](http://bit.ly/2NzKcRa)
-- [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우 [번역]](http://bit.ly/2pZMJLj)
-- [GitHub로 프로젝트 관리하기 - 이슈 발급 부터 코드리뷰까지](https://github.com/cheese10yun/github-project-management)
-- [Git flow, GitHub flow, GitLab flow 정리](http://bit.ly/2PCULEZ)
-- [Git의 요술 책갈피, Stash 기능 소개](http://bit.ly/2IQOF1j)
-- [팀에서 깃헙 Enterprise Plan을 써야하는 이유(Developer Plan과의 비교)](http://bit.ly/2RFSslU)
-- [GitHub에서 사용할 수 있는 이모지(emoji) 목록](http://bit.ly/2CE6X5G)
-- [초보자를 위한 Git 텍스트 강의](http://bit.ly/2RbYyJJ)
-- [Pull Request를 보내기 전에, Rebase를 해야 할까요 혹은 merge commit을 만들어야 할까요?](http://bit.ly/2z1EGBO)
-- [Github vs Bitbucket vs Gitlab 비교](http://www.itworld.co.kr/news/109976)
-- [우린 Git-flow를 사용하고 있어요 - 우아한형제들](http://bit.ly/2Q8ci8l)
-- [Git fight rules (Git 사용하다 문제 발생시 해결책 모음)[번역]](https://github.com/k88hudson/git-flight-rules/blob/master/README_kr.md)
-- [Github의 역대급 사고(10월21일) 사후 분석 [영문]](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/)
-- [Git Submodule 이해하기](http://ohgyun.com/711)
-- [깃헙 저장소를 분석해서 대시보드로 만들어주는 서비스](https://sourcerer.io/start)
-- [Git 사용 팁 저장소 [한국어 버전]](https://github.com/mingrammer/git-tips)
-- [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.toast.com/posts/122)
-- [Github Universe 2018 참석기 1편](https://blog.outsider.ne.kr/1407)
-- [깃(Git)은 뭐가 다른가?](https://tech.10000lab.xyz/git/how-git-is-different.html)
-- [Github Actions 소개](https://blog.outsider.ne.kr/1412?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss_outsider_dev+%28Outsider%27s+Dev+Story%29)
-- [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/intro/intro1_1.html?fbclid=IwAR0i2cl1khBuMez9FaWISUBsUN-2DvI5h_lWwnYYRlk4BHAQEnAzKxh8qRQ)
-- [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속 [번역]](https://meetup.toast.com/posts/106)
-- [깃허브 후크API와 슬랙에 알림 전달하기](https://blog.nacyot.com/articles/2014-01-30-github-hook-api-slack-sample/)
-- [편리한 git alias 설정하기](https://johngrib.github.io/wiki/git-alias/)
-- [Github Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
-- [Github를 이용하는 전체 흐름 이해하기](https://blog.outsider.ne.kr/865)
-- [git add -p와 git commit -v의 사용](https://blog.outsider.ne.kr/1247?category=18)
-- [주니어 개발자가 처음 Pull Request보내본 썰](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)
-- [GitHub 단축키 및 사용 팁 정리](http://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
-- [.git - 쩜깃의 이해](https://jusths.tistory.com/64)
-- [Github 마크다운 작성 시 이미지 업로드 꿀팁](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
-- [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
-- [여러 git repository에 한꺼번에 git 명령어 적용하기](http://tech.javacafe.io/2018/12/15/%EC%97%AC%EB%9F%AC_git_%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC_%ED%95%9C%EA%BA%BC%EB%B2%88%EC%97%90_git_%EB%AA%85%EB%A0%B9%EC%96%B4_%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
-- [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
-- [Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)
-- [Github blog로 결혼식 청첩장 만들기](https://blog.voidmainvoid.net/217)
-- [사람들이 잘 안알려주는 GitHub 팁](https://medium.com/@kkweon/%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%98-%EC%95%88%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-github-%ED%8C%81-941e4d644402)
-- [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
-- [git 팁 - 잘못 커밋한 대용량 파일 처리하기](https://youtu.be/yd1TO-my6lw)
-- [Github에 100MB 이상의 파일을 올리는 방법](https://medium.com/@stargt/github%EC%97%90-100mb-%EC%9D%B4%EC%83%81%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95-9d9e6e3b94ef)
-- [커밋 히스토리를 이쁘게 관리하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/?fbclid=IwAR2A8rQIpndhz3SJuArm6gWlw-y2a5vEylloYWoOsNqOAZADWXkUBYwFTRg)
-- [git이 저장하는 방식](https://junwoo45.github.io/2019-09-03-git%EC%9D%B4%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94%EB%B0%A9%EC%8B%9D/)
-- [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
-- [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/)
-- [GitHub 커밋 메세지에 JIRA 이슈번호 자동으로 넣어주기](https://medium.com/prnd/github-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%84%B8%EC%A7%80%EC%97%90-jira-%EC%9D%B4%EC%8A%88%EB%B2%88%ED%98%B8-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%84%A3%EC%96%B4%EC%A3%BC%EA%B8%B0-779048784037)
-- [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial)
-- [GitHub Action을 사용해 새로 올라온 전월세 방 목록 받아보기](https://ahnheejong.name/articles/receive-new-room-notification-mails-using-github-action/)
-- [git rebase를 이해하기](https://junwoo45.github.io/2019-10-23-rebase/)
-- [깃헙 액션을 사용해서 애저 블롭 저장소에 정적 웹사이트 배포하기](https://blog.aliencube.org/ko/2019/12/13/publishing-static-website-to-azure-blob-storage-via-github-actions/)
-- [Journey of Feature Flag development in LINE Android [슬라이드]](https://speakerdeck.com/line_devday2019/journey-of-feature-flag-development-in-line-android)
 
 
 --------------------------------------
@@ -1255,28 +1255,8 @@
 - [프로그래밍 언어에서 제공하는 기본 정렬 함수가 사용하는 알고리즘](https://www.geeksforgeeks.org/know-sorting-algorithm-set-1-sorting-weapons-used-programming-languages/)
 - [알고리즘이 필요한 '진짜' 이유에 대해서](https://brunch.co.kr/@chickenmoim/4)
 
---------------------------------------
-
-### 보안
-- [비밀번호 해시에 소금치기(salting)](http://bit.ly/2A5ql94)
-- [패스워드 암호화 방법 총정리](http://bit.ly/2OYnCa0)
-- [안전한 SSL/TLS를 운영하기 위해 알아야하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
-- [SSH를 비밀번호 대입으로 해킹하려면](https://gigglehd.com/gg/soft/4877153)
-- [고수준에서 암호학 이해하기](https://gist.github.com/aJchemist/f2d08f328f0458be8ee8)
 
 --------------------------------------
-
-### 데이터 사이언스
-- [데이터 사이언스 인터뷰 질문 모음집](http://bit.ly/2Ea19m7)
-- [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
-- [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
-- [데이터 사이언스 학습자료 모음](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki)
-- [데이터 엔지니어가 하는 일](https://brunch.co.kr/@imagineer/301)
-- [빅데이터를 넘어 패스트 데이터 시대로](https://brunch.co.kr/@imagineer/302)
-- [정규표현식으로 5일 걸리는 작업, 15분만에 끝내기 [번역]](https://medium.com/@jwyeom63/%EB%B2%88%EC%97%AD-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9C%BC%EB%A1%9C-5%EC%9D%BC-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9E%91%EC%97%85-15%EB%B6%84%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-2e615a907048)
-- [스타트업에서 데이터를 더하는 법 [슬라이드]](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit?usp=sharing)
-- [데이터 사이언스 벤 다이어그램 [번역]](https://www.lucypark.kr/blog/2015/06/21/the-data-science-venn-diagram/)
-
 
 ### 머신러닝 & 딥러닝 & AI
 - [머신러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
@@ -1301,10 +1281,49 @@
 - [2019년 주목받은 AI 이슈 모음](https://brunch.co.kr/@omniousofficial/75/?fbclid=IwAR3kapl8LwiaPXt0FlGbAh8SrxqPajrsjRuJF_-KCmKZHxyajEnr-Op0lCU)
 
 
+### 데이터 사이언스
+- [데이터 사이언스 인터뷰 질문 모음집](http://bit.ly/2Ea19m7)
+- [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
+- [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
+- [데이터 사이언스 학습자료 모음](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki)
+- [데이터 엔지니어가 하는 일](https://brunch.co.kr/@imagineer/301)
+- [빅데이터를 넘어 패스트 데이터 시대로](https://brunch.co.kr/@imagineer/302)
+- [정규표현식으로 5일 걸리는 작업, 15분만에 끝내기 [번역]](https://medium.com/@jwyeom63/%EB%B2%88%EC%97%AD-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9C%BC%EB%A1%9C-5%EC%9D%BC-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9E%91%EC%97%85-15%EB%B6%84%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-2e615a907048)
+- [스타트업에서 데이터를 더하는 법 [슬라이드]](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit?usp=sharing)
+- [데이터 사이언스 벤 다이어그램 [번역]](https://www.lucypark.kr/blog/2015/06/21/the-data-science-venn-diagram/)
+
+
 ### 블록체인
 - [왕초보자를 위한 Java로 이해하는 블록체인](http://bit.ly/2OPZwhf)
 - [문돌이도 이해하는 스팀 디앱 (DApp)의 세계](http://bit.ly/2IORFuV)
 - [모두를 위한 블록체인(블록체인에 대한 이해도를 높이고 사기를 막고자 공개한 깃헙저장소)](http://bit.ly/2z02OEP)
+
+
+--------------------------------------
+
+### 보안
+- [비밀번호 해시에 소금치기(salting)](http://bit.ly/2A5ql94)
+- [패스워드 암호화 방법 총정리](http://bit.ly/2OYnCa0)
+- [안전한 SSL/TLS를 운영하기 위해 알아야하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
+- [SSH를 비밀번호 대입으로 해킹하려면](https://gigglehd.com/gg/soft/4877153)
+- [고수준에서 암호학 이해하기](https://gist.github.com/aJchemist/f2d08f328f0458be8ee8)
+
+
+--------------------------------------
+
+### Vim
+- [Vim 자동완성 기능 사용하기](https://johngrib.github.io/wiki/vim-auto-completion/)
+- [Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자](https://johngrib.github.io/wiki/my-wiki/)
+- [Vim에 매료되다.](https://blog.hax0r.info/2018-06-27/be-fascinated-by-vim/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=Vim%EC%97%90+%EB%A7%A4%EB%A3%8C%EB%90%98%EB%8B%A4.+%28Feat.Happy+Hacking%29)
+- [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide?sfns=1)
+- [Vim, 두 가지 관점](https://johngrib.github.io/wiki/two-views-of-vim/)
+- [Vim 도대체 왜 쓰는가](https://bengi.kr/1349)
+- [완벽한 Mac 작업환경 세팅하기 (vim, zsh, iterm)](https://blog.pigno.se/post/184576332493/%EC%99%84%EB%B2%BD%ED%95%9C-mac-%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-vim-zsh-iterm)
+- [초보자를 위한 vim 입문서](https://www.joinc.co.kr/w/Site/Vim/Documents/UsedVim#AEN18)
+- [완전 초보를 위한 Vim](https://nolboo.kim/blog/2016/11/15/vim-for-beginner/)
+- [Vim의 탭은 그렇게 쓰는 게 아니다. 버퍼와 탭의 사용법 [번역]](https://bakyeono.net/post/2015-08-13-vim-tab-madness-translate.html)
+- [Vim 에디터는 처음입니다만 [영상]](https://www.youtube.com/playlist?list=PLGPF8gvWLYyrmWBOzypMlVgWKfqTzYvgQ)
+
 
 --------------------------------------
 
@@ -1328,16 +1347,13 @@
 - [개발 생산성을 올려주는 VSCode의 소소한 기능들](https://www.vobour.com/%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EC%98%AC%EB%A0%A4%EC%A3%BC%EB%8A%94-vscode%EC%9D%98-%EC%86%8C%EC%86%8C-%ED%95%9C-%EA%B8%B0%EB%8A%A5%EB%93%A4)
 - [구글의 페이지 랭크 알고리즘](https://www.google.co.kr/amp/s/sungmooncho.com/2012/08/26/pagerank/amp/)
 - [처음 코딩을 배울 때 알았으면 좋았을 도구들 [번역]](https://www.vobour.com/%EC%B2%98%EC%9D%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EB%8F%84%EA%B5%AC%EB%93%A4-tools-i-wish-i)
-- [Vim 자동완성 기능 사용하기](https://johngrib.github.io/wiki/vim-auto-completion/)
 - [구조적 동시성에 대한 소고, 또는 Go 문의 해로움 [번역]](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html?hide-original=true)
 - [한국어 형태소분석기 6개의 성능 비교](https://iostream.tistory.com/144?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
-- [Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자](https://johngrib.github.io/wiki/my-wiki/)
 - [Intellij 디버깅 해보기](https://jojoldu.tistory.com/149)
 - [치트시트 사이트](https://devhints.io/)
 - [구글에서 시행중인 사이트 신뢰성 엔지니어링(SRE)이란?](https://blog.outsider.ne.kr/1358)
 - [‘PUBLIC API’ 이제 한 곳에서 조건에 따라 확인해보세요!](http://icunow.co.kr/public-apis/)
 - [인스타그램 알고리즘의 거의 모든 것](https://brunch.co.kr/@mobiinside/1413)
-- [Vim에 매료되다.](https://blog.hax0r.info/2018-06-27/be-fascinated-by-vim/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=Vim%EC%97%90+%EB%A7%A4%EB%A3%8C%EB%90%98%EB%8B%A4.+%28Feat.Happy+Hacking%29)
 - [OAuth2를 이용한 SSO 환경 구축](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-1-2/)
 - [Rob Pike - 'Concurrency Is Not Parallelism' [영상]](https://www.youtube.com/watch?v=cN_DpYBzKso&t=17s)
 - [한국 오픈소스 프로젝트 Top 100](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf?fbclid=IwAR2IOgY2dGszOSWFWdzVDtTxcefzXCr4-AHVOX4txYRAYPs_Wvx0PK7MYgQ)
@@ -1357,15 +1373,11 @@
 - [카카오페이 QR 코드 리버스 엔지니어링](http://philosophical.one/posts/kakaopay-qrcode/)
 - [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)
 - [이메일 주소 형식 검증하기](https://johngrib.github.io/wiki/email-validation/)
-- [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide?sfns=1)
-- [완벽한 Mac 작업환경 세팅하기 (vim, zsh, iterm)](https://blog.pigno.se/post/184576332493/%EC%99%84%EB%B2%BD%ED%95%9C-mac-%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-vim-zsh-iterm)
 - [성능이 중요한 이유 [번역]](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 - [좋은 로그란 무엇인가? [슬라이드]](https://speakerdeck.com/devinjeon/jamag-ndc19-joheun-rogeuran-mueosinga-joheun-rogeureul-wihae-goryeohaeya-hal-geosdeul)
 - [변수명 지을때 참고하면 좋은 사이트](https://www.curioustore.com/)
 - [개발자들이 이름짓기 할때 참고하면 좋은 WordVis](http://wordvis.com/)
-- [Vim, 두 가지 관점](https://johngrib.github.io/wiki/two-views-of-vim/)
 - [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code/)
-- [Vim 도대체 왜 쓰는가](https://bengi.kr/1349)
 - [Google Docs 같은 실시간 협업 에디터를 만드는 방법](https://hackerwins.github.io/2019-04-16/co-editor)
 - [쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천 [번역]](https://codeameba.github.io/2019/06/10/tip-extensions/)
 - [Electron 시작부터 배포까지 [슬라이드]](https://docs.google.com/presentation/d/1PN_wmjhwyBrDvnV7FdwY8U4adoLpQR596fTxEC2IRFw/edit?usp=sharing)
@@ -1376,14 +1388,11 @@
 - [구글의 코드 리뷰 가이드](https://google.github.io/eng-practices/review/)
 - [Elasticsearch 버전 업데이트 썰 (Nori 형태소 분석기 shallow dive) [영상]](https://www.youtube.com/watch?v=UgJQQ-1HHaw)
 - [14일만에 GitHub 스타 1K 받은 차트 오픈소스 개발기](https://www.slideshare.net/netil/deview-2017-14-github-1k)
-- [초보자를 위한 vim 입문서](https://www.joinc.co.kr/w/Site/Vim/Documents/UsedVim#AEN18)
 - [훈련소에서 매일 뉴스 받아보기](https://parksb.github.io/article/34.html)
 - [본격 macOS에 개발 환경 구축하기](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
 - [민사고 간편 결제 제작기](https://blog.chosunghyun.com/kr/minsapay/)
 - [개발자를 위한 OS X(>= Catalina) 설정](https://www.sangkon.com/osx-setting-for-developer/)
-- [완전 초보를 위한 Vim](https://nolboo.kim/blog/2016/11/15/vim-for-beginner/)
 - [『곽철용 짤 생성기』, 이렇게 만들어졌습니다](https://wormwlrm.github.io/2019/10/13/Kwakcheolyong-Image-Creator-Development-Story.html)
-- [Vim의 탭은 그렇게 쓰는 게 아니다. 버퍼와 탭의 사용법 [번역]](https://bakyeono.net/post/2015-08-13-vim-tab-madness-translate.html)
 - [여러 기술들의 API 도큐먼트 모음집](https://devdocs.io)
 - [postman 활용 1~3편](https://blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221669110777&proxyReferer=)
 - [날짜와 시간 표시에 대한 디테일](https://brunch.co.kr/@anitooni/3)
@@ -1395,7 +1404,6 @@
 - [[스프링 부트와 AWS로 혼자 구현하는 웹 서비스] 출간 후기](https://jojoldu.tistory.com/463)
 - [웹 서비스 출시 전 확인사항](https://hodolman.com/25)
 - [벤처 허생전, Circa 2019 – Live & Venture -](https://liveandventure.com/2019/12/08/venturehuh/)
-- [Vim 에디터는 처음입니다만 [영상]](https://www.youtube.com/playlist?list=PLGPF8gvWLYyrmWBOzypMlVgWKfqTzYvgQ)
 - [기존의 사고 방식을 깨부수는 함수형 사고](https://evan-moon.github.io/2019/12/15/about-functional-thinking/)
 - [과연 Rust가 C.C++를 대체할 수 있을까? [영상]](https://youtu.be/S-01KjUJ3_Q)
 - [함수형 프로그래머가 되고 싶다고? (Part 1)](https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1))
