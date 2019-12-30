@@ -65,7 +65,6 @@
 - [개발자 성장](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%84%B1%EC%9E%A5)
 - [비전공자 & 신입](https://github.com/Integerous/goQuality-dev-contents#%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90--%EC%8B%A0%EC%9E%85)
 - [세미나/컨퍼런스 후기 및 발표자료](https://github.com/Integerous/goQuality-dev-contents#%EC%84%B8%EB%AF%B8%EB%82%98%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0)
-- [개발자 회고](https://github.com/Integerous/goQuality-dev-contents#%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EA%B3%A0)
 - [취업 & 이직 & 면접 & 코딩테스트](https://github.com/Integerous/goQuality-dev-contents#%EC%B7%A8%EC%97%85--%EC%9D%B4%EC%A7%81--%EB%A9%B4%EC%A0%91--%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
 
 ### 2. [언어 & 프레임워크](https://github.com/Integerous/goQuality-dev-contents#2-%EC%96%B8%EC%96%B4--%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-1)
@@ -365,25 +364,6 @@
 - [원티드 - 요즘 "프론트엔드 개발" 어떻게 하지? 참관 후기](https://velog.io/@velopert/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%9A%94%EC%A6%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EC%A7%80-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0)
 - [다시 보는 2019 한국의 주요 IT 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/replay-2019-korea-tech-development-conferences)
 - [DEVGROUND JUNIOR 2019 참여 후기](https://samsara1019.tistory.com/68)
-
-
---------------------------------------
-
-### 개발자 회고
->[개발자 회고 모음](https://github.com/oaksong/developers-retrospective)에 가시면 더 많은 회고들이 있습니다!
-- [작은 SI회사 개발자에서 우아한형제들로 이직 후 1년 회고](http://woowabros.github.io/experience/2019/05/30/settle-history.html)
-- [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/2018/essay/memoirs2018/)
-- [열정 넘치는 주니어 개발자의 주간회고 모음](https://gwonsungjun.github.io/category/#/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0)
-- [Joshua님의 2018년 회고](http://blog.devjoshua.me/2018/12/30/181230-2018%EB%85%84%ED%9A%8C%EA%B3%A0/)
-- [프론트엔드 개발자 안도형님의 2018년 회고](https://adhrinae.github.io/posts/retrospective-2018)
-- [창천항로님의 2018년 하반기 회고](https://jojoldu.tistory.com/373)
-- [Velopert님의 2018년 회고](https://velog.io/@velopert/2018.log)
-- [권용근님의 2018년 회고 - 3년차 웹 개발자](http://blog.kingbbode.com/posts/who-am-i-3)
-- [이동욱님의 2019 상반기 회고](https://jojoldu.tistory.com/436)
-- [체대 출신 개발자의 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/)
-- [크리스마스에 치앙마이에서 2019년 회고 쓰는 내 인생이 레전드다](https://blog.holy.kiwi/gen/2019-developer-review-christmas-chiangmai/)
-- [2019년 회고 모음](https://www.notion.so/2019-09f05e04c3bc4019b42e619403ca757f)
-- [이종립님의 2019년 회고](https://johngrib.github.io/wiki/review-2019/)
 
 
 --------------------------------------
