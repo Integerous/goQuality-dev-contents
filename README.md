@@ -70,11 +70,15 @@
 
 ### 2. [언어 & 프레임워크](https://github.com/Integerous/goQuality-dev-contents#2-%EC%96%B8%EC%96%B4--%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-1)
 - [Java & Spring](https://github.com/Integerous/goQuality-dev-contents#java--spring)
-- [Python & Django](https://github.com/Integerous/goQuality-dev-contents#python--django)
+- [Javascript 관련](https://github.com/Integerous/goQuality-dev-contents#javascript-%EA%B4%80%EB%A0%A8)
+- [Python](https://github.com/Integerous/goQuality-dev-contents#python--django)
 - [Go](https://github.com/Integerous/goQuality-dev-contents#go)
 
 ### 3. [백엔드](https://github.com/Integerous/goQuality-dev-contents#3-%EB%B0%B1%EC%97%94%EB%93%9C-1)
 - [서버 & 클라우드 & 아키텍쳐](https://github.com/Integerous/goQuality-dev-contents#%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C--%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
+- [마이크로서비스 MSA](https://github.com/Integerous/goQuality-dev-contents#%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-msa)
+- [도커 Docker](https://github.com/Integerous/goQuality-dev-contents#%EB%8F%84%EC%BB%A4-docker)
+- [쿠버네티스 Kubernetes](https://github.com/Integerous/goQuality-dev-contents#%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-kubernetes)
 - [데이터베이스 & SQL](https://github.com/Integerous/goQuality-dev-contents#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4--sql)
 - [운영체제 (리눅스, MacOS, 윈도우)](https://github.com/Integerous/goQuality-dev-contents#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-macos-%EC%9C%88%EB%8F%84%EC%9A%B0)
 - [네트워크](https://github.com/Integerous/goQuality-dev-contents/blob/master/README.md#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
@@ -576,7 +580,7 @@
 
 --------------------------------------
 
-### Python & Django
+### Python
 - [알고리즘 시각화 라이브러리 ipytracer 개발기](http://bit.ly/2P8drPV)
 - [장고 ORM 요리책 [번역]](http://bit.ly/2P6bUKg)
 - [PEP 8 파이썬 코드 스타일 가이드 번역 및 요약](http://bit.ly/2z10GMW)
