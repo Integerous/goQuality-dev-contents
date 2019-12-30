@@ -45,32 +45,6 @@
 >컨텐츠 링크를 아래에 추가해주세요!  
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
-#### 2019년 12월 26일 목요일
-- [신입 개발자를 위한 기술 면접 모음](https://github.com/jobhope/TechnicalNote)
-
-#### 2019년 12월 24일 화요일
-- [함수형 프로그래머가 되고 싶다고? (Part 1)](https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1))
-- [DEVGROUND JUNIOR 2019 참여 후기](https://samsara1019.tistory.com/68)
-
-#### 2019년 12월 23일 월요일
-- [다시 보는 2019 한국의 주요 IT 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/replay-2019-korea-tech-development-conferences)
-- [2018년 디자인 툴 설문조사](https://www.zalhan.world/whattools)
-- [과연 이 언어가 C.C++를 대체할 수 있을까? feat.아마존 [영상]](https://youtu.be/S-01KjUJ3_Q)
-- [핵심 머신러닝 강의 [영상]](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/videos)
-
-#### 2019년 12월 22일 일요일
-- [주니어 개발자의 CI/CD 도입기](http://bit.ly/34JfNJ2)
-- [체대 출신 개발자의 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/)
-
-#### 2019년 12월 21일 토요일
-- [데이터 기반으로 지속적인 CI/CD 개선 환경 만들기](https://engineering.linecorp.com/ko/blog/build-a-continuous-cicd-environment-based-on-data/)
-
-#### 2019년 12월 20일 금요일
-- [깃헙 액션으로 경계가 명확한 CI/CD 파이프라인 구현하기](https://blog.aliencube.org/ko/2019/12/18/building-ci-cd-pipelines-with-github-actions/)
-- [안드로이드 개발자라면 꼭 해야하는 & 알아야 하는 6가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%9D%BC%EB%A9%B4-%EA%BC%AD-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94-6%EA%B0%80%EC%A7%80-23df7f059da3)
-- [Line의 인프라 비용을 절감한 6가지 사례](https://engineering.linecorp.com/ko/blog/6-practices-of-reducing-line-infra-costs/)
-- [PyTorch 학습](https://github.com/newhiwoong/PyTorch)
-
 
 --------------------------------------
 </br>
@@ -370,6 +344,8 @@
 - [GitHub Universe 2019 참석기](https://blog.outsider.ne.kr/1469)
 - [컨트리뷰톤 2019 참가 후기](https://blog.outsider.ne.kr/1468)
 - [원티드 - 요즘 "프론트엔드 개발" 어떻게 하지? 참관 후기](https://velog.io/@velopert/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%9A%94%EC%A6%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EC%A7%80-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0)
+- [다시 보는 2019 한국의 주요 IT 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/replay-2019-korea-tech-development-conferences)
+- [DEVGROUND JUNIOR 2019 참여 후기](https://samsara1019.tistory.com/68)
 
 
 --------------------------------------
@@ -385,6 +361,8 @@
 - [Velopert님의 2018년 회고](https://velog.io/@velopert/2018.log)
 - [권용근님의 2018년 회고 - 3년차 웹 개발자](http://blog.kingbbode.com/posts/who-am-i-3)
 - [이동욱님의 2019 상반기 회고](https://jojoldu.tistory.com/436)
+- [체대 출신 개발자의 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/)
+
 
 --------------------------------------
 
@@ -428,6 +406,7 @@
 - [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/)
 - [지난 경력이 '물경력' 같다는 3년차 웹 개발자](https://prgms.tistory.com/18)
 - [자바스크립트 코딩테스트에서 가장 많이하는 실수들](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%B4%ED%95%98%EB%8A%94-%EC%8B%A4%EC%88%98%EB%93%A4-a10df2c884c)
+- [신입 개발자를 위한 기술 면접 모음](https://github.com/jobhope/TechnicalNote)
 
 
 --------------------------------------
@@ -795,6 +774,9 @@
 - [가성비 넘치게 0원으로 사이드프로젝트 VWAVWA 시작하기](https://miryang.dev/2019/12/17/start-sideproject-vwavwa/)
 - [Monolithic에서 MSA로의 전환기](https://www.hides.kr/1057)
 - [WATCHA PLAY 서비스 MSA 적용하기](https://medium.com/watcha/watcha-play-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-31e06fe039a0)
+- [데이터 기반으로 지속적인 CI/CD 개선 환경 만들기](https://engineering.linecorp.com/ko/blog/build-a-continuous-cicd-environment-based-on-data/)
+- [주니어 개발자의 CI/CD 도입기](http://bit.ly/34JfNJ2)
+
 
 --------------------------------------
 
@@ -1056,6 +1038,7 @@
 - [웹에서 쓰기 좋은 216개의 컬러 모음](https://favpng.com/png_colors)
 - [SCSS에 새로 추가된 Module System (@use, @forward)](https://blueshw.github.io/2019/10/27/scss-module-system/)
 - [One UI Design Guide KOR.pdf](http://www.design.samsung.com/kr/contents/one-ui/download/oneui_design_guide_kor.pdf)
+- [웹디자이너를 위한 크롬 확장 프로그램 10선](https://uxdesign.cc/10-best-chrome-extensions-for-designers-a76540b93836)
 
 
 --------------------------------------
@@ -1082,7 +1065,7 @@
 - [React Native로 성공적인 MVP 개발하기](https://drive.google.com/file/d/1LKtyaDE9qnrqOeJvQRhIhWqdZ229ofR7/view)
 - [Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다. [번역]](https://gist.github.com/Hazealign/1bbc586ded1649a8f08f)
 - [Flutter를 배우기 위한 강좌 및 사이트 추천](https://medium.com/@sangin84/flutter-%ED%94%8C%EB%9F%AC%ED%84%B0-%EB%A5%BC-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EA%B0%95%EC%A2%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EC%B2%9C-97bfee35b20)
-- [웹디자이너를 위한 크롬 확장 프로그램 10선](https://uxdesign.cc/10-best-chrome-extensions-for-designers-a76540b93836)
+- [안드로이드 개발자라면 꼭 해야하는 & 알아야 하는 6가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%9D%BC%EB%A9%B4-%EA%BC%AD-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94-6%EA%B0%80%EC%A7%80-23df7f059da3)
 
 
 --------------------------------------
@@ -1278,6 +1261,7 @@
 - [글쓰기 화면에서 카테고리 자동 추천하는 모델 만들기](https://medium.com/daangn/%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%B6%94%EC%B2%9C%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-cbbcc43e1f7f)
 - [구글 머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course?hl=ko)
 - [NLP 논문 모음](https://github.com/newhiwoong/NLP-Papers)
+- [핵심 머신러닝 강의 [영상]](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/videos)
 
 
 ### 블록체인
@@ -1376,6 +1360,8 @@
 - [벤처 허생전, Circa 2019 – Live & Venture -](https://liveandventure.com/2019/12/08/venturehuh/)
 - [Vim 에디터는 처음입니다만 [영상]](https://www.youtube.com/playlist?list=PLGPF8gvWLYyrmWBOzypMlVgWKfqTzYvgQ)
 - [기존의 사고 방식을 깨부수는 함수형 사고](https://evan-moon.github.io/2019/12/15/about-functional-thinking/)
+- [과연 Rust가 C.C++를 대체할 수 있을까? [영상]](https://youtu.be/S-01KjUJ3_Q)
+- [함수형 프로그래머가 되고 싶다고? (Part 1)](https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1))
 
 
 --------------------------------------
