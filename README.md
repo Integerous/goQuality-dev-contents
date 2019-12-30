@@ -46,6 +46,48 @@
 >이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!
 
 
+#### 2019년 12월 31일 화요일
+- (컨텐츠 제목과 링크를 여기에 추가 해주세요)
+-
+
+#### 2019년 12월 30일 월요일
+- [무한 스크롤 vs 페이지네이션 vs '더보기' 버튼 - 이커머스에서 어떤 로딩 방법을 사용하면 좋을지에 대한 UT 결과](https://brunch.co.kr/@blackindigo-red/13)
+- [IntersectionObserver API로 무한스크롤 구현하기](https://medium.com/@inthewalter/infinite-scroll-with-intersection-obsever-api-d672a80c8507)
+- [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
+
+#### 2019년 12월 29일 일요일
+- [이종립님의 2019년 회고](https://johngrib.github.io/wiki/review-2019/)
+- [생활코딩 마인드맵 라이브러리 cytoscape 사용법](https://velog.io/@takeknowledge/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5-cytoscape-%ED%99%9C%EC%9A%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-56k4in7315)
+
+#### 2019년 12월 28일 토요일
+- [소프트웨어 테스팅의 False Positive](https://gyuwon.github.io/blog/2018/12/19/false-positive-in-software-testing.html)
+- [2019년 회고 모음](https://www.notion.so/2019-09f05e04c3bc4019b42e619403ca757f)
+
+#### 2019년 12월 27일 금요일
+- [[초보개발자 일지] 소프트웨어 개발 3원칙](https://link.medium.com/U43ALk3oK2)
+- [축구부 출신 개발자 '디마리아'의 개발이야기 (feat. 부스트캠프 2019 후기)](https://youtu.be/a-gRzCAy_bM)
+- [JavaScript SDK 성능개선 방법 - 압축과 최적화로 실행시간 단축하기](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
+- [[초보개발자 일지] HTTP 프로토콜의 이해](https://link.medium.com/0D0vlK1kL2)
+
+#### 2019년 12월 26일 목요일
+- [만들면서 이해하는 도커(Docker) 이미지의 구조도커 이미지 빌드 원리와 OverayFS](https://www.44bits.io/ko/post/how-docker-image-work)
+- [개발자에서 엔지니어로 다시 개발자로](https://www.popit.kr/%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%97%90%ec%84%9c-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a1%9c-%eb%8b%a4%ec%8b%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90%eb%a1%9c/?fbclid=IwAR0L3pwwW0slJV4rP-lFxPXAclbCJca6dHViNLKXChJFFXyfBQQSTeaXD0M)
+- [[초보개발자 일지] 오픈소스 라이선스 알아보기](https://link.medium.com/EBLSXVFeJ2)
+- [자바스크립트 이벤트 제대로 이해하기(Part 1)](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-part-1-2a7d4b9eb468)
+
+#### 2019년 12월 25일 수요일
+- [2019년 주목받은 AI 이슈 모음](https://brunch.co.kr/@omniousofficial/75/?fbclid=IwAR3kapl8LwiaPXt0FlGbAh8SrxqPajrsjRuJF_-KCmKZHxyajEnr-Op0lCU)
+- [리눅스 cat, more, less, head, tail 명령어 비교 정리 (파일 내용 확인 출력) -](https://withcoding.com/111)
+- [크리스마스에 치앙마이에서 2019년 회고 쓰는 내 인생이 레전드다](https://blog.holy.kiwi/gen/2019-developer-review-christmas-chiangmai/)
+- [Tistory TOC(Table Of Contents) 구현기](https://www.wbluke.com/21)
+- [Iteration vs Recursion](https://medium.com/backticks-tildes/iteration-vs-recursion-c2017a483890)
+- [딥러닝을 이용하여 더욱 현실감 있는 AR 앱 만들기](https://nero.devstory.co.kr/2019/12/25/pj-too-real-01/)
+
+#### 2019년 12월 24일 화요일
+- [시각적 위계를 활용한 경험 설계](https://brunch.co.kr/@cliche-cliche/25)
+- [훌륭한 프로그래머가 되고 싶다면 만들어야할 앱 8선 [번역]](https://tagilog.tistory.com/579?fbclid=IwAR3VNuZqDucGJ-EFrIH8XKvstuPIgF_XvfylLo4TPD5xIRLYc-UaN2CP2-c)
+
+
 --------------------------------------
 </br>
 
