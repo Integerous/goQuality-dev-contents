@@ -35,14 +35,24 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 
-#### 2019년 12월 31일 화요일
+#### 2020년 1월 1일 수요일
 - (컨텐츠 제목과 링크를 여기에 추가 해주세요)
 -
+
+#### 2019년 12월 31일 화요일
+- [우아한 형제들, SW 리드 개발자 박미정 님의 2019년 회고 글입니다.](https://medium.com/@mjspring/c28113ac005e)
+- [풀스택 개발자, 그것은 환상](https://velog.io/@zetlos/2019-12-29-0612-%EC%9E%91%EC%84%B1%EB%90%A8-o0k4q3qrqh)
+- [마이크로소프트가 만든 AI를 통해 손으로 그린 디자인을 html으로 바꿔주는 사이트입니다.](https://sketch2code.azurewebsites.net/generated-html/853e977e-7682-4c6d-bc2a-43fcece1dfbd)
+- [AWS 아키텍처 다이어그램 제작 사이트](https://cloudcraft.co/)
+- [코딩덕후 2019년 연말정산](https://co-duck.com/1st)
 
 #### 2019년 12월 30일 월요일
 - [무한 스크롤 vs 페이지네이션 vs '더보기' 버튼 - 이커머스에서 어떤 로딩 방법을 사용하면 좋을지에 대한 UT 결과](https://brunch.co.kr/@blackindigo-red/13)
 - [IntersectionObserver API로 무한스크롤 구현하기](https://medium.com/@inthewalter/infinite-scroll-with-intersection-obsever-api-d672a80c8507)
 - [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
+- [Rust 한글 문서](https://rinthel.github.io/rust-lang-book-ko/)
+- [GET이냐 POST냐 그것이 문제로다 - 뒤태지존의 끄적거림 -](https://homoefficio.github.io/2019/12/25/GET%EC%9D%B4%EB%83%90-POST%EB%83%90-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EB%A1%9C%EB%8B%A4/?fbclid=IwAR3zRyhUc2CIZIesYUj6HLq8XxzNCHlPK4KSerHqoye5_Rsfpdb1he-_w_M#btn-open-shareoptions)
+- [아디오스 2019](https://ehdrjsdlzzzz.github.io/2019/12/30/아디오스-2019/)
 
 
 --------------------------------------
