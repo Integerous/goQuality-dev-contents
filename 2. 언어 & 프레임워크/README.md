@@ -127,6 +127,7 @@
 - [SpringBoot 와 GraphQL을 이용한 API 샘플](https://github.com/Jae-Young-Kim/sample-graphql-springboot)
 - [스프링 개발 가이드 [슬라이드]](https://www.slideshare.net/ssuser565d51/spring-guide-202753526)
 - [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
+- [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
 
 
 ### JVM
@@ -178,3 +179,9 @@
 - [Go 작업 훔치기 스케쥴러 고루틴 스케쥴링 원리[번역]](https://hueypark.gitlab.io/post/2018-10-13-go-work-stealing-scheduler/)
 - [고루틴 vs 쓰레드](https://tech.ssut.me/goroutine-vs-threads/)
 - [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc/)
+
+
+--------------------------------------
+
+### Rust
+- [Rust 한글 문서](https://rinthel.github.io/rust-lang-book-ko/)

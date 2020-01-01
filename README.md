@@ -50,14 +50,6 @@
 - [AWS 아키텍처 다이어그램 제작 사이트](https://cloudcraft.co/)
 - [코딩덕후 2019년 연말정산](https://co-duck.com/1st)
 
-#### 2019년 12월 30일 월요일
-- [무한 스크롤 vs 페이지네이션 vs '더보기' 버튼 - 이커머스에서 어떤 로딩 방법을 사용하면 좋을지에 대한 UT 결과](https://brunch.co.kr/@blackindigo-red/13)
-- [IntersectionObserver API로 무한스크롤 구현하기](https://medium.com/@inthewalter/infinite-scroll-with-intersection-obsever-api-d672a80c8507)
-- [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
-- [Rust 한글 문서](https://rinthel.github.io/rust-lang-book-ko/)
-- [GET이냐 POST냐 그것이 문제로다 - 뒤태지존의 끄적거림 -](https://homoefficio.github.io/2019/12/25/GET%EC%9D%B4%EB%83%90-POST%EB%83%90-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EB%A1%9C%EB%8B%A4/?fbclid=IwAR3zRyhUc2CIZIesYUj6HLq8XxzNCHlPK4KSerHqoye5_Rsfpdb1he-_w_M#btn-open-shareoptions)
-- [아디오스 2019](https://ehdrjsdlzzzz.github.io/2019/12/30/아디오스-2019/)
-
 
 --------------------------------------
 </br>
@@ -79,6 +71,7 @@
 - [Javascript](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#javascript-%EA%B4%80%EB%A0%A8)
 - [Python](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#python)
 - [Go](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#go)
+- [Rust](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#rust)
 
 ### 3. 백엔드
 - [서버 & 클라우드 & 아키텍쳐](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C--%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)

@@ -116,6 +116,7 @@
 - [만화로 보는 DNS over HTTPS](http://hacks.mozilla.or.kr/2019/10/a-cartoon-intro-to-dns-over-https/)
 - [지긋지긋한 CORS 파헤쳐보자](https://velog.io/@jmkim87/%EC%A7%80%EA%B8%8B%EC%A7%80%EA%B8%8B%ED%95%9C-CORS-%ED%8C%8C%ED%97%A4%EC%B3%90%EB%B3%B4%EC%9E%90)
 - [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/)
+- [GET이냐 POST냐 그것이 문제로다](https://homoefficio.github.io/2019/12/25/GET%EC%9D%B4%EB%83%90-POST%EB%83%90-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EB%A1%9C%EB%8B%A4/?fbclid=IwAR3zRyhUc2CIZIesYUj6HLq8XxzNCHlPK4KSerHqoye5_Rsfpdb1he-_w_M#btn-open-shareoptions)
 
 
 --------------------------------------
