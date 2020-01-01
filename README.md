@@ -35,9 +35,13 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 
-#### 2020년 1월 1일 수요일
+#### 2020년 1월 2일 목요일
 - (컨텐츠 제목과 링크를 여기에 추가 해주세요)
 -
+
+#### 2020년 1월 1일 수요일
+- [KMP : 문자열 검색 알고리즘](https://bowbowbow.tistory.com/6)
+- [스타트업 외주개발 회고록](https://brunch.co.kr/@jamess/20?fbclid=IwAR24cTzTqfVOLfj0v3I7RNQ7KrO3bDCD0V6_RZuuFv9RpM6OrNrqve3ZNTM)
 
 #### 2019년 12월 31일 화요일
 - [우아한 형제들, SW 리드 개발자 박미정 님의 2019년 회고 글입니다.](https://medium.com/@mjspring/c28113ac005e)
