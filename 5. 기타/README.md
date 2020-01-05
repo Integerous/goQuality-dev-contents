@@ -305,3 +305,5 @@
 - [AI를 통해 손으로 그린 디자인을 html으로 바꿔주는 사이트](https://sketch2code.azurewebsites.net/generated-html/853e977e-7682-4c6d-bc2a-43fcece1dfbd)
 - [AWS 아키텍처 다이어그램 제작 사이트](https://cloudcraft.co/)
 - [코딩덕후 2019년 연말정산](https://co-duck.com/1st)
+- [2019년 회고 모음](https://www.notion.so/2019-09f05e04c3bc4019b42e619403ca757f)
+- [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)

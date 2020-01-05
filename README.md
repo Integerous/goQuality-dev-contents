@@ -52,9 +52,6 @@
 - [애자일과 스타트업 개발 문화에 대해](http://tech.trenbe.com/?p=547)
 - [자바스크립트 엔진에 대한 오개념과, Inline cache](https://velog.io/@noyo0123/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-VSCODE-%EA%B0%9C%EB%B0%9C%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-lfk2a3yuo5)
 
-#### 2020년 1월 2일 목요일
-- [2019년 회고 모음](https://www.notion.so/2019-09f05e04c3bc4019b42e619403ca757f)
-- [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)
 
 --------------------------------------
 </br>
