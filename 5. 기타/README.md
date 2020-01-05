@@ -147,7 +147,7 @@
 - [Red-Black Tree](https://zeddios.tistory.com/237)
 - [프로그래밍 언어에서 제공하는 기본 정렬 함수가 사용하는 알고리즘](https://www.geeksforgeeks.org/know-sorting-algorithm-set-1-sorting-weapons-used-programming-languages/)
 - [알고리즘이 필요한 '진짜' 이유에 대해서](https://brunch.co.kr/@chickenmoim/4)
-
+- [KMP : 문자열 검색 알고리즘](https://bowbowbow.tistory.com/6)
 
 --------------------------------------
 
