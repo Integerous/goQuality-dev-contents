@@ -302,3 +302,6 @@
 - [함수형 프로그래머가 되고 싶다고? (Part 1)](https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1))
 - [Tistory TOC(Table Of Contents) 구현기](https://www.wbluke.com/21)
 - [생활코딩 마인드맵 라이브러리 cytoscape 사용법](https://velog.io/@takeknowledge/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5-cytoscape-%ED%99%9C%EC%9A%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-56k4in7315)
+- [AI를 통해 손으로 그린 디자인을 html으로 바꿔주는 사이트](https://sketch2code.azurewebsites.net/generated-html/853e977e-7682-4c6d-bc2a-43fcece1dfbd)
+- [AWS 아키텍처 다이어그램 제작 사이트](https://cloudcraft.co/)
+- [코딩덕후 2019년 연말정산](https://co-duck.com/1st)

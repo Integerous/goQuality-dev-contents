@@ -43,13 +43,6 @@
 - [KMP : 문자열 검색 알고리즘](https://bowbowbow.tistory.com/6)
 - [스타트업 외주개발 회고록](https://brunch.co.kr/@jamess/20?fbclid=IwAR24cTzTqfVOLfj0v3I7RNQ7KrO3bDCD0V6_RZuuFv9RpM6OrNrqve3ZNTM)
 
-#### 2019년 12월 31일 화요일
-- [우아한 형제들, SW 리드 개발자 박미정 님의 2019년 회고 글입니다.](https://medium.com/@mjspring/c28113ac005e)
-- [풀스택 개발자, 그것은 환상](https://velog.io/@zetlos/2019-12-29-0612-%EC%9E%91%EC%84%B1%EB%90%A8-o0k4q3qrqh)
-- [마이크로소프트가 만든 AI를 통해 손으로 그린 디자인을 html으로 바꿔주는 사이트입니다.](https://sketch2code.azurewebsites.net/generated-html/853e977e-7682-4c6d-bc2a-43fcece1dfbd)
-- [AWS 아키텍처 다이어그램 제작 사이트](https://cloudcraft.co/)
-- [코딩덕후 2019년 연말정산](https://co-duck.com/1st)
-
 
 --------------------------------------
 </br>
