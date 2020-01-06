@@ -73,6 +73,8 @@
 - [복잡한 업무 코드를 빠르게 분석하기](https://www.popit.kr/%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%97%85%EB%AC%B4-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0/)
 - [글로벌 LINE DEV의 기술 공유 문화](https://engineering.linecorp.com/ko/blog/global-line-dev-tech-sharing-culture/)
 - [풀스택 개발자, 그것은 환상](https://velog.io/@zetlos/2019-12-29-0612-%EC%9E%91%EC%84%B1%EB%90%A8-o0k4q3qrqh)
+- [애자일과 스타트업 개발 문화에 대해](http://tech.trenbe.com/?p=547)
+- [메인 데이터베이스 IDC 탈출 성공기](http://woowabros.github.io/experience/2019/12/19/ruby_database.html?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 
 
 --------------------------------------

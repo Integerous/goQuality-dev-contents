@@ -43,15 +43,6 @@
 - [이동욱님의 2019년 하반기 회고](https://jojoldu.tistory.com/471)
 - [개발자로 살며 가장 치열했던 2019년을 돌아보며…](https://medium.com/@engross/a64c8611b6a0)
 
-#### 2020년 1월 4일 토요일
-- [메인 데이터베이스 IDC 탈출 성공기](http://woowabros.github.io/experience/2019/12/19/ruby_database.html?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
-
-#### 2020년 1월 3일 금요일
-- [로컬에서 CORS policy 관련 에러가 발생하는 이유](http://velog.io/@takeknowledge/로컬에서-CORS-policy-관련-에러가-발생하는-이유-3gk4gyhreu)
-- [조금 더 안전한 랜덤숫자(의사난수) 생성할려고 했던 얘기](https://luckyyowu.tistory.com/406)
-- [애자일과 스타트업 개발 문화에 대해](http://tech.trenbe.com/?p=547)
-- [자바스크립트 엔진에 대한 오개념과, Inline cache](https://velog.io/@noyo0123/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-VSCODE-%EA%B0%9C%EB%B0%9C%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-lfk2a3yuo5)
-
 
 --------------------------------------
 </br>
