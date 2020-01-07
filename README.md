@@ -35,9 +35,19 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 
-#### 2020년 1월 7일 화요일
+#### 2020년 1월 8일 수요일
 - (컨텐츠 제목과 링크를 여기에 추가 해주세요)
 -
+
+#### 2020년 1월 7일 화요일
+- [2020년에 주목해야 할 5가지 마이크로소프트 개발자 툴과 기술](http://www.itworld.co.kr/news/140652)
+- [당신의 개발자들은 결코 느리지 않다.](http://tech.trenbe.com/?p=547)
+- [레거시 운영개발팀을 수습하다.](https://greypencil.tistory.com/113)
+- [소스코드 리뷰에 대한 짧은 이야기](https://velog.io/@zetlos/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A7%A7%EC%9D%80-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+- [개발 관련 정보 사이트](https://flaviocopes.com/)
+- [퀄리티가 좋은 무료 개발서적 모음 사이트](https://books.goalkicker.com/)
+- [2020 developer roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)
+- [설치형 개인 VPN 서버 알고(Algo): 아마존 라이트세일에 설치하고 운영하기](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail)
 
 #### 2020년 1월 6일 월요일
 - [따릉아! 문제는 UX/UI야!](https://brunch.co.kr/@supernova9/180)
