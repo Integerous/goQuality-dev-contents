@@ -43,10 +43,6 @@
 - [따릉아! 문제는 UX/UI야!](https://brunch.co.kr/@supernova9/180)
 - [코드 가독성에 대해 – 1. 도입과 원칙](https://engineering.linecorp.com/ko/blog/code-readability-vol1/)
 
-#### 2020년 1월 5일 일요일
-- [이동욱님의 2019년 하반기 회고](https://jojoldu.tistory.com/471)
-- [개발자로 살며 가장 치열했던 2019년을 돌아보며…](https://medium.com/@engross/a64c8611b6a0)
-
 
 --------------------------------------
 </br>

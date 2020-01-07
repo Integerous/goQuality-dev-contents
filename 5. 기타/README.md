@@ -308,3 +308,4 @@
 - [코딩덕후 2019년 연말정산](https://co-duck.com/1st)
 - [2019년 회고 모음](https://www.notion.so/2019-09f05e04c3bc4019b42e619403ca757f)
 - [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)
+- [이동욱님의 2019년 하반기 회고](https://jojoldu.tistory.com/471)
