@@ -49,10 +49,6 @@
 - [2020 developer roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)
 - [설치형 개인 VPN 서버 알고(Algo): 아마존 라이트세일에 설치하고 운영하기](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail)
 
-#### 2020년 1월 6일 월요일
-- [따릉아! 문제는 UX/UI야!](https://brunch.co.kr/@supernova9/180)
-- [코드 가독성에 대해 – 1. 도입과 원칙](https://engineering.linecorp.com/ko/blog/code-readability-vol1/)
-
 
 --------------------------------------
 </br>

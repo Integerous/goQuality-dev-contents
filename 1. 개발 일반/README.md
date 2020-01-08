@@ -75,6 +75,7 @@
 - [풀스택 개발자, 그것은 환상](https://velog.io/@zetlos/2019-12-29-0612-%EC%9E%91%EC%84%B1%EB%90%A8-o0k4q3qrqh)
 - [애자일과 스타트업 개발 문화에 대해](http://tech.trenbe.com/?p=547)
 - [메인 데이터베이스 IDC 탈출 성공기](http://woowabros.github.io/experience/2019/12/19/ruby_database.html?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
+- [코드 가독성에 대해 – 1. 도입과 원칙](https://engineering.linecorp.com/ko/blog/code-readability-vol1/)
 
 
 --------------------------------------

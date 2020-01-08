@@ -201,6 +201,7 @@
 - [웹디자이너를 위한 크롬 확장 프로그램 10선](https://uxdesign.cc/10-best-chrome-extensions-for-designers-a76540b93836)
 - [시각적 위계를 활용한 경험 설계](https://brunch.co.kr/@cliche-cliche/25)
 - [무한 스크롤 vs 페이지네이션 vs '더보기' 버튼 - 이커머스에서 어떤 로딩 방법을 사용하면 좋을지에 대한 UT 결과](https://brunch.co.kr/@blackindigo-red/13)¡
+- [따릉아! 문제는 UX/UI야!](https://brunch.co.kr/@supernova9/180)
 
 
 --------------------------------------
