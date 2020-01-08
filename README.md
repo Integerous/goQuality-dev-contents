@@ -35,9 +35,13 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 
-#### 2020년 1월 8일 수요일
+#### 2020년 1월 9일 목요일
 - (컨텐츠 제목과 링크를 여기에 추가 해주세요)
 -
+
+#### 2020년 1월 8일 수요일
+- [CORS(Cross-Origin Resource Sharing)이 나오게 된 배경 이야기 [영상]](https://www.youtube.com/watch?v=yTzAjidyyqs)
+- [Java enum의 사용](https://johngrib.github.io/wiki/java-enum/)
 
 #### 2020년 1월 7일 화요일
 - [2020년에 주목해야 할 5가지 마이크로소프트 개발자 툴과 기술](http://www.itworld.co.kr/news/140652)
