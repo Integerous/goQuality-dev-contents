@@ -128,6 +128,7 @@
 - [스프링 개발 가이드 [슬라이드]](https://www.slideshare.net/ssuser565d51/spring-guide-202753526)
 - [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
 - [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
+- [Java enum의 사용](https://johngrib.github.io/wiki/java-enum/)
 
 
 ### JVM

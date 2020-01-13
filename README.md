@@ -39,10 +39,6 @@
 - (컨텐츠 제목과 링크를 여기에 추가 해주세요)
 -
 
-#### 2020년 1월 8일 수요일
-- [CORS(Cross-Origin Resource Sharing)이 나오게 된 배경 이야기 [영상]](https://www.youtube.com/watch?v=yTzAjidyyqs)
-- [Java enum의 사용](https://johngrib.github.io/wiki/java-enum/)
-
 
 --------------------------------------
 </br>

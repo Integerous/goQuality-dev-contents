@@ -118,6 +118,7 @@
 - [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/)
 - [GET이냐 POST냐 그것이 문제로다](https://homoefficio.github.io/2019/12/25/GET%EC%9D%B4%EB%83%90-POST%EB%83%90-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EB%A1%9C%EB%8B%A4/?fbclid=IwAR3zRyhUc2CIZIesYUj6HLq8XxzNCHlPK4KSerHqoye5_Rsfpdb1he-_w_M#btn-open-shareoptions)
 - [로컬에서 CORS policy 관련 에러가 발생하는 이유](http://velog.io/@takeknowledge/로컬에서-CORS-policy-관련-에러가-발생하는-이유-3gk4gyhreu)
+- [CORS(Cross-Origin Resource Sharing)이 나오게 된 배경 이야기 [영상]](https://www.youtube.com/watch?v=yTzAjidyyqs)
 
 
 --------------------------------------
