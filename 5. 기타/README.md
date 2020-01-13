@@ -309,3 +309,5 @@
 - [2019년 회고 모음](https://www.notion.so/2019-09f05e04c3bc4019b42e619403ca757f)
 - [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)
 - [이동욱님의 2019년 하반기 회고](https://jojoldu.tistory.com/471)
+- [매일 업로드하는 개발 블로그 [영문]](https://flaviocopes.com/)
+- [무료 개발서적 모음 사이트](https://books.goalkicker.com/)

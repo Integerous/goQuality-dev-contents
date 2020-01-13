@@ -76,6 +76,9 @@
 - [애자일과 스타트업 개발 문화에 대해](http://tech.trenbe.com/?p=547)
 - [메인 데이터베이스 IDC 탈출 성공기](http://woowabros.github.io/experience/2019/12/19/ruby_database.html?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 - [코드 가독성에 대해 – 1. 도입과 원칙](https://engineering.linecorp.com/ko/blog/code-readability-vol1/)
+- [당신의 개발자들은 결코 느리지 않다.](http://tech.trenbe.com/?p=547)
+- [레거시 운영개발팀을 수습하다.](https://greypencil.tistory.com/113)
+- [소스코드 리뷰에 대한 짧은 이야기](https://velog.io/@zetlos/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A7%A7%EC%9D%80-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 
 
 --------------------------------------
@@ -178,6 +181,7 @@
 - [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474)
 - [일일커밋 3주년 회고](https://jojoldu.tistory.com/464)
 - [개발자에서 세일즈맨으로](https://brunch.co.kr/@imagineer/323)
+- [2020 developer roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)
 
 
 --------------------------------------
