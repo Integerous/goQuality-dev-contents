@@ -39,13 +39,6 @@
 - (컨텐츠 제목과 링크를 여기에 추가 해주세요)
 -
 
-#### 2020년 1월 13일 월요일
-- [“카카오 브런치”에서의 기술블로그 2년 회고](https://brunch.co.kr/@springboot/338)
-- [공식문서 만으로 iOS 개발 배우기](https://sungdoo.dev/programming/start-ios-development-with-offical-docs/)
-- [Gridsome으로 블로그 개설하기](https://perade.github.io/blog/make-blog-with-gridsome-1st/)
-- [자바에서 비동기를 어떻게 구현해 볼 수 있을까?](https://github.com/homelus/asynchronous-example)
-- [Semantic Versioning [번역]](https://semver.org/lang/ko/)
-
 
 --------------------------------------
 </br>

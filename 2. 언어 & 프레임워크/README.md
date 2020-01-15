@@ -129,6 +129,7 @@
 - [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
 - [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
 - [Java enum의 사용](https://johngrib.github.io/wiki/java-enum/)
+- [자바에서 비동기를 어떻게 구현해 볼 수 있을까?](https://github.com/homelus/asynchronous-example)
 
 
 ### JVM
