@@ -50,15 +50,6 @@
 - [TypeScript로 서버리스 프레임워크(Serverless Framework)를 활용한 서버리스 아키텍처 구현](https://chaewonkong.github.io/posts/serverless-framework-typescript.html) 
 - [함수형 프로그래밍에 대한 오해](https://rainlethe.tistory.com/entry/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%97%90-%EB%8C%80%ED%95%9C-%EC%98%A4%ED%95%B4)
 
-#### 2020년 1월 9일 목요일
-- [HSTS (HTTP Strict Transport Security) 개념과 설정](https://rsec.kr/?p=315)
-- [중국 직구 서비스 개발 삽질기](https://www.popit.kr/%EC%A4%91%EA%B5%AD-%EC%A7%81%EA%B5%AC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%82%BD%EC%A7%88%EA%B8%B0/)
-- [코드 가독성에 대해 - 2. 명명과 주석](https://engineering.linecorp.com/ko/blog/code-readability-vol2)
-- [자주 사용하는 정규식 패턴](https://uznam8x.tistory.com/entry/%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%8C%A8%ED%84%B4)
-- [UX/UI 다이렉트하게 만들어라](https://brunch.co.kr/@plusx/21)
-- [프로그래밍 언어 루비 2.7 릴리스 및 주요 변경 사항](https://www.44bits.io/ko/post/news--ruby-2-7-released)
-- [ES2020에 도입되는 기능들 간략 정리](https://medium.com/javascript-in-plain-english/new-features-in-es2020-you-should-check-b4974d9d7edc)
-
 
 --------------------------------------
 </br>
