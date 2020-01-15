@@ -35,9 +35,22 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 
-#### 2020년 1월 14일 화요일
+#### 2020년 1월 16일 목요일
 - (컨텐츠 제목과 링크를 여기에 추가 해주세요)
 -
+
+#### 2020년 1월 15일 수요일
+- [Don't block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/)
+- [알아두면 도움되는 iTerm2 고급기능](https://medium.com/harrythegreat/%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94-iterm2-%EA%B3%A0%EA%B8%89%EA%B8%B0%EB%8A%A5-81a4cd81bab7)
+- [HTTP/2 RFC를 응용한 HTTP/2 Checker의 구현 ](http://www.popit.kr/)
+- [아이패드로 코딩하기](https://boxnwhis.kr/2020/01/11/coding_with_ipad.html)
+- [웹 개발에 유용한 생성기](https://uznam8x.tistory.com/m/entry/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%97%90-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%83%9D%EC%84%B1%EA%B8%B0) 
+
+#### 2020년 1월 14일 화요일
+- [Conventional Commit [영문]](https://www.conventionalcommits.org/en/v1.0.0/)
+- [10가지 소프트웨어 아키텍처 패턴 요약 [번역]](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
+- [Docker 개발환경의 구축](https://brunch.co.kr/@sokoban/30#comment)
+- [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 
 
 --------------------------------------
