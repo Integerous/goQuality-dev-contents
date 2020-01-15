@@ -46,10 +46,6 @@
 - [자바에서 비동기를 어떻게 구현해 볼 수 있을까?](https://github.com/homelus/asynchronous-example)
 - [Semantic Versioning [번역]](https://semver.org/lang/ko/)
 
-#### 2020년 1월 10일 금요일
-- [TypeScript로 서버리스 프레임워크(Serverless Framework)를 활용한 서버리스 아키텍처 구현](https://chaewonkong.github.io/posts/serverless-framework-typescript.html) 
-- [함수형 프로그래밍에 대한 오해](https://rainlethe.tistory.com/entry/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%97%90-%EB%8C%80%ED%95%9C-%EC%98%A4%ED%95%B4)
-
 
 --------------------------------------
 </br>
