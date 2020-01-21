@@ -46,12 +46,6 @@
 - [아이패드로 코딩하기](https://boxnwhis.kr/2020/01/11/coding_with_ipad.html)
 - [웹 개발에 유용한 생성기](https://uznam8x.tistory.com/m/entry/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%97%90-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%83%9D%EC%84%B1%EA%B8%B0) 
 
-#### 2020년 1월 14일 화요일
-- [Conventional Commit [영문]](https://www.conventionalcommits.org/en/v1.0.0/)
-- [10가지 소프트웨어 아키텍처 패턴 요약 [번역]](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
-- [Docker 개발환경의 구축](https://brunch.co.kr/@sokoban/30#comment)
-- [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
-
 
 --------------------------------------
 </br>

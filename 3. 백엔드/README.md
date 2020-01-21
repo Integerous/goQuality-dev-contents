@@ -134,6 +134,7 @@
 - [가성비 넘치게 0원으로 사이드프로젝트 VWAVWA 시작하기](https://miryang.dev/2019/12/17/start-sideproject-vwavwa/)
 - [데이터 기반으로 지속적인 CI/CD 개선 환경 만들기](https://engineering.linecorp.com/ko/blog/build-a-continuous-cicd-environment-based-on-data/)
 - [주니어 개발자의 CI/CD 도입기](http://bit.ly/34JfNJ2)
+- [10가지 소프트웨어 아키텍처 패턴 요약 [번역]](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
 
 
 --------------------------------------
@@ -185,6 +186,7 @@
 - [Docker(Compose) 활용법 - 개발환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
 - [Docker 한글 문서/영상 모음집](http://documents.docker.co.kr/)
 - [Docker for Windows 설치 및 문제 해결](https://blog.gaerae.com/2019/04/docker-for-windows-troubleshooting.html?m=1)
+- [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 
 
 ### 쿠버네티스 Kubernetes
