@@ -81,6 +81,8 @@
 - [소스코드 리뷰에 대한 짧은 이야기](https://velog.io/@zetlos/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A7%A7%EC%9D%80-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 - [코드 가독성에 대해 - 2. 명명과 주석](https://engineering.linecorp.com/ko/blog/code-readability-vol2)
 - [Conventional Commit [영문]](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Semantic Versioning [번역]](https://semver.org/lang/ko/)
+
 
 --------------------------------------
 

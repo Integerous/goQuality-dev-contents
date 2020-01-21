@@ -92,6 +92,7 @@
 - [자바스크립트 이벤트 제대로 이해하기(Part 1)](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-part-1-2a7d4b9eb468)
 - [자바스크립트 엔진에 대한 오개념과, Inline cache](https://velog.io/@noyo0123/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-VSCODE-%EA%B0%9C%EB%B0%9C%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-lfk2a3yuo5)
 - [ES2020에 도입되는 기능들 간략 정리](https://medium.com/javascript-in-plain-english/new-features-in-es2020-you-should-check-b4974d9d7edc)
+- [Don't block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/)
 
 
 ### Node.js
@@ -205,6 +206,7 @@
 - [무한 스크롤 vs 페이지네이션 vs '더보기' 버튼 - 이커머스에서 어떤 로딩 방법을 사용하면 좋을지에 대한 UT 결과](https://brunch.co.kr/@blackindigo-red/13)¡
 - [따릉아! 문제는 UX/UI야!](https://brunch.co.kr/@supernova9/180)
 - [UX/UI 다이렉트하게 만들어라](https://brunch.co.kr/@plusx/21)
+- [나눔 고딕 웹 폰트에 대한 고찰](https://moonspam.github.io/NanumGothic-Review/)
 
 
 --------------------------------------
