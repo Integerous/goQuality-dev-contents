@@ -35,9 +35,41 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 
-#### 2020년 1월 16일 목요일
+#### 2020년 1월 22일 수요일
 - 
 -
+
+#### 2020년 1월 21일 화요일
+- [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components/)
+- [[Kafka] 아파치 카프카 알아보기(3) - 카프카 소개](https://12bme.tistory.com/531?category=737765)
+- [이미지 변환으로 10PB 스토리지를 절약 - Antman 프로젝트 개발기](https://engineering.linecorp.com/ko/blog/antman-project-development-story/)
+- [ELK 셋팅부터 알람까지 우아한개발자의 로그엔트리 ELK 전환 과정이 궁금하다면?️](https://bit.ly/30Eqhc9)
+- [2019 NHN FORWARD 발표 자료 모음](https://www.slideshare.net/NHNFORWARD)
+- [코드 가독성에 대하여 3탄 - 상태와 절차](https://engineering.linecorp.com/ko/blog/code-readability-vol3/)
+- [시리숏컷을 이용한 배포](https://soojin.ro/blog/hey-siri-deploy-app)
+
+#### 2020년 1월 20일 월요일
+- [Thinking about emotion js vs styled component](https://ideveloper2.dev/blog/2019-05-05--thinking-about-emotion-js-vs-styled-component/)
+- [지속 가능한 소프트웨어를 위한 코딩 방법](https://meetup.toast.com/posts/214)
+
+#### 2020년 1월 19일 일요일
+- [2020 Startup Themes](https://dcgross.com/2020-startup-themes/)
+
+#### 2020년 1월 18일 토요일
+- [잘가, 클린 코드 [번역]](https://overreacted.io/ko/goodbye-clean-code)
+- [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+
+#### 2020년 1월 17일 금요일
+- [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-d15402becaef)
+
+#### 2020년 1월 16일 목요일
+- [Firebase CLI를 사용하여 배포하기](https://junwoo45.github.io/2019-12-17-firebase_deploy/)
+- [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
+- [2020년 눈여겨 볼만한 fe 프레임워크](https://uznam8x.tistory.com/m/61)
+
+
+
+
 
 
 --------------------------------------
