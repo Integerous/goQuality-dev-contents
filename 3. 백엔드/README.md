@@ -135,6 +135,7 @@
 - [데이터 기반으로 지속적인 CI/CD 개선 환경 만들기](https://engineering.linecorp.com/ko/blog/build-a-continuous-cicd-environment-based-on-data/)
 - [주니어 개발자의 CI/CD 도입기](http://bit.ly/34JfNJ2)
 - [10가지 소프트웨어 아키텍처 패턴 요약 [번역]](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
+- [ELK 셋팅부터 알람까지️](http://woowabros.github.io/experience/2020/01/16/set-elk-with-alarm.html)
 
 
 --------------------------------------

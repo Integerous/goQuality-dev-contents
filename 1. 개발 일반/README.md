@@ -82,6 +82,9 @@
 - [코드 가독성에 대해 - 2. 명명과 주석](https://engineering.linecorp.com/ko/blog/code-readability-vol2)
 - [Conventional Commit [영문]](https://www.conventionalcommits.org/en/v1.0.0/)
 - [Semantic Versioning [번역]](https://semver.org/lang/ko/)
+- [잘가, 클린 코드 [번역]](https://overreacted.io/ko/goodbye-clean-code)
+- [지속 가능한 소프트웨어를 위한 코딩 방법](https://meetup.toast.com/posts/214)
+- [코드 가독성에 대하여 3탄 - 상태와 절차](https://engineering.linecorp.com/ko/blog/code-readability-vol3/)
 
 
 --------------------------------------
@@ -111,6 +114,7 @@
 - [개발자를 위한 A/B 테스트 해시 샘플링](https://brunch.co.kr/@springboot/283)
 - [QA Mock System](https://medium.com/coupang-tech/qa-mock-system-6fbb9980cccb)
 - [소프트웨어 테스팅의 False Positive](https://gyuwon.github.io/blog/2018/12/19/false-positive-in-software-testing.html)
+- [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 
 
 --------------------------------------
@@ -263,6 +267,7 @@
 - [원티드 - 요즘 "프론트엔드 개발" 어떻게 하지? 참관 후기](https://velog.io/@velopert/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%9A%94%EC%A6%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EC%A7%80-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0)
 - [다시 보는 2019 한국의 주요 IT 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/replay-2019-korea-tech-development-conferences)
 - [DEVGROUND JUNIOR 2019 참여 후기](https://samsara1019.tistory.com/68)
+- [2019 NHN FORWARD 발표 자료 모음 [슬라이드]](https://www.slideshare.net/NHNFORWARD)
 
 
 --------------------------------------

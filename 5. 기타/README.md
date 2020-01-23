@@ -318,3 +318,5 @@
 - [함수형 프로그래밍에 대한 오해](https://rainlethe.tistory.com/entry/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%97%90-%EB%8C%80%ED%95%9C-%EC%98%A4%ED%95%B4)
 - [아이패드로 코딩하기](https://boxnwhis.kr/2020/01/11/coding_with_ipad.html)
 - [알아두면 도움되는 iTerm2 고급기능](https://medium.com/harrythegreat/%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94-iterm2-%EA%B3%A0%EA%B8%89%EA%B8%B0%EB%8A%A5-81a4cd81bab7)
+- [시리숏컷을 이용한 배포](https://soojin.ro/blog/hey-siri-deploy-app)
+- [이미지 변환으로 10PB 스토리지를 절약 - Antman 프로젝트 개발기](https://engineering.linecorp.com/ko/blog/antman-project-development-story/)

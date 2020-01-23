@@ -93,6 +93,8 @@
 - [자바스크립트 엔진에 대한 오개념과, Inline cache](https://velog.io/@noyo0123/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-VSCODE-%EA%B0%9C%EB%B0%9C%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-lfk2a3yuo5)
 - [ES2020에 도입되는 기능들 간략 정리](https://medium.com/javascript-in-plain-english/new-features-in-es2020-you-should-check-b4974d9d7edc)
 - [Don't block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/)
+- [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-d15402becaef)
+- [Thinking about emotion js vs styled component](https://ideveloper2.dev/blog/2019-05-05--thinking-about-emotion-js-vs-styled-component/)
 
 
 ### Node.js
@@ -125,6 +127,7 @@
 - [QueryPie는 왜 React & Typescript를 선택하게 되었나](https://medium.com/p/111d03597510/)
 - [React Hooks는 어떻게 function component를 다시 그릴까?](https://www.awesomezero.com/development/reacthook/)
 - [리액트와 찰떡궁합 next.js [영상]](https://youtu.be/jg2ha2RIWN0)
+- [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components/)
 
 
 ### Vue.js
