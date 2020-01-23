@@ -35,14 +35,18 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 #### 2020년 1월 24일 금요일
-
+- (여기에 추가해주세요.)
+-
 
 #### 2020년 1월 23일 목요일
-
+- [자바스크립트 동작 원리 시각화 [영문]](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 
 #### 2020년 1월 22일 수요일
-- 
--
+- [프로그래머를 지탱하는 3가지 성분 [슬라이드]](https://speakerdeck.com/totuworld/peurogeuraemeoreul-jitaenghaneun-3gaji-seongbun?slide=32)
+- [2020년 웹 디자인 트렌드를 정리한 블로그 글입니다. UI, Mobile, E-commerce 등 서로 다른 카테고리를 기준으로 눈여겨봐야 하는 요소들을 간결하게 소개하고 있습니다.](https://www.websitebuilderexpert.com/designing-websites/web-design-trends-2020/?fbclid=IwAR3dFX2_6G77IhDgxh1PVVp4wop2bJrcoWNGQ8gVSgn2peNUfxDAnAFrNJU)
+- [데이터 분석, 먹고 들어가기 위한 SQL 공부법](https://brunch.co.kr/@minu-log/5#comment)
+- [Git에서 변경사항 단위(hunk)로 스테이징하기](https://youngjinmo.github.io/2020/01/git-add-p/)
+
 
 --------------------------------------
 </br>
