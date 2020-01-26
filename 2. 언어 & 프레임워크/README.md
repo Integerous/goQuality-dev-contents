@@ -16,7 +16,6 @@
 - [Reactor를 사용한 Java reactive programming 예제](http://tech.kakao.com/2018/05/29/reactor-programming/)
 - [로컬 Spring Boot에 SSL 적용하기](https://jojoldu.tistory.com/350)
 - [스프링 Rest API 문서 자동화](https://github.com/cheese10yun/springboot-restdocs)
-- [Java의 10가지 OOP 개념 [영문]](https://dzone.com/articles/10-oops-concepts-in-java)
 - [Java 대용량 엑셀 다운로드 기능 구현](https://m.blog.naver.com/PostView.nhn?blogId=tmondev&logNo=221388780914&proxyReferer=)
 - [이펙티브 자바3 저자 직강 [영상]](https://www.youtube.com/watch?fbclid=IwAR2IYMooqFHX38AMJI5eGlmxbv-B9Nucpvgem8bhOm5dKpwYEUBic5iyQCg&feature=youtu.be&v=7qXfoZIqi2Q&app=desktop)
 - [스프링 예제로 보는 SOLID](https://github.com/cheese10yun/spring-SOLID)
