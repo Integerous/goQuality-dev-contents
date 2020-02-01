@@ -95,6 +95,7 @@
 - [Don't block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/)
 - [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-d15402becaef)
 - [Thinking about emotion js vs styled component](https://ideveloper2.dev/blog/2019-05-05--thinking-about-emotion-js-vs-styled-component/)
+- [자바스크립트 동작 원리 시각화 [영문]](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 
 
 ### Node.js

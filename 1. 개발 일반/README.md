@@ -189,6 +189,7 @@
 - [일일커밋 3주년 회고](https://jojoldu.tistory.com/464)
 - [개발자에서 세일즈맨으로](https://brunch.co.kr/@imagineer/323)
 - [2020 developer roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)
+- [프로그래머를 지탱하는 3가지 성분 [슬라이드]](https://speakerdeck.com/totuworld/peurogeuraemeoreul-jitaenghaneun-3gaji-seongbun)
 
 
 --------------------------------------
