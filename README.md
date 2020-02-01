@@ -34,13 +34,42 @@
 # :mailbox: Queue
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
-#### 2020년 1월 24일 금요일
+#### 2020년 2월 2일 일요일
 - (여기에 추가해주세요.)
 -
 
-#### 2020년 1월 23일 목요일
+#### 2020년 2월 1일 토요일
+- [JPA 벌크 작업시 주의할 점](https://cheese10yun.github.io/jpa-bulk/)
+- [2020 년, 주니어 JavaScript 개발자를 위한 마켓 플레이스의 상위 10 개 Github 앱 -](https://medium.com/javascript-in-plain-english/top-10-github-apps-on-marketplace-to-use-as-junior-javascript-developers-in-2020-9a699efeb51f)
+- [리액트 function component와 class component는 어떻게 다를까?](https://www.hamadevelop.me/reactfunctionclassdiff/)
+- [우아한 모노리스](https://www.slideshare.net/arawnkr/ss-224478403)
+- [RestTemplate Mock 기반 테스트 하기](https://cheese10yun.github.io/rest-template-mock-test/)
 
+#### 2020년 1월 31일 금요일
+- [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
+- [The Top 100+ Developer Tools 2019](https://stackshare.io/posts/top-developer-tools-2019)
+- [마켓컬리 개발자 이종립님 인터뷰](https://monthly-jiandson.tistory.com/49)
+- [자바 개발자에서 리엑트 개발자로 전향한다는 것](https://brunch.co.kr/@chickenmoim/17)
+- [TOAST UI Grid에 Github Actions가 함께한다면?](https://medium.com/jung-han/toast-ui-grid%EC%97%90-github-actions%EA%B0%80-%ED%95%A8%EA%BB%98%ED%95%9C%EB%8B%A4%EB%A9%B4-388677297ccc)
 
+#### 2020년 1월 30일 목요일
+- [자바스크립트 성능 향상 방법 [번역]](https://junwoo45.github.io/2020-01-29-javascript_performance/)
+- [비주얼 스튜디오 코드(Visual Studio Code)란?](https://www.44bits.io/ko/keyword/visual-studio-code)
+- [[토이프로젝트] TimeLine 2.0 개선 오픈](https://wedul.site/650)
+- [처음 만나는 Svelte [번역]](https://ui.toast.com/weekly-pick/ko_20191002/)
+
+#### 2020년 1월 29일 수요일
+- [알아두면 유익한 2019 개발이야기](https://subicura.com/2020/01/07/2019-dev-summary.html)
+
+#### 2020년 1월 28일 화요일
+- [jpa 영속성 컨텍스트 특징](https://cheese10yun.github.io/jpa-persistent-context/) 
+
+#### 2020년 1월 27일 월요일
+- [개발 배우기가 정말 어려운 이유 [번역]](https://brunch.co.kr/@jypthemiracle/14)
+
+#### 2020년 1월 26일 일요일
+- [하둡 총정리](http://www.incodom.kr/hadoop_총정리_2편)
+- [React.js 개발자를 위한 SSR 앱 개발 및 배포하기 [슬라이드]](https://www.slideshare.net/awskr/aws-community-day-2020-reactjs-ssr)
 
 
 --------------------------------------
