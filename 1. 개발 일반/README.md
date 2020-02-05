@@ -115,6 +115,7 @@
 - [QA Mock System](https://medium.com/coupang-tech/qa-mock-system-6fbb9980cccb)
 - [소프트웨어 테스팅의 False Positive](https://gyuwon.github.io/blog/2018/12/19/false-positive-in-software-testing.html)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [RestTemplate Mock 기반 테스트 하기](https://cheese10yun.github.io/rest-template-mock-test/)
 
 
 --------------------------------------
@@ -190,6 +191,8 @@
 - [개발자에서 세일즈맨으로](https://brunch.co.kr/@imagineer/323)
 - [2020 developer roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)
 - [프로그래머를 지탱하는 3가지 성분 [슬라이드]](https://speakerdeck.com/totuworld/peurogeuraemeoreul-jitaenghaneun-3gaji-seongbun)
+- [개발 배우기가 정말 어려운 이유 [번역]](https://brunch.co.kr/@jypthemiracle/14)
+- [마켓컬리 개발자 이종립님 인터뷰](https://monthly-jiandson.tistory.com/49)
 
 
 --------------------------------------

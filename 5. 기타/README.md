@@ -52,6 +52,7 @@
 - [git rebase를 이해하기](https://junwoo45.github.io/2019-10-23-rebase/)
 - [깃헙 액션을 사용해서 애저 블롭 저장소에 정적 웹사이트 배포하기](https://blog.aliencube.org/ko/2019/12/13/publishing-static-website-to-azure-blob-storage-via-github-actions/)
 - [Journey of Feature Flag development in LINE Android [슬라이드]](https://speakerdeck.com/line_devday2019/journey-of-feature-flag-development-in-line-android)
+- [TOAST UI Grid에 Github Actions가 함께한다면?](https://medium.com/jung-han/toast-ui-grid%EC%97%90-github-actions%EA%B0%80-%ED%95%A8%EA%BB%98%ED%95%9C%EB%8B%A4%EB%A9%B4-388677297ccc)
 
 
 --------------------------------------
@@ -320,3 +321,5 @@
 - [알아두면 도움되는 iTerm2 고급기능](https://medium.com/harrythegreat/%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94-iterm2-%EA%B3%A0%EA%B8%89%EA%B8%B0%EB%8A%A5-81a4cd81bab7)
 - [시리숏컷을 이용한 배포](https://soojin.ro/blog/hey-siri-deploy-app)
 - [이미지 변환으로 10PB 스토리지를 절약 - Antman 프로젝트 개발기](https://engineering.linecorp.com/ko/blog/antman-project-development-story/)
+- [알아두면 유익한 2019 개발이야기](https://subicura.com/2020/01/07/2019-dev-summary.html)
+- [비주얼 스튜디오 코드(Visual Studio Code)란?](https://www.44bits.io/ko/keyword/visual-studio-code)

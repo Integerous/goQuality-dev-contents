@@ -154,6 +154,7 @@
 - [JPA를 대체할 수 있는 것들 [영상]](https://youtu.be/2zQdmC0vnFU)
 - [JPA N+1 발생원인과 해결방법](https://github.com/cheese10yun/blog-sample/tree/master/jpa-n-plus-1)
 - [DBA와 개발자가 모두 행복해지는 Hibernate의 in_clause_parameter_padding 옵션](https://meetup.toast.com/posts/211)
+- [JPA 벌크 작업시 주의할 점](https://cheese10yun.github.io/jpa-bulk/)
 
 
 --------------------------------------

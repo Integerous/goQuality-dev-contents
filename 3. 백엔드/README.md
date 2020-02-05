@@ -136,6 +136,7 @@
 - [주니어 개발자의 CI/CD 도입기](http://bit.ly/34JfNJ2)
 - [10가지 소프트웨어 아키텍처 패턴 요약 [번역]](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
 - [ELK 셋팅부터 알람까지️](http://woowabros.github.io/experience/2020/01/16/set-elk-with-alarm.html)
+- [하둡 총정리](http://www.incodom.kr/hadoop_%EC%B4%9D%EC%A0%95%EB%A6%AC)
 
 
 --------------------------------------

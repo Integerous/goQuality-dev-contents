@@ -96,6 +96,8 @@
 - [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-d15402becaef)
 - [Thinking about emotion js vs styled component](https://ideveloper2.dev/blog/2019-05-05--thinking-about-emotion-js-vs-styled-component/)
 - [자바스크립트 동작 원리 시각화 [영문]](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
+- [처음 만나는 Svelte [번역]](https://ui.toast.com/weekly-pick/ko_20191002/)
+- [자바스크립트 성능 향상 방법 [번역]](https://junwoo45.github.io/2020-01-29-javascript_performance/)
 
 
 ### Node.js
@@ -129,6 +131,8 @@
 - [React Hooks는 어떻게 function component를 다시 그릴까?](https://www.awesomezero.com/development/reacthook/)
 - [리액트와 찰떡궁합 next.js [영상]](https://youtu.be/jg2ha2RIWN0)
 - [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components/)
+- [React.js 개발자를 위한 SSR 앱 개발 및 배포하기 [슬라이드]](https://www.slideshare.net/awskr/aws-community-day-2020-reactjs-ssr)
+- [리액트 function component와 class component는 어떻게 다를까? [번역]](https://www.hamadevelop.me/reactfunctionclassdiff/)
 
 
 ### Vue.js
