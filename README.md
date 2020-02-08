@@ -34,9 +34,23 @@
 # :mailbox: Queue
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
-#### 2020년 2월 6일 목요일
+#### 2020년 2월 8일 토요일
 - (여기에 추가해주세요!)
 -
+
+#### 2020년 2월 7일 금요일
+- [10만 유저를 받을수 있는 구조로 바꾸기 위해 해야 될것들에 대해 간단하지만 핵심적으로 잘 정리된 글이라고 하네요.](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
+- [스타트업 개발자 빠르고 저렴하게 서버 구축하기](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1%ED%8E%B8/)
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [마이크로소프트 클라우드 디자인 패턴](https://docs.microsoft.com/ko-kr/azure/architecture/patterns)
+
+#### 2020년 2월 6일 목요일
+- [Spring Batch와 Querydsl](http://woowabros.github.io/experience/2020/02/05/springbatch-querydsl.html)
+- [Diving Deep Into Kubernetes Networking: Docker와 k8s 네트워크 분석](https://woohhan.github.io/study/k8s_networking_deep_diving/)
+- [개발자를 위한 새로운 SameSite=None; 보안 쿠키 설정에 대비하기](https://developers-kr.googleblog.com/2020/01/developers-get-ready-for-new.html)
+- [캐치딜 백엔드 개발이야기 : 좌충우돌 서버운영 이야기](https://kbs4674.tistory.com/114)
+- [IT 모든 정보를 한번에 볼 수 있는 타임라인](http://wedul.space/)
+- [python -m json.tool 유니코드 한글 깨짐](https://www.snoopybox.co.kr/2058)
 
 #### 2020년 2월 5일 수요일
 - [자바스크립트에 적용한 클린코드 [번역]](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
