@@ -98,6 +98,7 @@
 - [자바스크립트 동작 원리 시각화 [영문]](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 - [처음 만나는 Svelte [번역]](https://ui.toast.com/weekly-pick/ko_20191002/)
 - [자바스크립트 성능 향상 방법 [번역]](https://junwoo45.github.io/2020-01-29-javascript_performance/)
+- [자바스크립트에 적용한 클린코드 [번역]](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
 
 
 ### Node.js

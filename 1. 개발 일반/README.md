@@ -193,6 +193,7 @@
 - [프로그래머를 지탱하는 3가지 성분 [슬라이드]](https://speakerdeck.com/totuworld/peurogeuraemeoreul-jitaenghaneun-3gaji-seongbun)
 - [개발 배우기가 정말 어려운 이유 [번역]](https://brunch.co.kr/@jypthemiracle/14)
 - [마켓컬리 개발자 이종립님 인터뷰](https://monthly-jiandson.tistory.com/49)
+- [열정적인 개발자가 번아웃을 피하는 방법 [영문]](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/)
 
 
 --------------------------------------

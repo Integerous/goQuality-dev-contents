@@ -53,6 +53,7 @@
 - [깃헙 액션을 사용해서 애저 블롭 저장소에 정적 웹사이트 배포하기](https://blog.aliencube.org/ko/2019/12/13/publishing-static-website-to-azure-blob-storage-via-github-actions/)
 - [Journey of Feature Flag development in LINE Android [슬라이드]](https://speakerdeck.com/line_devday2019/journey-of-feature-flag-development-in-line-android)
 - [TOAST UI Grid에 Github Actions가 함께한다면?](https://medium.com/jung-han/toast-ui-grid%EC%97%90-github-actions%EA%B0%80-%ED%95%A8%EA%BB%98%ED%95%9C%EB%8B%A4%EB%A9%B4-388677297ccc)
+- [Effective Git [슬라이드]](https://www.slideshare.net/kexplo/ndc2016-effective-git)
 
 
 --------------------------------------
@@ -121,6 +122,7 @@
 - [로컬에서 CORS policy 관련 에러가 발생하는 이유](http://velog.io/@takeknowledge/로컬에서-CORS-policy-관련-에러가-발생하는-이유-3gk4gyhreu)
 - [CORS(Cross-Origin Resource Sharing)이 나오게 된 배경 이야기 [영상]](https://www.youtube.com/watch?v=yTzAjidyyqs)
 - [HSTS (HTTP Strict Transport Security) 개념과 설정](https://rsec.kr/?p=315)
+- [인터넷이 동작하는 아주 구체적인 원리](https://parksb.github.io/article/36.html?fbclid=IwAR15UeD4WM0Z0TZ4TTjjKGIfR3qnQiXPdEKWh73_2uPaSP12Qi51QjSm-Dw)
 
 
 --------------------------------------
@@ -136,6 +138,7 @@
 - [REST FULL 한 웹서비스 > Stateless와 HATEOAS 개념](http://anster.tistory.com/163)
 - [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest의-representation이란-무엇인가/)
 - [REST API가 뭔가요? [영상]](https://youtu.be/iOueE9AXDQQ)
+- [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
 
 
 --------------------------------------

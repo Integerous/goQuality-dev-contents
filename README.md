@@ -52,21 +52,6 @@
 - [IT 모든 정보를 한번에 볼 수 있는 타임라인](http://wedul.space/)
 - [python -m json.tool 유니코드 한글 깨짐](https://www.snoopybox.co.kr/2058)
 
-#### 2020년 2월 5일 수요일
-- [자바스크립트에 적용한 클린코드 [번역]](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
-- [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
-- [열정적인 개발자가 번아웃을 피하는 방법 [영문]](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/)
-- [새로워진 크롬 80](https://m.youtube.com/watch?v=lM0qZpxu0Fg)
-
-#### 2020년 2월 4일 화요일
-- [Effective Git [슬라이드]](https://www.slideshare.net/kexplo/ndc2016-effective-git)
-- [우아한 모노리스 [영상]](https://youtube.com/watch?feature=youtu.be&v=SrQeIz3gXZg)
-
-#### 2020년 2월 2일 일요일
-- [새로운 AI 학습 사이트](https://brunch.co.kr/@fermat39/103)
-- [covering index 와 index merge](https://blog.ordinarysimple.com/posts/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-covering-index-index-merge-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
-- [인터넷이 동작하는 아주 구체적인 원리](https://parksb.github.io/article/36.html?fbclid=IwAR15UeD4WM0Z0TZ4TTjjKGIfR3qnQiXPdEKWh73_2uPaSP12Qi51QjSm-Dw)
-
 
 --------------------------------------
 </br>
