@@ -34,9 +34,23 @@
 # :mailbox: Queue
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
-#### 2020년 2월 8일 토요일
+#### 2020년 2월 11일 화요일
 - (여기에 추가해주세요!)
 -
+
+#### 2020년 2월 10일 월요일
+- [ECMAScript 정리](https://junhobaik.github.io/es2016-es2020/)
+- [자바스크립트 개발자가 알아야하는 33가지 개념](https://github.com/yjs03057/33-js-concepts)
+- [Jupyter 설치하고 원격접속까지 (for 파.알.못)](https://taetaetae.github.io/2020/02/09/jupyter-install/)
+
+#### 2020년 2월 9일 일요일
+- [주니어 개발자가 공부하는 법](https://medium.com/@a01058406602/%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-677b58e4111d)
+
+#### 2020년 2월 8일 토요일
+- [서버 사이드 테스트 자동화 여정 – 1. 테스트 자동화를 시작한 계기와 그 첫 발걸음](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-1/)
+- [성장과 환경을 극대화하는 환경 설정법](https://outstanding.kr/growtogether20200206/)
+- [마크다운 파서 만들기](https://medium.com/happyprogrammer-in-jeju/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%ED%8C%8C%EC%84%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-%ED%95%A9%EB%A6%AC%ED%99%94%EC%99%80-%EC%82%AC%EC%A0%84%EC%A1%B0%EC%82%AC-932a269b7233)
+- [응집도와 결합도 / SOLID 정리한 글 입니다.](https://jordy-torvalds.tistory.com/4)
 
 #### 2020년 2월 7일 금요일
 - [10만 유저를 받을수 있는 구조로 바꾸기 위해 해야 될것들에 대해 간단하지만 핵심적으로 잘 정리된 글이라고 하네요.](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
