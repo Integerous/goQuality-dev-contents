@@ -34,9 +34,32 @@
 # :mailbox: Queue
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
-#### 2020년 2월 11일 화요일
+#### 2020년 2월 14일 금요일
 - (여기에 추가해주세요!)
 -
+
+#### 2020년 2월 13일 목요일
+- [견고한 node.js 프로젝트 설계하기 [번역]](https://velog.io/@hopsprings2/%EA%B2%AC%EA%B3%A0%ED%95%9C-node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)
+- [멀티 쓰레드 프로그램 설계를 위한 8가지 규칙](https://brunch.co.kr/@chris-song/95)
+- [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
+- [타다 클라이언트 개발기](http://engineering.vcnc.co.kr/2019/05/tada-client-development/)
+- [Supercharge your command line experience: GitHub CLI is now in beta - The GitHub Blog -](https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/)
+
+#### 2020년 2월 12일 수요일
+- [실용적인 프런트엔드 테스트 전략 [영상]](https://www.youtube.com/watch?v=q9d631Nl0_4&feature=youtu.be)
+- [파이썬(Python) datetime 클래스 치트시트](https://www.44bits.io/ko/post/python-datatime-cheetsheet)
+- [JPA 선호하는 패턴 정리](https://cheese10yun.github.io/jpa-preference/)
+- [깃 사용자가 가장 흔히 저지르는 6가지 실수와 대처 방법](http://www.itworld.co.kr/news/142318?fbclid=IwAR3V210Nvav-lwy_WnNy6bzZ-pX6MA3_dQRq-oRiAET65AXC85btHa42bC4#csidx141596ceb4fa221a7af7cdd6402973f)
+- [WhatsApp 와 같은 실시간 채팅 응용 프로그램을 만드는 방법은 무엇입니까?](https://athilog.github.io/high-performance-architecture/%EC%99%93%EC%B8%A0%EC%95%B1%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+- [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/the-architecture-behind-chatting-on-line-live/)
+- [Java 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)
+
+#### 2020년 2월 11일 화요일
+- [온디맨드 이미지 리사이징 (Ondemand Image Resizing) 원리 및 예제](https://roka88.dev/m/102)
+- [10만명의 유저가 될때까지 백엔드 인프라 확장하기](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
+- [Let’s Play pinball](http://letsplay.ouigo.com/)
+- [AWS 멀티 계정 환경에서 취약한 Security Group 설정 모니터링️](http://bit.ly/2SgVUWL)
+- [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
 
 #### 2020년 2월 10일 월요일
 - [ECMAScript 정리](https://junhobaik.github.io/es2016-es2020/)
