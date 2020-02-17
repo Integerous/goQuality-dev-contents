@@ -138,6 +138,11 @@
 - [ELK 셋팅부터 알람까지️](http://woowabros.github.io/experience/2020/01/16/set-elk-with-alarm.html)
 - [하둡 총정리](http://www.incodom.kr/hadoop_%EC%B4%9D%EC%A0%95%EB%A6%AC)
 - [우아한 모노리스 [영상]](https://youtube.com/watch?feature=youtu.be&v=SrQeIz3gXZg)
+- [캐치딜 백엔드 개발이야기 : 좌충우돌 서버운영 이야기](https://kbs4674.tistory.com/114)
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [10만명의 유저가 될때까지 백엔드 인프라 확장하기](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
+- [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
+- [온디맨드 이미지 리사이징 (Ondemand Image Resizing) 원리 및 예제](https://roka88.dev/m/102)
 
 
 --------------------------------------

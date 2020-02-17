@@ -123,6 +123,7 @@
 - [CORS(Cross-Origin Resource Sharing)이 나오게 된 배경 이야기 [영상]](https://www.youtube.com/watch?v=yTzAjidyyqs)
 - [HSTS (HTTP Strict Transport Security) 개념과 설정](https://rsec.kr/?p=315)
 - [인터넷이 동작하는 아주 구체적인 원리](https://parksb.github.io/article/36.html?fbclid=IwAR15UeD4WM0Z0TZ4TTjjKGIfR3qnQiXPdEKWh73_2uPaSP12Qi51QjSm-Dw)
+- [개발자를 위한 새로운 SameSite=None; 보안 쿠키 설정에 대비하기](https://developers-kr.googleblog.com/2020/01/developers-get-ready-for-new.html)
 
 
 --------------------------------------
@@ -326,3 +327,4 @@
 - [이미지 변환으로 10PB 스토리지를 절약 - Antman 프로젝트 개발기](https://engineering.linecorp.com/ko/blog/antman-project-development-story/)
 - [알아두면 유익한 2019 개발이야기](https://subicura.com/2020/01/07/2019-dev-summary.html)
 - [비주얼 스튜디오 코드(Visual Studio Code)란?](https://www.44bits.io/ko/keyword/visual-studio-code)
+- [마크다운 파서 만들기](https://medium.com/happyprogrammer-in-jeju/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%ED%8C%8C%EC%84%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-%ED%95%A9%EB%A6%AC%ED%99%94%EC%99%80-%EC%82%AC%EC%A0%84%EC%A1%B0%EC%82%AC-932a269b7233)

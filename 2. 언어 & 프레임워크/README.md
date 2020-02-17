@@ -129,6 +129,7 @@
 - [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
 - [Java enum의 사용](https://johngrib.github.io/wiki/java-enum/)
 - [자바에서 비동기를 어떻게 구현해 볼 수 있을까?](https://github.com/homelus/asynchronous-example)
+- [Spring Batch와 Querydsl](http://woowabros.github.io/experience/2020/02/05/springbatch-querydsl.html)
 
 
 ### JVM

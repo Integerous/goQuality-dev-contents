@@ -85,6 +85,7 @@
 - [잘가, 클린 코드 [번역]](https://overreacted.io/ko/goodbye-clean-code)
 - [지속 가능한 소프트웨어를 위한 코딩 방법](https://meetup.toast.com/posts/214)
 - [코드 가독성에 대하여 3탄 - 상태와 절차](https://engineering.linecorp.com/ko/blog/code-readability-vol3/)
+- [서버 사이드 테스트 자동화 여정 – 1. 테스트 자동화를 시작한 계기와 그 첫 발걸음](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-1/)
 
 
 --------------------------------------
@@ -236,6 +237,7 @@
 - [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
 - [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지 [영상]](https://www.youtube.com/watch?v=V9AGvwPmnZU)
 - [소주 1병 조지고 쓴 1년차 개발자의 아찔했던 순간들](https://jay-ji.tistory.com/m/42)
+- [주니어 개발자가 공부하는 법](https://medium.com/@a01058406602/%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-677b58e4111d)
 
 
 --------------------------------------

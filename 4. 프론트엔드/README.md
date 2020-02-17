@@ -16,7 +16,6 @@
 - [자바스크립트의 함수를 배워보자](http://bit.ly/2S7njZ2)
 - [2018년에 배워야 할 최고의 자바스크립트 라이브러리와 기술 [번역]](https://rhostem.github.io/posts/2018-01-25-top-java-script-libraries-tech-to-learn-in-2018)
 - [JS에서 조건문을 더 낫게 쓰기 위한 5가지 팁](https://code-200.tistory.com/14)
-- [자바스크립트 개발자가 반드시 알아야 할 33가지 개념 [영문]](http://bit.ly/2qhVMaz)
 - [NHN엔터 자바스크립트 개발 가이드](https://github.com/nhnent/fe.javascript/wiki)
 - [프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM](http://bit.ly/2OZE0aL)
 - [초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 [번역]](http://bit.ly/2qmdaem)
@@ -99,6 +98,8 @@
 - [처음 만나는 Svelte [번역]](https://ui.toast.com/weekly-pick/ko_20191002/)
 - [자바스크립트 성능 향상 방법 [번역]](https://junwoo45.github.io/2020-01-29-javascript_performance/)
 - [자바스크립트에 적용한 클린코드 [번역]](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
+- [자바스크립트 개발자가 알아야하는 33가지 개념 [번역]](https://github.com/yjs03057/33-js-concepts)
+- [ECMAScript ES2016~ES2020 정리](https://junhobaik.github.io/es2016-es2020/)
 
 
 ### Node.js
