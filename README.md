@@ -34,9 +34,25 @@
 # :mailbox: Queue
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
-#### 2020년 2월 14일 금요일
+#### 2020년 2월 18일 화요일
 - (여기에 추가해주세요!)
 -
+
+#### 2020년 2월 17일 월요일
+- [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/the-architecture-behind-chatting-on-line-live/)
+- [기능 공장에서 일하고 있다는 12가지 신호 [번역]](https://cojette.github.io/featurefactory/)
+- [Scaling to 100k Users [번역]](https://brunch.co.kr/@jowlee/102)
+
+#### 2020년 2월 16일 일요일
+- [멀티쓰레드 프로그램 설계를 위한 8가지 규칙 [번역]](https://brunch.co.kr/@chris-song/95)
+- [코로나인포 개발기: 프론트엔드 편](https://velog.io/@croco_space/making-coronas-info-frontend)
+
+#### 2020년 2월 14일 금요일
+- [Vue.js는 얼마나 쉬울까?](https://www.notion.so/Vue-js-fedb5ceb8f05421c92517899c6804265)
+- [Fourier Transform(푸이에 변환)의 이해와 활용](https://darkpgmr.tistory.com/171?category=460965)
+- [Markdown에서 활용가능한 svg 제너레이터](https://github.com/kang-heewon/resume-tools)
+- [컨테이너 내부 Go 애플리케이션 디버깅하기](https://mingrammer.com/debugging-containerized-go-app/)
+- [좋은 커밋 메시지를 작성하기 위한 커밋 템플릿](https://junwoo45.github.io/2020-02-06-commit_template/)
 
 #### 2020년 2월 13일 목요일
 - [견고한 node.js 프로젝트 설계하기 [번역]](https://velog.io/@hopsprings2/%EA%B2%AC%EA%B3%A0%ED%95%9C-node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)
