@@ -49,7 +49,7 @@
 
 #### 2020년 2월 14일 금요일
 - [Vue.js는 얼마나 쉬울까?](https://www.notion.so/Vue-js-fedb5ceb8f05421c92517899c6804265)
-- [Fourier Transform(푸이에 변환)의 이해와 활용](https://darkpgmr.tistory.com/171?category=460965)
+- [Fourier Transform(푸리에 변환)의 이해와 활용](https://darkpgmr.tistory.com/171?category=460965)
 - [Markdown에서 활용가능한 svg 제너레이터](https://github.com/kang-heewon/resume-tools)
 - [컨테이너 내부 Go 애플리케이션 디버깅하기](https://mingrammer.com/debugging-containerized-go-app/)
 - [좋은 커밋 메시지를 작성하기 위한 커밋 템플릿](https://junwoo45.github.io/2020-02-06-commit_template/)
