@@ -34,9 +34,22 @@
 # :mailbox: Queue
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
-#### 2020년 2월 18일 화요일
+#### 2020년 2월 20일 목요일
 - (여기에 추가해주세요!)
 -
+
+#### 2020년 2월 19일 수요일
+- [배달의민족 최전방 시스템! '가게노출 시스템'을 소개합니다.](https://woowabros.github.io/experience/2020/02/19/introduce-shop-display.html)
+- [2018 내가 모르는 기술들,](https://overreacted.io/ko/things-i-dont-know-as-of-2018/)
+- [Spring WebFlux와 Armeria를 이용하여 Microservice에 필요한 Reactive + RPC 동시에 잡기](https://d2.naver.com/helloworld/6080222)
+
+#### 2020년 2월 18일 화요일
+- [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
+- [이미지 최적화를 위한 WebP 포맷 적용 이야기](https://tech.lezhin.com/2020/02/16/webp-resizing)
+- [[번역] 마틴 파울러 CQRS 포스팅 - Jooho Son - Medium -](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC-cqrs-%ED%8F%AC%EC%8A%A4%ED%8C%85-245c63bb1e58)
+- [원티드 제품 개발 5년의 기록](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%A0%9C%ED%92%88-%EA%B0%9C%EB%B0%9C-5%EB%85%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-d353b1231896)
+- [처음 발표를 준비하는 개발자들이 알아두면 좋을 것들](https://rinae.dev/posts/things-to-know-when-you-prepare-presentation-first-time)
+- [정산의 시간 App 기획부터 GUI까지](https://medium.com/@hyunji5834/정산의-시간-app-기획부터-gui까지-f296d11805ea)
 
 #### 2020년 2월 17일 월요일
 - [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/the-architecture-behind-chatting-on-line-live/)
