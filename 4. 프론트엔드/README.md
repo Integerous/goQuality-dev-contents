@@ -62,7 +62,6 @@
 - [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
 - [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
 - [앱의 프론트엔드 성능을 향상시키는 방법 - 5가지 코딩 팁 [번역]](https://junwoo45.github.io/2019-10-05-frontend-performance/)
-- [useEffect 완벽가이드 [번역]](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
 - [JavaScript 첫걸음](https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps)
 - [JavaScript 재입문하기](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
 - [Javascript 생성자에서 private 변수 정의하기 [번역]](https://doong-jo.github.io/javascript/2019/10/19/(%EB%B2%88%EC%97%AD)-javascript-%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90%EC%84%9C-private-%EB%B3%80%EC%88%98-%EC%A0%95%EC%9D%98%ED%95%98%EA%B8%B0/)
@@ -135,6 +134,7 @@
 - [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components/)
 - [React.js 개발자를 위한 SSR 앱 개발 및 배포하기 [슬라이드]](https://www.slideshare.net/awskr/aws-community-day-2020-reactjs-ssr)
 - [리액트 function component와 class component는 어떻게 다를까? [번역]](https://www.hamadevelop.me/reactfunctionclassdiff/)
+- [useEffect 완벽가이드 [번역]](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
 
 
 ### Vue.js
