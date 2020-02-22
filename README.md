@@ -36,7 +36,7 @@
 
 #### 2020년 2월 20일 목요일
 - (여기에 추가해주세요!)
--
+- [리액트 프로젝트에서 타입스크립트 사용하기[시리즈]](https://velog.io/@velopert/typescript-basics)
 
 #### 2020년 2월 19일 수요일
 - [배달의민족 최전방 시스템! '가게노출 시스템'을 소개합니다.](https://woowabros.github.io/experience/2020/02/19/introduce-shop-display.html)
