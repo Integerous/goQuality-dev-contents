@@ -130,6 +130,7 @@
 - [Java enum의 사용](https://johngrib.github.io/wiki/java-enum/)
 - [자바에서 비동기를 어떻게 구현해 볼 수 있을까?](https://github.com/homelus/asynchronous-example)
 - [Spring Batch와 Querydsl](http://woowabros.github.io/experience/2020/02/05/springbatch-querydsl.html)
+- [Java 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)
 
 
 ### JVM
@@ -156,6 +157,7 @@
 - [JPA N+1 발생원인과 해결방법](https://github.com/cheese10yun/blog-sample/tree/master/jpa-n-plus-1)
 - [DBA와 개발자가 모두 행복해지는 Hibernate의 in_clause_parameter_padding 옵션](https://meetup.toast.com/posts/211)
 - [JPA 벌크 작업시 주의할 점](https://cheese10yun.github.io/jpa-bulk/)
+- [JPA 선호하는 패턴 정리](https://cheese10yun.github.io/jpa-preference/)
 
 
 --------------------------------------
@@ -169,6 +171,7 @@
 - [Python 프로젝트 시작하기](http://j.mp/2Ss7xrx)
 - [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 - [Django 3.0 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-3-0-release-note-summary)
+- [파이썬(Python) datetime 클래스 치트시트](https://www.44bits.io/ko/post/python-datatime-cheetsheet)
 
 
 --------------------------------------

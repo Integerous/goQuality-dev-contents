@@ -99,6 +99,7 @@
 - [자바스크립트에 적용한 클린코드 [번역]](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
 - [자바스크립트 개발자가 알아야하는 33가지 개념 [번역]](https://github.com/yjs03057/33-js-concepts)
 - [ECMAScript ES2016~ES2020 정리](https://junhobaik.github.io/es2016-es2020/)
+- [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
 
 
 ### Node.js
@@ -110,6 +111,7 @@
 - [3분만에 Node.js 이해하기 [번역]](https://menuand.tistory.com/m/3?category=817925)
 - [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
 - [Node.js의 순환 의존성](https://blog.outsider.ne.kr/1283?category=24)
+- [견고한 node.js 프로젝트 설계하기 [번역]](https://velog.io/@hopsprings2/%EA%B2%AC%EA%B3%A0%ED%95%9C-node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)
 
 
 ### React.js

@@ -143,6 +143,8 @@
 - [10만명의 유저가 될때까지 백엔드 인프라 확장하기](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
 - [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
 - [온디맨드 이미지 리사이징 (Ondemand Image Resizing) 원리 및 예제](https://roka88.dev/m/102)
+- [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/the-architecture-behind-chatting-on-line-live/)
+- [멀티 쓰레드 프로그램 설계를 위한 8가지 규칙 [번역]](https://brunch.co.kr/@chris-song/95)
 
 
 --------------------------------------

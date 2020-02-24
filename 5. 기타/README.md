@@ -54,7 +54,7 @@
 - [Journey of Feature Flag development in LINE Android [슬라이드]](https://speakerdeck.com/line_devday2019/journey-of-feature-flag-development-in-line-android)
 - [TOAST UI Grid에 Github Actions가 함께한다면?](https://medium.com/jung-han/toast-ui-grid%EC%97%90-github-actions%EA%B0%80-%ED%95%A8%EA%BB%98%ED%95%9C%EB%8B%A4%EB%A9%B4-388677297ccc)
 - [Effective Git [슬라이드]](https://www.slideshare.net/kexplo/ndc2016-effective-git)
-
+- [깃 사용자가 가장 흔히 저지르는 6가지 실수와 대처 방법](http://www.itworld.co.kr/news/142318)
 
 --------------------------------------
 

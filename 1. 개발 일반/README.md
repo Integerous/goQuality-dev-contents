@@ -117,6 +117,7 @@
 - [소프트웨어 테스팅의 False Positive](https://gyuwon.github.io/blog/2018/12/19/false-positive-in-software-testing.html)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [RestTemplate Mock 기반 테스트 하기](https://cheese10yun.github.io/rest-template-mock-test/)
+- [실용적인 프런트엔드 테스트 전략 [영상]](https://www.youtube.com/watch?v=q9d631Nl0_4&feature=youtu.be)
 
 
 --------------------------------------
