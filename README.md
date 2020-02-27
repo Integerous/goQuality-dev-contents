@@ -35,9 +35,25 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 
-#### 2020년 2월 25일 화요일
+#### 2020년 2월 28일 금요일
 - (여기에 추가해주세요.)
 -
+
+#### 2020년 2월 27일 목요일
+- [당근마켓의 deploy 브랜치 전략 활용 방법](https://medium.com/daangn/deploy-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95-545f278ca878)
+- [네이버지도 vs 카카오맵 사용자 경험 비교 (pc 권장)](http://bit.ly/3c5FiJj)
+
+#### 2020년 2월 26일 수요일
+- [코딩 없이 10분 만에 REST API/Graphql 서버 개발하기](https://medium.com/@khwsc1/js%EB%A1%9C-10%EB%B6%84%EB%A7%8C%EC%97%90-rest-api-graphql-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d28148dbdef2)
+- ['실무형 리더'인 줄 알았던 내가 실은 '마이크로 매니저'?](http://naver.me/xWFye0wW)
+- [Vue.js: The Documentary [영상]](https://www.youtube.com/watch?v=OrxmtDw4pVI)
+- [바닥부터 시작하는 Vue 컴포넌트 테스트](https://tech.kakao.com/2019/11/27/kakao-business-vue-component-test/)
+
+#### 2020년 2월 25일 화요일
+- [로그인이 필요한 API 똑똑하게 테스트하는 방법 - postman 활용](https://blog.naver.com/pjt3591oo/221822014861)
+- [Promise, 가만히 냅두면 어떻게 될까? [번역]](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
+- [Zabbix 모니터링 설정](https://blog.wonizz.tk/2020/02/24/zabbix-zabbix-monitoring-set/)
+- [질병관리본부 챗봇 만들기](https://tess.dev/posts/kcdc-chat-bot)
 
 #### 2020년 2월 24일 월요일
 - [리액트 프로젝트에서 타입스크립트 사용하기](https://velog.io/@velopert/typescript-basics)
