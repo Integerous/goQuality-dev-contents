@@ -34,76 +34,74 @@
 # :mailbox: Queue
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
-
-#### 2020년 2월 28일 금요일
 - (여기에 추가해주세요.)
--
-
-#### 2020년 2월 27일 목요일
+- [Spring RestTemplate Mock 기반 테스트 하기](https://www.popit.kr/spring-resttemplate-mock-기반-테스트-하기/)
+- [GitHub Actions Breaking Change: Python 2 being removed from all virtual environments - The GitHub Blog -](https://github.blog/changelog/2020-02-27-github-actions-breaking-change-python-2-being-removed-from-all-virtual-environments/)
+- [Jest로 기본적인 테스트 작성하기](https://www.daleseo.com/jest-basic/)
+- [LINE 메시징 서버가 새해 트래픽을 대비하는 과정](https://engineering.linecorp.com/ko/blog/how-line-messaging-servers-prepare-for-new-year-traffic/)
+- [컴퓨터공학과 새내기가 수강신청하는 법](https://blog.ch4n3.me/493)
+- [Querydsl Repository Support 활용](https://cheese10yun.github.io/querydsl-support/)
+- [유니티, 증강현실 앱개발 런칭기 (iOS, Android)](https://brunch.co.kr/@chickenmoim/18)
+- [토비의 스프링 부트 1 - 스프링 부트 앱에 초기화 코드를 넣는 방법 3가지](https://www.youtube.com/watch?v=f017PD5BIEc)
+- [JPA 기반 테스트 코드 작성 팁](https://cheese10yun.github.io/jpa-test-support/)
+- [프론트엔드  트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
+- [취직 준비를 위해 좋은 포트폴리오 만드는 방법](https://okky.kr/article/663519)
+- [구글 면접 과정 일기](https://brunch.co.kr/@cmiscm/15)
+- [await vs return vs return await [번역]](https://perade.github.io/blog/await-vs-return-vs-return-await/)
+- [하루에 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
+- [자바스크립트 옵저버 API들 간략히 소개](https://www.huskyhoochu.com/js-observers/)
+- [Java Collections Heap Dump 분석](https://brunch.co.kr/@springboot/367)
+- [렛츠인크립트, 300만 개 넘는 디지털 인증서 폐지](http://m.boannews.com/html/detail.html?idx=86797)
+- [웹/앱 프로그래밍 배우기](https://m.clien.net/service/board/lecture/14662072?od=T31&po=0&category=&groupCd=)
+- [앵귤러9에서의 컴포넌트 단위 지연로드](https://johnpapa.net/angular-9-lazy-loading-components/)
+- [아무도 말하지 않는 PHP의 좋은 점 [번역]](https://mytory.net/2018/10/13/good-thing-in-php-nobody-talks-about.html)
+- [스프링 디자인패턴](https://www.baeldung.com/spring-framework-design-patterns)
+- [레거시 코드를 점진적으로 개선한 경험](https://sogoagain.github.io/2020/03/08/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%9C-%EA%B2%BD%ED%97%98/)
+- [Github Page와 Hexo로 블로그 만들고 테마 적용하기 + 검색엔진 최적화(SEO)](https://kinetic27.github.io/2020/03/06/build-blog-with-hexo-github/)
+- [30 seconds of code](https://www.30secondsofcode.org/js/p/1/)
+- [xUnit 테스팅 프레임워크를 TDD로 만들어보자 [영상]](https://www.youtube.com/watch?v=tdKFZcZSJmg)
+- [SpringRestDocs를 SpringBoot에 적용하기](https://taetaetae.github.io/2020/03/08/spring-rest-docs-in-spring-boot/)
+- [iOS의 Bitcode 컴파일로 살펴보는 크로스 플랫폼 전략](https://unifiedh.com/ko/ios-bitcode-compilation-llvm-cross-platform)
 - [당근마켓의 deploy 브랜치 전략 활용 방법](https://medium.com/daangn/deploy-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95-545f278ca878)
 - [네이버지도 vs 카카오맵 사용자 경험 비교 (pc 권장)](http://bit.ly/3c5FiJj)
-
-#### 2020년 2월 26일 수요일
 - [코딩 없이 10분 만에 REST API/Graphql 서버 개발하기](https://medium.com/@khwsc1/js%EB%A1%9C-10%EB%B6%84%EB%A7%8C%EC%97%90-rest-api-graphql-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d28148dbdef2)
 - ['실무형 리더'인 줄 알았던 내가 실은 '마이크로 매니저'?](http://naver.me/xWFye0wW)
 - [Vue.js: The Documentary [영상]](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 - [바닥부터 시작하는 Vue 컴포넌트 테스트](https://tech.kakao.com/2019/11/27/kakao-business-vue-component-test/)
-
-#### 2020년 2월 25일 화요일
 - [로그인이 필요한 API 똑똑하게 테스트하는 방법 - postman 활용](https://blog.naver.com/pjt3591oo/221822014861)
 - [Promise, 가만히 냅두면 어떻게 될까? [번역]](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
 - [Zabbix 모니터링 설정](https://blog.wonizz.tk/2020/02/24/zabbix-zabbix-monitoring-set/)
 - [질병관리본부 챗봇 만들기](https://tess.dev/posts/kcdc-chat-bot)
-
-#### 2020년 2월 24일 월요일
 - [리액트 프로젝트에서 타입스크립트 사용하기](https://velog.io/@velopert/typescript-basics)
 - [오픈서베이 개발팀은 어떤 과제를 해결하고 있을까?](https://brunch.co.kr/@mobiinside/2008)
-
-#### 2020년 2월 23일 일요일
 - [인공지능(AI)과 머신러닝(ML) 학습 경로](https://www.google.com/amp/s/projectresearch.co.kr/2017/06/14/%25EC%259D%25B8%25EA%25B3%25B5%25EC%25A7%2580%25EB%258A%25A5ai%25EA%25B3%25BC-%25EB%25A8%25B8%25EC%258B%25A0%25EB%259F%25AC%25EB%258B%259Dml-%25ED%2595%2599%25EC%258A%25B5-%25EA%25B2%25BD%25EB%25A1%259C/amp/)
-
-#### 2020년 2월 22일 토요일
 - [리액트 프로젝트에서 타입스크립트 사용하기](https://velog.io/@velopert/typescript-basics)
 - [코로나 실시간 뉴스 알림 챗봇 만들기](https://miryang.dev/2020/02/21/covid19newsbot/)
 - [GitHub Actions으로 날씨알리미 만들기](https://qiita.com/leechungkyu/items/e57951cdaa046acafd76)
 - [안심번호 마이크로서비스 개발하기](https://medium.com/daangn/%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-fb1a8817b059)
 - [IT기자, 개발자로 돌아오다…CODEF 합류 10개월 후기](http://ohseyong.com/?p=2265)
-
-#### 2020년 2월 21일 금요일
 - [자바스크립트 성능 향상 방법 [번역]](https://junwoo45.github.io/2020-01-29-javascript_performance/?fbclid=IwAR1FEZN572tgnZnYzKShCOEU6cqy9Ql7JQSs4MCt9NChK7nC83yU4XjkYjk)
 - [patch-package를 활용한 NPM 패키지 패치(patch) 사례 (feat. React Native)](https://medium.com/naver-place-dev/patch-package를-활용한-npm-패키지-패치-patch-사례-feat-react-native-ee1fc399b7c2)
 - [프로그래머스 개발자 설문조사 2020](https://programmers.co.kr/pages/dev-survey-2020)
 - [Querydsl Projection 방법 소개 및 선호하는 패턴 정리](https://cheese10yun.github.io/querydsl-projections/)
-
-#### 2020년 2월 20일 목요일
 - [200만 동접 게임을 위한 MySQL [영상]](https://youtube.com/watch?v=8Eb_n7JA1yA&feature=youtu.be)
 - [자바스크립트의 기술 스택에서 여러 가지 개념을 일러스트로 표현하니까 되게 정리되는 느낌이네요.](https://illustrated.dev/)
 - [Puppeteer로 크롤러 만들기](https://yangeok.github.io/node.js/2019/09/09/puppeteer-crawler-pre.html)
 - [코로나인포 개발기 : 백엔드 편](https://velog.io/@croco_space/making-coronas-info-backend-1)
-
-#### 2020년 2월 19일 수요일
 - [배달의민족 최전방 시스템! '가게노출 시스템'을 소개합니다.](https://woowabros.github.io/experience/2020/02/19/introduce-shop-display.html)
 - [2018 내가 모르는 기술들,](https://overreacted.io/ko/things-i-dont-know-as-of-2018/)
 - [Spring WebFlux와 Armeria를 이용하여 Microservice에 필요한 Reactive + RPC 동시에 잡기](https://d2.naver.com/helloworld/6080222)
-
-#### 2020년 2월 18일 화요일
 - [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
 - [이미지 최적화를 위한 WebP 포맷 적용 이야기](https://tech.lezhin.com/2020/02/16/webp-resizing)
 - [[번역] 마틴 파울러 CQRS 포스팅 - Jooho Son - Medium -](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC-cqrs-%ED%8F%AC%EC%8A%A4%ED%8C%85-245c63bb1e58)
 - [원티드 제품 개발 5년의 기록](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%A0%9C%ED%92%88-%EA%B0%9C%EB%B0%9C-5%EB%85%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-d353b1231896)
 - [처음 발표를 준비하는 개발자들이 알아두면 좋을 것들](https://rinae.dev/posts/things-to-know-when-you-prepare-presentation-first-time)
 - [정산의 시간 App 기획부터 GUI까지](https://medium.com/@hyunji5834/정산의-시간-app-기획부터-gui까지-f296d11805ea)
-
-#### 2020년 2월 17일 월요일
 - [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/the-architecture-behind-chatting-on-line-live/)
 - [기능 공장에서 일하고 있다는 12가지 신호 [번역]](https://cojette.github.io/featurefactory/)
 - [Scaling to 100k Users [번역]](https://brunch.co.kr/@jowlee/102)
-
-#### 2020년 2월 16일 일요일
 - [멀티쓰레드 프로그램 설계를 위한 8가지 규칙 [번역]](https://brunch.co.kr/@chris-song/95)
 - [코로나인포 개발기: 프론트엔드 편](https://velog.io/@croco_space/making-coronas-info-frontend)
-
-#### 2020년 2월 14일 금요일
 - [Vue.js는 얼마나 쉬울까?](https://www.notion.so/Vue-js-fedb5ceb8f05421c92517899c6804265)
 - [Fourier Transform(푸리에 변환)의 이해와 활용](https://darkpgmr.tistory.com/171?category=460965)
 - [Markdown에서 활용가능한 svg 제너레이터](https://github.com/kang-heewon/resume-tools)

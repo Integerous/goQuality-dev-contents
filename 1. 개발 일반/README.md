@@ -124,7 +124,7 @@
 
 ### 개발자 성장
 - [웹 개발자 로드맵 [번역]](https://github.com/devJang/developer-roadmap/blob/master/readme.md)
-- [24년차 개발자 우아한형제들의 김민태님 이야기 [영상]](https://www.facebook.com/tyzapzi/videos/481371182337888/UzpfSTEwMDAwMTQ4MDE4NjMzMzoxOTM0MTcwNTc2NjQyMjYz/?id=100001480186333)
+- [24년차 개발자 우아한형제들의 김민태님 이야기 [영상]](https://www.youtube.com/watch?v=U0YWdnSKDfw)
 - [개발자에서 개발팀장이 되기까지 겪은 5가지 실수 [번역]](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 - [10배 뛰어난 개발자 되기 [번역]](https://muchtrans.com/translations/10xdeveloper.ko.html)
 - [회사 밖에서 성장하기 [슬라이드]](https://speakerdeck.com/mingrammer/hoesa-baggeseo-seongjanghagi)
