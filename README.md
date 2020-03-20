@@ -135,15 +135,6 @@
 - [처음 발표를 준비하는 개발자들이 알아두면 좋을 것들](https://rinae.dev/posts/things-to-know-when-you-prepare-presentation-first-time)
 - [정산의 시간 App 기획부터 GUI까지](https://medium.com/@hyunji5834/정산의-시간-app-기획부터-gui까지-f296d11805ea)
 - [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/the-architecture-behind-chatting-on-line-live/)
-- [기능 공장에서 일하고 있다는 12가지 신호 [번역]](https://cojette.github.io/featurefactory/)
-- [Scaling to 100k Users [번역]](https://brunch.co.kr/@jowlee/102)
-- [멀티쓰레드 프로그램 설계를 위한 8가지 규칙 [번역]](https://brunch.co.kr/@chris-song/95)
-- [코로나인포 개발기: 프론트엔드 편](https://velog.io/@croco_space/making-coronas-info-frontend)
-- [Vue.js는 얼마나 쉬울까?](https://www.notion.so/Vue-js-fedb5ceb8f05421c92517899c6804265)
-- [Fourier Transform(푸리에 변환)의 이해와 활용](https://darkpgmr.tistory.com/171?category=460965)
-- [Markdown에서 활용가능한 svg 제너레이터](https://github.com/kang-heewon/resume-tools)
-- [컨테이너 내부 Go 애플리케이션 디버깅하기](https://mingrammer.com/debugging-containerized-go-app/)
-- [좋은 커밋 메시지를 작성하기 위한 커밋 템플릿](https://junwoo45.github.io/2020-02-06-commit_template/)
 
 
 --------------------------------------
