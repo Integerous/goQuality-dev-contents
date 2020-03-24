@@ -42,7 +42,7 @@
 - [프로그래머스 2020 Dev-Matching 웹 프론트엔드 개발자(상반기) 후기](https://taeny.dev/essay/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-2020-dev-matching-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90(%EC%83%81%EB%B0%98%EA%B8%B0)-%ED%9B%84%EA%B8%B0/)
 - [개발자라면 꼭 알아야 할 커맨드 꿀팁!](https://m.blog.naver.com/codeitofficial/221861721998)
 - [Awesome Regex](https://leanpub.com/b/regex)
-- [신입 개발자 면접 질문 리스트](https://www.notion.so/54d624628a634c879cc93d94f54cd2d1))
+- [신입 개발자 면접 질문 리스트](https://www.notion.so/54d624628a634c879cc93d94f54cd2d1)
 - [딥러닝 모델 Serving 간단 구축기](https://tech.socarcorp.kr/data/2020/03/10/ml-model-serving.html)
 - [Railway oriented programming](https://medium.com/@0e/%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%89%E1%85%A5-rop%E1%84%80%E1%85%A1-%E1%84%86%E1%85%AF%E1%86%AB%E1%84%83%E1%85%A6-%E1%84%8A%E1%85%B5%E1%86%B8%E1%84%83%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%A1-railway-oriented-programming-4e8070c04bda?source=friends_link&sk=92a710ea2cbf1a227417ed0702f38b47)
 - [Let's Encrypt 와일드카드 인증서 발급받기](https://ilcm96.me/2020-03-16-let-encrypt-wildcard)
