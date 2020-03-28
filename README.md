@@ -35,6 +35,7 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [스타트업에서는 어떤 기술을 이용해야 할까?](http://tech.trenbe.com/?p=477)
 - [Node를 deno로 대체 할 수 있을까? [영상]](https://youtu.be/6MeB-IWq1I4)
 - [Ktor로 Todo 서비스 빠르게 만들기](https://www.popit.kr/ktor%eb%a1%9c-todo-%ec%84%9c%eb%b9%84%ec%8a%a4-%eb%b9%a0%eb%a5%b4%ea%b2%8c-%eb%a7%8c%eb%93%a4%ea%b8%b0/)
 - [개발자들이 꺼려하는 까칠한 규식이 형](https://helloworld.kurly.com/blog/reg-exp-01/)
