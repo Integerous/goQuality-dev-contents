@@ -35,8 +35,6 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
-
-#### 2020년 3월 29일 일요일
 - [도커(Docker) 입문편: 컨테이너 기초부터 서버 배포까지](https://www.44bits.io/ko/post/easy-deploy-with-docker)
 - [서버의 상태를 알려주는 HTTP 상태코드](https://evan-moon.github.io/2020/03/15/about-)
 - [조금 더 괜찮은 Rest Template 1부 - Retryable](https://taetaetae.github.io/2020/03/22/better-rest-template-1-retryable/)
