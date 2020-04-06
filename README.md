@@ -36,6 +36,18 @@
 
 
 - (여기에 추가해주세요.)
+- [해쉬 충돌이 무엇이고 해결책을 알고 있나요?](https://stdin2stdout.tistory.com/entry/Q-%ED%95%B4%EC%89%AC-%EC%B6%A9%EB%8F%8C%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%ED%95%B4%EA%B2%B0%EC%B1%85%EC%9D%84-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94)
+- [Java Stream API](https://velog.io/@kskim/Java-Stream-API)
+- [git 교육 자료](https://johngrib.github.io/wiki/git-tutorial/)
+- [자바스크립트의 this 를 알아보자.](https://1ilsang.dev/2020-03-31/js/this)
+- [이직하며 느낀 2020년 1/4분기 개발자 채용 과정](https://perade.github.io/blog/2020-recruitment/)
+- [최신 네트워크 로드 밸런싱 및 프록시 소개](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
+- [github 피싱 메일 주의!](https://jsty.tistory.com/226)
+- [FrontEnd Application에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)
+- [React밖에 모르는 당신에게. GatsbyJS 한 잔, ‘채용~’](https://blog.banksalad.com/tech/build-a-website-with-gatsby/)
+- [도커 트러블슈팅 - 컨테이너 실행환경 디버깅: run, exec, commit 명령어 활용하기](https://www.44bits.io/ko/post/docker-container-trouble-shooting-by-exec-and-commit)
+- [카프카(Kafka)의 이해](https://devtimes.com/bigdata/2019/01/18/what-is-kafka/)
+- [글자랑의 한글 가변폰트 실험](https://www.notion.so/49fca2912ab344edb0ef24b8f320440a)
 - [imDB(인터넷영화데이터베이스) Crawling Tutorial 1](https://developer-ankiwoong.tistory.com/843)
 - [파워앱스와 마이크로소프트 플로우](https://blog.naver.com/gowit_sps/221506099757)
 - [JavaScript로 함수형 프로그래밍 배우기 [영상]](https://youtu.be/e-5obm1G_FY)
