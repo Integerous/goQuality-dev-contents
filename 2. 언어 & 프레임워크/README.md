@@ -131,6 +131,7 @@
 - [자바에서 비동기를 어떻게 구현해 볼 수 있을까?](https://github.com/homelus/asynchronous-example)
 - [Spring Batch와 Querydsl](http://woowabros.github.io/experience/2020/02/05/springbatch-querydsl.html)
 - [Java 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)
+- [Spring WebFlux와 Armeria를 이용하여 Microservice에 필요한 Reactive + RPC 동시에 잡기](https://d2.naver.com/helloworld/6080222)
 
 
 ### JVM

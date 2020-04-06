@@ -146,6 +146,10 @@
 - [온디맨드 이미지 리사이징 (Ondemand Image Resizing) 원리 및 예제](https://roka88.dev/m/102)
 - [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/the-architecture-behind-chatting-on-line-live/)
 - [멀티 쓰레드 프로그램 설계를 위한 8가지 규칙 [번역]](https://brunch.co.kr/@chris-song/95)
+- [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/the-architecture-behind-chatting-on-line-live/)
+- [마틴 파울러 CQRS 포스팅 [번역]](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC-cqrs-%ED%8F%AC%EC%8A%A4%ED%8C%85-245c63bb1e58)
+- [이미지 최적화를 위한 WebP 포맷 적용 이야기](https://tech.lezhin.com/2020/02/16/webp-resizing)
+- [배달의민족 최전방 시스템! '가게노출 시스템'을 소개합니다.](https://woowabros.github.io/experience/2020/02/19/introduce-shop-display.html)
 
 
 --------------------------------------

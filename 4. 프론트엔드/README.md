@@ -219,6 +219,7 @@
 - [따릉아! 문제는 UX/UI야!](https://brunch.co.kr/@supernova9/180)
 - [UX/UI 다이렉트하게 만들어라](https://brunch.co.kr/@plusx/21)
 - [나눔 고딕 웹 폰트에 대한 고찰](https://moonspam.github.io/NanumGothic-Review/)
+- [정산의 시간 App 기획부터 GUI까지](https://medium.com/@hyunji5834/정산의-시간-app-기획부터-gui까지-f296d11805ea)
 
 
 --------------------------------------

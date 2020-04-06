@@ -86,6 +86,7 @@
 - [지속 가능한 소프트웨어를 위한 코딩 방법](https://meetup.toast.com/posts/214)
 - [코드 가독성에 대하여 3탄 - 상태와 절차](https://engineering.linecorp.com/ko/blog/code-readability-vol3/)
 - [서버 사이드 테스트 자동화 여정 – 1. 테스트 자동화를 시작한 계기와 그 첫 발걸음](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-1/)
+- [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
 
 
 --------------------------------------
