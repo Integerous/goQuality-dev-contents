@@ -55,6 +55,7 @@
 - [TOAST UI Grid에 Github Actions가 함께한다면?](https://medium.com/jung-han/toast-ui-grid%EC%97%90-github-actions%EA%B0%80-%ED%95%A8%EA%BB%98%ED%95%9C%EB%8B%A4%EB%A9%B4-388677297ccc)
 - [Effective Git [슬라이드]](https://www.slideshare.net/kexplo/ndc2016-effective-git)
 - [깃 사용자가 가장 흔히 저지르는 6가지 실수와 대처 방법](http://www.itworld.co.kr/news/142318)
+- [좋은 커밋 메시지를 작성하기 위한 커밋 템플릿 만들어보기](https://junwoo45.github.io/2020-02-06-commit_template/)
 
 --------------------------------------
 
@@ -328,3 +329,4 @@
 - [알아두면 유익한 2019 개발이야기](https://subicura.com/2020/01/07/2019-dev-summary.html)
 - [비주얼 스튜디오 코드(Visual Studio Code)란?](https://www.44bits.io/ko/keyword/visual-studio-code)
 - [마크다운 파서 만들기](https://medium.com/happyprogrammer-in-jeju/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%ED%8C%8C%EC%84%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-%ED%95%A9%EB%A6%AC%ED%99%94%EC%99%80-%EC%82%AC%EC%A0%84%EC%A1%B0%EC%82%AC-932a269b7233)
+- [Fourier Transform(푸리에 변환)의 이해와 활용](https://darkpgmr.tistory.com/171?category=460965)

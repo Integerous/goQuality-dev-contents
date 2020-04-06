@@ -185,6 +185,7 @@
 - [Go 작업 훔치기 스케쥴러 고루틴 스케쥴링 원리[번역]](https://hueypark.gitlab.io/post/2018-10-13-go-work-stealing-scheduler/)
 - [고루틴 vs 쓰레드](https://tech.ssut.me/goroutine-vs-threads/)
 - [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc/)
+- [컨테이너 내부 Go 애플리케이션 디버깅하기](https://mingrammer.com/debugging-containerized-go-app/)
 
 
 --------------------------------------
