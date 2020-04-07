@@ -160,16 +160,6 @@
 - [리액트 프로젝트에서 타입스크립트 사용하기](https://velog.io/@velopert/typescript-basics)
 - [코로나 실시간 뉴스 알림 챗봇 만들기](https://miryang.dev/2020/02/21/covid19newsbot/)
 - [GitHub Actions으로 날씨알리미 만들기](https://qiita.com/leechungkyu/items/e57951cdaa046acafd76)
-- [안심번호 마이크로서비스 개발하기](https://medium.com/daangn/%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-fb1a8817b059)
-- [IT기자, 개발자로 돌아오다…CODEF 합류 10개월 후기](http://ohseyong.com/?p=2265)
-- [자바스크립트 성능 향상 방법 [번역]](https://junwoo45.github.io/2020-01-29-javascript_performance/?fbclid=IwAR1FEZN572tgnZnYzKShCOEU6cqy9Ql7JQSs4MCt9NChK7nC83yU4XjkYjk)
-- [patch-package를 활용한 NPM 패키지 패치(patch) 사례 (feat. React Native)](https://medium.com/naver-place-dev/patch-package를-활용한-npm-패키지-패치-patch-사례-feat-react-native-ee1fc399b7c2)
-- [프로그래머스 개발자 설문조사 2020](https://programmers.co.kr/pages/dev-survey-2020)
-- [Querydsl Projection 방법 소개 및 선호하는 패턴 정리](https://cheese10yun.github.io/querydsl-projections/)
-- [200만 동접 게임을 위한 MySQL [영상]](https://youtube.com/watch?v=8Eb_n7JA1yA&feature=youtu.be)
-- [자바스크립트의 기술 스택에서 여러 가지 개념을 일러스트로 표현하니까 되게 정리되는 느낌이네요.](https://illustrated.dev/)
-- [Puppeteer로 크롤러 만들기](https://yangeok.github.io/node.js/2019/09/09/puppeteer-crawler-pre.html)
-- [코로나인포 개발기 : 백엔드 편](https://velog.io/@croco_space/making-coronas-info-backend-1)
 
 
 --------------------------------------

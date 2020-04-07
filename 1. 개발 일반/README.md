@@ -87,6 +87,7 @@
 - [코드 가독성에 대하여 3탄 - 상태와 절차](https://engineering.linecorp.com/ko/blog/code-readability-vol3/)
 - [서버 사이드 테스트 자동화 여정 – 1. 테스트 자동화를 시작한 계기와 그 첫 발걸음](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-1/)
 - [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
+- [프로그래머스 개발자 설문조사 2020](https://programmers.co.kr/pages/dev-survey-2020)
 
 
 --------------------------------------
@@ -197,6 +198,7 @@
 - [개발 배우기가 정말 어려운 이유 [번역]](https://brunch.co.kr/@jypthemiracle/14)
 - [마켓컬리 개발자 이종립님 인터뷰](https://monthly-jiandson.tistory.com/49)
 - [열정적인 개발자가 번아웃을 피하는 방법 [영문]](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/)
+- [IT기자, 개발자로 돌아오다…CODEF 합류 10개월 후기](http://ohseyong.com/?p=2265)
 
 
 --------------------------------------

@@ -137,6 +137,7 @@
 - [React.js 개발자를 위한 SSR 앱 개발 및 배포하기 [슬라이드]](https://www.slideshare.net/awskr/aws-community-day-2020-reactjs-ssr)
 - [리액트 function component와 class component는 어떻게 다를까? [번역]](https://www.hamadevelop.me/reactfunctionclassdiff/)
 - [useEffect 완벽가이드 [번역]](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
+- [patch-package를 활용한 NPM 패키지 패치(patch) 사례 (feat. React Native)](https://medium.com/naver-place-dev/patch-package를-활용한-npm-패키지-패치-patch-사례-feat-react-native-ee1fc399b7c2)
 
 
 ### Vue.js

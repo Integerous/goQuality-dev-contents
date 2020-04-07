@@ -159,6 +159,7 @@
 - [DBA와 개발자가 모두 행복해지는 Hibernate의 in_clause_parameter_padding 옵션](https://meetup.toast.com/posts/211)
 - [JPA 벌크 작업시 주의할 점](https://cheese10yun.github.io/jpa-bulk/)
 - [JPA 선호하는 패턴 정리](https://cheese10yun.github.io/jpa-preference/)
+- [Querydsl Projection 방법 소개 및 선호하는 패턴 정리](https://cheese10yun.github.io/querydsl-projections/)
 
 
 --------------------------------------

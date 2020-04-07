@@ -125,6 +125,7 @@
 - [HSTS (HTTP Strict Transport Security) 개념과 설정](https://rsec.kr/?p=315)
 - [인터넷이 동작하는 아주 구체적인 원리](https://parksb.github.io/article/36.html?fbclid=IwAR15UeD4WM0Z0TZ4TTjjKGIfR3qnQiXPdEKWh73_2uPaSP12Qi51QjSm-Dw)
 - [개발자를 위한 새로운 SameSite=None; 보안 쿠키 설정에 대비하기](https://developers-kr.googleblog.com/2020/01/developers-get-ready-for-new.html)
+- [Puppeteer로 크롤러 만들기](https://yangeok.github.io/node.js/2019/09/09/puppeteer-crawler-pre.html)
 
 
 --------------------------------------
@@ -332,3 +333,4 @@
 - [Fourier Transform(푸리에 변환)의 이해와 활용](https://darkpgmr.tistory.com/171?category=460965)
 - [처음 발표를 준비하는 개발자들이 알아두면 좋을 것들](https://rinae.dev/posts/things-to-know-when-you-prepare-presentation-first-time)
 - [원티드 제품 개발 5년의 기록](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%A0%9C%ED%92%88-%EA%B0%9C%EB%B0%9C-5%EB%85%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-d353b1231896)
+- [Illustrated explanations of web development, technology & a little bit of anthropology.](https://illustrated.dev/)
