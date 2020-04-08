@@ -56,6 +56,8 @@
 - [Effective Git [슬라이드]](https://www.slideshare.net/kexplo/ndc2016-effective-git)
 - [깃 사용자가 가장 흔히 저지르는 6가지 실수와 대처 방법](http://www.itworld.co.kr/news/142318)
 - [좋은 커밋 메시지를 작성하기 위한 커밋 템플릿 만들어보기](https://junwoo45.github.io/2020-02-06-commit_template/)
+- [당근마켓의 deploy 브랜치 전략 활용 방법](https://medium.com/daangn/deploy-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95-545f278ca878)
+
 
 --------------------------------------
 
@@ -126,7 +128,7 @@
 - [인터넷이 동작하는 아주 구체적인 원리](https://parksb.github.io/article/36.html?fbclid=IwAR15UeD4WM0Z0TZ4TTjjKGIfR3qnQiXPdEKWh73_2uPaSP12Qi51QjSm-Dw)
 - [개발자를 위한 새로운 SameSite=None; 보안 쿠키 설정에 대비하기](https://developers-kr.googleblog.com/2020/01/developers-get-ready-for-new.html)
 - [Puppeteer로 크롤러 만들기](https://yangeok.github.io/node.js/2019/09/09/puppeteer-crawler-pre.html)
-
+- [로그인이 필요한 API 똑똑하게 테스트하는 방법 - postman 활용](https://blog.naver.com/pjt3591oo/221822014861)
 
 --------------------------------------
 
@@ -182,6 +184,7 @@
 - [핵심 머신러닝 강의 [영상]](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/videos)
 - [딥러닝을 이용하여 더욱 현실감 있는 AR 앱 만들기](https://nero.devstory.co.kr/2019/12/25/pj-too-real-01/)
 - [2019년 주목받은 AI 이슈 모음](https://brunch.co.kr/@omniousofficial/75/?fbclid=IwAR3kapl8LwiaPXt0FlGbAh8SrxqPajrsjRuJF_-KCmKZHxyajEnr-Op0lCU)
+- [인공지능(AI)과 머신러닝(ML) 학습 경로](https://www.google.com/amp/s/projectresearch.co.kr/2017/06/14/%25EC%259D%25B8%25EA%25B3%25B5%25EC%25A7%2580%25EB%258A%25A5ai%25EA%25B3%25BC-%25EB%25A8%25B8%25EC%258B%25A0%25EB%259F%25AC%25EB%258B%259Dml-%25ED%2595%2599%25EC%258A%25B5-%25EA%25B2%25BD%25EB%25A1%259C/amp/)
 
 
 ### 데이터 사이언스
@@ -334,3 +337,4 @@
 - [처음 발표를 준비하는 개발자들이 알아두면 좋을 것들](https://rinae.dev/posts/things-to-know-when-you-prepare-presentation-first-time)
 - [원티드 제품 개발 5년의 기록](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%A0%9C%ED%92%88-%EA%B0%9C%EB%B0%9C-5%EB%85%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-d353b1231896)
 - [Illustrated explanations of web development, technology & a little bit of anthropology.](https://illustrated.dev/)
+- [질병관리본부 챗봇 만들기](https://tess.dev/posts/kcdc-chat-bot)

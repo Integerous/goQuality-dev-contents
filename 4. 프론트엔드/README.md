@@ -100,6 +100,7 @@
 - [자바스크립트 개발자가 알아야하는 33가지 개념 [번역]](https://github.com/yjs03057/33-js-concepts)
 - [ECMAScript ES2016~ES2020 정리](https://junhobaik.github.io/es2016-es2020/)
 - [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
+- [Promise, 가만히 냅두면 어떻게 될까? [번역]](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
 
 
 ### Node.js
@@ -152,6 +153,8 @@
 - [바닥부터 시작하는 Vue 테스트와 리팩토링 [슬라이드]](https://www.slideshare.net/ifkakao/kakao-fe-meetup-vue-test-re)
 - [NPM 배포하기 - Vue.js ESLint 패키지](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
 - [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531/)
+- [바닥부터 시작하는 Vue 컴포넌트 테스트](https://tech.kakao.com/2019/11/27/kakao-business-vue-component-test/)
+- [Vue.js: The Documentary [영상]](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 
 
 ### TypeScript
@@ -160,6 +163,7 @@
 - [TypeScript와 함께하는 Fullstack Development](https://medium.com/p/501835592b1d)
 - [TypeScript Deep Dive [영문]](https://basarat.gitbooks.io/typescript/content/)
 - [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
+- [리액트 프로젝트에서 타입스크립트 사용하기](https://velog.io/@velopert/typescript-basics)
 
 
 --------------------------------------
