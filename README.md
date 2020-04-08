@@ -36,6 +36,12 @@
 
 
 - (여기에 추가해주세요.)
+- [NIO 기반 입출력 및 네트워킹 - TCP 블로킹 채널](https://palpit.tistory.com/644?category=843239)
+- [같이 일하고 싶은 사람](https://brunch.co.kr/@hyungsukkim/99)
+- [CORS 정책](https://vvshinevv.tistory.com/61)
+- [AWS 람다의 동작 방식](https://medium.com/@dayzen/how-aws-lambda-work-internally-77f7fecd6d71)
+- [Slack Block Kit 활용](https://helloworld.kurly.com/blog/slack_block_kit/)
+- [AWS 비용을 줄이는 10가지 방법](https://aws.amazon.com/ko/blogs/compute/10-things-you-can-do-today-to-reduce-aws-costs/)
 - [컴포넌트 분리의 미학](https://vallista.kr/2020/03/29/Component-%EB%B6%84%EB%A6%AC%EC%9D%98-%EB%AF%B8%ED%95%99/)
 - [개발자의 글쓰기, 기술 블로그에 대하여 한재엽님의 포스팅입니다.](https://jbee.io/essay/writing-of-developers/)
 - [자바 최적화 - GC 로깅](https://12bme.tistory.com/543?category=785013)
