@@ -101,6 +101,7 @@
 - [ECMAScript ES2016~ES2020 정리](https://junhobaik.github.io/es2016-es2020/)
 - [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
 - [Promise, 가만히 냅두면 어떻게 될까? [번역]](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
+- [자바스크립트 옵저버 API들 간략히 소개](https://www.huskyhoochu.com/js-observers/)
 
 
 ### Node.js

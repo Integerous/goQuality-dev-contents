@@ -338,3 +338,5 @@
 - [원티드 제품 개발 5년의 기록](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%A0%9C%ED%92%88-%EA%B0%9C%EB%B0%9C-5%EB%85%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-d353b1231896)
 - [Illustrated explanations of web development, technology & a little bit of anthropology.](https://illustrated.dev/)
 - [질병관리본부 챗봇 만들기](https://tess.dev/posts/kcdc-chat-bot)
+- [iOS의 Bitcode 컴파일로 살펴보는 크로스 플랫폼 전략](https://unifiedh.com/ko/ios-bitcode-compilation-llvm-cross-platform)
+- [30 seconds of code](https://www.30secondsofcode.org/)

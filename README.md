@@ -144,19 +144,6 @@
 - [구글 면접 과정 일기](https://brunch.co.kr/@cmiscm/15)
 - [await vs return vs return await [번역]](https://perade.github.io/blog/await-vs-return-vs-return-await/)
 - [하루에 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
-- [자바스크립트 옵저버 API들 간략히 소개](https://www.huskyhoochu.com/js-observers/)
-- [Java Collections Heap Dump 분석](https://brunch.co.kr/@springboot/367)
-- [렛츠인크립트, 300만 개 넘는 디지털 인증서 폐지](http://m.boannews.com/html/detail.html?idx=86797)
-- [웹/앱 프로그래밍 배우기](https://m.clien.net/service/board/lecture/14662072?od=T31&po=0&category=&groupCd=)
-- [앵귤러9에서의 컴포넌트 단위 지연로드](https://johnpapa.net/angular-9-lazy-loading-components/)
-- [아무도 말하지 않는 PHP의 좋은 점 [번역]](https://mytory.net/2018/10/13/good-thing-in-php-nobody-talks-about.html)
-- [스프링 디자인패턴](https://www.baeldung.com/spring-framework-design-patterns)
-- [레거시 코드를 점진적으로 개선한 경험](https://sogoagain.github.io/2020/03/08/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%9C-%EA%B2%BD%ED%97%98/)
-- [Github Page와 Hexo로 블로그 만들고 테마 적용하기 + 검색엔진 최적화(SEO)](https://kinetic27.github.io/2020/03/06/build-blog-with-hexo-github/)
-- [30 seconds of code](https://www.30secondsofcode.org/js/p/1/)
-- [xUnit 테스팅 프레임워크를 TDD로 만들어보자 [영상]](https://www.youtube.com/watch?v=tdKFZcZSJmg)
-- [SpringRestDocs를 SpringBoot에 적용하기](https://taetaetae.github.io/2020/03/08/spring-rest-docs-in-spring-boot/)
-- [iOS의 Bitcode 컴파일로 살펴보는 크로스 플랫폼 전략](https://unifiedh.com/ko/ios-bitcode-compilation-llvm-cross-platform)
 
 
 --------------------------------------
