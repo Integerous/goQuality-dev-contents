@@ -36,6 +36,10 @@
 
 
 - (여기에 추가해주세요.)
+- [코드리뷰로 시작하는 건강한 개발 문화](https://blog.shiren.dev/2020-01-11-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B1%B4%EA%B0%95%ED%95%9C-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94/)
+- [JavaScript 인터뷰 : 주요 질문 설명](https://dev.to/educative/acing-the-javascript-interview-top-questions-explained-59b7)
+- [ECMAScript 2020의 새로운 점](https://ui.toast.com/weekly-pick/ko_20200409)
+- [도커 이미지 잘 만드는 방법](https://jonnung.dev/docker/2020/04/08/optimizing-docker-images/)
 - [NIO 기반 입출력 및 네트워킹 - TCP 블로킹 채널](https://palpit.tistory.com/644?category=843239)
 - [같이 일하고 싶은 사람](https://brunch.co.kr/@hyungsukkim/99)
 - [CORS 정책](https://vvshinevv.tistory.com/61)
