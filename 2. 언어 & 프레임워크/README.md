@@ -135,6 +135,8 @@
 - [xUnit 테스팅 프레임워크를 TDD로 만들어보자 [영상]](https://www.youtube.com/watch?v=tdKFZcZSJmg)
 - [스프링 디자인패턴](https://www.baeldung.com/spring-framework-design-patterns)
 - [Java Collections Heap Dump 분석](https://brunch.co.kr/@springboot/367)
+- [JPA 기반 테스트 코드 작성 팁](https://cheese10yun.github.io/jpa-test-support/)
+- [토비의 스프링 부트 1 - 스프링 부트 앱에 초기화 코드를 넣는 방법 3가지](https://www.youtube.com/watch?v=f017PD5BIEc)
 
 
 ### JVM

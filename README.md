@@ -141,13 +141,6 @@
 - [컴퓨터공학과 새내기가 수강신청하는 법](https://blog.ch4n3.me/493)
 - [Querydsl Repository Support 활용](https://cheese10yun.github.io/querydsl-support/)
 - [유니티, 증강현실 앱개발 런칭기 (iOS, Android)](https://brunch.co.kr/@chickenmoim/18)
-- [토비의 스프링 부트 1 - 스프링 부트 앱에 초기화 코드를 넣는 방법 3가지](https://www.youtube.com/watch?v=f017PD5BIEc)
-- [JPA 기반 테스트 코드 작성 팁](https://cheese10yun.github.io/jpa-test-support/)
-- [프론트엔드  트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
-- [취직 준비를 위해 좋은 포트폴리오 만드는 방법](https://okky.kr/article/663519)
-- [구글 면접 과정 일기](https://brunch.co.kr/@cmiscm/15)
-- [await vs return vs return await [번역]](https://perade.github.io/blog/await-vs-return-vs-return-await/)
-- [하루에 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
 
 
 --------------------------------------

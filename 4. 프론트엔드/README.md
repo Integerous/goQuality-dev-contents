@@ -102,6 +102,8 @@
 - [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
 - [Promise, 가만히 냅두면 어떻게 될까? [번역]](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
 - [자바스크립트 옵저버 API들 간략히 소개](https://www.huskyhoochu.com/js-observers/)
+- [await vs return vs return await [번역]](https://perade.github.io/blog/await-vs-return-vs-return-await/)
+- [프론트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
 
 
 ### Node.js
