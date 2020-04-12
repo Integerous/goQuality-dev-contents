@@ -1,6 +1,7 @@
 # 3. 백엔드
 
 ### 서버 & 클라우드 & 아키텍쳐
+- [나는 코드를 쓸테니, 너는 인프라를 맡거라.](https://blog.hax0r.info/2018-11-28/i-will-write-the-code-you-will-be-in-charge-of-the-infrastructure/)
 - [넷플릭스가 AWS로 이전한 과정](http://bit.ly/2PlJZmo)
 - [Serverless와 기술도입, Backend Application의 미래](http://bit.ly/2A0SmPh)
 - [월간 300억 동접자 수를 처리한 방법에 대한 글 [번역]](http://bit.ly/2IMJZts)
