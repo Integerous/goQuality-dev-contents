@@ -36,6 +36,12 @@
 
 
 - (여기에 추가해주세요.)
+- [두 달 간의 신입 개발자 온보딩 과정을 돌아보며 – 신입 개발자들과의 인터뷰](https://tech.kakao.com/2020/03/30/newkrew-interview/)
+- [개발자와 명상](https://blog.shiren.dev/2020-03-24-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80%EB%AA%85%EC%83%81/)
+- [SpringBoot REST API client인증처리,OAuth2.0](https://handcoding.tistory.com/165)
+- [GRASP (object-oriented design)](https://velog.io/@lsb156/GRASP-object-oriented-design)
+- [SQLP - 동시성 제어](https://kslee7746.tistory.com/entry/SQLP-동시성-제어)
+- [코드로 자음과 모음을 분리하기](https://www.notion.so/3c40c025b9bc474da00add82f9c301ad)
 - [브라우저에서 도커 핸즈온가능한 랩스](https://birthday.play-with-docker.com/)
 - [구글 시트에 뉴스 정리하는 법](https://brunch.co.kr/@sijin90/52)
 - [(번역) 세상은 왜 CSS개발자를 필요로 하는가?](https://medium.com/@Baksure/%EB%B2%88%EC%97%AD-%EC%84%B8%EC%83%81%EC%9D%80-%EC%99%9C-css%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%ED%95%84%EC%9A%94%EB%A1%9C-%ED%95%98%EB%8A%94%EA%B0%80-c3465999301b)
