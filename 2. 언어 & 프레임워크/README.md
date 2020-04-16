@@ -130,6 +130,13 @@
 - [Java enum의 사용](https://johngrib.github.io/wiki/java-enum/)
 - [자바에서 비동기를 어떻게 구현해 볼 수 있을까?](https://github.com/homelus/asynchronous-example)
 - [Spring Batch와 Querydsl](http://woowabros.github.io/experience/2020/02/05/springbatch-querydsl.html)
+- [Java 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)
+- [Spring WebFlux와 Armeria를 이용하여 Microservice에 필요한 Reactive + RPC 동시에 잡기](https://d2.naver.com/helloworld/6080222)
+- [xUnit 테스팅 프레임워크를 TDD로 만들어보자 [영상]](https://www.youtube.com/watch?v=tdKFZcZSJmg)
+- [스프링 디자인패턴](https://www.baeldung.com/spring-framework-design-patterns)
+- [Java Collections Heap Dump 분석](https://brunch.co.kr/@springboot/367)
+- [JPA 기반 테스트 코드 작성 팁](https://cheese10yun.github.io/jpa-test-support/)
+- [토비의 스프링 부트 1 - 스프링 부트 앱에 초기화 코드를 넣는 방법 3가지](https://www.youtube.com/watch?v=f017PD5BIEc)
 
 
 ### JVM
@@ -156,6 +163,8 @@
 - [JPA N+1 발생원인과 해결방법](https://github.com/cheese10yun/blog-sample/tree/master/jpa-n-plus-1)
 - [DBA와 개발자가 모두 행복해지는 Hibernate의 in_clause_parameter_padding 옵션](https://meetup.toast.com/posts/211)
 - [JPA 벌크 작업시 주의할 점](https://cheese10yun.github.io/jpa-bulk/)
+- [JPA 선호하는 패턴 정리](https://cheese10yun.github.io/jpa-preference/)
+- [Querydsl Projection 방법 소개 및 선호하는 패턴 정리](https://cheese10yun.github.io/querydsl-projections/)
 
 
 --------------------------------------
@@ -169,6 +178,7 @@
 - [Python 프로젝트 시작하기](http://j.mp/2Ss7xrx)
 - [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 - [Django 3.0 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-3-0-release-note-summary)
+- [파이썬(Python) datetime 클래스 치트시트](https://www.44bits.io/ko/post/python-datatime-cheetsheet)
 
 
 --------------------------------------
@@ -182,6 +192,7 @@
 - [Go 작업 훔치기 스케쥴러 고루틴 스케쥴링 원리[번역]](https://hueypark.gitlab.io/post/2018-10-13-go-work-stealing-scheduler/)
 - [고루틴 vs 쓰레드](https://tech.ssut.me/goroutine-vs-threads/)
 - [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc/)
+- [컨테이너 내부 Go 애플리케이션 디버깅하기](https://mingrammer.com/debugging-containerized-go-app/)
 
 
 --------------------------------------

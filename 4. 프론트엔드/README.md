@@ -99,6 +99,11 @@
 - [자바스크립트에 적용한 클린코드 [번역]](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
 - [자바스크립트 개발자가 알아야하는 33가지 개념 [번역]](https://github.com/yjs03057/33-js-concepts)
 - [ECMAScript ES2016~ES2020 정리](https://junhobaik.github.io/es2016-es2020/)
+- [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
+- [Promise, 가만히 냅두면 어떻게 될까? [번역]](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
+- [자바스크립트 옵저버 API들 간략히 소개](https://www.huskyhoochu.com/js-observers/)
+- [await vs return vs return await [번역]](https://perade.github.io/blog/await-vs-return-vs-return-await/)
+- [프론트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
 
 
 ### Node.js
@@ -110,6 +115,7 @@
 - [3분만에 Node.js 이해하기 [번역]](https://menuand.tistory.com/m/3?category=817925)
 - [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)
 - [Node.js의 순환 의존성](https://blog.outsider.ne.kr/1283?category=24)
+- [견고한 node.js 프로젝트 설계하기 [번역]](https://velog.io/@hopsprings2/%EA%B2%AC%EA%B3%A0%ED%95%9C-node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)
 
 
 ### React.js
@@ -135,6 +141,7 @@
 - [React.js 개발자를 위한 SSR 앱 개발 및 배포하기 [슬라이드]](https://www.slideshare.net/awskr/aws-community-day-2020-reactjs-ssr)
 - [리액트 function component와 class component는 어떻게 다를까? [번역]](https://www.hamadevelop.me/reactfunctionclassdiff/)
 - [useEffect 완벽가이드 [번역]](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
+- [patch-package를 활용한 NPM 패키지 패치(patch) 사례 (feat. React Native)](https://medium.com/naver-place-dev/patch-package를-활용한-npm-패키지-패치-patch-사례-feat-react-native-ee1fc399b7c2)
 
 
 ### Vue.js
@@ -149,6 +156,8 @@
 - [바닥부터 시작하는 Vue 테스트와 리팩토링 [슬라이드]](https://www.slideshare.net/ifkakao/kakao-fe-meetup-vue-test-re)
 - [NPM 배포하기 - Vue.js ESLint 패키지](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
 - [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531/)
+- [바닥부터 시작하는 Vue 컴포넌트 테스트](https://tech.kakao.com/2019/11/27/kakao-business-vue-component-test/)
+- [Vue.js: The Documentary [영상]](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 
 
 ### TypeScript
@@ -157,6 +166,7 @@
 - [TypeScript와 함께하는 Fullstack Development](https://medium.com/p/501835592b1d)
 - [TypeScript Deep Dive [영문]](https://basarat.gitbooks.io/typescript/content/)
 - [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
+- [리액트 프로젝트에서 타입스크립트 사용하기](https://velog.io/@velopert/typescript-basics)
 
 
 --------------------------------------
@@ -216,6 +226,7 @@
 - [따릉아! 문제는 UX/UI야!](https://brunch.co.kr/@supernova9/180)
 - [UX/UI 다이렉트하게 만들어라](https://brunch.co.kr/@plusx/21)
 - [나눔 고딕 웹 폰트에 대한 고찰](https://moonspam.github.io/NanumGothic-Review/)
+- [정산의 시간 App 기획부터 GUI까지](https://medium.com/@hyunji5834/정산의-시간-app-기획부터-gui까지-f296d11805ea)
 
 
 --------------------------------------

@@ -86,6 +86,9 @@
 - [지속 가능한 소프트웨어를 위한 코딩 방법](https://meetup.toast.com/posts/214)
 - [코드 가독성에 대하여 3탄 - 상태와 절차](https://engineering.linecorp.com/ko/blog/code-readability-vol3/)
 - [서버 사이드 테스트 자동화 여정 – 1. 테스트 자동화를 시작한 계기와 그 첫 발걸음](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-1/)
+- [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
+- [프로그래머스 개발자 설문조사 2020](https://programmers.co.kr/pages/dev-survey-2020)
+- [레거시 코드를 점진적으로 개선한 경험](https://sogoagain.github.io/2020/03/08/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%9C-%EA%B2%BD%ED%97%98/)
 
 
 --------------------------------------
@@ -117,13 +120,14 @@
 - [소프트웨어 테스팅의 False Positive](https://gyuwon.github.io/blog/2018/12/19/false-positive-in-software-testing.html)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [RestTemplate Mock 기반 테스트 하기](https://cheese10yun.github.io/rest-template-mock-test/)
+- [실용적인 프런트엔드 테스트 전략 [영상]](https://www.youtube.com/watch?v=q9d631Nl0_4&feature=youtu.be)
 
 
 --------------------------------------
 
 ### 개발자 성장
-- [웹 개발자 로드맵 [번역]](https://github.com/devJang/developer-roadmap/blob/master/readme.md)
-- [24년차 개발자 우아한형제들의 김민태님 이야기 [영상]](https://www.facebook.com/tyzapzi/videos/481371182337888/UzpfSTEwMDAwMTQ4MDE4NjMzMzoxOTM0MTcwNTc2NjQyMjYz/?id=100001480186333)
+- [웹 개발자 로드맵 [번역]](https://github.com/devJang/developer-roadmap/blob/master/README.md)
+- [24년차 개발자 우아한형제들의 김민태님 이야기 [영상]](https://www.youtube.com/watch?v=U0YWdnSKDfw)
 - [개발자에서 개발팀장이 되기까지 겪은 5가지 실수 [번역]](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 - [10배 뛰어난 개발자 되기 [번역]](https://muchtrans.com/translations/10xdeveloper.ko.html)
 - [회사 밖에서 성장하기 [슬라이드]](https://speakerdeck.com/mingrammer/hoesa-baggeseo-seongjanghagi)
@@ -195,6 +199,7 @@
 - [개발 배우기가 정말 어려운 이유 [번역]](https://brunch.co.kr/@jypthemiracle/14)
 - [마켓컬리 개발자 이종립님 인터뷰](https://monthly-jiandson.tistory.com/49)
 - [열정적인 개발자가 번아웃을 피하는 방법 [영문]](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/)
+- [IT기자, 개발자로 돌아오다…CODEF 합류 10개월 후기](http://ohseyong.com/?p=2265)
 
 
 --------------------------------------
@@ -318,3 +323,5 @@
 - [지난 경력이 '물경력' 같다는 3년차 웹 개발자](https://prgms.tistory.com/18)
 - [자바스크립트 코딩테스트에서 가장 많이하는 실수들](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%B4%ED%95%98%EB%8A%94-%EC%8B%A4%EC%88%98%EB%93%A4-a10df2c884c)
 - [신입 개발자를 위한 기술 면접 모음](https://github.com/jobhope/TechnicalNote)
+- [구글 면접 과정 일기](https://brunch.co.kr/@cmiscm/15)
+- [취직 준비를 위해 좋은 포트폴리오 만드는 방법](https://okky.kr/article/663519)
