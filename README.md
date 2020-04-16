@@ -36,6 +36,17 @@
 
 
 - (여기에 추가해주세요.)
+- [기술면접 준비하기](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
+- [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
+- [개발자가 가지고 놀 만한 ‘똑똑한 API 17종’](http://www.ciokorea.com/news/149532)
+- [서머타임과 배치작업](https://meetup.toast.com/posts/232)
+- [깃헙 팁!](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
+- [Go의 철학 [번역]](https://marsettler.com/the-zen-of-go/)
+- [네이버 메인페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
+- [소프트웨어 정의 네트워킹(SDN)](https://no1.technology/13)
+- [S3 웹호스팅 이용하기 [Reactjs]](https://blog.wonizz.tk/2020/04/13/reactjs-s3-web-hosting/)
+- [바보같이 최적화 하는 법 (React.memo, 인라인)](https://www.notion.so/React-memo-1dfeb0c8a4fe4a45acf83b3602a6cf34)
+- [폴링,롱폴링 그리고 웹소켓에 대한 소개](https://valuefactory.tistory.com/263)
 - [두 달 간의 신입 개발자 온보딩 과정을 돌아보며 – 신입 개발자들과의 인터뷰](https://tech.kakao.com/2020/03/30/newkrew-interview/)
 - [개발자와 명상](https://blog.shiren.dev/2020-03-24-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80%EB%AA%85%EC%83%81/)
 - [SpringBoot REST API client인증처리,OAuth2.0](https://handcoding.tistory.com/165)
