@@ -36,6 +36,7 @@
 
 
 - (여기에 추가해주세요.)
+- [나는 코드를 쓸테니, 너는 인프라를 맡거라.](https://blog.hax0r.info/2018-11-28/i-will-write-the-code-you-will-be-in-charge-of-the-infrastructure/)
 - [기술면접 준비하기](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
 - [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
 - [개발자가 가지고 놀 만한 ‘똑똑한 API 17종’](http://www.ciokorea.com/news/149532)
