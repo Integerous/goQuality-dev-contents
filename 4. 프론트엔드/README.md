@@ -175,7 +175,6 @@
 - [미니멀 UI의 차기 트렌드 '컴플렉션 리덕션'](http://bit.ly/2RBMNxA)
 - [Material 디자인의 밀도에 대한 설명](http://bit.ly/2C4N0nx)
 - [키오스크 UI 설계 시 고려할 것들](http://bit.ly/2RBnawK)
-- [웹디자인 참고 사이트 모음](http://bit.ly/2A12w2e)
 - [최고의 UI/UX 애니메이션들 [영문]](http://bit.ly/2ONgDjX)
 - [2017년의 위험한 디자인 트렌드 [번역]](http://bit.ly/2ydy7MJ)
 - [10가지, 우리가 저지르고있는 작은 디자인 실수 [번역]](http://bit.ly/2IRtpZu)
