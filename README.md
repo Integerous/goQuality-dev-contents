@@ -36,6 +36,8 @@
 
 
 - (여기에 추가해주세요.)
+- [React에서 SVG 요리하기](https://chaewonkong.github.io/posts/react-svg.html)
+- [Druid의 Kafka Indexing에서 Roll-up은 어떻게 동작하는가?](https://leeyh0216.github.io/2020-04-19/Druid_Kafka_Indexing_Rollup)
 - [2020년 새로운 자바스크립트 기능](https://morioh.com/p/90a0bdfc554c)
 - [나만의 개발자 포트폴리오 만들기](https://geonlee.tistory.com/m/9)
 - [Vue.js 최근 소식들 — Vue3 베타 릴리즈 소식 등](https://medium.com/@jeongwooahn/vue-js-최근-소식들-vue3-베타-릴리즈-소식-등-b817bd199aeb)
