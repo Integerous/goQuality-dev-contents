@@ -36,6 +36,8 @@
 
 
 - (여기에 추가해주세요.)
+- [실용주의 Front-end 개발](https://peter-cho.gitbook.io/book/)
+- [Vue 3 에서 사용될 Composition API 정리](https://chodragon9.github.io/blog/composition-api-rfc-migration/#api-reference)
 - [React에서 SVG 요리하기](https://chaewonkong.github.io/posts/react-svg.html)
 - [Druid의 Kafka Indexing에서 Roll-up은 어떻게 동작하는가?](https://leeyh0216.github.io/2020-04-19/Druid_Kafka_Indexing_Rollup)
 - [2020년 새로운 자바스크립트 기능](https://morioh.com/p/90a0bdfc554c)
