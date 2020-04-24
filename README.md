@@ -36,6 +36,12 @@
 
 
 - (여기에 추가해주세요.)
+- [Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html)
+- [자바 - OOM 메모리 릭 찾기 이론편](https://blog.naver.com/PostView.nhn?blogId=2feelus&logNo=220765728530)
+- [AWS Lambda@Edge 이미지 리사이징](https://blog.wonizz.tk/2020/04/21/lambda-edge-guide/)
+- [2020년 4월 개발자가 가장 많이 구매한 책 top100](https://www.notion.so/03592f5e463e405ab4737057f41c22b1)
+- [HTTP2도 잘 모르는데 벌써 HTTP3](https://www.slideshare.net/InfraEngineer/meetup3rd-http2-http3)
+- [Nextjs 뭘로 배포할까 ? (Netlify, Vercel, GitHub page)](https://taeny.dev/javascript/nextjs-with-deployment-platform/#3-netlify-vs-vercel)
 - [메쉬코리아의 프론트엔드 엔지니어링 실천 사례를 공유합니다.](https://github.com/meshkorea/front-end-engineering)
 - [타입스크립트를 위한 클린코드 - 한글번역판](https://github.com/738/clean-code-typescript)
 - [PHP The right way](https://modernpug.github.io/php-the-right-way/)
