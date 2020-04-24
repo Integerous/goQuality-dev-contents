@@ -341,3 +341,4 @@
 - [질병관리본부 챗봇 만들기](https://tess.dev/posts/kcdc-chat-bot)
 - [iOS의 Bitcode 컴파일로 살펴보는 크로스 플랫폼 전략](https://unifiedh.com/ko/ios-bitcode-compilation-llvm-cross-platform)
 - [30 seconds of code](https://www.30secondsofcode.org/)
+- [초보 개발자를 위한 IT영단어 정리](https://brunch.co.kr/@hopeless/8)

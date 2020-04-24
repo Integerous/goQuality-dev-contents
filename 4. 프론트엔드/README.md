@@ -142,6 +142,8 @@
 - [리액트 function component와 class component는 어떻게 다를까? [번역]](https://www.hamadevelop.me/reactfunctionclassdiff/)
 - [useEffect 완벽가이드 [번역]](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
 - [patch-package를 활용한 NPM 패키지 패치(patch) 사례 (feat. React Native)](https://medium.com/naver-place-dev/patch-package를-활용한-npm-패키지-패치-patch-사례-feat-react-native-ee1fc399b7c2)
+- [Jest로 기본적인 테스트 작성하기](https://www.daleseo.com/jest-basic/)
+- [ReactJS의 Virtual DOM과 Repaint, Reflow](http://blog.drakejin.me/React-VirtualDOM-And-Repaint-Reflow/)
 
 
 ### Vue.js
@@ -255,3 +257,4 @@
 - [Flutter를 배우기 위한 강좌 및 사이트 추천](https://medium.com/@sangin84/flutter-%ED%94%8C%EB%9F%AC%ED%84%B0-%EB%A5%BC-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EA%B0%95%EC%A2%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EC%B2%9C-97bfee35b20)
 - [안드로이드 개발자라면 꼭 해야하는 & 알아야 하는 6가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%9D%BC%EB%A9%B4-%EA%BC%AD-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94-6%EA%B0%80%EC%A7%80-23df7f059da3)
 - [공식문서 만으로 iOS 개발 배우기](https://sungdoo.dev/programming/start-ios-development-with-offical-docs/)
+- [유니티, 증강현실 앱개발 런칭기 (iOS, Android)](https://brunch.co.kr/@chickenmoim/18)

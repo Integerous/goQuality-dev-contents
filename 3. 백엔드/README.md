@@ -152,6 +152,7 @@
 - [배달의민족 최전방 시스템! '가게노출 시스템'을 소개합니다.](https://woowabros.github.io/experience/2020/02/19/introduce-shop-display.html)
 - [안심번호 마이크로서비스 개발하기](https://medium.com/daangn/%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-fb1a8817b059)
 - [코딩 없이 10분 만에 REST API/Graphql 서버 개발하기](https://medium.com/@khwsc1/js%EB%A1%9C-10%EB%B6%84%EB%A7%8C%EC%97%90-rest-api-graphql-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d28148dbdef2)
+- [LINE 메시징 서버가 새해 트래픽을 대비하는 과정](https://engineering.linecorp.com/ko/blog/how-line-messaging-servers-prepare-for-new-year-traffic/)
 
 
 --------------------------------------
@@ -248,6 +249,7 @@
 - [중국의 어떤 서버 개발자의 DB설계](https://blog.naver.com/imays/221461537682)
 - [Mysql Explain](https://cheese10yun.github.io/mysql-explian/)
 - [200만 동접 게임을 위한 MySQL 샤딩 [영상]](https://youtube.com/watch?v=8Eb_n7JA1yA&feature=youtu.be)
+- [개발자를 위한 레디스 튜토리얼](https://meetup.toast.com/posts/224)
 
 
 --------------------------------------

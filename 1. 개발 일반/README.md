@@ -89,6 +89,8 @@
 - [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
 - [프로그래머스 개발자 설문조사 2020](https://programmers.co.kr/pages/dev-survey-2020)
 - [레거시 코드를 점진적으로 개선한 경험](https://sogoagain.github.io/2020/03/08/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%9C-%EA%B2%BD%ED%97%98/)
+- [뱅크샐러드 재택 근무 생산성](https://blog.banksalad.com/tech/work-from-home/)
+- [새로 입사한 개발자가 프로젝트에 기여하는 방법 한 가지](https://helloworld.kurly.com/blog/fix-style-with-command/)
 
 
 --------------------------------------
@@ -121,6 +123,7 @@
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [RestTemplate Mock 기반 테스트 하기](https://cheese10yun.github.io/rest-template-mock-test/)
 - [실용적인 프런트엔드 테스트 전략 [영상]](https://www.youtube.com/watch?v=q9d631Nl0_4&feature=youtu.be)
+- [커버 불가능한 코드](https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/)
 
 
 --------------------------------------
