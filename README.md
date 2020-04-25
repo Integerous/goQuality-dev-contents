@@ -36,6 +36,8 @@
 
 
 - (여기에 추가해주세요.)
+- [실용주의 Front-end 개발](https://peter-cho.gitbook.io/book/)
+- [Vue 3 에서 사용될 Composition API 정리](https://chodragon9.github.io/blog/composition-api-rfc-migration/#api-reference)
 - [Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html)
 - [자바 - OOM 메모리 릭 찾기 이론편](https://blog.naver.com/PostView.nhn?blogId=2feelus&logNo=220765728530)
 - [AWS Lambda@Edge 이미지 리사이징](https://blog.wonizz.tk/2020/04/21/lambda-edge-guide/)
