@@ -130,6 +130,9 @@
 - [개발자를 위한 새로운 SameSite=None; 보안 쿠키 설정에 대비하기](https://developers-kr.googleblog.com/2020/01/developers-get-ready-for-new.html)
 - [Puppeteer로 크롤러 만들기](https://yangeok.github.io/node.js/2019/09/09/puppeteer-crawler-pre.html)
 - [로그인이 필요한 API 똑똑하게 테스트하는 방법 - postman 활용](https://blog.naver.com/pjt3591oo/221822014861)
+- [Let's Encrypt 와일드카드 인증서 발급받기](https://ilcm96.me/2020-03-16-let-encrypt-wildcard)
+- [이렇게 기획하면 안 돼요! #회원가입](https://germweapon.tistory.com/384)
+
 
 --------------------------------------
 
@@ -342,3 +345,4 @@
 - [iOS의 Bitcode 컴파일로 살펴보는 크로스 플랫폼 전략](https://unifiedh.com/ko/ios-bitcode-compilation-llvm-cross-platform)
 - [30 seconds of code](https://www.30secondsofcode.org/)
 - [초보 개발자를 위한 IT영단어 정리](https://brunch.co.kr/@hopeless/8)
+- [개발자들이 꺼려하는 까칠한 규식이 형](https://helloworld.kurly.com/blog/reg-exp-01/)
