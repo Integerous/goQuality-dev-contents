@@ -229,6 +229,7 @@
 - [UX/UI 다이렉트하게 만들어라](https://brunch.co.kr/@plusx/21)
 - [나눔 고딕 웹 폰트에 대한 고찰](https://moonspam.github.io/NanumGothic-Review/)
 - [정산의 시간 App 기획부터 GUI까지](https://medium.com/@hyunji5834/정산의-시간-app-기획부터-gui까지-f296d11805ea)
+- [뉴모피즘은 새로운 UI 트렌드가 될 수 있을까?](https://brunch.co.kr/@cliche-cliche/32)
 
 
 --------------------------------------

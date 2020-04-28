@@ -91,6 +91,7 @@
 - [레거시 코드를 점진적으로 개선한 경험](https://sogoagain.github.io/2020/03/08/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%9C-%EA%B2%BD%ED%97%98/)
 - [뱅크샐러드 재택 근무 생산성](https://blog.banksalad.com/tech/work-from-home/)
 - [새로 입사한 개발자가 프로젝트에 기여하는 방법 한 가지](https://helloworld.kurly.com/blog/fix-style-with-command/)
+- [Railway oriented programming](https://medium.com/@0e/%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%89%E1%85%A5-rop%E1%84%80%E1%85%A1-%E1%84%86%E1%85%AF%E1%86%AB%E1%84%83%E1%85%A6-%E1%84%8A%E1%85%B5%E1%86%B8%E1%84%83%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%A1-railway-oriented-programming-4e8070c04bda?source=friends_link&sk=92a710ea2cbf1a227417ed0702f38b47)
 
 
 --------------------------------------
@@ -124,6 +125,7 @@
 - [RestTemplate Mock 기반 테스트 하기](https://cheese10yun.github.io/rest-template-mock-test/)
 - [실용적인 프런트엔드 테스트 전략 [영상]](https://www.youtube.com/watch?v=q9d631Nl0_4&feature=youtu.be)
 - [커버 불가능한 코드](https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/)
+- [JUnit5로 계층 구조의 테스트 코드 작성하기](https://johngrib.github.io/wiki/junit5-nested/)
 
 
 --------------------------------------
@@ -246,6 +248,7 @@
 - [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지 [영상]](https://www.youtube.com/watch?v=V9AGvwPmnZU)
 - [소주 1병 조지고 쓴 1년차 개발자의 아찔했던 순간들](https://jay-ji.tistory.com/m/42)
 - [주니어 개발자가 공부하는 법](https://medium.com/@a01058406602/%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-677b58e4111d)
+- [정산지기를 향한 첫걸음 (feat. 파일럿 프로젝트)](https://woowabros.github.io/experience/2020/03/02/pilot-project-wbluke.html)
 
 
 --------------------------------------
@@ -328,3 +331,6 @@
 - [신입 개발자를 위한 기술 면접 모음](https://github.com/jobhope/TechnicalNote)
 - [구글 면접 과정 일기](https://brunch.co.kr/@cmiscm/15)
 - [취직 준비를 위해 좋은 포트폴리오 만드는 방법](https://okky.kr/article/663519)
+- [개발자를 위한 면접 지침 [번역]](https://blog.rhostem.com/posts/2019-01-05-developer-guide-for-interview)
+- [신입 개발자 면접 질문 리스트](https://www.notion.so/54d624628a634c879cc93d94f54cd2d1)
+- [프로그래머스 2020 Dev-Matching 웹 프론트엔드 개발자(상반기) 후기](https://taeny.dev/essay/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-2020-dev-matching-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90(%EC%83%81%EB%B0%98%EA%B8%B0)-%ED%9B%84%EA%B8%B0/)
