@@ -132,6 +132,7 @@
 - [로그인이 필요한 API 똑똑하게 테스트하는 방법 - postman 활용](https://blog.naver.com/pjt3591oo/221822014861)
 - [Let's Encrypt 와일드카드 인증서 발급받기](https://ilcm96.me/2020-03-16-let-encrypt-wildcard)
 - [이렇게 기획하면 안 돼요! #회원가입](https://germweapon.tistory.com/384)
+- [서버의 상태를 알려주는 HTTP 상태코드](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
 
 
 --------------------------------------
@@ -148,6 +149,7 @@
 - [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest의-representation이란-무엇인가/)
 - [REST API가 뭔가요? [영상]](https://youtu.be/iOueE9AXDQQ)
 - [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
+- [조금 더 괜찮은 Rest Template 1부 - Retryable](https://taetaetae.github.io/2020/03/22/better-rest-template-1-retryable/)
 
 
 --------------------------------------
@@ -346,3 +348,5 @@
 - [30 seconds of code](https://www.30secondsofcode.org/)
 - [초보 개발자를 위한 IT영단어 정리](https://brunch.co.kr/@hopeless/8)
 - [개발자들이 꺼려하는 까칠한 규식이 형](https://helloworld.kurly.com/blog/reg-exp-01/)
+- [오크(ORK) – 난독화 컴파일러 도구](https://engineering.linecorp.com/ko/blog/code-obfuscation-compiler-tool-ork-1)
+- [어떻게 하면 안전하게 함수를 합성할 수 있을까?](https://evan-moon.github.io/2020/01/27/safety-function-composition/)

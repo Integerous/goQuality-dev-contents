@@ -139,6 +139,9 @@
 - [Spring RestTemplate Mock 기반 테스트 하기](https://www.popit.kr/spring-resttemplate-mock-기반-테스트-하기/)
 - [스프링 레거시 코드를 개선하는 13가지 방법](https://sogoagain.github.io/2020/03/08/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%9C-%EA%B2%BD%ED%97%98/)
 - [ModelAttribute, SessionAttribute(s)의 모든 것](https://jordy-torvalds.tistory.com/15)
+- [Ktor로 Todo 서비스 빠르게 만들기](https://www.popit.kr/ktor%eb%a1%9c-todo-%ec%84%9c%eb%b9%84%ec%8a%a4-%eb%b9%a0%eb%a5%b4%ea%b2%8c-%eb%a7%8c%eb%93%a4%ea%b8%b0/)
+- [스프링 기반 외부 인프라스트럭처 테스트](https://cheese10yun.github.io/spring-mock-test/)
+- [토비의 봄을 담은 제네릭 1편](https://jordy-torvalds.tistory.com/16)
 
 
 ### JVM

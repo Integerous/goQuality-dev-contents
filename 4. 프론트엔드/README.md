@@ -230,12 +230,13 @@
 - [나눔 고딕 웹 폰트에 대한 고찰](https://moonspam.github.io/NanumGothic-Review/)
 - [정산의 시간 App 기획부터 GUI까지](https://medium.com/@hyunji5834/정산의-시간-app-기획부터-gui까지-f296d11805ea)
 - [뉴모피즘은 새로운 UI 트렌드가 될 수 있을까?](https://brunch.co.kr/@cliche-cliche/32)
+- [React Native UI 개발 시작하기](https://wit.nts-corp.com/2020/03/23/6014)
+- [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
 
 
 --------------------------------------
 
 ### 모바일 & iOS & 안드로이드
->iOS 개발자라면 [iOS 개발에 대한 질문과 답변 모음](http://bit.ly/2yhZa9Q)에 꼭 방문해보세요!
 - [모바일 디자인할 때 그리드 시스템 꼭 사용해야 할까?](http://bit.ly/2yrPNDB)
 - [카카오뱅크 모바일앱 개발 이야기 [영상]](http://bit.ly/2pWcooj)
 - [안드로이드 모션 레이아웃 설명 [영문]](http://bit.ly/2CSZgsC)
@@ -259,3 +260,4 @@
 - [안드로이드 개발자라면 꼭 해야하는 & 알아야 하는 6가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%9D%BC%EB%A9%B4-%EA%BC%AD-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94-6%EA%B0%80%EC%A7%80-23df7f059da3)
 - [공식문서 만으로 iOS 개발 배우기](https://sungdoo.dev/programming/start-ios-development-with-offical-docs/)
 - [유니티, 증강현실 앱개발 런칭기 (iOS, Android)](https://brunch.co.kr/@chickenmoim/18)
+- [iOS(Swift, Objc) 질문과 답변 모음](https://github.com/ClintJang/ios-swift-objc-questions-and-answers/blob/master/README.md#%EC%9E%90%EC%B2%B4%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%97%86%EC%9D%B4-%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8%EB%A7%8C-%EB%B6%99%EC%9D%B4%EB%A0%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EB%8D%B0-%EC%95%A0%ED%94%8C-%EB%A6%AC%EC%A0%9D%EC%82%AC%EC%9C%A0%EC%9D%B8%EA%B0%80%EC%9A%94)

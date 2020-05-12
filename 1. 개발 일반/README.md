@@ -92,6 +92,7 @@
 - [뱅크샐러드 재택 근무 생산성](https://blog.banksalad.com/tech/work-from-home/)
 - [새로 입사한 개발자가 프로젝트에 기여하는 방법 한 가지](https://helloworld.kurly.com/blog/fix-style-with-command/)
 - [Railway oriented programming](https://medium.com/@0e/%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%89%E1%85%A5-rop%E1%84%80%E1%85%A1-%E1%84%86%E1%85%AF%E1%86%AB%E1%84%83%E1%85%A6-%E1%84%8A%E1%85%B5%E1%86%B8%E1%84%83%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%A1-railway-oriented-programming-4e8070c04bda?source=friends_link&sk=92a710ea2cbf1a227417ed0702f38b47)
+- [세상에 나쁜 코드는 없다](https://brunch.co.kr/@kmongdev/18)
 
 
 --------------------------------------
@@ -334,3 +335,4 @@
 - [개발자를 위한 면접 지침 [번역]](https://blog.rhostem.com/posts/2019-01-05-developer-guide-for-interview)
 - [신입 개발자 면접 질문 리스트](https://www.notion.so/54d624628a634c879cc93d94f54cd2d1)
 - [프로그래머스 2020 Dev-Matching 웹 프론트엔드 개발자(상반기) 후기](https://taeny.dev/essay/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-2020-dev-matching-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90(%EC%83%81%EB%B0%98%EA%B8%B0)-%ED%9B%84%EA%B8%B0/)
+- [LINE 신입 SW 개발자 코딩 테스트, 이렇게 만들어졌습니다](https://engineering.linecorp.com/ko/blog/2020-line-sw-developer-recruit-coding-test/)
