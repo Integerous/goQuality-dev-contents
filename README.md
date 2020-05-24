@@ -35,6 +35,10 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [Promise Combinators 정리](https://junwoo45.github.io/2020-05-13-promise_combinators/)
+- [RabbitMQ 아주 기초적이게 사용하기 - Java(feat.Hello World!)](https://kamang-it.tistory.com/m/entry/AMQPRabbitMQRabbitMQ아주-기초적이게-사용하기-JavafeatHello-World-2)
+- [Python 데이터 분석 실무](https://wikidocs.net/book/1867)
+- [개발자, 트렌드를 버리다 — 1년 후 소감](https://link.medium.com/8u2AYhCfK6)
 - [Bash Scripting: Everything you need to know about Bash-shell programming](https://itnext.io/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba)
 - [Database Driven Development에서 진짜 DDD로의 선회 -1-](https://helloworld.kurly.com/blog/road-to-ddd/)
 - [Hexo에서 Gatsby로 블로그 마이그레이션 야크쉐이빙 후기](https://evan-moon.github.io/2020/05/09/gatsby-migration-retrospective/)
