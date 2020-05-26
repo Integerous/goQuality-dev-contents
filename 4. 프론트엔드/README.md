@@ -53,7 +53,7 @@
 - [DOM은 정확히 무엇일까? [번역]](https://wit.nts-corp.com/2019/02/14/5522)
 - [JavaScript Essentials: 자료형과 자료구조 [번역]](https://link.medium.com/NwyGeg1MrU)
 - [ECMAScript와 TC39](https://ahnheejong.name/articles/ecmascript-tc39/)
-- [코드리뷰를 위한 좋은 코딩 - Javascript 편](https://amati.io/2019/04/18/good-coding-for-codereview-on-javascript/)
+- [코드리뷰를 위한 좋은 코딩 - Javascript 편](https://amati.io/good-coding-for-codereview-on-javascript/)
 - [Async & Await 사용한 동기식 자바스크립트 사용](https://blueshw.github.io/2018/02/27/async-await/)
 - [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
 - [JavaScript 바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자](https://moonformeli.tistory.com/28)
