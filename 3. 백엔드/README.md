@@ -157,6 +157,7 @@
 - [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
 - [로드밸런서의 종류와 동작방식](https://deveric.tistory.com/m/91)
 - [Spring Batch 관리 도구로서의 Jenkins](https://jojoldu.tistory.com/489)
+- [카프카(Kafka)의 이해](https://devtimes.com/bigdata/2019/01/18/what-is-kafka/)
 
 
 --------------------------------------
@@ -210,6 +211,7 @@
 - [Docker for Windows 설치 및 문제 해결](https://blog.gaerae.com/2019/04/docker-for-windows-troubleshooting.html?m=1)
 - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 - [도커(Docker) 입문편: 컨테이너 기초부터 서버 배포까지](https://www.44bits.io/ko/post/easy-deploy-with-docker)
+- [도커 트러블슈팅 - 컨테이너 실행환경 디버깅: run, exec, commit 명령어 활용하기](https://www.44bits.io/ko/post/docker-container-trouble-shooting-by-exec-and-commit)
 
 
 ### 쿠버네티스 Kubernetes

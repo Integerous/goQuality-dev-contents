@@ -104,6 +104,9 @@
 - [자바스크립트 옵저버 API들 간략히 소개](https://www.huskyhoochu.com/js-observers/)
 - [await vs return vs return await [번역]](https://perade.github.io/blog/await-vs-return-vs-return-await/)
 - [프론트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
+- [React밖에 모르는 당신에게. GatsbyJS 한 잔, ‘채용~’](https://blog.banksalad.com/tech/build-a-website-with-gatsby/)
+- [FrontEnd Application에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)
+- [자바스크립트의 this를 알아보자.](https://1ilsang.dev/2020-03-31/js/this)
 
 
 ### Node.js
@@ -232,6 +235,7 @@
 - [뉴모피즘은 새로운 UI 트렌드가 될 수 있을까?](https://brunch.co.kr/@cliche-cliche/32)
 - [React Native UI 개발 시작하기](https://wit.nts-corp.com/2020/03/23/6014)
 - [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
+- [글자랑의 한글 가변폰트 실험](https://www.notion.so/49fca2912ab344edb0ef24b8f320440a)
 
 
 --------------------------------------
