@@ -35,6 +35,10 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [윈도우10 업데이트 내역](https://docs.microsoft.com/ko-kr/windows-insider/at-home/whats-new-wip-at-home-20h1)
+- [(2020) 1. 비전공자로 자바 백엔드 개발자 시작하기](https://jojoldu.tistory.com/505)
+- [Spring AMQP, RabbitMQ](https://brunch.co.kr/@springboot/298)
+- [깃헙 액션을 마켓에 등록해보자](https://meetup.toast.com/posts/241)
 - [CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/)
 - [스프링 배치 4.2 레퍼런스 한글 번역](https://godekdls.github.io/Spring%20Batch/domainlanguage/)
 - [frontend application 에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)
