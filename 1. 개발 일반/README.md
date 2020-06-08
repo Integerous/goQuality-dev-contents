@@ -206,6 +206,7 @@
 - [마켓컬리 개발자 이종립님 인터뷰](https://monthly-jiandson.tistory.com/49)
 - [열정적인 개발자가 번아웃을 피하는 방법 [영문]](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/)
 - [IT기자, 개발자로 돌아오다…CODEF 합류 10개월 후기](http://ohseyong.com/?p=2265)
+- [개발자의 글쓰기, 기술 블로그에 대하여](https://jbee.io/essay/writing-of-developers/)
 
 
 --------------------------------------

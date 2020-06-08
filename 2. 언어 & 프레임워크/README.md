@@ -152,6 +152,7 @@
 - [JVM memory leak 찾아 해결하기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
 - [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
 - [자바 메모리 관리 - 스택 & 힙](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
+- [자바 최적화 - GC 로깅](https://12bme.tistory.com/543?category=785013)
 
 
 ### JPA & Hibernate

@@ -147,6 +147,7 @@
 - [patch-package를 활용한 NPM 패키지 패치(patch) 사례 (feat. React Native)](https://medium.com/naver-place-dev/patch-package를-활용한-npm-패키지-패치-patch-사례-feat-react-native-ee1fc399b7c2)
 - [Jest로 기본적인 테스트 작성하기](https://www.daleseo.com/jest-basic/)
 - [ReactJS의 Virtual DOM과 Repaint, Reflow](http://blog.drakejin.me/React-VirtualDOM-And-Repaint-Reflow/)
+- [컴포넌트 분리의 미학](https://vallista.kr/2020/03/29/Component-%EB%B6%84%EB%A6%AC%EC%9D%98-%EB%AF%B8%ED%95%99/)
 
 
 ### Vue.js

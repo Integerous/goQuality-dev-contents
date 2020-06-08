@@ -151,7 +151,7 @@
 - [REST API가 뭔가요? [영상]](https://youtu.be/iOueE9AXDQQ)
 - [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
 - [조금 더 괜찮은 Rest Template 1부 - Retryable](https://taetaetae.github.io/2020/03/22/better-rest-template-1-retryable/)
-
+- [프론트엔드와 백엔드가 소통하는 엔드포인트, RESTful API](https://evan-moon.github.io/2020/04/07/about-restful-api/)
 
 --------------------------------------
 
@@ -351,3 +351,5 @@
 - [개발자들이 꺼려하는 까칠한 규식이 형](https://helloworld.kurly.com/blog/reg-exp-01/)
 - [오크(ORK) – 난독화 컴파일러 도구](https://engineering.linecorp.com/ko/blog/code-obfuscation-compiler-tool-ork-1)
 - [어떻게 하면 안전하게 함수를 합성할 수 있을까?](https://evan-moon.github.io/2020/01/27/safety-function-composition/)
+- [해쉬 충돌이 무엇이고 해결책을 알고 있나요?](https://stdin2stdout.tistory.com/entry/Q-%ED%95%B4%EC%89%AC-%EC%B6%A9%EB%8F%8C%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%ED%95%B4%EA%B2%B0%EC%B1%85%EC%9D%84-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94)
+- [Slack Block Kit 활용](https://helloworld.kurly.com/blog/slack_block_kit/)
