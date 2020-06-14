@@ -353,3 +353,4 @@
 - [어떻게 하면 안전하게 함수를 합성할 수 있을까?](https://evan-moon.github.io/2020/01/27/safety-function-composition/)
 - [해쉬 충돌이 무엇이고 해결책을 알고 있나요?](https://stdin2stdout.tistory.com/entry/Q-%ED%95%B4%EC%89%AC-%EC%B6%A9%EB%8F%8C%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%ED%95%B4%EA%B2%B0%EC%B1%85%EC%9D%84-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94)
 - [Slack Block Kit 활용](https://helloworld.kurly.com/blog/slack_block_kit/)
+- [구글 시트에 뉴스 정리하는 법](https://brunch.co.kr/@sijin90/52)

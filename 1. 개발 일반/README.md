@@ -93,6 +93,7 @@
 - [새로 입사한 개발자가 프로젝트에 기여하는 방법 한 가지](https://helloworld.kurly.com/blog/fix-style-with-command/)
 - [Railway oriented programming](https://medium.com/@0e/%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%89%E1%85%A5-rop%E1%84%80%E1%85%A1-%E1%84%86%E1%85%AF%E1%86%AB%E1%84%83%E1%85%A6-%E1%84%8A%E1%85%B5%E1%86%B8%E1%84%83%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%A1-railway-oriented-programming-4e8070c04bda?source=friends_link&sk=92a710ea2cbf1a227417ed0702f38b47)
 - [세상에 나쁜 코드는 없다](https://brunch.co.kr/@kmongdev/18)
+- [코드리뷰로 시작하는 건강한 개발 문화](https://blog.shiren.dev/2020-01-11-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B1%B4%EA%B0%95%ED%95%9C-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94/)
 
 
 --------------------------------------
@@ -207,6 +208,8 @@
 - [열정적인 개발자가 번아웃을 피하는 방법 [영문]](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/)
 - [IT기자, 개발자로 돌아오다…CODEF 합류 10개월 후기](http://ohseyong.com/?p=2265)
 - [개발자의 글쓰기, 기술 블로그에 대하여](https://jbee.io/essay/writing-of-developers/)
+- [같이 일하고 싶은 사람](https://brunch.co.kr/@hyungsukkim/99)
+- [개발자와 명상](https://blog.shiren.dev/2020-03-24-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80%EB%AA%85%EC%83%81/)
 
 
 --------------------------------------

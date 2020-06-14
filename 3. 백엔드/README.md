@@ -213,6 +213,7 @@
 - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 - [도커(Docker) 입문편: 컨테이너 기초부터 서버 배포까지](https://www.44bits.io/ko/post/easy-deploy-with-docker)
 - [도커 트러블슈팅 - 컨테이너 실행환경 디버깅: run, exec, commit 명령어 활용하기](https://www.44bits.io/ko/post/docker-container-trouble-shooting-by-exec-and-commit)
+- [도커 이미지 잘 만드는 방법](https://jonnung.dev/docker/2020/04/08/optimizing-docker-images/)
 
 
 ### 쿠버네티스 Kubernetes
@@ -296,3 +297,4 @@
 - [네트워크의 기본 'OSI 7계층'··· 한번에 이해하고 외우는 방법](http://www.ciokorea.com/news/36536#csidxa7b8fb7c6c7e34a85f2253bf8c1b283)
 - [네트워크 모니터링이 궁금할땐 ? Packetbeat !](https://taetaetae.github.io/2019/09/08/network-monitor-by-packetbeat/)
 - [설치형 개인 VPN 서버 알고(Algo): 아마존 라이트세일에 설치하고 운영하기](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail)
+- [소프트웨어 정의 네트워킹(SDN)](https://no1.technology/13)

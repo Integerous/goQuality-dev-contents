@@ -107,6 +107,8 @@
 - [React밖에 모르는 당신에게. GatsbyJS 한 잔, ‘채용~’](https://blog.banksalad.com/tech/build-a-website-with-gatsby/)
 - [FrontEnd Application에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)
 - [자바스크립트의 this를 알아보자.](https://1ilsang.dev/2020-03-31/js/this)
+- [JavaScript 인터뷰 : 주요 질문 설명](https://dev.to/educative/acing-the-javascript-interview-top-questions-explained-59b7)
+- [ECMAScript 2020의 새로운 점](https://ui.toast.com/weekly-pick/ko_20200409)
 
 
 ### Node.js
@@ -237,6 +239,8 @@
 - [React Native UI 개발 시작하기](https://wit.nts-corp.com/2020/03/23/6014)
 - [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
 - [글자랑의 한글 가변폰트 실험](https://www.notion.so/49fca2912ab344edb0ef24b8f320440a)
+- [세상은 왜 CSS개발자를 필요로 하는가? [번역]](https://medium.com/@Baksure/%EB%B2%88%EC%97%AD-%EC%84%B8%EC%83%81%EC%9D%80-%EC%99%9C-css%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%ED%95%84%EC%9A%94%EB%A1%9C-%ED%95%98%EB%8A%94%EA%B0%80-c3465999301b)
+- [코드로 자음과 모음을 분리하기](https://www.notion.so/3c40c025b9bc474da00add82f9c301ad)
 
 
 --------------------------------------
