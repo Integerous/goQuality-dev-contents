@@ -210,6 +210,7 @@
 - [개발자의 글쓰기, 기술 블로그에 대하여](https://jbee.io/essay/writing-of-developers/)
 - [같이 일하고 싶은 사람](https://brunch.co.kr/@hyungsukkim/99)
 - [개발자와 명상](https://blog.shiren.dev/2020-03-24-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80%EB%AA%85%EC%83%81/)
+- [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
 
 
 --------------------------------------
@@ -342,3 +343,5 @@
 - [LINE 신입 SW 개발자 코딩 테스트, 이렇게 만들어졌습니다](https://engineering.linecorp.com/ko/blog/2020-line-sw-developer-recruit-coding-test/)
 - [SI회사에 입사하기 전 읽으면 좋은 글 - SI의 단점](https://preamtree.tistory.com/133)
 - [이직하며 느낀 2020년 1/4분기 개발자 채용 과정](https://perade.github.io/blog/2020-recruitment/)
+- [기술면접 준비하기](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
+- [나만의 개발자 포트폴리오 만들기](https://geonlee.tistory.com/m/9)

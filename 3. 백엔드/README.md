@@ -159,6 +159,7 @@
 - [Spring Batch 관리 도구로서의 Jenkins](https://jojoldu.tistory.com/489)
 - [카프카(Kafka)의 이해](https://devtimes.com/bigdata/2019/01/18/what-is-kafka/)
 - [AWS 비용을 줄이는 10가지 방법 [영문]](https://aws.amazon.com/ko/blogs/compute/10-things-you-can-do-today-to-reduce-aws-costs/)
+- [서머타임과 배치작업](https://meetup.toast.com/posts/232)
 
 
 --------------------------------------

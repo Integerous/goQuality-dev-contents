@@ -59,6 +59,7 @@
 - [당근마켓의 deploy 브랜치 전략 활용 방법](https://medium.com/daangn/deploy-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95-545f278ca878)
 - [하루에 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
 - [git 교육 자료](https://johngrib.github.io/wiki/git-tutorial/)
+- [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 
 
 --------------------------------------
@@ -354,3 +355,4 @@
 - [해쉬 충돌이 무엇이고 해결책을 알고 있나요?](https://stdin2stdout.tistory.com/entry/Q-%ED%95%B4%EC%89%AC-%EC%B6%A9%EB%8F%8C%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%ED%95%B4%EA%B2%B0%EC%B1%85%EC%9D%84-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94)
 - [Slack Block Kit 활용](https://helloworld.kurly.com/blog/slack_block_kit/)
 - [구글 시트에 뉴스 정리하는 법](https://brunch.co.kr/@sijin90/52)
+- [개발자가 가지고 놀 만한 ‘똑똑한 API 17종’](http://www.ciokorea.com/news/149532)

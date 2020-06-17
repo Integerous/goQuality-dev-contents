@@ -153,6 +153,8 @@
 - [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
 - [자바 메모리 관리 - 스택 & 힙](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
 - [자바 최적화 - GC 로깅](https://12bme.tistory.com/543?category=785013)
+- [JVM Architecture 란?](https://yeon-kr.tistory.com/112)
+- [Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/114)
 
 
 ### JPA & Hibernate
@@ -200,6 +202,7 @@
 - [고루틴 vs 쓰레드](https://tech.ssut.me/goroutine-vs-threads/)
 - [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc/)
 - [컨테이너 내부 Go 애플리케이션 디버깅하기](https://mingrammer.com/debugging-containerized-go-app/)
+- [Go의 철학 [번역]](https://marsettler.com/the-zen-of-go/)
 
 
 --------------------------------------

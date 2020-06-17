@@ -191,16 +191,6 @@
 - [React에서 SVG 요리하기](https://chaewonkong.github.io/posts/react-svg.html)
 - [Druid의 Kafka Indexing에서 Roll-up은 어떻게 동작하는가?](https://leeyh0216.github.io/2020-04-19/Druid_Kafka_Indexing_Rollup)
 - [2020년 새로운 자바스크립트 기능](https://morioh.com/p/90a0bdfc554c)
-- [나만의 개발자 포트폴리오 만들기](https://geonlee.tistory.com/m/9)
-- [Vue.js 최근 소식들 — Vue3 베타 릴리즈 소식 등](https://medium.com/@jeongwooahn/vue-js-최근-소식들-vue3-베타-릴리즈-소식-등-b817bd199aeb)
-- [나는 코드를 쓸테니, 너는 인프라를 맡거라.](https://blog.hax0r.info/2018-11-28/i-will-write-the-code-you-will-be-in-charge-of-the-infrastructure/)
-- [기술면접 준비하기](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
-- [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
-- [개발자가 가지고 놀 만한 ‘똑똑한 API 17종’](http://www.ciokorea.com/news/149532)
-- [서머타임과 배치작업](https://meetup.toast.com/posts/232)
-- [깃헙 팁!](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
-- [Go의 철학 [번역]](https://marsettler.com/the-zen-of-go/)
-- [네이버 메인페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 
 
 --------------------------------------
