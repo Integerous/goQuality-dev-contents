@@ -160,6 +160,8 @@
 - [카프카(Kafka)의 이해](https://devtimes.com/bigdata/2019/01/18/what-is-kafka/)
 - [AWS 비용을 줄이는 10가지 방법 [영문]](https://aws.amazon.com/ko/blogs/compute/10-things-you-can-do-today-to-reduce-aws-costs/)
 - [서머타임과 배치작업](https://meetup.toast.com/posts/232)
+- [Druid의 Kafka Indexing에서 Roll-up은 어떻게 동작하는가?](https://leeyh0216.github.io/2020-04-19/Druid_Kafka_Indexing_Rollup)
+- [CDN과 로드밸런서를 활용한 부하 분산](https://blog.naver.com/n_cloudplatform/221918957658)
 
 
 --------------------------------------
@@ -183,6 +185,7 @@
 - [Mastering Chaos - A Netflix Guide to Microservices [영상]](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 - [그 유명한 "넷플릭스 마이크로 서비스 가이드" [한글자막][영상]](http://bit.ly/2q03FBb)
 - [마이크로 서비스 아키텍쳐와 컨테이너 환경](http://bit.ly/2J7YgRz)
+- [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
 
 
 --------------------------------------

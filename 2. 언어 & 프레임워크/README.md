@@ -142,6 +142,9 @@
 - [Ktor로 Todo 서비스 빠르게 만들기](https://www.popit.kr/ktor%eb%a1%9c-todo-%ec%84%9c%eb%b9%84%ec%8a%a4-%eb%b9%a0%eb%a5%b4%ea%b2%8c-%eb%a7%8c%eb%93%a4%ea%b8%b0/)
 - [스프링 기반 외부 인프라스트럭처 테스트](https://cheese10yun.github.io/spring-mock-test/)
 - [토비의 봄을 담은 제네릭 1편](https://jordy-torvalds.tistory.com/16)
+- [Java 12의 주요 기능 설명](https://meetup.toast.com/posts/234)
+- [Spring Batch에서 MultiThread로 Step 실행하기](https://jojoldu.tistory.com/493)
+- [Java의 고유 락(intrinsic lock)에 대해](http://happinessoncode.com/2017/10/04/java-intrinsic-lock/)
 
 
 ### JVM
@@ -209,3 +212,9 @@
 
 ### Rust
 - [Rust 한글 문서](https://rinthel.github.io/rust-lang-book-ko/)
+
+
+--------------------------------------
+
+### PHP
+- [PHP The right way](https://modernpug.github.io/php-the-right-way/)

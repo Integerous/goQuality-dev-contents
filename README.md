@@ -176,21 +176,6 @@
 - [2020년 4월 개발자가 가장 많이 구매한 책 top100](https://www.notion.so/03592f5e463e405ab4737057f41c22b1)
 - [HTTP2도 잘 모르는데 벌써 HTTP3](https://www.slideshare.net/InfraEngineer/meetup3rd-http2-http3)
 - [Nextjs 뭘로 배포할까 ? (Netlify, Vercel, GitHub page)](https://taeny.dev/javascript/nextjs-with-deployment-platform/#3-netlify-vs-vercel)
-- [메쉬코리아의 프론트엔드 엔지니어링 실천 사례를 공유합니다.](https://github.com/meshkorea/front-end-engineering)
-- [타입스크립트를 위한 클린코드 - 한글번역판](https://github.com/738/clean-code-typescript)
-- [PHP The right way](https://modernpug.github.io/php-the-right-way/)
-- [무료 Flutter e-book](https://ridibooks.com/books/3419000002)
-- [Java의 고유 락(intrinsic lock)에 대해](http://happinessoncode.com/2017/10/04/java-intrinsic-lock/)
-- [Spring Batch에서 MultiThread로 Step 실행하기](https://jojoldu.tistory.com/493)
-- [Node.js 14 버전 출시했다고합니다.](https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e)
-- [새로운 Node.js 14](https://morioh.com/p/9aded565f04b)
-- [Objects 시리즈_1장.객체, 설계 -](https://jordy-torvalds.tistory.com/m/19)
-- [CDN과 로드밸런서를 활용한 부하 분산](https://blog.naver.com/n_cloudplatform/221918957658)
-- [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
-- [Java 12의 주요 기능 설명](https://meetup.toast.com/posts/234)
-- [React에서 SVG 요리하기](https://chaewonkong.github.io/posts/react-svg.html)
-- [Druid의 Kafka Indexing에서 Roll-up은 어떻게 동작하는가?](https://leeyh0216.github.io/2020-04-19/Druid_Kafka_Indexing_Rollup)
-- [2020년 새로운 자바스크립트 기능](https://morioh.com/p/90a0bdfc554c)
 
 
 --------------------------------------
@@ -214,6 +199,7 @@
 - [Python](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#python)
 - [Go](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#go)
 - [Rust](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#rust)
+- [PHP]()
 
 ### 3. 백엔드
 - [서버 & 클라우드 & 아키텍쳐](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C--%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)

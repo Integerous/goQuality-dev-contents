@@ -175,6 +175,7 @@
 - [TypeScript Deep Dive [영문]](https://basarat.gitbooks.io/typescript/content/)
 - [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
 - [리액트 프로젝트에서 타입스크립트 사용하기](https://velog.io/@velopert/typescript-basics)
+- [타입스크립트를 위한 클린코드 - 한글번역판](https://github.com/738/clean-code-typescript)
 
 
 --------------------------------------
@@ -270,3 +271,4 @@
 - [공식문서 만으로 iOS 개발 배우기](https://sungdoo.dev/programming/start-ios-development-with-offical-docs/)
 - [유니티, 증강현실 앱개발 런칭기 (iOS, Android)](https://brunch.co.kr/@chickenmoim/18)
 - [iOS(Swift, Objc) 질문과 답변 모음](https://github.com/ClintJang/ios-swift-objc-questions-and-answers/blob/master/README.md#%EC%9E%90%EC%B2%B4%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%97%86%EC%9D%B4-%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8%EB%A7%8C-%EB%B6%99%EC%9D%B4%EB%A0%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EB%8D%B0-%EC%95%A0%ED%94%8C-%EB%A6%AC%EC%A0%9D%EC%82%AC%EC%9C%A0%EC%9D%B8%EA%B0%80%EC%9A%94)
+- [무료 Flutter e-book](https://ridibooks.com/books/3419000002)
