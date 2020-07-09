@@ -202,7 +202,6 @@
 - [자바 - OOM 메모리 릭 찾기 이론편](https://blog.naver.com/PostView.nhn?blogId=2feelus&logNo=220765728530)
 - [AWS Lambda@Edge 이미지 리사이징](https://blog.wonizz.tk/2020/04/21/lambda-edge-guide/)
 - [2020년 4월 개발자가 가장 많이 구매한 책 top100](https://www.notion.so/03592f5e463e405ab4737057f41c22b1)
-- [HTTP2도 잘 모르는데 벌써 HTTP3](https://www.slideshare.net/InfraEngineer/meetup3rd-http2-http3)
 - [Nextjs 뭘로 배포할까 ? (Netlify, Vercel, GitHub page)](https://taeny.dev/javascript/nextjs-with-deployment-platform/#3-netlify-vs-vercel)
 
 
