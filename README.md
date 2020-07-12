@@ -54,7 +54,7 @@
 - [LINE 오픈소스 매니저 이서연 님을 만나보았습니다!](https://engineering.linecorp.com/ko/blog/line-opensource-manager-interview/)
 - [2020년 백엔드 개발자 로드맵](https://velog.io/@exploit017/2020-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A1%9C%EB%93%9C%EB%A7%B5?fbclid=IwAR0ncLwd2i7sK5yw-byITi5S-ROxreJdXaV6EWJhHwMJ52pAQNvsbPhpB_c)
 - [Code Review에 대해 [영상]](https://youtu.be/FJNV_qoRRks)
-- [HTTP 상태코드 다이어그램](https://github.com/for-GET/)
+- [HTTP 상태코드 다이어그램](https://github.com/for-GET/http-decision-diagram)
 - [유용한 테스트 케이스를 위한 개발자의 자세](https://blog.shiren.dev/2020-06-15-%EC%9C%A0%EC%9A%A9%ED%95%9C%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%A5%BC%EC%9C%84%ED%95%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EC%9E%90%EC%84%B8/)
 - [ThreeTenABP 마스터하기](https://blog.naver.com/nakim02/222004139447)
 - [웹 프론트엔드 프레임워크, 무엇을 쓸까?](https://www.samsungsds.com/global/ko/support/insights/frameworks.html)
@@ -202,7 +202,6 @@
 - [자바 - OOM 메모리 릭 찾기 이론편](https://blog.naver.com/PostView.nhn?blogId=2feelus&logNo=220765728530)
 - [AWS Lambda@Edge 이미지 리사이징](https://blog.wonizz.tk/2020/04/21/lambda-edge-guide/)
 - [2020년 4월 개발자가 가장 많이 구매한 책 top100](https://www.notion.so/03592f5e463e405ab4737057f41c22b1)
-- [HTTP2도 잘 모르는데 벌써 HTTP3](https://www.slideshare.net/InfraEngineer/meetup3rd-http2-http3)
 - [Nextjs 뭘로 배포할까 ? (Netlify, Vercel, GitHub page)](https://taeny.dev/javascript/nextjs-with-deployment-platform/#3-netlify-vs-vercel)
 
 
