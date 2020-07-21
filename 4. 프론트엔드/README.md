@@ -109,6 +109,8 @@
 - [자바스크립트의 this를 알아보자.](https://1ilsang.dev/2020-03-31/js/this)
 - [JavaScript 인터뷰 : 주요 질문 설명](https://dev.to/educative/acing-the-javascript-interview-top-questions-explained-59b7)
 - [ECMAScript 2020의 새로운 점](https://ui.toast.com/weekly-pick/ko_20200409)
+- [실용주의 Front-end 개발](https://peter-cho.gitbook.io/book/)
+- [네이버 FE news](https://github.com/naver/fe-news/blob/master/issues)
 
 
 ### Node.js
@@ -166,6 +168,7 @@
 - [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531/)
 - [바닥부터 시작하는 Vue 컴포넌트 테스트](https://tech.kakao.com/2019/11/27/kakao-business-vue-component-test/)
 - [Vue.js: The Documentary [영상]](https://www.youtube.com/watch?v=OrxmtDw4pVI)
+- [Vue 3 에서 사용될 Composition API 정리](https://chodragon9.github.io/blog/composition-api-rfc-migration/#api-reference)
 
 
 ### TypeScript

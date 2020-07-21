@@ -60,6 +60,7 @@
 - [하루에 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
 - [git 교육 자료](https://johngrib.github.io/wiki/git-tutorial/)
 - [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
+- [GitHub 환경에서의 실전 Git 레시피](https://meetup.toast.com/posts/116)
 
 
 --------------------------------------
@@ -356,3 +357,4 @@
 - [Slack Block Kit 활용](https://helloworld.kurly.com/blog/slack_block_kit/)
 - [구글 시트에 뉴스 정리하는 법](https://brunch.co.kr/@sijin90/52)
 - [개발자가 가지고 놀 만한 ‘똑똑한 API 17종’](http://www.ciokorea.com/news/149532)
+- [Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html)

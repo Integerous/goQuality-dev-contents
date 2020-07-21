@@ -212,6 +212,7 @@
 - [같이 일하고 싶은 사람](https://brunch.co.kr/@hyungsukkim/99)
 - [개발자와 명상](https://blog.shiren.dev/2020-03-24-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80%EB%AA%85%EC%83%81/)
 - [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
+- [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
 
 
 --------------------------------------

@@ -145,6 +145,8 @@
 - [Java 12의 주요 기능 설명](https://meetup.toast.com/posts/234)
 - [Spring Batch에서 MultiThread로 Step 실행하기](https://jojoldu.tistory.com/493)
 - [Java의 고유 락(intrinsic lock)에 대해](http://happinessoncode.com/2017/10/04/java-intrinsic-lock/)
+- [serialVersionUID가 없는 Serializable Class를 수정해야 할 때](https://www.popit.kr/serialversionuid%EA%B0%80-%EC%97%86%EB%8A%94-serializable-class%EB%A5%BC-%EC%88%98%EC%A0%95%ED%95%B4%EC%95%BC-%ED%95%A0-%EB%95%8C/)
+- [ConcurrentHashMap 동기화 방식](https://pplenty.tistory.com/17)
 
 
 ### JVM
@@ -158,6 +160,7 @@
 - [자바 최적화 - GC 로깅](https://12bme.tistory.com/543?category=785013)
 - [JVM Architecture 란?](https://yeon-kr.tistory.com/112)
 - [Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/114)
+- [자바 - OOM 메모리 릭 찾기 이론편](https://blog.naver.com/PostView.nhn?blogId=2feelus&logNo=220765728530)
 
 
 ### JPA & Hibernate

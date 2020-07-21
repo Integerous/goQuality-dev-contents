@@ -253,7 +253,6 @@
 - [데이터베이스 개념정리](https://brunch.co.kr/@toughrogrammer/17)
 - [MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
 - [SQL vs NoSQL [영상]](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
-- [MySQL 실행계획](https://12bme.tistory.com/160)
 - [JDBC를 사용한 MySQL SSL 연결](https://medium.com/p/1c5da86cc2c5)
 - [MySQL performance-schema-instruments 사용에 따른 성능 영향 실험](https://engineering.linecorp.com/ko/blog/mysql-research-performance-schema-instruments/)
 - [Apache ShardingSphere를 이용한 DB Sharding](https://blog.naver.com/PostView.nhn?blogId=asei&logNo=221511101848&proxyReferer=http%3A%2F%2Fm.facebook.com)
@@ -264,6 +263,8 @@
 - [200만 동접 게임을 위한 MySQL 샤딩 [영상]](https://youtube.com/watch?v=8Eb_n7JA1yA&feature=youtu.be)
 - [개발자를 위한 레디스 튜토리얼](https://meetup.toast.com/posts/224)
 - [우아한 형제들 메인 데이터베이스 IDC 탈출 성공기](https://woowabros.github.io/experience/2019/12/19/ruby_database.html)
+- [Druid와 Bitmap Index](https://leeyh0216.github.io/2020-04-26/Apache_Druid_bitmap_index)
+
 
 --------------------------------------
 
