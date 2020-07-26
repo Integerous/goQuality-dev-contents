@@ -14,7 +14,6 @@
 - [우아한형제들 신규 포인트 시스템 전환기 1편 [시리즈]](http://woowabros.github.io/experience/2018/10/12/new_point_story_1.html)
 - [TreadLocal과 TreadPool을 사용하여 요청 및 응답 기록 남기기](bit.ly/2CKQSeA)
 - [AWS Aurora 도입전에 알아야 할 몇가지 사실](http://bit.ly/2P5Ys9v)
-- [mvc, mvp, mvvm 비교](http://bit.ly/2Eojbko)
 - [쿠팡 서비스 클라우드 마이그레이션 통해 배운것들 [슬라이드]](http://bit.ly/2P5Mpc3)
 - [왜 비즈니스 로직은 Model(Domain)에 가까울수록 좋은가?](http://bit.ly/2AgHuNp)
 - [빌링 시스템 장애 대응 사례 - 우아한형제들](http://bit.ly/2PHr85C)

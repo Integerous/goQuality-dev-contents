@@ -35,6 +35,12 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [서버에 걸리는 부하, 추측하지 말고 계측하자](https://injae-kim.github.io/dev/2020/07/09/how-to-check-single-server-load-average.html)
+- [GitHub 오픈소스 북극 저장소 방문기](https://tykimos.github.io/2020/07/22/Github_Seed_Vault)
+- [코드스피츠 88 - async await #1/2](https://www.youtube.com/watch?v=H_Hb9IF7sfc&feature=youtu.be)
+- [MVVM 아키텍처 패턴](https://gyuwon.github.io/blog/2017/03/05/mvvm-architectural-pattern.html)
+- [엘라스틱서치 인덱스와 샤드 분할](https://danawalab.github.io/elastic/2020/07/21/Elasticsearch-Index-Shard-How.html)
+- [How Linux pipes work under the hood](https://brandonwamboldt.ca/how-linux-pipes-work-under-the-hood-1518/)
 - [Mysql objects 개념 정리 for 개발자](https://stricky.tistory.com/m/315)
 - [인텔리제이 기반 github code review](https://cheese10yun.github.io/intellij-code-review/)
 - [Recoil 레시피: 소개, 기본 개념, 몇 가지 API 둘러보기](https://taegon.kim/archives/10105)
