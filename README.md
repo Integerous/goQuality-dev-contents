@@ -31,6 +31,60 @@
 --------------------------------------
 </br>
 
+# :mag_right: 카테고리
+
+### 1. 개발 일반
+- [개발 문화/철학/방법론](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94%EC%B2%A0%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0)
+- [TDD & 테스트 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#tdd--%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8)
+- [개발자 성장](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%84%B1%EC%9E%A5)
+- [비전공자 & 신입](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90--%EC%8B%A0%EC%9E%85)
+- [세미나/컨퍼런스 후기 및 발표자료](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EC%84%B8%EB%AF%B8%EB%82%98%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0-%EB%B0%8F-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
+- [취업 & 이직 & 면접 & 코딩테스트](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EC%B7%A8%EC%97%85--%EC%9D%B4%EC%A7%81--%EB%A9%B4%EC%A0%91--%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
+
+### 2. 언어 & 프레임워크
+- [Java & Spring](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#java--spring)
+  - [JVM](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#jvm)
+  - [JPA & Hibernate](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#jpa--hibernate)
+- [Javascript](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#javascript-%EA%B4%80%EB%A0%A8)
+- [Python](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#python)
+- [Go](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#go)
+- [Rust](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#rust)
+- [PHP](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#php)
+
+### 3. 백엔드
+- [서버 & 클라우드 & 아키텍쳐](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C--%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
+  - [마이크로서비스 MSA](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-msa)
+  - [도커 Docker](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%8F%84%EC%BB%A4-docker)
+  - [쿠버네티스 Kubernetes](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-kubernetes)
+- [데이터베이스 & SQL](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4--sql)
+- [운영체제 (리눅스, MacOS, 윈도우)](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-macos-%EC%9C%88%EB%8F%84%EC%9A%B0)
+- [네트워크](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+
+### 4. 프론트엔드
+- [Javascript 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#javascript-%EA%B4%80%EB%A0%A8)
+  - [Node.js](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#nodejs)
+  - [React.js](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#reactjs)
+  - [Vue.js](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#vuejs)
+  - [TypeScript](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#typescript)
+- [디자인 & UI/UX & CSS](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#%EB%94%94%EC%9E%90%EC%9D%B8--uiux--css)
+- [모바일 & iOS & 안드로이드](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#%EB%AA%A8%EB%B0%94%EC%9D%BC--ios--%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
+
+### 5. 기타
+- [Git](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#git)
+- [웹 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EC%9B%B9-%EA%B4%80%EB%A0%A8)
+- [REST 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#rest-%EA%B4%80%EB%A0%A8)
+- [알고리즘 & 자료구조](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98--%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
+- [머신러닝 & 딥러닝 & AI](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D--%EB%94%A5%EB%9F%AC%EB%8B%9D--ai)
+- [데이터 사이언스](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4)
+- [블록체인](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
+- [보안](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%B3%B4%EC%95%88)
+- [Vim](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#vim)
+- [기타](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EA%B8%B0%ED%83%80)
+
+
+--------------------------------------
+</br>
+
 # :mailbox: Queue
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
@@ -229,59 +283,6 @@
 - [크몽 FE 팀 코드리뷰문화 개선기(1+1=3)](https://brunch.co.kr/@kmongdev/20)
 - [쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로) [영상]](https://tv.naver.com/v/11212875)
 
-
---------------------------------------
-</br>
-
-# :mag_right: 카테고리
-
-### 1. 개발 일반
-- [개발 문화/철학/방법론](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94%EC%B2%A0%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0)
-- [TDD & 테스트 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#tdd--%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8)
-- [개발자 성장](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%84%B1%EC%9E%A5)
-- [비전공자 & 신입](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90--%EC%8B%A0%EC%9E%85)
-- [세미나/컨퍼런스 후기 및 발표자료](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EC%84%B8%EB%AF%B8%EB%82%98%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0-%EB%B0%8F-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
-- [취업 & 이직 & 면접 & 코딩테스트](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EC%B7%A8%EC%97%85--%EC%9D%B4%EC%A7%81--%EB%A9%B4%EC%A0%91--%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
-
-### 2. 언어 & 프레임워크
-- [Java & Spring](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#java--spring)
-  - [JVM](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#jvm)
-  - [JPA & Hibernate](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#jpa--hibernate)
-- [Javascript](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#javascript-%EA%B4%80%EB%A0%A8)
-- [Python](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#python)
-- [Go](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#go)
-- [Rust](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#rust)
-- [PHP](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#php)
-
-### 3. 백엔드
-- [서버 & 클라우드 & 아키텍쳐](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C--%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
-  - [마이크로서비스 MSA](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-msa)
-  - [도커 Docker](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%8F%84%EC%BB%A4-docker)
-  - [쿠버네티스 Kubernetes](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-kubernetes)
-- [데이터베이스 & SQL](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4--sql)
-- [운영체제 (리눅스, MacOS, 윈도우)](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-macos-%EC%9C%88%EB%8F%84%EC%9A%B0)
-- [네트워크](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
-
-### 4. 프론트엔드
-- [Javascript 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#javascript-%EA%B4%80%EB%A0%A8)
-  - [Node.js](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#nodejs)
-  - [React.js](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#reactjs)
-  - [Vue.js](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#vuejs)
-  - [TypeScript](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#typescript)
-- [디자인 & UI/UX & CSS](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#%EB%94%94%EC%9E%90%EC%9D%B8--uiux--css)
-- [모바일 & iOS & 안드로이드](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#%EB%AA%A8%EB%B0%94%EC%9D%BC--ios--%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
-
-### 5. 기타
-- [Git](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#git)
-- [웹 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EC%9B%B9-%EA%B4%80%EB%A0%A8)
-- [REST 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#rest-%EA%B4%80%EB%A0%A8)
-- [알고리즘 & 자료구조](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98--%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
-- [머신러닝 & 딥러닝 & AI](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D--%EB%94%A5%EB%9F%AC%EB%8B%9D--ai)
-- [데이터 사이언스](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4)
-- [블록체인](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
-- [보안](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%B3%B4%EC%95%88)
-- [Vim](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#vim)
-- [기타](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EA%B8%B0%ED%83%80)
 
 --------------------------------------
 </br>
