@@ -161,6 +161,7 @@
 - [서머타임과 배치작업](https://meetup.toast.com/posts/232)
 - [Druid의 Kafka Indexing에서 Roll-up은 어떻게 동작하는가?](https://leeyh0216.github.io/2020-04-19/Druid_Kafka_Indexing_Rollup)
 - [CDN과 로드밸런서를 활용한 부하 분산](https://blog.naver.com/n_cloudplatform/221918957658)
+- [Redis 6.0 – ThreadedIO를 알아보자.](https://charsyam.wordpress.com/2020/05/05/입-개발-redis-6-0-threadedio를-알아보자/)
 
 
 --------------------------------------

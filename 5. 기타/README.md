@@ -194,6 +194,7 @@
 - [딥러닝을 이용하여 더욱 현실감 있는 AR 앱 만들기](https://nero.devstory.co.kr/2019/12/25/pj-too-real-01/)
 - [2019년 주목받은 AI 이슈 모음](https://brunch.co.kr/@omniousofficial/75/?fbclid=IwAR3kapl8LwiaPXt0FlGbAh8SrxqPajrsjRuJF_-KCmKZHxyajEnr-Op0lCU)
 - [인공지능(AI)과 머신러닝(ML) 학습 경로](https://www.google.com/amp/s/projectresearch.co.kr/2017/06/14/%25EC%259D%25B8%25EA%25B3%25B5%25EC%25A7%2580%25EB%258A%25A5ai%25EA%25B3%25BC-%25EB%25A8%25B8%25EC%258B%25A0%25EB%259F%25AC%25EB%258B%259Dml-%25ED%2595%2599%25EC%258A%25B5-%25EA%25B2%25BD%25EB%25A1%259C/amp/)
+- [인공지능 개발자를 위한 코세라 강의 베스트19](https://brunch.co.kr/@synabreu/68)
 
 
 ### 데이터 사이언스

@@ -219,14 +219,6 @@
 - [설리번의 Powerful Idea는 무엇일까?](https://medium.com/sullivan-education-lab/%EC%84%A4%EB%A6%AC%EB%B2%88%EC%9D%98-powerful-idea%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ccc65bd67a3)
 - [크몽 FE 팀 코드리뷰문화 개선기(1+1=3)](https://brunch.co.kr/@kmongdev/20)
 - [쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로) [영상]](https://tv.naver.com/v/11212875)
-- [보안 관련 eBook이 공개되어서 공유합니다.](https://github.com/namkiseung/Top-100-Hacking-Security-E-Books-Free-Download-2019)
-- [IT위키 -](http://itwiki.kr/)
-- [Redis 6.0 – ThreadedIO를 알아보자.](https://charsyam.wordpress.com/2020/05/05/입-개발-redis-6-0-threadedio를-알아보자/)
-- [await 의 함정, 숨은 병목을 찾자](https://jaeheon.kr/161?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR32v7GSVk5bHUa4FvPs7BiU2YJN0m7RmTyjAfZp5EGXrm2vq1quNaPI0UU)
-- [Node 프로덕트 퀄리티를 높이는 협업 방법](https://blog.hax0r.info/2020-04-24/how-to-improve-node-product-quality/)
-- [Artillery 를 통한 NODE 환경에서 스트레스 테스트](https://blog.hax0r.info/2020-04-19/stress-test-in-node-with-artillery/)
-- [인공지능 개발자를 위한 코세라 강의 베스트19](https://brunch.co.kr/@synabreu/68)
-- [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 
 
 --------------------------------------

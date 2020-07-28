@@ -111,6 +111,7 @@
 - [ECMAScript 2020의 새로운 점](https://ui.toast.com/weekly-pick/ko_20200409)
 - [실용주의 Front-end 개발](https://peter-cho.gitbook.io/book/)
 - [네이버 FE news](https://github.com/naver/fe-news/blob/master/issues)
+- [await 의 함정, 숨은 병목을 찾자](https://jaeheon.kr/161)
 
 
 ### Node.js
@@ -179,6 +180,7 @@
 - [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
 - [리액트 프로젝트에서 타입스크립트 사용하기](https://velog.io/@velopert/typescript-basics)
 - [타입스크립트를 위한 클린코드 - 한글번역판](https://github.com/738/clean-code-typescript)
+- [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 
 
 --------------------------------------
