@@ -136,6 +136,7 @@
 - [Let's Encrypt 와일드카드 인증서 발급받기](https://ilcm96.me/2020-03-16-let-encrypt-wildcard)
 - [이렇게 기획하면 안 돼요! #회원가입](https://germweapon.tistory.com/384)
 - [서버의 상태를 알려주는 HTTP 상태코드](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
+- [만화로 보는 https가 작동하는 방식](https://howhttps.works/ko/)
 
 
 --------------------------------------
@@ -195,6 +196,7 @@
 - [2019년 주목받은 AI 이슈 모음](https://brunch.co.kr/@omniousofficial/75/?fbclid=IwAR3kapl8LwiaPXt0FlGbAh8SrxqPajrsjRuJF_-KCmKZHxyajEnr-Op0lCU)
 - [인공지능(AI)과 머신러닝(ML) 학습 경로](https://www.google.com/amp/s/projectresearch.co.kr/2017/06/14/%25EC%259D%25B8%25EA%25B3%25B5%25EC%25A7%2580%25EB%258A%25A5ai%25EA%25B3%25BC-%25EB%25A8%25B8%25EC%258B%25A0%25EB%259F%25AC%25EB%258B%259Dml-%25ED%2595%2599%25EC%258A%25B5-%25EA%25B2%25BD%25EB%25A1%259C/amp/)
 - [인공지능 개발자를 위한 코세라 강의 베스트19](https://brunch.co.kr/@synabreu/68)
+- [딥러닝 웹서비스 개발 도전기](https://medium.com/@inerplat/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-e9ca38d53c1b)
 
 
 ### 데이터 사이언스

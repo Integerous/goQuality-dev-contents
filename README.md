@@ -275,23 +275,6 @@
 - [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
 - [GraphQl을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
 - [서버 사이드 테스트 자동화 여정](https://engineering.linecorp.com/ko/blog/server-side-test-automation-5/)
-- [딥러닝 웹서비스 개발 도전기](https://medium.com/@inerplat/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-e9ca38d53c1b)
-- [만화로 보는 https가 작동하는 방식](https://howhttps.works/ko/)
-- [버튼 디자인 — UI 컴포넌트 시리즈](https://medium.com/guleum/%EB%B2%84%ED%8A%BC-%EB%94%94%EC%9E%90%EC%9D%B8-ui-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%8B%9C%EB%A6%AC%EC%A6%88-9c5dc20ec802)
-- [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect)
-- [날짜와 시간 입력을 도와주는 데이트 피커 15가지](http://rwdb.kr/datepicker/)
-- [만들면서 이해하는 도커(Docker) 이미지의 구조](https://www.44bits.io/ko/post/how-docker-image-work)
-- [Circuit Breaker 패턴의 이해와 사용법](https://qwer9412.tistory.com/2)
-- [circuit breaker 이론적으로 이해하는데 좀 더 도움될만한 글입니다.](https://velog.io/@vies00/Circuit-Breaker-Pattern)
-- [Css 이벤트 제어](https://backback.tistory.com/m/394)
-- [Kafka의 Topic, Partition, Segment, Message](https://leeyh0216.github.io/2020-05-02/kafka_concept)
-- [알고리즘 어디까지 풀어봤니 - LeetCoding Challenge - 끊임없이 공부하고 매일 개발하자 -](https://heetop.github.io/Leetcode/)
-- [간단한 Kafka Producer를 만들고 메시지 전송 동작원리를 알아보자](https://leeyh0216.github.io/2020-05-03/kafka_producer)
-- [Data Structure For JavaScript](https://hg-pyun.github.io/data-structure-for-javascript/)
-- [이직 기록 0.Intro](https://jbee.io/career/2020-turnover-0/)
-- [설리번의 Powerful Idea는 무엇일까?](https://medium.com/sullivan-education-lab/%EC%84%A4%EB%A6%AC%EB%B2%88%EC%9D%98-powerful-idea%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ccc65bd67a3)
-- [크몽 FE 팀 코드리뷰문화 개선기(1+1=3)](https://brunch.co.kr/@kmongdev/20)
-- [쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로) [영상]](https://tv.naver.com/v/11212875)
 
 
 --------------------------------------

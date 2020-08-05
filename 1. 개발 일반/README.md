@@ -95,6 +95,7 @@
 - [세상에 나쁜 코드는 없다](https://brunch.co.kr/@kmongdev/18)
 - [코드리뷰로 시작하는 건강한 개발 문화](https://blog.shiren.dev/2020-01-11-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B1%B4%EA%B0%95%ED%95%9C-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94/)
 - [메쉬코리아(부릉)의 프론트엔드 엔지니어링 실천 사례를 공유합니다.](https://github.com/meshkorea/front-end-engineering)
+- [크몽 FE 팀 코드리뷰문화 개선기(1+1=3)](https://brunch.co.kr/@kmongdev/20)
 
 
 --------------------------------------
@@ -213,6 +214,7 @@
 - [개발자와 명상](https://blog.shiren.dev/2020-03-24-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80%EB%AA%85%EC%83%81/)
 - [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
 - [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
+- [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect)
 
 
 --------------------------------------
@@ -347,3 +349,4 @@
 - [이직하며 느낀 2020년 1/4분기 개발자 채용 과정](https://perade.github.io/blog/2020-recruitment/)
 - [기술면접 준비하기](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
 - [나만의 개발자 포트폴리오 만들기](https://geonlee.tistory.com/m/9)
+- [이직 기록 0.Intro](https://jbee.io/career/2020-turnover-0/)

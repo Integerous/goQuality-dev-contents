@@ -112,6 +112,7 @@
 - [실용주의 Front-end 개발](https://peter-cho.gitbook.io/book/)
 - [네이버 FE news](https://github.com/naver/fe-news/blob/master/issues)
 - [await 의 함정, 숨은 병목을 찾자](https://jaeheon.kr/161)
+- [Data Structure For JavaScript](https://hg-pyun.github.io/data-structure-for-javascript/)
 
 
 ### Node.js

@@ -162,6 +162,8 @@
 - [Druid의 Kafka Indexing에서 Roll-up은 어떻게 동작하는가?](https://leeyh0216.github.io/2020-04-19/Druid_Kafka_Indexing_Rollup)
 - [CDN과 로드밸런서를 활용한 부하 분산](https://blog.naver.com/n_cloudplatform/221918957658)
 - [Redis 6.0 – ThreadedIO를 알아보자.](https://charsyam.wordpress.com/2020/05/05/입-개발-redis-6-0-threadedio를-알아보자/)
+- [쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로) [영상]](https://tv.naver.com/v/11212875)
+- [간단한 Kafka Producer를 만들고 메시지 전송 동작원리를 알아보자](https://leeyh0216.github.io/2020-05-03/kafka_producer)
 
 
 --------------------------------------
@@ -202,7 +204,7 @@
 - [확장성 있고, 이식성 있는 도커 컨테이너 네트워크 설계 [번역]](https://ziwon.dev/post/designing-scalable-portable-docker-container-networks/)
 - [개발자를 위한 도커 입문](https://github.com/voyagerwoo/docker-hands-on)
 - [왜 도커를 사용해야할까요? [영상]](https://youtu.be/3FcFL2C3ME8)
-- [만들면서 이해하는 도커(Docker) 이미지의 구조도커 이미지 빌드 원리와 OverayFS](https://www.44bits.io/ko/post/how-docker-image-work)
+- [만들면서 이해하는 도커(Docker) 이미지의 구조](https://www.44bits.io/ko/post/how-docker-image-work)
 - [Docker Compose 구성과 사용법](https://blog.wonizz.tk/2019/08/13/docker-compose/)
 - [기초적인 Docker 명령어](https://sksggg123.github.io/docker/docker-command/)
 - [Ubuntu 에서 실행중인 MySQL을 Docker Container 내부의 MySQL로 마이그레이션 하기](https://medium.com/@jihasong/ubuntu-%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EC%A4%91%EC%9D%B8-mysql%EC%9D%84-docker-container-%EB%82%B4%EB%B6%80%EC%9D%98-mysql%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-e97d6243b0cf)
