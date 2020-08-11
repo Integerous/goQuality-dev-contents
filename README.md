@@ -97,7 +97,7 @@
 - [2020년 2분기 회고](https://junilhwang.github.io/TIL/Review/2020-year/02-Second-Quarter/)
 - [통신할 때 꼭 지켜야 하는 약속, 프로토콜 [영상]](https://youtu.be/nYmixrYkMag)
 - [Introducing Domain-Oriented Microservice Architecture [영문]](https://eng.uber.com/microservice-architecture/)
-- [팀 버너스리가 HTTP 프로토콜을 만든 이유](https://thinker94.com/ko/posts/bernerslee_first_)
+- [팀 버너스리가 HTTP 프로토콜을 만든 이유](https://thinker94.com/ko/posts/bernerslee_first_http_translate/)
 - [10개의 멋진 깃헙 profile READMEs [영문]](https://dev.to/github/10-standout-github-profile-readmes-h2o)
 - [흔들리는 도커의 위상](https://post.naver.com/viewer/postView.nhn?volumeNo=28882881)
 - [RESTful API 설계 가이드 -](https://sanghaklee.tistory.com/m/57)
