@@ -89,6 +89,12 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [OpenJDK: In the new age of Concurrent Garbage Collectors, by Monica Beckwith (2020) [영상]](https://youtu.be/kR8_r3kMK-Y)
+- [컴포넌트, 제대로 만들어 쉽게 쓰자! (1탄) 쏘카 디자이너와 개발자가 컴포넌트를 만드는 방식](https://tech.socarcorp.kr/design/2020/07/31/component-01.html)
+- [AWS EMR과 Airflow를 이용한 Batch Data Processing](https://medium.com/class101-dev/aws-emr%EA%B3%BC-airflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-batch-data-processing-a100fc2f4f10)
+- [Go와 함께하는 전화망 서비스 구축 1편](https://d2.naver.com/helloworld/5827706)
+- [Java NIO FileChannel 과 DirectByteBuffer](http://homoefficio.github.io/2020/08/10/Java-NIO-FileChannel-%EA%B3%BC-DirectByteBuffer)
+- [2020년 2분기 회고](https://junilhwang.github.io/TIL/Review/2020-year/02-Second-Quarter/)
 - [통신할 때 꼭 지켜야 하는 약속, 프로토콜 [영상]](https://youtu.be/nYmixrYkMag)
 - [Introducing Domain-Oriented Microservice Architecture [영문]](https://eng.uber.com/microservice-architecture/)
 - [팀 버너스리가 HTTP 프로토콜을 만든 이유](https://thinker94.com/ko/posts/bernerslee_first_)
