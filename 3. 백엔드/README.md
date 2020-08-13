@@ -21,9 +21,7 @@
 - [10가지 소프트웨어 아키텍처 패턴 요약 [번역]](http://bit.ly/2RazjYh)
 - [웹 아키텍쳐 입문 [번역]](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
 - [서버 성능에 대한 정의와 이해 [슬라이드]](https://www.slideshare.net/sunnykwak90/ss-44875669)
-- [프로듀스48과 함께하는 GraphQL(그래프큐엘)](http://bit.ly/2qkVjVh)
 - [안전한 SSL/TLS운영 하기위해 알아야 할 것들](http://bit.ly/2OcxHLR)
-- [GraphQL과 RESTful API](http://bit.ly/2Q3ZK1H)
 - [웹서버 트래픽 폭주 대비 아파치 웹, 톰캣 서버 설정](bit.ly/2Q2a3U2)
 - [시스템 구축 후 성능, 부하, 스트레스 테스트](bit.ly/2PyoqT7)
 - [Nginx ingress를 이용해 이벤트 트래픽 대비하기](https://dailyhotel.io/nginx-ingress를-이용해-마케팅-이벤트를-대비하기-27ac73afaaf6)
@@ -110,7 +108,6 @@
 - [콘퍼런스 참가 신청 기능 개발기](https://d2.naver.com/helloworld/5048491)
 - [스파게티 조인을 피하고 경계안에서 캐시 구현하기](https://www.popit.kr/%ec%8a%a4%ed%8c%8c%ea%b2%8c%ed%8b%b0-%ec%a1%b0%ec%9d%b8%ec%9d%84-%ed%94%bc%ed%95%98%ea%b3%a0-%ea%b2%bd%ea%b3%84%ec%95%88%ec%97%90%ec%84%9c-%ec%ba%90%ec%8b%9c-%ea%b5%ac%ed%98%84%ed%95%98%ea%b8%b0/)
 - [웹서버 부하테스트 실전 노하우 [슬라이드]](https://www.slideshare.net/IMQAGroup/ss-183469952)
-- [GraphQL 개념잡기](https://tech.kakao.com/2019/08/01/graphql-basic/)
 - [Cloudflare 도입 후기](https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts/)
 - [LINE에서 Kafka를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
 - [쿠팡 데이터 플랫폼의 진화](https://medium.com/coupang-tech/%EC%BF%A0%ED%8C%A1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%98-%EC%A7%84%ED%99%94-26c827c1ec09)
@@ -150,7 +147,6 @@
 - [이미지 최적화를 위한 WebP 포맷 적용 이야기](https://tech.lezhin.com/2020/02/16/webp-resizing)
 - [배달의민족 최전방 시스템! '가게노출 시스템'을 소개합니다.](https://woowabros.github.io/experience/2020/02/19/introduce-shop-display.html)
 - [안심번호 마이크로서비스 개발하기](https://medium.com/daangn/%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-fb1a8817b059)
-- [코딩 없이 10분 만에 REST API/Graphql 서버 개발하기](https://medium.com/@khwsc1/js%EB%A1%9C-10%EB%B6%84%EB%A7%8C%EC%97%90-rest-api-graphql-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d28148dbdef2)
 - [LINE 메시징 서버가 새해 트래픽을 대비하는 과정](https://engineering.linecorp.com/ko/blog/how-line-messaging-servers-prepare-for-new-year-traffic/)
 - [딥러닝 모델 Serving 간단 구축기](https://tech.socarcorp.kr/data/2020/03/10/ml-model-serving.html)
 - [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
@@ -164,7 +160,6 @@
 - [Redis 6.0 – ThreadedIO를 알아보자.](https://charsyam.wordpress.com/2020/05/05/입-개발-redis-6-0-threadedio를-알아보자/)
 - [쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로) [영상]](https://tv.naver.com/v/11212875)
 - [간단한 Kafka Producer를 만들고 메시지 전송 동작원리를 알아보자](https://leeyh0216.github.io/2020-05-03/kafka_producer)
-- [GraphQl을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
 - [서버리스는 서버가 없는걸까? 8분 개념 설명! [영상]](https://www.youtube.com/watch?v=ufLmReluPww)
 
 
