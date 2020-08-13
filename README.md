@@ -89,6 +89,10 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [동일한 Bean(Class)에서 @Transactional 동작 방식](https://cheese10yun.github.io/spring-transacion-same-bean/)
+- [Audio알못에서 VCC2020참가까지 (카카오엔터프라이즈 인턴 후기)](https://subinium.github.io/kep-vcc2020-review/)
+- [개발자 비급(祕笈) – 4. 팀장이 아니지만 괜찮아](http://channy.creation.net/blog/1399)
+- [기술 문서 작성 5단계](https://tech.kakaoenterprise.com/65)
 - [OpenJDK: In the new age of Concurrent Garbage Collectors, by Monica Beckwith (2020) [영상]](https://youtu.be/kR8_r3kMK-Y)
 - [컴포넌트, 제대로 만들어 쉽게 쓰자! (1탄) 쏘카 디자이너와 개발자가 컴포넌트를 만드는 방식](https://tech.socarcorp.kr/design/2020/07/31/component-01.html)
 - [AWS EMR과 Airflow를 이용한 Batch Data Processing](https://medium.com/class101-dev/aws-emr%EA%B3%BC-airflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-batch-data-processing-a100fc2f4f10)
