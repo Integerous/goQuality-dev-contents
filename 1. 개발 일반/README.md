@@ -130,6 +130,7 @@
 - [실용적인 프런트엔드 테스트 전략 [영상]](https://www.youtube.com/watch?v=q9d631Nl0_4&feature=youtu.be)
 - [커버 불가능한 코드](https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/)
 - [JUnit5로 계층 구조의 테스트 코드 작성하기](https://johngrib.github.io/wiki/junit5-nested/)
+- [정말로 테스트 대역이 필요한가](https://gyuwon.github.io/blog/2020/05/10/do-you-really-need-test-doubles.html)
 
 
 --------------------------------------

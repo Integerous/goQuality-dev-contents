@@ -297,14 +297,6 @@
 - [해외개발자 진짜 개발자가 하는 일 1](https://medium.com/@tpdms2779/%ED%95%B4%EC%99%B8%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%84%EC%A7%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC-1-59e96ad061e3)
 - [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
 - [Java NIO 관련 글입니다.](https://leeyh0216.github.io/2020-05-10/java_nio_why_java_io_slow)
-- [정말로 테스트 대역이 필요한가](https://gyuwon.github.io/blog/2020/05/10/do-you-really-need-test-doubles.html)
-- [프리랜서 AI 엔지니어 1주년 회고 [번역]](https://huffon.github.io/2020/05/10/ai-freelancer/)
-- [Github 프로필에 나의 Daliy 코딩 시간을 적용해보자!](https://fernando.kr/develop/2020-05-02-github-gist-posting/)
-- [서버리스는 서버가 없는걸까? 8분 개념 설명! [영상]](https://www.youtube.com/watch?v=ufLmReluPww)
-- [quiche의 CUBIC와 HyStart++ 지원](https://blog.cloudflare.com/ko/cubic-and-hystart-support-in-quiche-ko/)
-- [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
-- [GraphQl을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
-- [서버 사이드 테스트 자동화 여정](https://engineering.linecorp.com/ko/blog/server-side-test-automation-5/)
 
 
 --------------------------------------

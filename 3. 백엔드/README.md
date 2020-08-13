@@ -164,6 +164,8 @@
 - [Redis 6.0 – ThreadedIO를 알아보자.](https://charsyam.wordpress.com/2020/05/05/입-개발-redis-6-0-threadedio를-알아보자/)
 - [쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로) [영상]](https://tv.naver.com/v/11212875)
 - [간단한 Kafka Producer를 만들고 메시지 전송 동작원리를 알아보자](https://leeyh0216.github.io/2020-05-03/kafka_producer)
+- [GraphQl을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
+- [서버리스는 서버가 없는걸까? 8분 개념 설명! [영상]](https://www.youtube.com/watch?v=ufLmReluPww)
 
 
 --------------------------------------

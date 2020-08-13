@@ -181,6 +181,8 @@
 - [Querydsl Projection 방법 소개 및 선호하는 패턴 정리](https://cheese10yun.github.io/querydsl-projections/)
 - [Querydsl Repository Support 활용](https://cheese10yun.github.io/querydsl-support/)
 - [JPA 기반 테스트 코드 작성 팁](https://cheese10yun.github.io/jpa-test-support/)
+- [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
+
 
 --------------------------------------
 
