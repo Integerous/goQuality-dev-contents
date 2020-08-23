@@ -147,6 +147,8 @@
 - [Java의 고유 락(intrinsic lock)에 대해](http://happinessoncode.com/2017/10/04/java-intrinsic-lock/)
 - [serialVersionUID가 없는 Serializable Class를 수정해야 할 때](https://www.popit.kr/serialversionuid%EA%B0%80-%EC%97%86%EB%8A%94-serializable-class%EB%A5%BC-%EC%88%98%EC%A0%95%ED%95%B4%EC%95%BC-%ED%95%A0-%EB%95%8C/)
 - [ConcurrentHashMap 동기화 방식](https://pplenty.tistory.com/17)
+- [Java NIO - 1. 왜 자바의 IO 패키지는 느린가?](https://leeyh0216.github.io/2020-05-10/java_nio_why_java_io_slow)
+- [우아한 CRUD [영상]](https://www.youtube.com/watch?v=cflK7FTGPlg)
 
 
 ### JVM

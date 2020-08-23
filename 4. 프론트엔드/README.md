@@ -174,7 +174,7 @@
 
 
 ### TypeScript
-- [TypeScript Handbook [번역]](http://bit.ly/2CA4Qjk)
+- [TypeScript Handbook [번역]](https://typescript-kr.github.io/)
 - [TypeScript: 인터페이스(Interface)](https://hyunseob.github.io/2016/10/17/typescript-interface/)
 - [TypeScript와 함께하는 Fullstack Development](https://medium.com/p/501835592b1d)
 - [TypeScript Deep Dive [영문]](https://basarat.gitbooks.io/typescript/content/)

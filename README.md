@@ -309,12 +309,6 @@
 - [sync와 async 를 정리한 글입니다.](https://tlonist-sang.github.io/async-sync-block-nonblock/)
 - [CSS에서 새로운 단위 'lh', 'rlh'가 나왔다](https://css-tricks.com/lh-and-rlh-units/)
 - [LINE 트랜스코딩 서버 아키텍처 개선기 – 1](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/?utm_source=LINE+DEV+Newsletter&utm_campaign=e2139340b1-&utm_medium=email&utm_term=0_916419c016-e2139340b1-301062333)
-- [우아한CRUD [영상]](https://youtu.be/BlEzbGTQ9Zs)
-- [Git Flow와 자주 사용되는 Git 명령어들](https://www.holaxprogramming.com/2018/11/01/git-commands/)
-- [개발자라면 꼭 알아야 할 커맨드 꿀팁!](https://m.blog.naver.com/PostView.nhn?blogId=codeitofficial&logNo=221861721998&proxyReferer=)
-- [해외개발자 진짜 개발자가 하는 일 1](https://medium.com/@tpdms2779/%ED%95%B4%EC%99%B8%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%84%EC%A7%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC-1-59e96ad061e3)
-- [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
-- [Java NIO 관련 글입니다.](https://leeyh0216.github.io/2020-05-10/java_nio_why_java_io_slow)
 
 
 --------------------------------------
