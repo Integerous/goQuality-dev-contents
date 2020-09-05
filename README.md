@@ -334,6 +334,7 @@
 - [sync와 async 를 정리한 글입니다.](https://tlonist-sang.github.io/async-sync-block-nonblock/)
 - [CSS에서 새로운 단위 'lh', 'rlh'가 나왔다](https://css-tricks.com/lh-and-rlh-units/)
 - [LINE 트랜스코딩 서버 아키텍처 개선기 – 1](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/?utm_source=LINE+DEV+Newsletter&utm_campaign=e2139340b1-&utm_medium=email&utm_term=0_916419c016-e2139340b1-301062333)
+- [Java 동적바인딩 분석](https://accidentlywoo.tistory.com/202)
 
 
 --------------------------------------
