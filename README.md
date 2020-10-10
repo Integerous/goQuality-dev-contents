@@ -89,7 +89,15 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
-
+- [우아한테크코스 3기 과정에 참여할 사람을 모집합니다.](https://woowabros.github.io/techcourse/2020/10/06/woowacourse.html)
+- [우리는 불편함을 어떻게 마주하고 있는가 - 쿠버네티스 적용기](https://woowabros.github.io/experience/2020/10/06/thiiing-system-improvement.html)
+- [JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
+- [도커로 웹 서비스를 돌려보는 실습을 통해, 짧지만 강하게 도커를 배워보는 영상입니다.](https://youtu.be/hWPv9LMlme8)
+- [추천 시스템 Basics](https://recommendsystem.oopy.io/)
+- [자바스크립트 스코프에 대해 아주쉽게 이해하기](https://kstblog.aww.kr/4s66Q/AvsfF)
+- [자바스크립트 V8 엔진의 메모리 관리](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
+- [자바한정: 널 서바이벌 가이드 [영상]](https://www.youtube.com/watch?v=DedY9dKv3tk)
+- [JPA @Where 사용법](https://cheese10yun.github.io/jpa-where/)
 - [Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?](http://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html)
 - [Vue 3 가볍게 훑어보기](https://joshua1988.github.io/web-development/vuejs/vue3-coming)
 - [크롬 확장프로그램 개발⛏️ 회고](https://zuminternet.github.io/Zum-Chrome-Extension/)
