@@ -149,6 +149,18 @@
 - [ConcurrentHashMap 동기화 방식](https://pplenty.tistory.com/17)
 - [Java NIO - 1. 왜 자바의 IO 패키지는 느린가?](https://leeyh0216.github.io/2020-05-10/java_nio_why_java_io_slow)
 - [우아한 CRUD [영상]](https://www.youtube.com/watch?v=cflK7FTGPlg)
+- [Java 동적바인딩 분석](https://accidentlywoo.tistory.com/202)
+- [Spring WebClient 사용법](https://medium.com/@odysseymoon/spring-webclient-사용법-5f92d295edc0)
+- [Spring Rest Docs 적용](https://woowabros.github.io/experience/2018/12/28/spring-rest-docs.html)
+- [Spring WebFlux는 어떻게 적은 리소스로 많은 트래픽을 감당할까?](https://alwayspr.tistory.com/44)
+- [스프링 배치 4.2 레퍼런스 한글 번역](https://godekdls.github.io/Spring%20Batch/domainlanguage/)
+- [자바 컬렉션과 동기화(Java Collection Synchronization)](https://madplay.github.io/post/java-collection-synchronize)
+- [Spring AMQP, RabbitMQ](https://brunch.co.kr/@springboot/298)
+- [Java 8, 9, 10을 손쉽게 전환하면서 사용하는 방법](https://blog.naver.com/writer0713/221266129828)
+- [자바 스프링 실전 가이드 [영상]](https://www.youtube.com/watch?v=TIag2sXhZRk)
+- [Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/m/114)
+- [JPA + Querydsl group_concat 사용법](https://cheese10yun.github.io/jpa-query-dsl-group-concat/)
+- [JetBrains가 사랑하는 Java의 25가지 특징](https://blog.jetbrains.com/kr/2020/05/25-things-we-love-about-java-ko/)
 
 
 ### JVM
@@ -213,6 +225,7 @@
 - [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc/)
 - [컨테이너 내부 Go 애플리케이션 디버깅하기](https://mingrammer.com/debugging-containerized-go-app/)
 - [Go의 철학 [번역]](https://marsettler.com/the-zen-of-go/)
+- [Golang News](https://github.com/golangkorea/golang-news/blob/master/issues/2020-05.md)
 
 
 --------------------------------------

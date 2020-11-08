@@ -96,7 +96,15 @@
 - [코드리뷰로 시작하는 건강한 개발 문화](https://blog.shiren.dev/2020-01-11-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B1%B4%EA%B0%95%ED%95%9C-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94/)
 - [메쉬코리아(부릉)의 프론트엔드 엔지니어링 실천 사례를 공유합니다.](https://github.com/meshkorea/front-end-engineering)
 - [크몽 FE 팀 코드리뷰문화 개선기(1+1=3)](https://brunch.co.kr/@kmongdev/20)
-
+- [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html)
+- [차세대, 리팩토링 그리고 애자일](https://www.popit.kr/%ec%b0%a8%ec%84%b8%eb%8c%80-%eb%a6%ac%ed%8c%a9%ed%86%a0%eb%a7%81-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%95%a0%ec%9e%90%ec%9d%bc/)
+- [우아한테크코스 블로그](https://woowacourse.github.io/javable/)
+- [헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
+- [인텔리제이 JVM 모니터링 툴 플러그인](https://cheese10yun.github.io/intellij-visual-vm/)
+- [CI/CD(지속적 통합/지속적 제공): 개념, 방법, 장점, 구현 과정](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
+- [객체지향 디자인패턴 1 [영상]](https://www.youtube.com/watch?v=lJES5TQTTWE)
+- [그런 개발자로 괜찮은가 - '문화' 편](https://taetaetae.github.io/2020/06/21/a-good-developer-in-terms-of-culture/)
+- [개발자들이 코드리뷰를 하는 이유](https://greypencil.tistory.com/141)
 
 --------------------------------------
 
@@ -131,6 +139,7 @@
 - [커버 불가능한 코드](https://blog.npcode.com/2020/02/29/%ec%bb%a4%eb%b2%84-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%bd%94%eb%93%9c/)
 - [JUnit5로 계층 구조의 테스트 코드 작성하기](https://johngrib.github.io/wiki/junit5-nested/)
 - [정말로 테스트 대역이 필요한가](https://gyuwon.github.io/blog/2020/05/10/do-you-really-need-test-doubles.html)
+- [TDD를 소개합니다](https://deveric.tistory.com/m/100)
 
 
 --------------------------------------
@@ -216,6 +225,11 @@
 - [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
 - [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
 - [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect)
+- [Bash Terminal을 세련되게(Mac)](https://vvshinevv.tistory.com/77)
+- [개발자, 트렌드를 버리다 — 1년 후 소감](https://link.medium.com/8u2AYhCfK6)
+- [(2020) 1. 비전공자로 자바 백엔드 개발자 시작하기](https://jojoldu.tistory.com/505)
+- [지난 10번의 WWDC를 되돌아보며](https://medium.com/@jungkim/%EC%A7%80%EB%82%9C-10%EB%B2%88%EC%9D%98-wwdc%EB%A5%BC-%EB%90%98%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-16d6da3a95b2)
+- [2020년 백엔드 개발자 로드맵](https://velog.io/@exploit017/2020-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A1%9C%EB%93%9C%EB%A7%B5?fbclid=IwAR0ncLwd2i7sK5yw-byITi5S-ROxreJdXaV6EWJhHwMJ52pAQNvsbPhpB_c)
 
 
 --------------------------------------

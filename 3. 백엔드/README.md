@@ -161,6 +161,7 @@
 - [쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로) [영상]](https://tv.naver.com/v/11212875)
 - [간단한 Kafka Producer를 만들고 메시지 전송 동작원리를 알아보자](https://leeyh0216.github.io/2020-05-03/kafka_producer)
 - [서버리스는 서버가 없는걸까? 8분 개념 설명! [영상]](https://www.youtube.com/watch?v=ufLmReluPww)
+- [마이리얼트립 EDW(Enterprise Data Warehouse) 구축 : phase 1](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-edw-%EA%B5%AC%EC%B6%95-phase-1-7d32c49c96ec)
 
 
 --------------------------------------
@@ -184,6 +185,7 @@
 - [Mastering Chaos - A Netflix Guide to Microservices [영상]](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 - [마이크로 서비스 아키텍쳐와 컨테이너 환경](http://bit.ly/2J7YgRz)
 - [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
+- [마이크로서비스 아키텍처 (MSA) [번역]](https://medium.com/wematch/마이크로서비스-아키텍처-msa-359b7973ba79)
 
 
 --------------------------------------
@@ -216,6 +218,7 @@
 - [도커(Docker) 입문편: 컨테이너 기초부터 서버 배포까지](https://www.44bits.io/ko/post/easy-deploy-with-docker)
 - [도커 트러블슈팅 - 컨테이너 실행환경 디버깅: run, exec, commit 명령어 활용하기](https://www.44bits.io/ko/post/docker-container-trouble-shooting-by-exec-and-commit)
 - [도커 이미지 잘 만드는 방법](https://jonnung.dev/docker/2020/04/08/optimizing-docker-images/)
+- [LINE 트랜스코딩 서버 아키텍처 개선기 – 1](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/?utm_source=LINE+DEV+Newsletter&utm_campaign=e2139340b1-&utm_medium=email&utm_term=0_916419c016-e2139340b1-301062333)
 
 
 ### 쿠버네티스 Kubernetes
@@ -227,6 +230,7 @@
 - [Kubernetes 03 – Kubernetes Cluster on AWS with kops](https://blog.2dal.com/2019/04/24/kubernetes-03-kubernetes-cluster-on-aws-with-kops/)
 - [Kubernetes 개념 설명 영상](http://bit.ly/2yWgxwl)
 - [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
+- [반드시 알아야 할 쿠버네티스 디자인 패턴 10가지](https://jflip.tistory.com/m/13)
 
 
 --------------------------------------
@@ -262,6 +266,7 @@
 - [개발자를 위한 레디스 튜토리얼](https://meetup.toast.com/posts/224)
 - [우아한 형제들 메인 데이터베이스 IDC 탈출 성공기](https://woowabros.github.io/experience/2019/12/19/ruby_database.html)
 - [Druid와 Bitmap Index](https://leeyh0216.github.io/2020-04-26/Apache_Druid_bitmap_index)
+- [데이터베이스 사용 및 팁](https://fkkmemi.github.io/server/atlas-use/)
 
 
 --------------------------------------
@@ -290,6 +295,10 @@
 - [스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들](https://www.mimul.com/blog/linux-server-operations/)
 - [logrotate를 이용하여 로그 파일을 자동으로 삭제하기](https://medium.com/encored-technologies-engineering-data-science/logrotate%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A1%9C%EA%B7%B8-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0-dccf7b1b52b0)
 - [리눅스 grep 명령어 사용법](https://recipes4dev.tistory.com/m/157?fbclid=IwAR0jRN5wFvSyKE9l8ic-oOR1Mn9qD8pO9pDSznkZyLyWfXYyooPNPzVu_IE)
+- [윈도우10 업데이트 내역](https://docs.microsoft.com/ko-kr/windows-insider/at-home/whats-new-wip-at-home-20h1)
+- [bash 가이드 [영문]](https://github.com/Idnan/bash-guide)
+- [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html?m=1)
+
 
 --------------------------------------
 
@@ -301,3 +310,4 @@
 - [네트워크 모니터링이 궁금할땐 ? Packetbeat !](https://taetaetae.github.io/2019/09/08/network-monitor-by-packetbeat/)
 - [설치형 개인 VPN 서버 알고(Algo): 아마존 라이트세일에 설치하고 운영하기](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail)
 - [소프트웨어 정의 네트워킹(SDN)](https://no1.technology/13)
+- [WATCHA 사내 VPN 개발하기](https://medium.com/watcha/watcha-%EC%82%AC%EB%82%B4-vpn-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-e04f946d3ccb)

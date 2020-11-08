@@ -248,6 +248,8 @@
 - [글자랑의 한글 가변폰트 실험](https://www.notion.so/49fca2912ab344edb0ef24b8f320440a)
 - [세상은 왜 CSS개발자를 필요로 하는가? [번역]](https://medium.com/@Baksure/%EB%B2%88%EC%97%AD-%EC%84%B8%EC%83%81%EC%9D%80-%EC%99%9C-css%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%ED%95%84%EC%9A%94%EB%A1%9C-%ED%95%98%EB%8A%94%EA%B0%80-c3465999301b)
 - [코드로 자음과 모음을 분리하기](https://www.notion.so/3c40c025b9bc474da00add82f9c301ad)
+- [CSS에서 새로운 단위 'lh', 'rlh'가 나왔다](https://css-tricks.com/lh-and-rlh-units/)
+- [CSS 팁: 팝업창을 멋지게 만드는 너무 간단한 방법](https://taegon.kim/archives/10088)
 
 
 --------------------------------------

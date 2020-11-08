@@ -62,6 +62,16 @@
 - [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 - [GitHub 환경에서의 실전 Git 레시피](https://meetup.toast.com/posts/116)
 - [Git Flow와 자주 사용되는 Git 명령어들](https://www.holaxprogramming.com/2018/11/01/git-commands/)
+- [gr을 이용한 git저장소관리하기](https://medium.com/@changjoopark/gr%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%8E%EC%9D%80-git-%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-44c78ff667d2)
+- [github action 스케줄](https://cheese10yun.github.io/github-action-1/)
+- [git add –patch의 e 옵션](https://jinhoooooou.github.io/til/git-add-patch-more-split-hunk/)
+- [깃헙 액션을 마켓에 등록해보자](https://meetup.toast.com/posts/241)
+- [지금 당장 좋은 커밋 메시지를 남기는 방법](https://jeong-pro.tistory.com/m/207)
+- [우리 팀 GitHub에 지금 당장 연결해야 할 서비스 4가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%9A%B0%EB%A6%AC-%ED%8C%80-github%EC%97%90-%EB%8B%B9%EC%9E%A5-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%95%BC-%ED%95%A0-4%EA%B0%80%EC%A7%80-%EC%84%9C%EB%B9%84%EC%8A%A4-4ea3c165114)
+- [의존성 캐시로 Github Actions 속도 높이기](https://www.notion.so/Github-Actions-7ca7c1ddf2f74d24ab9173d1b5c97366)
+- [Git Flow와 자주 사용되는 명령어들](https://steemit.com/kr/@stunstunstun/git-1-git-flow)
+- [GitHub 블로그 빠르게 시작하기!](https://thdev.net/653)
+- [git 명령어  정리](https://m.blog.naver.com/codeitofficial/222013732490)
 
 
 --------------------------------------
@@ -139,6 +149,10 @@
 - [서버의 상태를 알려주는 HTTP 상태코드](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
 - [만화로 보는 https가 작동하는 방식](https://howhttps.works/ko/)
 - [quiche의 CUBIC와 HyStart++ 지원](https://blog.cloudflare.com/ko/cubic-and-hystart-support-in-quiche-ko/)
+- [CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/)
+- [HTTP 는 Stateless 한데 로그인은 어떻게 구현할 수 있을까? (세션/쿠키를 이용한 인증)](https://hyuntaeknote.tistory.com/m/3)
+- [HTTP 상태코드 다이어그램](https://github.com/for-GET/http-decision-diagram)
+- [HTML5 폼 검증에 대해 정리해 보자](https://jeonghwan-kim.github.io/dev/2020/06/08/html5-form-validation.html)
 
 
 --------------------------------------
@@ -206,6 +220,7 @@
 - [인공지능 개발자를 위한 코세라 강의 베스트19](https://brunch.co.kr/@synabreu/68)
 - [딥러닝 웹서비스 개발 도전기](https://medium.com/@inerplat/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-e9ca38d53c1b)
 - [프리랜서 AI 엔지니어 1주년 회고 [번역]](https://huffon.github.io/2020/05/10/ai-freelancer/)
+- [Python 데이터 분석 실무](https://wikidocs.net/book/1867)
 
 
 ### 데이터 사이언스
@@ -218,6 +233,7 @@
 - [정규표현식으로 5일 걸리는 작업, 15분만에 끝내기 [번역]](https://medium.com/@jwyeom63/%EB%B2%88%EC%97%AD-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9C%BC%EB%A1%9C-5%EC%9D%BC-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9E%91%EC%97%85-15%EB%B6%84%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-2e615a907048)
 - [스타트업에서 데이터를 더하는 법 [슬라이드]](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit?usp=sharing)
 - [데이터 사이언스 벤 다이어그램 [번역]](https://www.lucypark.kr/blog/2015/06/21/the-data-science-venn-diagram/)
+- [데이터 분석으로 개발 직군 스킬 트렌드 엿보기(feat. 채용공고)](https://medium.com/wantedjobs/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0-skill-stack-%EB%B6%84%EC%84%9D%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%A7%81%EA%B5%B0-skill-trend-%EC%97%BF%EB%B3%B4%EA%B8%B0-97c444360c39)
 
 
 ### 블록체인
