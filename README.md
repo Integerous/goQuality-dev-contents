@@ -383,7 +383,7 @@
 - [Protocol Buffer 원리로 배우는 고성능 직렬화, 역직렬화 전략! Protocol Buffer 예제 테스트](https://jeong-pro.tistory.com/190)
 - [monorepo로 대규모 react 프로젝트 관리하기](https://medium.com/myrealtrip-product/monorepo%EB%A1%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-d12b65340306)
 - [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
-- [Cookie SameSite 설정하 (Chrome 80 쿠키 이)](https://ifuwanna.tistory.com/223)
+- [Cookie SameSite 설정하기 (Chrome 80 쿠키 이슈)](https://ifuwanna.tistory.com/223)
 - [Deno는 무엇이며, Node.js를 대체할 것인가](https://link.medium.com/ASCND0FFu6)
 - [why you should stop using objects with setstate?](https://medium.com/javascript-in-plain-english/why-you-should-stop-using-objects-with-setstate-ee7a6c7bcba3)
 - [Distributed Cache로 Hibernate Second Level Cache를 적용하여 성능 튜닝하기 - 이론편](https://pkgonan.github.io/2020/05/distributed-hibernate-second-level-cache-1)
