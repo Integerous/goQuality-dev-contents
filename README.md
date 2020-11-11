@@ -89,6 +89,7 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [styled-components와 함께하는 오픈 소스 디버깅](https://medium.com/class101/styled-components%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EB%94%94%EB%B2%84%EA%B9%85-ac750528e7b8)
 - [JMeter을 이용해서 웹서버 성능 테스트하기 [영상]](https://youtu.be/1AyxqIePusA)
 - [React 톺아보기 - 01. Preview](https://goidle.github.io/react/in-depth-react-preview/)
 - [AWS reinvent](https://reinvent.awsevents.com/?&trk=em_a134p000006BlQmAAK&trkCampaign=AWS_reInvent_2020&sc_channel=em&sc_campaign=GLOBAL_STRAT_T1_reinvent_DG1_20201130&sc_medium=em_313728&sc_outcome=Strategic_Events&sc_content=AWS_Event&mkt_tok=eyJpIjoiTnpkbU1tSXdPVEV4TVRJMSIsInQiOiJZQWRcL3VMYnN6VUZVQllxTzloU3JFUHpmK1l6SUN0MnZPNStXOFJSckU0YmVzcXFcLzVnV3FRRE9Ic2xFekNxalhsbXZPTkRhSFk0STBZVndvZVI5MldTRnR2QnFkQkZ3Ykl1UFowM0NrWWx4d3dud0Qyc1U5SVwvcmthZU5ETmp2b084blhNcG9HQ09KcytWbzJGOFBQeVE9PSJ9)
