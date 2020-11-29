@@ -89,6 +89,7 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [React Hook 간단 설명 - useState와 useEffect](https://www.jeje01.me/react/react-hooks---usestate,-useeffect/)
 - [블리츠 1941 개발 이야기 - 서버사이드 AI 처리 편](https://blog.naver.com/imays/222138173228)
 - [레거시 마이그레이션 기법 쉐도잉](https://blog.banksalad.com/tech/how-banksalald-decomposes-legacy-services/)
 - [Kotlin 확장 함수로 코드 가독성을 개선해 보기](https://developers-kr.googleblog.com/2020/11/kotlin.html)
