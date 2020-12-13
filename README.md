@@ -116,6 +116,7 @@
 - [modern javascript](https://javascript.info/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 - [HTTP에서부터 WEBSOCKET까지](https://medium.com/@chullino/)
 - ['christmas-tree' 레포에 아희 묻히기](https://kinetic27.github.io//2020/12/12/christmas-tree/)
+- [React Hook 간단 설명 - useState와 useEffect](https://www.jeje01.me/react/react-hooks---usestate,-useeffect/)
 - [블리츠 1941 개발 이야기 - 서버사이드 AI 처리 편](https://blog.naver.com/imays/222138173228)
 - [레거시 마이그레이션 기법 쉐도잉](https://blog.banksalad.com/tech/how-banksalald-decomposes-legacy-services/)
 - [Kotlin 확장 함수로 코드 가독성을 개선해 보기](https://developers-kr.googleblog.com/2020/11/kotlin.html)
