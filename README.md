@@ -98,7 +98,7 @@
 - [python을 활용한 GraphQL API 테스트 자동화](https://yeonshin-kang.medium.com/python을-활용해-graphql-api-테스트하기-63b75da888fa)
 - [자바스크립트 개발자를 위한 ReasonML](https://green-labs.github.io/what-is-reason-ml)
 - [25주년 기념 webstorm 구독 50%](https://blog.jetbrains.com/ko/webstorm/2020/12/js-turns-25-and-webstorm-discount/)
-- [HTTP/3는 왜 UDP를 선택한 것일까? ](https://evan-moon.github.io/2019/10/08/what-is-)
+- [HTTP/3는 왜 UDP를 선택한 것일까? ](https://evan-moon.github.io/2019/10/08/what-is-http3/)
 - [Production 환경에서 고려해야 할 Kubernetes 이슈 & 트러블슈팅](https://velog.io/@tedigom/Production-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0Kubernetes-%EC%9D%B4%EC%8A%88-%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85)
 - [개발자가 맥북을 사용하는 이유](https://stricky.tistory.com/m/418)
 - [ZET팀의 프런트엔드 개발자 성장 레벨](https://www.notion.so/ZET-dbb9b6c1cb5d4c2da039a85b6b1dab20)
