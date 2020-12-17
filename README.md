@@ -489,7 +489,7 @@
 - [마이리얼트립 EDW(Enterprise Data Warehouse) 구축 : phase 1](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-edw-%EA%B5%AC%EC%B6%95-phase-1-7d32c49c96ec)
 - [github action 스케줄](https://cheese10yun.github.io/github-action-1/)
 - [Bash Terminal을 세련되게(Mac)](https://vvshinevv.tistory.com/77)
-- [Cookie SameSite 설정하 (Chrome 80 쿠키 이)](https://ifuwanna.tistory.com/223)
+- [Cookie SameSite 설정하기 (Chrome 80 쿠키 이슈)](https://ifuwanna.tistory.com/223)
 - [Deno는 무엇이며, Node.js를 대체할 것인가](https://link.medium.com/ASCND0FFu6)
 - [why you should stop using objects with setstate?](https://medium.com/javascript-in-plain-english/why-you-should-stop-using-objects-with-setstate-ee7a6c7bcba3)
 - [Spring WebClient 사용법](https://medium.com/@odysseymoon/spring-webclient-사용법-5f92d295edc0)
