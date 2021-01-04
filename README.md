@@ -129,7 +129,6 @@
 - [Production 환경에서 고려해야 할 Kubernetes 이슈 & 트러블슈팅](https://velog.io/@tedigom/Production-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0Kubernetes-%EC%9D%B4%EC%8A%88-%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85)
 - [개발자가 맥북을 사용하는 이유](https://stricky.tistory.com/m/418)
 - [ZET팀의 프런트엔드 개발자 성장 레벨](https://www.notion.so/ZET-dbb9b6c1cb5d4c2da039a85b6b1dab20)
-- [레몬오렌지 나무 이태리 토분set -](https://ohouse.onelink.me/2107755860/60789f07)
 - [유스콘'20](https://www.notion.so/YOUTHCON-20-b8a935551bf7453e93394d03f00e9840)
 - [햣 rebase 개념 상세](https://junwoo45.github.io/2019-10-23-rebase/)
 - [쿠버네티스에서 쉽게 저지르는 10가지 실수 [번역]](https://coffeewhale.com/kubernetes/mistake/2020/11/29/mistake-10/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
