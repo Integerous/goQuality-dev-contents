@@ -89,6 +89,7 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [개발자 성장에 필요한 3가지](https://brunch.co.kr/@mystoryg/62)
 - [Kotlin과 Coroutine으로 만들어 보는 Non-Blocking API [영상]](https://www.youtube.com/watch?v=ZUksSDu8C0c)
 - [야, 너두 개발자 포트폴리오 만들 수 있어 👉😉](https://geonlee.tistory.com/9)
 - [2020년 이직](https://blog.outsider.ne.kr/1518)
