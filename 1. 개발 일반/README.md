@@ -4,7 +4,7 @@
 - [신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/%EC%8B%A0%EA%B7%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
 - [스타트업이 디자인 시스템을 만들어야 하는 이유](https://brunch.co.kr/@mobiinside/1030)
 - [신입개발자와 일하는 법](https://yookeun.github.io/think/2016/02/05/think-howwork/)
-- [프로그래밍할 때 알아야 할 5가지 인지 편향](http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html)
+- [프로그래밍할 때 알아야 할 5가지 인지 편향](https://ngio.co.kr/6090)
 - [더 좋은 코드를 위한 12가지 체크리스트 - 조엘 테스트 [번역]](https://zetawiki.com/wiki/%EC%A1%B0%EC%97%98_%ED%85%8C%EC%8A%A4%ED%8A%B8)
 - [개발을 여러 층의 케익으로 나누기 [번역]](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%97%AC%EB%9F%AC-%EC%B8%B5%EC%9D%98-%EC%BC%80%EC%9D%B5%EC%9C%BC%EB%A1%9C-%EB%82%98%EB%88%84%EA%B8%B0/)
 - [SaaS 앱을 만들기 위한 방법론 [번역]](https://12factor.net/ko/)
