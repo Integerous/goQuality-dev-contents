@@ -206,6 +206,7 @@
 - [인공지능 개발자를 위한 코세라 강의 베스트19](https://brunch.co.kr/@synabreu/68)
 - [딥러닝 웹서비스 개발 도전기](https://medium.com/@inerplat/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-e9ca38d53c1b)
 - [프리랜서 AI 엔지니어 1주년 회고 [번역]](https://huffon.github.io/2020/05/10/ai-freelancer/)
+- [pytorch와 함께하는 딥러닝 공부 방법, 길라잡이](https://ys-cs17.tistory.com/38)
 
 
 ### 데이터 사이언스
