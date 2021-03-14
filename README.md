@@ -89,6 +89,7 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [[책 & 강의]직접 보고 추천하는 머신러닝 & 딥러닝 & 관련 수학 총.정.리. (2021)](https://www.philgineer.com/2020/10/awesome-machine-learning.html)
 - [pytorch와 함께하는 딥러닝 공부 방법, 길라잡이](https://ys-cs17.tistory.com/38)
 - [방문자 패턴 - Visitor pattern](https://thecodinglog.github.io/design/2019/10/29/visitor-pattern.html)
 - [와디즈의 디자인 시스템 구축](https://medium.com/wadiz/%EC%99%80%EB%94%94%EC%A6%88%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-c7f32a948814)
