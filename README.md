@@ -24,7 +24,7 @@
 
 방법 1 - 아래 :mailbox:**Queue** 에 링크 추가하고 **Pull Request**  
 방법 2 - **Issue 등록**하여 링크 공유 [(Issue 등록 방법)](https://github.com/Integerous/goQuality-dev-contents/issues/1)  
-방법 3 - [오픈채팅방 1](http://bit.ly/2QxBmW5) 또는 [오픈채팅방 2](https://open.kakao.com/o/gwCKgrOb)에 링크 공유 (참여코드: 1007)
+방법 3 - [오픈채팅방 1](http://bit.ly/2QxBmW5) 또는 [오픈채팅방 2](https://open.kakao.com/o/gwCKgrOb) 또는 [오픈채팅방 3](https://open.kakao.com/o/gz7Kiz3c)에 링크 공유 (참여코드: 1007)
 
 >단순 기사, 저작권법 위반 컨텐츠는 공유 금지!
 
