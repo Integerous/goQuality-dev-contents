@@ -89,6 +89,13 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [지속 성장 가능한 소프트웨어를 만들어가는 방법](https://geminikim.medium.com/%EC%A7%80%EC%86%8D-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EB%B0%A9%EB%B2%95-97844c5dab63)
+- [CDC & CDC Sink Platform 개발 1편 - CDC Platform 개발](https://hyperconnect.github.io/2021/01/11/cdc-platform.html)
+- [Node.js에 관한 10가지 후회 - 라이언 달과 Deno.js](https://kingofbackend.tistory.com/112)
+- [streaming API를 사용한 네이버페이의 대형 XLSX 파일 다운로드 구현](https://d2.naver.com/helloworld/9423440)
+- [GitOps와 ArgoCD](https://coffeewhale.com/kubernetes/gitops/argocd/2020/02/10/gitops-argocd/)
+- [9 tips to Increase your Java performance [영문]](https://sendilkumarn.com/blog/9-tips-to-increase-your-java-performance)
+- [한달 10만원으로 추천시스템 구축하기](https://dq-dreamsearch.com/121)
 - [How Wix improved website performance by evolving their infrastructure](https://web.dev/wix/)
 - [프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정](https://wormwlrm.github.io/2021/03/27/How-browsers-work.html)
 - [효율적인 프런트엔드 에러 핸들링](https://jbee.io/react/error-declarative-handling-0)
