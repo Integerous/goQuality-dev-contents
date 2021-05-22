@@ -88,6 +88,7 @@
 # :mailbox: Queue
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
+- (여기에 추가해주세요.)
 - [멋진 스타트업처럼 토이 프로젝트하는 비결 🚀](https://velog.io/@ajufresh/%EB%98%91%EB%98%91%ED%95%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%B2%98%EB%9F%BC-%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%95%98%EB%8A%94-%EB%B9%84%EA%B2%B0)
 - [퇴사 부검](https://woowabros.github.io/experience/2021/04/18/autopsy.html)
 - [Which is the fastest web framework?](https://github.com/the-benchmarker/web-frameworks)
