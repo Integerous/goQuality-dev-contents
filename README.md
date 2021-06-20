@@ -88,6 +88,30 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [개발자에게는 어떤 능력이 필요한가?](https://euncho.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%8A%A5%EB%A0%A5%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-f2bb22fdc0ad)
+- [Cache에 대하여.. (Spring+EHCache)](https://jaehun2841.github.io/2018/11/07/2018-10-03-spring-ehcache/)
+- [518일동안 단 하루도 빠지지 않고 알고리즘을 풀었다.](https://kwiki.devserum.com/ko/articles/tech-articles/2021-05-31-518-consecutive-days-algorithm-challenge)
+- [쏘카 데이터 그룹 - Airflow와 함께한 데이터 환경 구축기(feat. Airflow on Kubernetes)](https://tech.socarcorp.kr/data/2021/06/01/data-engineering-with-airflow.html)
+- [Spring Batch Reader 성능 분석 및 측정](https://cheese10yun.github.io/spring-batch-reader-performance/)
+- [2021 구글 I/O: 구글의 AI는 어디까지 왔을까요?](https://medium.com/ai-networkkr/2021-%EA%B5%AC%EA%B8%80-i-o-%EA%B5%AC%EA%B8%80%EC%9D%98-ai%EB%8A%94-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%99%94%EC%9D%84%EA%B9%8C%EC%9A%94-ef99155607f9)
+- [dbt로 ELT 파이프라인 효율적으로 관리하기](https://www.humphreyahn.dev/blog/efficient-elt-pipelines-with-dbt)
+- [Fast API 로 3시간만에 추천 서버 만들기 (implicit, docker, gitlabCI)](https://school-of-life.tistory.com/166)
+- [29CM 상품 대량등록 기능 소개](https://grey82.medium.com/29cm-%EC%83%81%ED%92%88-%EB%8C%80%EB%9F%89%EB%93%B1%EB%A1%9D-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-7ba796aef385)
+- [NDC 2021](https://ndc.nexon.com/session/sessionSchedule)
+- [웹 개발을 위해 꼭 알아야하는 보안 공격](https://present.do/decks/60bf91801903093a77d160ed/embed?page=29)
+- [(JPA) persist vs merge](https://perfectacle.github.io/2021/06/13/entity-manager-persist-vs-merge)
+- [느려터진 Spring Rest Docs Test? SpringContext, @MockBean 없이 빠르고 효과적으로 사용하기](https://geminikim.medium.com/%EB%8A%90%EB%A0%A4%ED%84%B0%EC%A7%84-spring-rest-docs-test-springcontext-mockbean-%EC%97%86%EC%9D%B4-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-dc36861493c9)
+- [Spring Batch Reader 성능 분석 및 측정 part 2
+HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/spring-batch-reader-performance-2/)
+- [테스트를 작성하는 방법](https://blog.kingbbode.com/m/52)
+- [윈도우 11 사용후기](https://lunacellstone.tistory.com/144)
+- [React ref 톺아보기](https://woowacourse.github.io/javable/post/2021-05-15-react-ref)
+- [CEO가 뽑고 싶은 개발자](https://youtu.be/3H4umWD5bwI)
+- [2021 next conf 후기](https://nookpi.tistory.com/m/82)
+- [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
+- [LINE에서 하루 만에 정적 웹 페이지 개발해서 배포하는 방법](https://engineering.linecorp.com/ko/blog/how-to-quickly-develop-static-pages-in-line/)
+- [jwt 보다 session이 안전할까?](https://github.com/boojongmin/memo/issues/7)
+- [비동기를 사랑한 오픈소스 개발자](https://engineering.linecorp.com/ko/blog/line-developer-interview-3/)
 - [멋진 스타트업처럼 토이 프로젝트하는 비결 🚀](https://velog.io/@ajufresh/%EB%98%91%EB%98%91%ED%95%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%B2%98%EB%9F%BC-%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%95%98%EB%8A%94-%EB%B9%84%EA%B2%B0)
 - [프로그래밍은 쉬워요](https://sungdoo.dev/retrospective-or-psa/programming-is-easy/)
 - [옛날 개발자의 맥북 이틀 사용 후기](https://brunch.co.kr/@springboot/195)
@@ -742,7 +766,6 @@
 - [LINE 트랜스코딩 서버 아키텍처 개선기 – 1](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/?utm_source=LINE+DEV+Newsletter&utm_campaign=e2139340b1-&utm_medium=email&utm_term=0_916419c016-e2139340b1-301062333)
 - [Java 동적바인딩 분석](https://accidentlywoo.tistory.com/202)
 - [프론트엔드 개발자 면접 정리](https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC)
-- [비동기를 사랑한 오픈소스 개발자](https://engineering.linecorp.com/ko/blog/line-developer-interview-3/)
 
 --------------------------------------
 </br>
