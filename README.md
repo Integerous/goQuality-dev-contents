@@ -88,6 +88,7 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [라인개발자들의 webpack 레퍼런스 번역](https://www.youtube.com/watch?v=yZtFgREvdBU&t=369s)
 - [개발자에게는 어떤 능력이 필요한가?](https://euncho.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%8A%A5%EB%A0%A5%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-f2bb22fdc0ad)
 - [Cache에 대하여.. (Spring+EHCache)](https://jaehun2841.github.io/2018/11/07/2018-10-03-spring-ehcache/)
 - [518일동안 단 하루도 빠지지 않고 알고리즘을 풀었다.](https://kwiki.devserum.com/ko/articles/tech-articles/2021-05-31-518-consecutive-days-algorithm-challenge)
