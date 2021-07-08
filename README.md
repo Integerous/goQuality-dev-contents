@@ -88,6 +88,7 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)
 - [라인개발자들의 webpack 레퍼런스 번역](https://www.youtube.com/watch?v=yZtFgREvdBU&t=369s)
 - [개발자에게는 어떤 능력이 필요한가?](https://euncho.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%8A%A5%EB%A0%A5%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-f2bb22fdc0ad)
 - [Cache에 대하여.. (Spring+EHCache)](https://jaehun2841.github.io/2018/11/07/2018-10-03-spring-ehcache/)
