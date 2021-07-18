@@ -88,6 +88,7 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [누가 자바스크립트를 파괴할 수 있을까?](https://pawsong.medium.com/%EB%88%84%EA%B0%80-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%ED%8C%8C%EA%B4%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-bf22cab6d155)
 - [이쁜 Code Image 만들기 'SNS별 테마 템플릿'](https://codeimg.io/)
 - [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)
 - [라인개발자들의 webpack 레퍼런스 번역](https://www.youtube.com/watch?v=yZtFgREvdBU&t=369s)
