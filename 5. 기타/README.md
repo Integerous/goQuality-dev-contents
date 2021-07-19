@@ -2,17 +2,18 @@
 
 
 ### Git
-- [Git 브랜칭 실습사이트! (한국어판)](http://bit.ly/2NzKcRa)
-- [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우 [번역]](http://bit.ly/2pZMJLj)
+- [gr을 이용한 많은 git 저장소 관리하기](https://medium.com/@changjoopark/gr%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%8E%EC%9D%80-git-%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-44c78ff667d2)
+- [Git 브랜칭 실습사이트! (한국어판)](https://learngitbranching.js.org/?locale=ko)
+- [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우 [번역]](https://academy.realm.io/kr/posts/360andev-savvas-dalkitsis-using-git-like-a-pro/)
 - [GitHub로 프로젝트 관리하기 - 이슈 발급 부터 코드리뷰까지](https://github.com/cheese10yun/github-project-management)
-- [Git flow, GitHub flow, GitLab flow 정리](http://bit.ly/2PCULEZ)
-- [Git의 요술 책갈피, Stash 기능 소개](http://bit.ly/2IQOF1j)
-- [팀에서 깃헙 Enterprise Plan을 써야하는 이유(Developer Plan과의 비교)](http://bit.ly/2RFSslU)
-- [GitHub에서 사용할 수 있는 이모지(emoji) 목록](http://bit.ly/2CE6X5G)
-- [초보자를 위한 Git 텍스트 강의](http://bit.ly/2RbYyJJ)
-- [Pull Request를 보내기 전에, Rebase를 해야 할까요 혹은 merge commit을 만들어야 할까요?](http://bit.ly/2z1EGBO)
+- [Git flow, GitHub flow, GitLab flow 정리](https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/)
+- [Git의 요술 책갈피, Stash 기능 소개](https://wit.nts-corp.com/2014/03/25/1153)
+- [팀에서 깃헙 Enterprise Plan을 써야하는 이유(Developer Plan과의 비교)](https://blog.cometkim.kr/posts/please-use-github-organization-and-teams/)
+- [GitHub에서 사용할 수 있는 이모지(emoji) 목록](https://gist.github.com/rxaviers/7360908)
+- [초보자를 위한 Git 텍스트 강의](https://statkclee.github.io/git-novice-kr/)
+- [Pull Request를 보내기 전에, Rebase를 해야 할까요 혹은 merge commit을 만들어야 할까요?](https://milooy.wordpress.com/2018/10/25/git-rebase-or-merge-commit/)
 - [Github vs Bitbucket vs Gitlab 비교](http://www.itworld.co.kr/news/109976)
-- [우린 Git-flow를 사용하고 있어요 - 우아한형제들](http://bit.ly/2Q8ci8l)
+- [우린 Git-flow를 사용하고 있어요 - 우아한형제들](https://techblog.woowahan.com/2553/)
 - [Git fight rules (Git 사용하다 문제 발생시 해결책 모음)[번역]](https://github.com/k88hudson/git-flight-rules/blob/master/README_kr.md)
 - [Github의 역대급 사고(10월21일) 사후 분석 [영문]](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/)
 - [Git Submodule 이해하기](http://ohgyun.com/711)
@@ -255,6 +256,7 @@
 --------------------------------------
 
 ### 기타
+- [Synchronous VS Asynchronous](https://tlonist-sang.github.io/async-sync-block-nonblock/)
 - [정규표현식의 개념과 패턴 사용법 총정리](http://bit.ly/2CaEmnl)
 - [스타트업에서 전화응대 고객센터 간단히 구축하기](http://bit.ly/2pMht2g)
 - [GIF를 쓰지 말아야 하는 이유](http://bit.ly/2PlWEpr)

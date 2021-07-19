@@ -802,14 +802,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [Deno는 무엇이며, Node.js를 대체할 것인가](https://link.medium.com/ASCND0FFu6)
 - [why you should stop using objects with setstate?](https://medium.com/javascript-in-plain-english/why-you-should-stop-using-objects-with-setstate-ee7a6c7bcba3)
 - [Spring WebClient 사용법](https://medium.com/@odysseymoon/spring-webclient-사용법-5f92d295edc0)
-- [gr을 이용한 git저장소관리하기](https://medium.com/@changjoopark/gr%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%8E%EC%9D%80-git-%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-44c78ff667d2)
-- [Distributed Cache로 Hibernate Second Level Cache를 적용하여 성능 튜닝하기 - 이론편](https://pkgonan.github.io/2020/05/distributed-hibernate-second-level-cache-1)
-- [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html)
-- [sync와 async 를 정리한 글입니다.](https://tlonist-sang.github.io/async-sync-block-nonblock/)
-- [CSS에서 새로운 단위 'lh', 'rlh'가 나왔다](https://css-tricks.com/lh-and-rlh-units/)
-- [LINE 트랜스코딩 서버 아키텍처 개선기 – 1](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/?utm_source=LINE+DEV+Newsletter&utm_campaign=e2139340b1-&utm_medium=email&utm_term=0_916419c016-e2139340b1-301062333)
-- [Java 동적바인딩 분석](https://accidentlywoo.tistory.com/202)
-- [프론트엔드 개발자 면접 정리](https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC)
 
 --------------------------------------
 </br>

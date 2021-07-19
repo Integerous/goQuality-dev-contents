@@ -1,6 +1,7 @@
 # 1. 개발 일반
 
 ### 개발 문화/철학/방법론
+- [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html)
 - [신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/%EC%8B%A0%EA%B7%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
 - [스타트업이 디자인 시스템을 만들어야 하는 이유](https://brunch.co.kr/@mobiinside/1030)
 - [신입개발자와 일하는 법](https://yookeun.github.io/think/2016/02/05/think-howwork/)
@@ -302,6 +303,8 @@
 --------------------------------------
 
 ### 취업 & 이직 & 면접 & 코딩테스트
+- [이직 기록 0.Intro](https://jbee.io/career/2020-turnover-0/)
+- [프론트엔드 개발자 면접 정리](https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC)
 - [웹개발(JAVA,JSP,Spring) 관련 예상 면접 질문](https://rongscodinghistory.tistory.com/44)
 - [넥슨 면접에서 듣게 되는 질문 63가지(2018년 ver.)](http://www.bloter.net/archives/321808)
 - [카카오 경력공채 면접 후기](https://encyphered.github.io/blog/note/2018/09/26/kakao-interview-review.html)
@@ -350,4 +353,3 @@
 - [이직하며 느낀 2020년 1/4분기 개발자 채용 과정](https://perade.github.io/blog/2020-recruitment/)
 - [기술면접 준비하기](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
 - [나만의 개발자 포트폴리오 만들기](https://geonlee.tistory.com/m/9)
-- [이직 기록 0.Intro](https://jbee.io/career/2020-turnover-0/)

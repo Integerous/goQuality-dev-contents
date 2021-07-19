@@ -161,7 +161,7 @@
 - [쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로) [영상]](https://tv.naver.com/v/11212875)
 - [간단한 Kafka Producer를 만들고 메시지 전송 동작원리를 알아보자](https://leeyh0216.github.io/2020-05-03/kafka_producer)
 - [서버리스는 서버가 없는걸까? 8분 개념 설명! [영상]](https://www.youtube.com/watch?v=ufLmReluPww)
-
+- [LINE 트랜스코딩 서버 아키텍처 개선기 – 1](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/)
 
 --------------------------------------
 
