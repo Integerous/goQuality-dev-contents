@@ -88,6 +88,17 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [한국어 자연어 이해 벤치마크 데이터 셋, KLUE](https://medium.com/ai-networkkr/%EB%AA%A8%EB%91%90%EC%9D%98-ai-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%9D%B4%ED%95%B4-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%85%8B-klue-eaeab688f035)
+- [누가 자바스크립트를 파괴할 수 있을까?](https://pawsong.medium.com/%EB%88%84%EA%B0%80-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%ED%8C%8C%EA%B4%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-bf22cab6d155))
+- [Kafka 기본 개념 (토픽, 파티션, 성능, 고가용성, 프로듀서, 컨슈머, 에러처리)](https://sjh836.tistory.com/186)
+- [video tag React 컴포넌트로 custom 하기](https://ideveloper2.dev/blog/2020-06-27--video-tag-react-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A1%9C-custom-%ED%95%98%EA%B8%B0/)
+- [초보를 위한 Git / GitHub 안내서](https://subicura.com/git)
+- [Video to GIF with WASM](https://fireship.io/lessons/wasm-video-to-gif/)
+- [Elasticsearch APM](https://cheese10yun.github.io/elk-apm-1/)
+- [️INVESTING.COM 클론 코딩(feat. Vue JS SSR, CANVAS API)](https://zuminternet.github.io/zum-front-investing-clone/)
+- [Headless UI Library란?](https://jbee.io/react/headless-concept/)
+- [React Query 를 통하여 서버 데이터 관리하기](https://link.medium.com/Zq0IuPx67hb)
+- [Conomi App ReactNative -> Native 전환과 관련된 이야기](https://medium.com/naver-place-dev/conomi-app-reactnative-native-%EC%A0%84%ED%99%98%EA%B3%BC-%EA%B4%80%EB%A0%A8%EB%90%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-3dec647f2eda)
 - [Serverless 환경에서 수행시간이 긴 작업 처리하기](http://labs.brandi.co.kr/2021/05/31/kimms4.html)
 - [Top Java Collection Interview Questions for 2021](https://dzone.com/articles/top-java-collection-interview-questions-for-2021)
 - [왜 개발자는 잘못된 기술 선택을 밥 먹듯이 하나?](https://kingofbackend.tistory.com/129)
@@ -801,7 +812,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [Cookie SameSite 설정하기 (Chrome 80 쿠키 이슈)](https://ifuwanna.tistory.com/223)
 - [Deno는 무엇이며, Node.js를 대체할 것인가](https://link.medium.com/ASCND0FFu6)
 - [why you should stop using objects with setstate?](https://medium.com/javascript-in-plain-english/why-you-should-stop-using-objects-with-setstate-ee7a6c7bcba3)
-- [Spring WebClient 사용법](https://medium.com/@odysseymoon/spring-webclient-사용법-5f92d295edc0)
+
 
 --------------------------------------
 </br>
