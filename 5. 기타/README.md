@@ -209,7 +209,8 @@
 - [프리랜서 AI 엔지니어 1주년 회고 [번역]](https://huffon.github.io/2020/05/10/ai-freelancer/)
 
 
-### 데이터 사이언스
+### 데이터 사이언스 & 데이터 엔지니어링
+- [마이리얼트립 EDW(Enterprise Data Warehouse) 구축 : phase 1](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-edw-%EA%B5%AC%EC%B6%95-phase-1-7d32c49c96ec)
 - [데이터 사이언스 인터뷰 질문 모음집](http://bit.ly/2Ea19m7)
 - [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
 - [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)

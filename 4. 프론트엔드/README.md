@@ -115,8 +115,9 @@
 - [Data Structure For JavaScript](https://hg-pyun.github.io/data-structure-for-javascript/)
 
 
-### Node.js
-- [Velopert님의 Node.js 강좌 [시리즈]](http://bit.ly/2QzcD3Q)
+### Node.js & Deno
+- [Deno는 무엇이며, Node.js를 대체할 것인가](https://link.medium.com/ASCND0FFu6)
+- [Velopert님의 Node.js 강좌](https://velopert.com/133)
 - [Node.js 동작 원리](http://sjh836.tistory.com/149)
 - [Node.js Stream 당신이 알아야할 모든 것](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html)
 - [Node.JS 자주 사용하는 모듈 정리](https://github.com/cheese10yun/node-yun)
@@ -128,11 +129,9 @@
 
 
 ### React.js
-- [가장 현대적인 웹 만들기 1편 (Node.js, React) [시리즈]](http://bit.ly/2OEaKpl)
-- [React.js로 시작하는 멀티플랫폼 개발하기 [슬라이드]](http://bit.ly/2C3SNJW)
-- [React.js 초간단 설명](http://bit.ly/2Pled9a)
-- [카카오페이지 웹 React 포팅 후기](http://bit.ly/2Cz4hWS)
-- [React 17 에 추가된 새로운 것들](http://bit.ly/2qnCPDf)
+- [Monorepo로 대규모 React 프로젝트 관리하기](https://medium.com/myrealtrip-product/monorepo%EB%A1%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-d12b65340306)
+- [React.js로 시작하는 멀티플랫폼 개발하기 [슬라이드]](https://www.slideshare.net/taggon/reactjs-55995670)
+- [카카오페이지 웹 React 포팅 후기](https://ljs0705.medium.com/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9B%B9-react-%ED%8F%AC%ED%8C%85-%ED%9B%84%EA%B8%B0-76402cc5e031)
 - [React의 탄생 배경과 특징](https://medium.com/@RianCommunity/react의-탄생배경과-특징-4190d47a28f)
 - [왜 React와 서버 사이드 렌더링인가?](https://subicura.com/2016/06/20/server-side-rendering-with-react.html)
 - [React에서 mobx 경험기 (Redux와 비교기)](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)

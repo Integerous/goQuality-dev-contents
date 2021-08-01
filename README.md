@@ -35,6 +35,7 @@
 ### 1. 개발 일반
 - [개발 문화/철학/방법론](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94%EC%B2%A0%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0)
 - [TDD & 테스트 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#tdd--%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8)
+- [DDD & CQRS](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#tdd--%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8)
 - [개발자 성장](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%84%B1%EC%9E%A5)
 - [비전공자 & 신입](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90--%EC%8B%A0%EC%9E%85)
 - [세미나/컨퍼런스 후기 및 발표자료](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EC%84%B8%EB%AF%B8%EB%82%98%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0-%EB%B0%8F-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
@@ -61,7 +62,7 @@
 
 ### 4. 프론트엔드
 - [Javascript 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#javascript-%EA%B4%80%EB%A0%A8)
-  - [Node.js](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#nodejs)
+  - [Node.js & Deno](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#nodejs)
   - [React.js](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#reactjs)
   - [Vue.js](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#vuejs)
   - [TypeScript](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#typescript)
@@ -74,7 +75,7 @@
 - [REST & GraphQL](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#rest--graphql)
 - [알고리즘 & 자료구조](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98--%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 - [머신러닝 & 딥러닝 & AI](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D--%EB%94%A5%EB%9F%AC%EB%8B%9D--ai)
-- [데이터 사이언스](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4)
+- [데이터 사이언스 & 데이터 엔지니어링](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4)
 - [블록체인](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
 - [보안](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%B3%B4%EC%95%88)
 - [Vim](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#vim)
@@ -606,7 +607,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [HTTP/2 업로드 속도 향상기](https://blog.cloudflare.com/ko/delivering-http-2-upload-speed-improvements-ko/)
 - [캐시 성능 향상기 (Improving Cache Speed at Scale)](https://meetup.toast.com/posts/251)
 - [MySQL 파티션 개요](https://12bme.tistory.com/48)
-- [DDD Lite@Spring [영상]](https://youtu.be/TdyOH1xZpT8)
 - [Spring Data에서 Batch Insert 최적화](https://homoefficio.github.io/2020/01/25/Spring-Data에서-Batch-Insert-최적화/)
 - [10년간 슈퍼셀을 경영하며 배운 10가지 교훈 [번역]](http://masterfarseer.blogspot.com/2020/08/10-10.html)
 - [DUCKDUCKGO TIPS & TRICKS](https://news.hada.io/topic?id=2684)
@@ -808,17 +808,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [Protocol Buffer 원리로 배우는 고성능 직렬화, 역직렬화 전략! Protocol Buffer 예제 테스트](https://jeong-pro.tistory.com/190)
 - [CSS 팁: 팝업창을 멋지게 만드는 너무 간단한 방법](https://taegon.kim/archives/10088)
 - [데이터베이스 사용 및 팁](https://fkkmemi.github.io/server/atlas-use/)
-- [TDD를 소개합니다](https://deveric.tistory.com/m/100)
-- [monorepo로 대규모 react 프로젝트 관리하기](https://medium.com/myrealtrip-product/monorepo%EB%A1%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-d12b65340306)
-- [git add –patch의 e 옵션](https://jinhoooooou.github.io/til/git-add-patch-more-split-hunk/)
-- [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
-- [마이리얼트립 EDW(Enterprise Data Warehouse) 구축 : phase 1](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-edw-%EA%B5%AC%EC%B6%95-phase-1-7d32c49c96ec)
-- [github action 스케줄](https://cheese10yun.github.io/github-action-1/)
-- [Bash Terminal을 세련되게(Mac)](https://vvshinevv.tistory.com/77)
-- [Cookie SameSite 설정하기 (Chrome 80 쿠키 이슈)](https://ifuwanna.tistory.com/223)
-- [Deno는 무엇이며, Node.js를 대체할 것인가](https://link.medium.com/ASCND0FFu6)
-- [why you should stop using objects with setstate?](https://medium.com/javascript-in-plain-english/why-you-should-stop-using-objects-with-setstate-ee7a6c7bcba3)
-
 
 --------------------------------------
 </br>
