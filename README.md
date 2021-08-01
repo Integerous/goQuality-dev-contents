@@ -88,6 +88,12 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [nGrinder에 적용한 HttpCore 5와 HttpCore 5 살펴보기](https://d2.naver.com/helloworld/0881672)
+- [Vanilla Javascript로 Vuex와 Redux 같은 상태관리 시스템 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Store/)
+- [Spring Config Server 정리](https://cheese10yun.github.io/spring-config-server/)
+- [Jetpack Compose가 필요한 이유(Mental Model)](https://wooooooak.github.io/jetpack%20compose/2021/05/18/%EC%BB%B4%ED%8F%AC%EC%A6%88%EA%B0%80%ED%95%84%EC%9A%94%ED%95%9C%EC%9D%B4%EC%9C%A0/)
+- [코딩하는 AI, Copilot](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-14-%EC%BD%94%EB%94%A9%ED%95%98%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-copilot-803f12fc81aa)
+- [브라우저에서 미디어 권한을 다루는 간단 tip](https://medium.com/watcha/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%EB%AF%B8%EB%94%94%EC%96%B4-%EA%B6%8C%ED%95%9C%EC%9D%84-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EA%B0%84%EB%8B%A8-tip-ee9e42ce9cb1)
 - [한국어 자연어 이해 벤치마크 데이터 셋, KLUE](https://medium.com/ai-networkkr/%EB%AA%A8%EB%91%90%EC%9D%98-ai-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%9D%B4%ED%95%B4-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%85%8B-klue-eaeab688f035)
 - [누가 자바스크립트를 파괴할 수 있을까?](https://pawsong.medium.com/%EB%88%84%EA%B0%80-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%ED%8C%8C%EA%B4%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-bf22cab6d155))
 - [Kafka 기본 개념 (토픽, 파티션, 성능, 고가용성, 프로듀서, 컨슈머, 에러처리)](https://sjh836.tistory.com/186)
