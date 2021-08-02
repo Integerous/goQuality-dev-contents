@@ -798,16 +798,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [HTTP 는 Stateless 한데 로그인은 어떻게 구현할 수 있을까? (세션/쿠키를 이용한 인증)](https://hyuntaeknote.tistory.com/m/3)
 - [Promise Combinators 정리](https://junwoo45.github.io/2020-05-13-promise_combinators/)
 - [RabbitMQ 아주 기초적이게 사용하기 - Java(feat.Hello World!)](https://kamang-it.tistory.com/m/entry/AMQPRabbitMQRabbitMQ아주-기초적이게-사용하기-JavafeatHello-World-2)
-- [Python 데이터 분석 실무](https://wikidocs.net/book/1867)
-- [개발자, 트렌드를 버리다 — 1년 후 소감](https://link.medium.com/8u2AYhCfK6)
-- [Bash Scripting: Everything you need to know about Bash-shell programming](https://itnext.io/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba)
-- [Database Driven Development에서 진짜 DDD로의 선회 -1-](https://helloworld.kurly.com/blog/road-to-ddd/)
-- [Hexo에서 Gatsby로 블로그 마이그레이션 야크쉐이빙 후기](https://evan-moon.github.io/2020/05/09/gatsby-migration-retrospective/)
-- [Spring Rest Docs 적용](https://woowabros.github.io/experience/2018/12/28/spring-rest-docs.html)
-- [마이크로서비스 아키텍처 (MSA) [번역]](https://medium.com/wematch/마이크로서비스-아키텍처-msa-359b7973ba79)
-- [Protocol Buffer 원리로 배우는 고성능 직렬화, 역직렬화 전략! Protocol Buffer 예제 테스트](https://jeong-pro.tistory.com/190)
-- [CSS 팁: 팝업창을 멋지게 만드는 너무 간단한 방법](https://taegon.kim/archives/10088)
-- [데이터베이스 사용 및 팁](https://fkkmemi.github.io/server/atlas-use/)
+
 
 --------------------------------------
 </br>

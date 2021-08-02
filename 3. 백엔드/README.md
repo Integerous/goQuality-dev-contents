@@ -165,6 +165,7 @@
 --------------------------------------
 
 ### 마이크로서비스 MSA
+- [마이크로서비스 아키텍처 (MSA) [번역]](https://medium.com/wematch/마이크로서비스-아키텍처-msa-359b7973ba79)
 - [마이크로서비스 아키텍쳐. 그것이 뭣이 중헌디?](http://guruble.com/마이크로서비스microservice-아키텍처-그것이-뭣이-중헌디/)
 - [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0)
 - [마이크로서비스 아키텍처(MSA) - 기본적인 개념과 우버적용 사례 [번역]](https://brunch.co.kr/@yesjun/2)
@@ -266,12 +267,12 @@
 --------------------------------------
 
 ### 운영체제 (리눅스, MacOS, 윈도우)
-- [운영체제 기본서의 끝판왕 "공룡책" 강의노트 [영문]](http://bit.ly/2pOnHib)
-- [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](http://bit.ly/2zZ0dNg)
-- [개발환경을 한 방에! 쉘 스크립트의 힘](http://bit.ly/2yiDVVn)
-- [유닉스 또는 리눅스 커널 환경에서 빠르게 일하는 10가지 기초 팁 [영문]](http://bit.ly/2ytT5Yb)
-- [리눅스 서버 기본 설정 [영상]](http://bit.ly/2ymMgrb)
-- [리눅스 open files, max user processes 설정 정리글](bit.ly/2R39Znl)
+- [운영체제 기본서의 끝판왕 "공룡책" 강의노트 [영문]](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
+- [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html)
+- [개발환경을 한 방에! 쉘 스크립트의 힘](https://techblog.woowahan.com/2541/)
+- [유닉스 또는 리눅스 커널 환경에서 빠르게 일하는 10가지 기초 팁 [영문]](https://hackernoon.com/10-basic-tips-on-working-fast-in-unix-or-linux-terminal-5746ae42d277)
+- [리눅스 서버 기본 설정 [영상]](https://www.youtube.com/watch?v=8419PpZh4Ac)
+- [리눅스 open files, max user processes 설정 정리글](https://techblog.woowahan.com/2569/)
 - [리눅스 I/O 리다이렉션 작동 원리 배우기](https://www.tecmint.com/linux-io-input-output-redirection-operators/)
 - [bash scripting 간단 정리 [영문]](https://devhints.io/bash.html)
 - [리눅스 서버 60초안에 상황파악하기 [번역]](https://b.luavis.kr/server/linux-performance-analysis)
@@ -289,6 +290,7 @@
 - [스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들](https://www.mimul.com/blog/linux-server-operations/)
 - [logrotate를 이용하여 로그 파일을 자동으로 삭제하기](https://medium.com/encored-technologies-engineering-data-science/logrotate%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A1%9C%EA%B7%B8-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0-dccf7b1b52b0)
 - [리눅스 grep 명령어 사용법](https://recipes4dev.tistory.com/m/157?fbclid=IwAR0jRN5wFvSyKE9l8ic-oOR1Mn9qD8pO9pDSznkZyLyWfXYyooPNPzVu_IE)
+- [Bash Scripting: Everything you need to know about Bash-shell programming](https://itnext.io/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba)
 
 --------------------------------------
 

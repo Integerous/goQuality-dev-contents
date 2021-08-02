@@ -135,6 +135,7 @@
 --------------------------------------
 
 ### DDD & CQRS
+- [Database Driven Development에서 진짜 DDD로의 선회 -1-](https://helloworld.kurly.com/blog/road-to-ddd/)
 - [마틴 파울러 CQRS 포스팅 [번역]](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC-cqrs-%ED%8F%AC%EC%8A%A4%ED%8C%85-245c63bb1e58)
 - [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
 - [필요한 내용만 추려서 DDD 당장 써먹기](https://www.popit.kr/%ED%95%84%EC%9A%94%ED%95%9C-%EB%82%B4%EC%9A%A9%EB%A7%8C-%EC%B6%94%EB%A0%A4%EC%84%9C-ddd-%EB%8B%B9%EC%9E%A5-%EC%8D%A8%EB%A8%B9%EA%B8%B0/)

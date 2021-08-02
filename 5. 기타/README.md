@@ -210,6 +210,7 @@
 
 
 ### 데이터 사이언스 & 데이터 엔지니어링
+- [Python 데이터 분석 실무](https://wikidocs.net/book/1867)
 - [마이리얼트립 EDW(Enterprise Data Warehouse) 구축 : phase 1](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-edw-%EA%B5%AC%EC%B6%95-phase-1-7d32c49c96ec)
 - [데이터 사이언스 인터뷰 질문 모음집](http://bit.ly/2Ea19m7)
 - [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
@@ -257,6 +258,9 @@
 --------------------------------------
 
 ### 기타
+- [개발자, 트렌드를 버리다 — 1년 후 소감](https://link.medium.com/8u2AYhCfK6)
+- [Hexo에서 Gatsby로 블로그 마이그레이션 야크쉐이빙 후기](https://evan-moon.github.io/2020/05/09/gatsby-migration-retrospective/)
+- [Protocol Buffer 원리로 배우는 고성능 직렬화, 역직렬화 전략! Protocol Buffer 예제 테스트](https://jeong-pro.tistory.com/190)
 - [Synchronous VS Asynchronous](https://tlonist-sang.github.io/async-sync-block-nonblock/)
 - [정규표현식의 개념과 패턴 사용법 총정리](http://bit.ly/2CaEmnl)
 - [스타트업에서 전화응대 고객센터 간단히 구축하기](http://bit.ly/2pMht2g)
