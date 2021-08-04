@@ -116,6 +116,7 @@
 
 
 ### Node.js & Deno
+- [Node 제작자가 만든 Deno : 자바스크립트의 새로운 접근](https://blog.ull.im/engineering/2019/04/14/deno-ryan-dahl-2019-04-04.html)
 - [Deno는 무엇이며, Node.js를 대체할 것인가](https://link.medium.com/ASCND0FFu6)
 - [Velopert님의 Node.js 강좌](https://velopert.com/133)
 - [Node.js 동작 원리](http://sjh836.tistory.com/149)

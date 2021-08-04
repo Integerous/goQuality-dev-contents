@@ -210,6 +210,7 @@
 
 
 ### 데이터 사이언스 & 데이터 엔지니어링
+- [데이터 분석으로 개발 직군 스킬 트렌드 엿보기(feat. 채용공고)](https://medium.com/wantedjobs/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0-skill-stack-%EB%B6%84%EC%84%9D%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%A7%81%EA%B5%B0-skill-trend-%EC%97%BF%EB%B3%B4%EA%B8%B0-97c444360c39)
 - [Python 데이터 분석 실무](https://wikidocs.net/book/1867)
 - [마이리얼트립 EDW(Enterprise Data Warehouse) 구축 : phase 1](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-edw-%EA%B5%AC%EC%B6%95-phase-1-7d32c49c96ec)
 - [데이터 사이언스 인터뷰 질문 모음집](http://bit.ly/2Ea19m7)
