@@ -151,6 +151,7 @@
 - [ConcurrentHashMap 동기화 방식](https://pplenty.tistory.com/17)
 - [Java NIO - 1. 왜 자바의 IO 패키지는 느린가?](https://leeyh0216.github.io/2020-05-10/java_nio_why_java_io_slow)
 - [우아한 CRUD [영상]](https://www.youtube.com/watch?v=cflK7FTGPlg)
+- [스프링 배치 4.2 레퍼런스 한글 번역](https://godekdls.github.io/Spring%20Batch/domainlanguage/)
 
 
 ### JVM

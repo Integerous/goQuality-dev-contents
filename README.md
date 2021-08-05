@@ -778,16 +778,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
 - [우아한테크코스 블로그](https://woowacourse.github.io/javable/)
 - [[Kubernetes] Helm Chartmuseum 사용법](https://blog.wonizz.tk/2020/06/03/kubernetes-helm-chartmuseum/)
-- [윈도우10 업데이트 내역](https://docs.microsoft.com/ko-kr/windows-insider/at-home/whats-new-wip-at-home-20h1)
-- [(2020) 1. 비전공자로 자바 백엔드 개발자 시작하기](https://jojoldu.tistory.com/505)
-- [Spring AMQP, RabbitMQ](https://brunch.co.kr/@springboot/298)
-- [깃헙 액션을 마켓에 등록해보자](https://meetup.toast.com/posts/241)
-- [CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/)
-- [스프링 배치 4.2 레퍼런스 한글 번역](https://godekdls.github.io/Spring%20Batch/domainlanguage/)
-- [frontend application 에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)
-- [반드시 알아야 할 쿠버네티스 디자인 패턴 10가지](https://jflip.tistory.com/m/13)
-- [자바 컬렉션과 동기화(Java Collection Synchronization)](https://madplay.github.io/post/java-collection-synchronize)
-- [bash 가이드 [영문]](https://github.com/Idnan/bash-guide)
 
 --------------------------------------
 </br>
