@@ -2,6 +2,11 @@
 
 ### 프론트엔드 일반
 - [Naver FE News](https://github.com/naver/fe-news)
+- [Frontend Application 에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)  
+- [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
+- [Webpack: When to use and Why](https://blog.andrewray.me/webpack-when-to-use-and-why/amp/)
+- [프론트 웹 기술 기초를 학습할 수 있는 사이트](https://poiemaweb.com/)
+- [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-d15402becaef)
 - [프론트엔드 개발 환경의 이해 : NPM](http://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
 - [프론트엔드 기술 번역문서 모음](https://github.com/FEDevelopers/tech.description/wiki/%EB%B2%88%EC%97%AD-%EB%AC%B8%EC%84%9C)
 - [프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM](http://bit.ly/2OZE0aL)
@@ -14,11 +19,11 @@
 - [앱의 프론트엔드 성능을 향상시키는 방법 - 5가지 코딩 팁 [번역]](https://junwoo45.github.io/2019-10-05-frontend-performance/)
 - [프론트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
 - [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
+- [React밖에 모르는 당신에게. GatsbyJS 한 잔, ‘채용~’](https://blog.banksalad.com/tech/build-a-website-with-gatsby/)
 - [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
 
 
 ### Javascript 관련
-- [Frontend Application 에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)
 - [2016년에 자바스크립트를 배우는 기분 [번역]](http://www.looah.com/article/view/2054)
 - [아주 거대한 (자바스크립트) 어플리케이션 구축하기 [번역]](https://medium.com/steady-study/%EB%B2%88%EC%97%AD-%EC%95%84%EC%A3%BC-%EA%B1%B0%EB%8C%80%ED%95%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-3aa37fc45122)
 - [자바스크립트는 어떻게 작동하는가: 웹소켓 및 HTTP/2 SSE [번역]](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9B%B9%EC%86%8C%EC%BC%93-%EB%B0%8F-http-2-sse-1ccde9f9dc51)
@@ -44,7 +49,6 @@
 - [훌륭한 JavaScript 개발자가 되는 법 [번역]](https://brunch.co.kr/@chiyodad/9)
 - [자바스크립트 엔진의 최적화 기법](https://meetup.toast.com/posts/78)
 - [자바스크립트는 어떻게 작동하는가: 이벤트 루프와 비동기 프로그래밍의 부상, async/await을 이용한 코딩 팁 다섯 가지](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EB%B6%80%EC%83%81-async-await%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%8C%81-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-df65ffb4e7e)
-- [프론트 웹 기술 기초를 학습할 수 있는 사이트](https://poiemaweb.com/)
 - [자바스크립트 이벤트 루프 시각적 설명 [영상]](http://latentflip.com/loupe/)
 - [자바스크립트 엔진의 최적화 기법 - JITC, Adaptive Compliation](https://meetup.toast.com/posts/77)
 - [자바스크립트 함수 정리](https://link.medium.com/FMoWtS72AT)
@@ -66,7 +70,6 @@
 - [2019년과 이후 자바스크립트 동향](https://d2.naver.com/helloworld/4007447)
 - [jQuery를 배워야할까? [영상]](https://youtu.be/6FnkGKYK6iQ)
 - [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
-- [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
 - [JavaScript 첫걸음](https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps)
 - [JavaScript 재입문하기](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
 - [Javascript 생성자에서 private 변수 정의하기 [번역]](https://doong-jo.github.io/javascript/2019/10/19/(%EB%B2%88%EC%97%AD)-javascript-%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90%EC%84%9C-private-%EB%B3%80%EC%88%98-%EC%A0%95%EC%9D%98%ED%95%98%EA%B8%B0/)
@@ -82,7 +85,6 @@
 - [이제는 Immutable이 기본입니다, 4가지 변수 이야기 [영상]](https://www.youtube.com/watch?v=K8C3OGzz7tQ)
 - [Custom Promise 구현으로 프로미스 파혜치기](https://p-iknow.netlify.com/js/custom-promise)
 - [모던 자바스크립트 튜토리얼](https://ko.javascript.info)
-- [Webpack: When to use and Why](https://blog.andrewray.me/webpack-when-to-use-and-why/amp/)
 - [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
 - [자바스크립트에서 유용할 수도 있는 연산자들 모음](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9C%A0%EC%9A%A9%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8A%94-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4-%EB%AA%A8%EC%9D%8C-3450083838fb)
 - [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -94,7 +96,6 @@
 - [자바스크립트 엔진에 대한 오개념과, Inline cache](https://velog.io/@noyo0123/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-VSCODE-%EA%B0%9C%EB%B0%9C%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-lfk2a3yuo5)
 - [ES2020에 도입되는 기능들 간략 정리](https://medium.com/javascript-in-plain-english/new-features-in-es2020-you-should-check-b4974d9d7edc)
 - [Don't block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/)
-- [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-d15402becaef)
 - [Thinking about emotion js vs styled component](https://ideveloper2.dev/blog/2019-05-05--thinking-about-emotion-js-vs-styled-component/)
 - [자바스크립트 동작 원리 시각화 [영문]](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 - [처음 만나는 Svelte [번역]](https://ui.toast.com/weekly-pick/ko_20191002/)
@@ -105,7 +106,6 @@
 - [Promise, 가만히 냅두면 어떻게 될까? [번역]](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
 - [자바스크립트 옵저버 API들 간략히 소개](https://www.huskyhoochu.com/js-observers/)
 - [await vs return vs return await [번역]](https://perade.github.io/blog/await-vs-return-vs-return-await/)
-- [React밖에 모르는 당신에게. GatsbyJS 한 잔, ‘채용~’](https://blog.banksalad.com/tech/build-a-website-with-gatsby/)
 - [FrontEnd Application에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)
 - [자바스크립트의 this를 알아보자.](https://1ilsang.dev/2020-03-31/js/this)
 - [JavaScript 인터뷰 : 주요 질문 설명](https://dev.to/educative/acing-the-javascript-interview-top-questions-explained-59b7)
@@ -233,7 +233,7 @@
 - [One UI Design Guide KOR.pdf](http://www.design.samsung.com/kr/contents/one-ui/download/oneui_design_guide_kor.pdf)
 - [웹디자이너를 위한 크롬 확장 프로그램 10선](https://uxdesign.cc/10-best-chrome-extensions-for-designers-a76540b93836)
 - [시각적 위계를 활용한 경험 설계](https://brunch.co.kr/@cliche-cliche/25)
-- [무한 스크롤 vs 페이지네이션 vs '더보기' 버튼 - 이커머스에서 어떤 로딩 방법을 사용하면 좋을지에 대한 UT 결과](https://brunch.co.kr/@blackindigo-red/13)¡
+- [무한 스크롤 vs 페이지네이션 vs '더보기' 버튼 - 이커머스에서 어떤 로딩 방법을 사용하면 좋을지에 대한 UT 결과](https://brunch.co.kr/@blackindigo-red/13)
 - [따릉아! 문제는 UX/UI야!](https://brunch.co.kr/@supernova9/180)
 - [UX/UI 다이렉트하게 만들어라](https://brunch.co.kr/@plusx/21)
 - [나눔 고딕 웹 폰트에 대한 고찰](https://moonspam.github.io/NanumGothic-Review/)
