@@ -1,6 +1,7 @@
 # 1. 개발 일반
 
 ### 개발 문화/철학/방법론
+- [헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
 - [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html)
 - [신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/%EC%8B%A0%EA%B7%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
 - [스타트업이 디자인 시스템을 만들어야 하는 이유](https://brunch.co.kr/@mobiinside/1030)

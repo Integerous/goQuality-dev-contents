@@ -2,6 +2,7 @@
 
 
 ### Git
+- [우리 팀 GitHub에 지금 당장 연결해야 할 서비스 4가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%9A%B0%EB%A6%AC-%ED%8C%80-github%EC%97%90-%EB%8B%B9%EC%9E%A5-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%95%BC-%ED%95%A0-4%EA%B0%80%EC%A7%80-%EC%84%9C%EB%B9%84%EC%8A%A4-4ea3c165114)
 - [gr을 이용한 많은 git 저장소 관리하기](https://medium.com/@changjoopark/gr%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%8E%EC%9D%80-git-%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-44c78ff667d2)
 - [Git 브랜칭 실습사이트! (한국어판)](https://learngitbranching.js.org/?locale=ko)
 - [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우 [번역]](https://academy.realm.io/kr/posts/360andev-savvas-dalkitsis-using-git-like-a-pro/)

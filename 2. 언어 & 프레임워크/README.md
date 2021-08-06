@@ -3,6 +3,7 @@
 
 ### Java & Spring
 - [Spring WebFlux는 어떻게 적은 리소스로 많은 트래픽을 감당할까?](https://alwayspr.tistory.com/44)
+- [Java 8, 9, 10을 손쉽게 전환하면서 사용하는 방법](https://blog.naver.com/writer0713/221266129828)
 - [Spring WebClient 사용법](https://medium.com/@odysseymoon/spring-webclient-사용법-5f92d295edc0)
 - [Java 유료 논쟁, Oracle JDK와 Open JDK 차이 정리](https://jsonobject.tistory.com/395)
 - [for문을 Stream.forEach()로 바꾸지 말아야 할 3가지 이유](https://homoefficio.github.io/2016/06/26/for-loop-%EB%A5%BC-Stream-forEach-%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-3%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0/)
@@ -157,6 +158,7 @@
 ### JVM
 - [JVM, JRE, JDK의 차이 간단 설명](https://wikidocs.net/257)
 - [JVM이 깔끔하게 설명된 글](http://asfirstalways.tistory.com/158)
+- [Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/114)  
 - [Java JVM 간단 정리](https://baehoyeon.github.io/2017-11-10/jvm)
 - [(JVM) Garbage Collection Basic](https://perfectacle.github.io/2019/05/07/jvm-gc-basic/)
 - [JVM memory leak 찾아 해결하기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
