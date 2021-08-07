@@ -759,16 +759,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [Flutter vs Native vs React 성능](https://brunch.co.kr/@jowlee/123)
 - [Opening Mail Server 15시간 삽질기](https://blog.0chan.dev/2020-06-16-Opening-Mail-Server/)
 - [Junit5 인스턴스 생성 특징, 테스트 순서](https://cheese10yun.github.io/junit5/)
-- [HTML5 폼 검증에 대해 정리해 보자](https://jeonghwan-kim.github.io/dev/2020/06/08/html5-form-validation.html)
-- [자바 스프링 실전 가이드 [영상]](https://www.youtube.com/watch?v=TIag2sXhZRk)
-- [의존성 캐시로 Github Actions 속도 높이기](https://www.notion.so/Github-Actions-7ca7c1ddf2f74d24ab9173d1b5c97366)
-- [코드 악취를 맡는 후각 훈련의 시간](https://helloworld.kurly.com/blog/rms-refactoring/)
-- [JetBrains가 사랑하는 Java의 25가지 특징](https://blog.jetbrains.com/kr/2020/05/25-things-we-love-about-java-ko/)
-- [코드 악취를 맡는 후각 훈련의 시간 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/rms-refactoring/)
-- [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
-- [CI/CD(지속적 통합/지속적 제공): 개념, 방법, 장점, 구현 과정](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
-- [객체지향 디자인패턴 1 [영상]](https://www.youtube.com/watch?v=lJES5TQTTWE)
-- [인텔리제이 JVM 모니터링 툴 플러그인](https://cheese10yun.github.io/intellij-visual-vm/)
 
 --------------------------------------
 </br>

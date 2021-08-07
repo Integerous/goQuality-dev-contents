@@ -3,6 +3,7 @@
 
 ### Git
 - [우리 팀 GitHub에 지금 당장 연결해야 할 서비스 4가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%9A%B0%EB%A6%AC-%ED%8C%80-github%EC%97%90-%EB%8B%B9%EC%9E%A5-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%95%BC-%ED%95%A0-4%EA%B0%80%EC%A7%80-%EC%84%9C%EB%B9%84%EC%8A%A4-4ea3c165114)
+- [의존성 캐시로 Github Actions 속도 높이기](https://www.notion.so/Github-Actions-7ca7c1ddf2f74d24ab9173d1b5c97366)
 - [gr을 이용한 많은 git 저장소 관리하기](https://medium.com/@changjoopark/gr%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%8E%EC%9D%80-git-%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-44c78ff667d2)
 - [Git 브랜칭 실습사이트! (한국어판)](https://learngitbranching.js.org/?locale=ko)
 - [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우 [번역]](https://academy.realm.io/kr/posts/360andev-savvas-dalkitsis-using-git-like-a-pro/)
@@ -71,6 +72,7 @@
 
 
 ### 웹 관련
+- [HTML5 폼 검증에 대해 정리해 보자](https://jeonghwan-kim.github.io/dev/2020/06/08/html5-form-validation.html)
 - [CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/)
 - [JWT(JSON Web Token)을 이용한 API 인증 [시리즈]](https://bcho.tistory.com/999)
 - [모던 웹 브라우저의 내부 살펴보기 1편 [시리즈]](https://euncho.medium.com/%EB%AA%A8%EB%8D%98-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%82%B4%EB%B6%80-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-part-1-8650c5900974)
@@ -262,6 +264,8 @@
 --------------------------------------
 
 ### 기타
+- [코드 악취를 맡는 후각 훈련의 시간](https://helloworld.kurly.com/blog/rms-refactoring/)
+- [CI/CD(지속적 통합/지속적 제공): 개념, 방법, 장점, 구현 과정](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
 - [개발자, 트렌드를 버리다 — 1년 후 소감](https://link.medium.com/8u2AYhCfK6)
 - [Hexo에서 Gatsby로 블로그 마이그레이션 야크쉐이빙 후기](https://evan-moon.github.io/2020/05/09/gatsby-migration-retrospective/)
 - [Protocol Buffer 원리로 배우는 고성능 직렬화, 역직렬화 전략! Protocol Buffer 예제 테스트](https://jeong-pro.tistory.com/190)

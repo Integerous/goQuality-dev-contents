@@ -1,6 +1,7 @@
 # 1. 개발 일반
 
 ### 개발 문화/철학/방법론
+- [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
 - [헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
 - [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html)
 - [신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/%EC%8B%A0%EA%B7%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
@@ -98,7 +99,7 @@
 - [코드리뷰로 시작하는 건강한 개발 문화](https://blog.shiren.dev/2020-01-11-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B1%B4%EA%B0%95%ED%95%9C-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94/)
 - [메쉬코리아(부릉)의 프론트엔드 엔지니어링 실천 사례를 공유합니다.](https://github.com/meshkorea/front-end-engineering)
 - [크몽 FE 팀 코드리뷰문화 개선기(1+1=3)](https://brunch.co.kr/@kmongdev/20)
-
+- [객체지향 디자인패턴 1 [영상]](https://www.youtube.com/watch?v=lJES5TQTTWE)
 
 --------------------------------------
 
