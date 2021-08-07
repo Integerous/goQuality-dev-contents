@@ -55,6 +55,19 @@
 - [ConcurrentHashMap 동기화 방식](https://pplenty.tistory.com/17)
 - [Java NIO - 1. 왜 자바의 IO 패키지는 느린가?](https://leeyh0216.github.io/2020-05-10/java_nio_why_java_io_slow)
 
+### JVM
+- [JVM, JRE, JDK의 차이 간단 설명](https://wikidocs.net/257)
+- [JVM이 깔끔하게 설명된 글](http://asfirstalways.tistory.com/158)
+- [Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/114)
+- [Java JVM 간단 정리](https://baehoyeon.github.io/2017-11-10/jvm)
+- [(JVM) Garbage Collection Basic](https://perfectacle.github.io/2019/05/07/jvm-gc-basic/)
+- [JVM memory leak 찾아 해결하기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
+- [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
+- [자바 메모리 관리 - 스택 & 힙](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
+- [자바 최적화 - GC 로깅](https://12bme.tistory.com/543?category=785013)
+- [JVM Architecture 란?](https://yeon-kr.tistory.com/112)
+- [Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/114)
+- [자바 - OOM 메모리 릭 찾기 이론편](https://blog.naver.com/PostView.nhn?blogId=2feelus&logNo=220765728530)
 
 
 ### Spring framework
@@ -152,21 +165,6 @@
 - [Spring Batch에서 MultiThread로 Step 실행하기](https://jojoldu.tistory.com/493)
 - [우아한 CRUD [영상]](https://www.youtube.com/watch?v=cflK7FTGPlg)
 - [스프링 배치 4.2 레퍼런스 한글 번역](https://godekdls.github.io/Spring%20Batch/domainlanguage/)
-
-
-### JVM
-- [JVM, JRE, JDK의 차이 간단 설명](https://wikidocs.net/257)
-- [JVM이 깔끔하게 설명된 글](http://asfirstalways.tistory.com/158)
-- [Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/114)  
-- [Java JVM 간단 정리](https://baehoyeon.github.io/2017-11-10/jvm)
-- [(JVM) Garbage Collection Basic](https://perfectacle.github.io/2019/05/07/jvm-gc-basic/)
-- [JVM memory leak 찾아 해결하기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
-- [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
-- [자바 메모리 관리 - 스택 & 힙](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
-- [자바 최적화 - GC 로깅](https://12bme.tistory.com/543?category=785013)
-- [JVM Architecture 란?](https://yeon-kr.tistory.com/112)
-- [Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/114)
-- [자바 - OOM 메모리 릭 찾기 이론편](https://blog.naver.com/PostView.nhn?blogId=2feelus&logNo=220765728530)
 
 
 ### JPA & Hibernate

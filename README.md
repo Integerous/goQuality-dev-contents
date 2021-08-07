@@ -42,8 +42,9 @@
 - [취업 & 이직 & 면접 & 코딩테스트](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EC%B7%A8%EC%97%85--%EC%9D%B4%EC%A7%81--%EB%A9%B4%EC%A0%91--%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
 
 ### 2. 언어 & 프레임워크
-- [Java & Spring](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#java--spring)
+- [Java](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#java)
   - [JVM](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#jvm)
+- [Spring framework](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#spring-framework)
   - [JPA & Hibernate](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#jpa--hibernate)
 - [Javascript](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#javascript-%EA%B4%80%EB%A0%A8)
 - [Python](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#python)
