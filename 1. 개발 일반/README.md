@@ -134,6 +134,7 @@
 - [정말로 테스트 대역이 필요한가](https://gyuwon.github.io/blog/2020/05/10/do-you-really-need-test-doubles.html)
 - [JUnit 5 매개변수 테스트](https://ntalbs.github.io/2019/junit5-parameterized-test/)
 - [xUnit 테스팅 프레임워크를 TDD로 만들어보자 [영상]](https://www.youtube.com/watch?v=tdKFZcZSJmg)
+- [Junit5 인스턴스 생성 특징, 테스트 순서](https://cheese10yun.github.io/junit5/)
 
 
 --------------------------------------
@@ -149,6 +150,7 @@
 --------------------------------------
 
 ### 개발자 성장
+- [나의 성장을 도와준 고마운 책들](https://johngrib.github.io/wiki/my-favorite-books/)
 - [웹 개발자 로드맵 [번역]](https://github.com/devJang/developer-roadmap/blob/master/README.md)
 - [(2021) 1. 비전공자로 자바 백엔드 개발자 시작하기](https://jojoldu.tistory.com/505)
 - [24년차 개발자 우아한형제들의 김민태님 이야기 [영상]](https://www.youtube.com/watch?v=U0YWdnSKDfw)

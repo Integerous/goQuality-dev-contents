@@ -1,6 +1,7 @@
 # 3. 백엔드
 
 ### 서버 & 클라우드 & 아키텍쳐
+- [Opening Mail Server 26시간 삽질기](https://blog.0chan.dev/2020-06-16-Opening-Mail-Server/)
 - [넷플릭스가 AWS로 이전한 과정](http://bit.ly/2PlJZmo)
 - [Serverless와 기술도입, Backend Application의 미래](http://bit.ly/2A0SmPh)
 - [월간 300억 동접자 수를 처리한 방법에 대한 글 [번역]](http://bit.ly/2IMJZts)

@@ -264,6 +264,7 @@
 --------------------------------------
 
 ### 기타
+- [WSL2 설치 및 사용 방법](https://www.44bits.io/ko/post/wsl2-install-and-basic-usage)
 - [코드 악취를 맡는 후각 훈련의 시간](https://helloworld.kurly.com/blog/rms-refactoring/)
 - [CI/CD(지속적 통합/지속적 제공): 개념, 방법, 장점, 구현 과정](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
 - [개발자, 트렌드를 버리다 — 1년 후 소감](https://link.medium.com/8u2AYhCfK6)

@@ -165,6 +165,7 @@
 - [Spring Batch에서 MultiThread로 Step 실행하기](https://jojoldu.tistory.com/493)
 - [우아한 CRUD [영상]](https://www.youtube.com/watch?v=cflK7FTGPlg)
 - [스프링 배치 4.2 레퍼런스 한글 번역](https://godekdls.github.io/Spring%20Batch/domainlanguage/)
+- [Understanding MicroSERVICE Architecture with Java & Spring Boot [슬라이드]](https://www.slideshare.net/kashifalisiddiqui/understanding-microservice-architecture-with-java-spring-boot)
 
 
 ### JPA & Hibernate

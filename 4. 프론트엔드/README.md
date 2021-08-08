@@ -153,6 +153,7 @@
 - [Jest로 기본적인 테스트 작성하기](https://www.daleseo.com/jest-basic/)
 - [ReactJS의 Virtual DOM과 Repaint, Reflow](http://blog.drakejin.me/React-VirtualDOM-And-Repaint-Reflow/)
 - [컴포넌트 분리의 미학](https://vallista.kr/2020/03/29/Component-%EB%B6%84%EB%A6%AC%EC%9D%98-%EB%AF%B8%ED%95%99/)
+- [Recoil - 또 다른 React 상태 관리 라이브러리?](https://ui.toast.com/weekly-pick/ko_20200616/)
 
 
 ### Vue.js
@@ -249,6 +250,8 @@
 --------------------------------------
 
 ### 모바일 & iOS & 안드로이드
+- [코알람 App 출시 A부터 Z까지](https://medium.com/@hyunji5834/코알람-app-출시-a부터-z까지-3ecbec543eeb)
+- [지난 10번의 WWDC를 되돌아보며](https://medium.com/@jungkim/%EC%A7%80%EB%82%9C-10%EB%B2%88%EC%9D%98-wwdc%EB%A5%BC-%EB%90%98%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-16d6da3a95b2)  
 - [Retrofit2 샘플](https://github.com/HwangEunmi/Retrofit-Sample)
 - [모바일 디자인할 때 그리드 시스템 꼭 사용해야 할까?](https://brunch.co.kr/@plusx/3)
 - [카카오뱅크 모바일앱 개발 이야기 [영상]](https://tv.kakao.com/channel/3150758/cliplink/391419226?playlistId=209907&metaObjectType=Playlist)

@@ -750,16 +750,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [Lodash의 대체재로서의 순수 자바스크립트 함수](https://ui.toast.com/weekly-pick/ko_20190515/)
 - [JPA + Querydsl group_concat 사용법](https://cheese10yun.github.io/jpa-query-dsl-group-concat/)
 - [chmod calculator](https://chmodcommand.com/)
-- [Netty의 스레드 모델](https://effectivesquid.tistory.com/entry/Netty%EC%9D%98-%EC%8A%A4%EB%A0%88%EB%93%9C-%EB%AA%A8%EB%8D%B8)
-- [나의 성장을 도와준 고마운 책들](https://johngrib.github.io/wiki/my-favorite-books/)
-- [WSL2 설치 및 사용 방법](https://www.44bits.io/ko/post/wsl2-install-and-basic-usage)
-- [지난 10번의 WWDC를 되돌아보며](https://medium.com/@jungkim/%EC%A7%80%EB%82%9C-10%EB%B2%88%EC%9D%98-wwdc%EB%A5%BC-%EB%90%98%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-16d6da3a95b2)
-- [코알람 App 출시 A부터 Z까지](https://medium.com/@hyunji5834/코알람-app-출시-a부터-z까지-3ecbec543eeb)
-- [Understanding MicroSERVICE Architecture with Java & Spring Boot [슬라이드]](https://www.slideshare.net/kashifalisiddiqui/understanding-microservice-architecture-with-java-spring-boot)
-- [Recoil - 또 다른 React 상태 관리 라이브러리?](https://ui.toast.com/weekly-pick/ko_20200616/)
-- [Flutter vs Native vs React 성능](https://brunch.co.kr/@jowlee/123)
-- [Opening Mail Server 15시간 삽질기](https://blog.0chan.dev/2020-06-16-Opening-Mail-Server/)
-- [Junit5 인스턴스 생성 특징, 테스트 순서](https://cheese10yun.github.io/junit5/)
 
 --------------------------------------
 </br>
