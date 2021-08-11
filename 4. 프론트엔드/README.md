@@ -2,6 +2,8 @@
 
 ### 프론트엔드 일반
 - [Naver FE News](https://github.com/naver/fe-news)
+- [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
+- [Lerna로 모노레포 해보러나?](https://medium.com/jung-han/lerna-%EB%A1%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%ED%95%B4%EB%B3%B4%EB%9F%AC%EB%82%98-34c8e008106a)  
 - [Frontend Application 에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)  
 - [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
 - [Webpack: When to use and Why](https://blog.andrewray.me/webpack-when-to-use-and-why/amp/)
@@ -24,6 +26,7 @@
 
 
 ### Javascript 관련
+- [Lodash의 대체재로서의 순수 자바스크립트 함수 [번역]](https://ui.toast.com/weekly-pick/ko_20190515/)
 - [2016년에 자바스크립트를 배우는 기분 [번역]](http://www.looah.com/article/view/2054)
 - [아주 거대한 (자바스크립트) 어플리케이션 구축하기 [번역]](https://medium.com/steady-study/%EB%B2%88%EC%97%AD-%EC%95%84%EC%A3%BC-%EA%B1%B0%EB%8C%80%ED%95%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-3aa37fc45122)
 - [자바스크립트는 어떻게 작동하는가: 웹소켓 및 HTTP/2 SSE [번역]](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9B%B9%EC%86%8C%EC%BC%93-%EB%B0%8F-http-2-sse-1ccde9f9dc51)
@@ -250,6 +253,7 @@
 --------------------------------------
 
 ### 모바일 & iOS & 안드로이드
+- [UICollectionView를 이용한 LINE iOS 대화방 리팩토링](https://engineering.linecorp.com/ko/blog/ios-refactoring-uicollectionview-1/)
 - [코알람 App 출시 A부터 Z까지](https://medium.com/@hyunji5834/코알람-app-출시-a부터-z까지-3ecbec543eeb)
 - [지난 10번의 WWDC를 되돌아보며](https://medium.com/@jungkim/%EC%A7%80%EB%82%9C-10%EB%B2%88%EC%9D%98-wwdc%EB%A5%BC-%EB%90%98%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-16d6da3a95b2)  
 - [Retrofit2 샘플](https://github.com/HwangEunmi/Retrofit-Sample)

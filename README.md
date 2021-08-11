@@ -754,16 +754,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [Go Clean Architecture](https://github.com/bxcodec/go-clean-arch)
 - [객체지향철학을 통해 객체지향프로그래밍을 바라보는게 인상적입니다](https://www.slideshare.net/sunnykwak90/5-44213056?from_m_app=ios)
 - [배열의 특징 (shift, unshift의 효율성에 대한 제고)](https://woomin.netlify.app/Posts/2020-06-15-shift-unshift/)
-- [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
-- [우리도 채팅있으면 좋을 것 같아요.](https://woowabros.github.io/experience/2020/06/19/chat-app.html)
-- [GitHub 블로그 빠르게 시작하기!](https://thdev.net/653)
-- [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html?m=1)
-- [UICollectionView를 이용한 LINE iOS 대화방 리팩토링](https://engineering.linecorp.com/ko/blog/ios-refactoring-uicollectionview-1/)
-- [Lerna로 모노레포 해보러나?](https://medium.com/jung-han/lerna-%EB%A1%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%ED%95%B4%EB%B3%B4%EB%9F%AC%EB%82%98-34c8e008106a)
-- [Git Flow와 자주 사용되는 명령어들](https://steemit.com/kr/@stunstunstun/git-1-git-flow)
-- [Lodash의 대체재로서의 순수 자바스크립트 함수](https://ui.toast.com/weekly-pick/ko_20190515/)
-- [JPA + Querydsl group_concat 사용법](https://cheese10yun.github.io/jpa-query-dsl-group-concat/)
-- [chmod calculator](https://chmodcommand.com/)
+
 
 --------------------------------------
 </br>
