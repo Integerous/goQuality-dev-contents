@@ -23,9 +23,11 @@
 - [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
 - [React밖에 모르는 당신에게. GatsbyJS 한 잔, ‘채용~’](https://blog.banksalad.com/tech/build-a-website-with-gatsby/)
 - [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
+- [웹 프론트엔드 프레임워크, 무엇을 쓸까?](https://www.samsungsds.com/global/ko/support/insights/frameworks.html)
 
 
 ### Javascript 관련
+- [Javascript 배열의 특징 (shift, unshift의 효율성에 대한 제고)](https://woomin.netlify.app/Posts/2020-06-15-shift-unshift/)
 - [Lodash의 대체재로서의 순수 자바스크립트 함수 [번역]](https://ui.toast.com/weekly-pick/ko_20190515/)
 - [2016년에 자바스크립트를 배우는 기분 [번역]](http://www.looah.com/article/view/2054)
 - [아주 거대한 (자바스크립트) 어플리케이션 구축하기 [번역]](https://medium.com/steady-study/%EB%B2%88%EC%97%AD-%EC%95%84%EC%A3%BC-%EA%B1%B0%EB%8C%80%ED%95%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-3aa37fc45122)

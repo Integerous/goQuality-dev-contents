@@ -206,6 +206,7 @@
 --------------------------------------
 
 ### Go
+- [Go Clean Architecture](https://github.com/bxcodec/go-clean-arch)
 - [GO 언어를 처음 접하는 사람들을 위한 GOLANG 안내서](http://bit.ly/2pKjqME)
 - [왜 Go가 CockroachDB에 올바른 선택인가 [번역]](http://bit.ly/2RbDSBD)
 - [Effective Go 한글 번역본](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)

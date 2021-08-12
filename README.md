@@ -744,16 +744,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [WWDC2020 요약 총정리](https://fernando.kr/ios/2020-06-23-wwdc-report/)
 - [이벤트 소싱의 본질](https://gyuwon.github.io/blog/2020/06/23/essence-of-event-sourcing.html)
 - [디자인 챕터는 왜 존재할까?](https://blog.gangnamunni.com/post/mission-vision-of-designchapter/)
-- [LINE 오픈소스 매니저 이서연 님을 만나보았습니다!](https://engineering.linecorp.com/ko/blog/line-opensource-manager-interview/)
-- [2020년 백엔드 개발자 로드맵](https://velog.io/@exploit017/2020-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A1%9C%EB%93%9C%EB%A7%B5?fbclid=IwAR0ncLwd2i7sK5yw-byITi5S-ROxreJdXaV6EWJhHwMJ52pAQNvsbPhpB_c)
-- [Code Review에 대해 [영상]](https://youtu.be/FJNV_qoRRks)
-- [HTTP 상태코드 다이어그램](https://github.com/for-GET/http-decision-diagram)
-- [유용한 테스트 케이스를 위한 개발자의 자세](https://blog.shiren.dev/2020-06-15-%EC%9C%A0%EC%9A%A9%ED%95%9C%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%A5%BC%EC%9C%84%ED%95%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EC%9E%90%EC%84%B8/)
-- [ThreeTenABP 마스터하기](https://blog.naver.com/nakim02/222004139447)
-- [웹 프론트엔드 프레임워크, 무엇을 쓸까?](https://www.samsungsds.com/global/ko/support/insights/frameworks.html)
-- [Go Clean Architecture](https://github.com/bxcodec/go-clean-arch)
-- [객체지향철학을 통해 객체지향프로그래밍을 바라보는게 인상적입니다](https://www.slideshare.net/sunnykwak90/5-44213056?from_m_app=ios)
-- [배열의 특징 (shift, unshift의 효율성에 대한 제고)](https://woomin.netlify.app/Posts/2020-06-15-shift-unshift/)
 
 
 --------------------------------------

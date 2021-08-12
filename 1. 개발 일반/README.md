@@ -2,6 +2,7 @@
 
 ### 개발 문화/철학/방법론
 - [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
+- [Code Review에 대해 [영상]](https://youtu.be/FJNV_qoRRks)
 - [헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
 - [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html)
 - [신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/%EC%8B%A0%EA%B7%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
@@ -104,6 +105,7 @@
 --------------------------------------
 
 ### TDD & 테스트 관련
+- [유용한 테스트 케이스를 위한 개발자의 자세](https://blog.shiren.dev/2020-06-15-%EC%9C%A0%EC%9A%A9%ED%95%9C%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%A5%BC%EC%9C%84%ED%95%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EC%9E%90%EC%84%B8/)
 - ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다.](https://repo.yona.io/doortts/blog/issue/1)
 - [박재성 - 의식적인 연습으로 TDD, 리팩토링 연습하기 [슬라이드]](https://www.slideshare.net/OKJSP/okkycon-tdd?fbclid=IwAR3CWayos7M9WT7Oym4HlzD9Uod1_QR0uXag-ptlfwbxD1p3hhQhDkIoqPY)
 - [실제 있을법한 예제를 TDD로 구현하는 과정 라이브로 시연 - 최범균님 [영상]](https://www.youtube.com/watch?v=AE7K-16dEjo&app=desktop)

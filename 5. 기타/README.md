@@ -72,6 +72,7 @@
 
 
 ### 웹 관련
+- [HTTP 상태코드 다이어그램](https://github.com/for-GET/http-decision-diagram)
 - [HTML5 폼 검증에 대해 정리해 보자](https://jeonghwan-kim.github.io/dev/2020/06/08/html5-form-validation.html)
 - [CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/)
 - [JWT(JSON Web Token)을 이용한 API 인증 [시리즈]](https://bcho.tistory.com/999)
