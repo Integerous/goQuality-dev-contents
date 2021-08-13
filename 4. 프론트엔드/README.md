@@ -192,6 +192,7 @@
 --------------------------------------
 
 ### 디자인 & UI/UX & CSS
+- [디자인 챕터는 왜 존재할까?](https://blog.gangnamunni.com/post/mission-vision-of-designchapter/)
 - [CSS 팁: 팝업창을 멋지게 만드는 너무 간단한 방법](https://taegon.kim/archives/10088)
 - [미니멀 UI의 차기 트렌드 '컴플렉션 리덕션'](https://brunch.co.kr/@ideawriter/24)
 - [키오스크 UI 설계 시 고려할 것들](https://story.pxd.co.kr/1332)

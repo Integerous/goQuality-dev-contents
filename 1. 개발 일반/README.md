@@ -101,6 +101,7 @@
 - [메쉬코리아(부릉)의 프론트엔드 엔지니어링 실천 사례를 공유합니다.](https://github.com/meshkorea/front-end-engineering)
 - [크몽 FE 팀 코드리뷰문화 개선기(1+1=3)](https://brunch.co.kr/@kmongdev/20)
 - [객체지향 디자인패턴 1 [영상]](https://www.youtube.com/watch?v=lJES5TQTTWE)
+- [그런 개발자로 괜찮은가 - '문화' 편](https://taetaetae.github.io/2020/06/21/a-good-developer-in-terms-of-culture/)
 
 --------------------------------------
 

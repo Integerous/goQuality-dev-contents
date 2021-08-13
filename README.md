@@ -734,17 +734,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [[IT 개발자와 일할 때 필요한 모든 개발지식] A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 - [최신 기술일수록 장단점을 모두 알아야 하는 이유](https://brunch.co.kr/@sangjinkang/18)
 - [레디스 개발자 메인테이너 자리에서 내려오다](http://antirez.com/news/133)
-- [git 명령어  정리](https://m.blog.naver.com/codeitofficial/222013732490)
-- [레디스와 분산 락(1/2) - 레디스를 활용한 분산 락과 안전하고 빠른 락의 구현](https://hyperconnect.github.io/2019/11/15/redis-distributed-lock-1.html)
-- [MySQL을 이용한 분산락으로 여러 서버에 걸친 동시성 관리](https://woowabros.github.io/experience/2019/05/30/mysql-user-level-lock.html)
-- [Email 보안 강화 기능 소개(SPF](https://meetup.toast.com/posts/244)
-- [주석 분석기를 이용한 간단한 API 문서화 방법](https://engineering.linecorp.com/ko/blog/comments-parsing-api-documentation/)
-- [그런 개발자로 괜찮은가 - '문화' 편](https://taetaetae.github.io/2020/06/21/a-good-developer-in-terms-of-culture/)
-- [개발자들이 코드리뷰를 하는 이유](https://greypencil.tistory.com/141)
-- [WWDC2020 요약 총정리](https://fernando.kr/ios/2020-06-23-wwdc-report/)
-- [이벤트 소싱의 본질](https://gyuwon.github.io/blog/2020/06/23/essence-of-event-sourcing.html)
-- [디자인 챕터는 왜 존재할까?](https://blog.gangnamunni.com/post/mission-vision-of-designchapter/)
-
 
 --------------------------------------
 </br>

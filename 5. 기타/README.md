@@ -265,6 +265,9 @@
 --------------------------------------
 
 ### 기타
+- [주석 분석기를 이용한 간단한 API 문서화 방법](https://engineering.linecorp.com/ko/blog/comments-parsing-api-documentation/)
+- [Email 보안 강화 기능 소개(SPF](https://meetup.toast.com/posts/244)  
+- [이벤트 소싱의 본질](https://gyuwon.github.io/blog/2020/06/23/essence-of-event-sourcing.html)
 - [WSL2 설치 및 사용 방법](https://www.44bits.io/ko/post/wsl2-install-and-basic-usage)
 - [코드 악취를 맡는 후각 훈련의 시간](https://helloworld.kurly.com/blog/rms-refactoring/)
 - [CI/CD(지속적 통합/지속적 제공): 개념, 방법, 장점, 구현 과정](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
