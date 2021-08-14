@@ -1,0 +1,22 @@
+name: "👮 이 컨텐츠 뺍시다!"
+description: "이 컨텐츠는 고퀄이 아니니까 뺍시다!"
+labels:
+  - ":policeman: 이 컨텐츠 뺍시다!"
+
+body:
+  - id: link
+    type: input
+    validations:
+      required: true
+    attributes:
+      label: 🔗 제거를 원하는 링크
+      description: 제거를 원하는 링크를 이곳에 입력해주세요
+      placeholder: "ex. https://example.com"
+  - id: about
+    type: textarea
+    attributes:
+      label: 📣 이슈 대한 설명
+      description: 이 링크가 왜 빠졌으면 좋겠는지 작성해주세요
+  - type: markdown
+    attributes:
+      value: 이슈를 남겨주셔서 감사합니다! 👍

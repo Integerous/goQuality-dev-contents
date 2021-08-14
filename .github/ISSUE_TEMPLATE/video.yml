@@ -1,0 +1,22 @@
+name: "🎥 영상"
+description: "영상을 공유하고 싶으시다면"
+labels:
+  - ":movie_camera: 영상"
+
+body:
+  - id: link
+    type: input
+    validations:
+      required: true
+    attributes:
+      label: 🔗 공유할 링크
+      description: 공유해주실 링크를 이곳에 입력해주세요
+      placeholder: "ex. https://example.com"
+  - id: about
+    type: textarea
+    attributes:
+      label: 📣 링크에 대한 설명
+      description: 이곳에 링크에 대한 설명을 간단하게 적어주세요
+  - type: markdown
+    attributes:
+      value: 링크를 공유해주셔서 감사합니다! 👍
