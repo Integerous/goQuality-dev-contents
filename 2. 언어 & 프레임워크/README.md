@@ -53,12 +53,6 @@
 - [ConcurrentHashMap 동기화 방식](https://pplenty.tistory.com/17)
 - [Java NIO - 1. 왜 자바의 IO 패키지는 느린가?](https://leeyh0216.github.io/2020-05-10/java_nio_why_java_io_slow)
 
-### Kotlin
-- [Kotlin 도입 과정에서 만난 문제와 해결 방법](https://d2.naver.com/helloworld/6685007)
-- [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
-- [코틀린 코루틴(coroutine) 개념 익히기](https://wooooooak.github.io/kotlin/2019/08/25/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EA%B0%9C%EB%85%90-%EC%9D%B5%ED%9E%88%EA%B8%B0/)
-- [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
-
 
 ### JVM
 - [JVM, JRE, JDK의 차이 간단 설명](https://wikidocs.net/257)
@@ -73,6 +67,13 @@
 - [JVM Architecture 란?](https://yeon-kr.tistory.com/112)
 - [Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/114)
 - [자바 - OOM 메모리 릭 찾기 이론편](https://blog.naver.com/PostView.nhn?blogId=2feelus&logNo=220765728530)
+
+
+### Kotlin
+- [Kotlin 도입 과정에서 만난 문제와 해결 방법](https://d2.naver.com/helloworld/6685007)
+- [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
+- [코틀린 코루틴(coroutine) 개념 익히기](https://wooooooak.github.io/kotlin/2019/08/25/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EA%B0%9C%EB%85%90-%EC%9D%B5%ED%9E%88%EA%B8%B0/)
+- [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
 
 
 ### Spring framework
