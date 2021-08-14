@@ -37,14 +37,12 @@
 - [안드로이드와 Java의 Reflection](https://www.charlezz.com/?p=756)
 - [Java Optional 바르게 쓰기](http://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0/)
 - [자바 코드 컨벤션 [번역]](http://kwangshin.pe.kr/blog/java-code-conventions-%EC%9E%90%EB%B0%94-%EC%BD%94%EB%94%A9-%EA%B7%9C%EC%B9%99/)
-- [Kotlin 도입 과정에서 만난 문제와 해결 방법](https://d2.naver.com/helloworld/6685007)
 - [자바 비동기 프로그래밍을 위한 CompletableFuture 검토](https://brunch.co.kr/@springboot/267)
 - [Java Lambda Expression과 성능](https://brunch.co.kr/@heracul/3)
 - [자바 명명 규칙 [슬라이드]](https://www.slideshare.net/debop/java-naming-strategy)
 - [java null 서바이벌 가이드 [슬라이드]](https://www.slideshare.net/gyumee/java-null-survival-guide?from_m_app=ios)
 - [캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/)
 - [Guide to Java Versions and Features](https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features)
-- [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
 - [Java enum의 사용](https://johngrib.github.io/wiki/java-enum/)
 - [자바에서 비동기를 어떻게 구현해 볼 수 있을까?](https://github.com/homelus/asynchronous-example)
 - [Java 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)
@@ -54,6 +52,13 @@
 - [serialVersionUID가 없는 Serializable Class를 수정해야 할 때](https://www.popit.kr/serialversionuid%EA%B0%80-%EC%97%86%EB%8A%94-serializable-class%EB%A5%BC-%EC%88%98%EC%A0%95%ED%95%B4%EC%95%BC-%ED%95%A0-%EB%95%8C/)
 - [ConcurrentHashMap 동기화 방식](https://pplenty.tistory.com/17)
 - [Java NIO - 1. 왜 자바의 IO 패키지는 느린가?](https://leeyh0216.github.io/2020-05-10/java_nio_why_java_io_slow)
+
+### Kotlin
+- [Kotlin 도입 과정에서 만난 문제와 해결 방법](https://d2.naver.com/helloworld/6685007)
+- [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
+- [코틀린 코루틴(coroutine) 개념 익히기](https://wooooooak.github.io/kotlin/2019/08/25/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EA%B0%9C%EB%85%90-%EC%9D%B5%ED%9E%88%EA%B8%B0/)
+- [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
+
 
 ### JVM
 - [JVM, JRE, JDK의 차이 간단 설명](https://wikidocs.net/257)
@@ -186,7 +191,7 @@
 - [Querydsl Projection 방법 소개 및 선호하는 패턴 정리](https://cheese10yun.github.io/querydsl-projections/)
 - [Querydsl Repository Support 활용](https://cheese10yun.github.io/querydsl-support/)
 - [JPA 기반 테스트 코드 작성 팁](https://cheese10yun.github.io/jpa-test-support/)
-- [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
+
 
 
 --------------------------------------

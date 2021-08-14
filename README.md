@@ -716,7 +716,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [Kotlin과 Spring WebFlux 기반의 컨텐츠 인증 서비스 개발 후기](https://tech.lezhin.com/2020/07/15/kotlin-webflux)
 - [emotion을 활용한 크몽 프론트엔드 스타일링 시스템](https://medium.com/kmong/emotion%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%AA%BD-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-ec5436089ad)
 - [아직도 돈 주고 DB 쓰나요 for DBA [영상]](https://www.youtube.com/watch?feature=youtu.be&v=DXu3nbWa4AA&app=desktop)
-- [Kotlin과 Spring WebFlux 기반의 컨텐츠 인증 서비스 개발 후기](https://tech.lezhin.com/2020/07/15/kotlin-webflux?fbclid=IwAR0tEPFpJxQ17ubxI9DrGSIZwQETkTPBs2_7VKq1IIdDDqHLqR8dEBO8fms)
 - [쿼리 최적화: 빠른 쿼리를 위한 7가지 체크리스트](https://medium.com/watcha/%EC%BF%BC%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B2%AB%EA%B1%B8%EC%9D%8C-%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EC%BF%BC%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-7%EA%B0%80%EC%A7%80-%EC%B2%B4%ED%81%AC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-bafec9d2c073)
 - [클린봇 2.0: 문맥을 이해하는 악성 댓글(단문) 탐지 AI](https://d2.naver.com/helloworld/7753273)
 - [Email 보안 강화 기능 소개(SPF)](https://meetup.toast.com/posts/244)
@@ -724,16 +723,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [JPA 덕분에 DB에서 삽질한 이야기](http://thefarmersfront.github.io/blog/jpa-uuid-sapjil/)
 - [모바일 줌 SpringBoot → NodeJS 전환기 (feat. VueJS SSR)](https://zuminternet.github.io/ZUM-Mobile-SSR/)
 - [젯브레인 PHP Annotated 6월호 번역본](http://haah.kr/2020/06/24/php-annotated-june-2020/)
-- [우아한테크코스 로드맵 2020년 버전](https://github.com/woowacourse/roadmap)
-- [React 이해하기](https://helloworld.kurly.com/blog/thinking-in-react/)
-- [그 때 성장이라고 생각했던 것들](https://jbee.io/essay/growth-mistaken-2020/)
-- [DB분산처리를 위한 sharding](https://woowabros.github.io/experience/2020/07/06/db-sharding.html)
-- [코틀린 코루틴(coroutine) 개념 익히기](https://wooooooak.github.io/kotlin/2019/08/25/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EA%B0%9C%EB%85%90-%EC%9D%B5%ED%9E%88%EA%B8%B0/)
-- [대학생 개발자의 6개월 인턴 회고](https://gardeny.tistory.com/25?fbclid=IwAR1rKBqobJ1wqwaBsu_63gzjqizKCXdMQFZXIDe56Fwz9dYTDKvRd25trD4)
-- [그런 개발자로 괜찮은가 - '자기계발' 편](https://taetaetae.github.io/2020/06/28/a-good-developer-in-terms-of-self-development/)
-- [[IT 개발자와 일할 때 필요한 모든 개발지식] A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
-- [최신 기술일수록 장단점을 모두 알아야 하는 이유](https://brunch.co.kr/@sangjinkang/18)
-- [레디스 개발자 메인테이너 자리에서 내려오다](http://antirez.com/news/133)
 
 --------------------------------------
 </br>

@@ -153,6 +153,7 @@
 --------------------------------------
 
 ### 개발자 성장
+- [그 때 성장이라고 생각했던 것들](https://jbee.io/essay/growth-mistaken-2020/)
 - [나의 성장을 도와준 고마운 책들](https://johngrib.github.io/wiki/my-favorite-books/)
 - [웹 개발자 로드맵 [번역]](https://github.com/devJang/developer-roadmap/blob/master/README.md)
 - [(2021) 1. 비전공자로 자바 백엔드 개발자 시작하기](https://jojoldu.tistory.com/505)
@@ -235,7 +236,8 @@
 - [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
 - [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
 - [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect)
-
+- [레디스 개발자 메인테이너 자리에서 내려오다](http://antirez.com/news/133)
+- [그런 개발자로 괜찮은가 - '자기계발' 편](https://taetaetae.github.io/2020/06/28/a-good-developer-in-terms-of-self-development/)
 
 --------------------------------------
 

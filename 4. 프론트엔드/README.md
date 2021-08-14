@@ -134,6 +134,7 @@
 
 
 ### React.js
+- [React 이해하기](https://helloworld.kurly.com/blog/thinking-in-react/)
 - [Monorepo로 대규모 React 프로젝트 관리하기](https://medium.com/myrealtrip-product/monorepo%EB%A1%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-d12b65340306)
 - [React.js로 시작하는 멀티플랫폼 개발하기 [슬라이드]](https://www.slideshare.net/taggon/reactjs-55995670)
 - [카카오페이지 웹 React 포팅 후기](https://ljs0705.medium.com/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9B%B9-react-%ED%8F%AC%ED%8C%85-%ED%9B%84%EA%B8%B0-76402cc5e031)

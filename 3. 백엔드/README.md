@@ -153,7 +153,7 @@
 - [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
 - [로드밸런서의 종류와 동작방식](https://deveric.tistory.com/m/91)
 - [Spring Batch 관리 도구로서의 Jenkins](https://jojoldu.tistory.com/489)
-- [카프카(Kafka)의 이해](https://devtimes.com/bigdata/2019/01/18/what-is-kafka/)
+- [카프카(Kafka)의 이해](https://devtimes.com/what-is-kafka)
 - [AWS 비용을 줄이는 10가지 방법 [영문]](https://aws.amazon.com/ko/blogs/compute/10-things-you-can-do-today-to-reduce-aws-costs/)
 - [서머타임과 배치작업](https://meetup.toast.com/posts/232)
 - [Druid의 Kafka Indexing에서 Roll-up은 어떻게 동작하는가?](https://leeyh0216.github.io/2020-04-19/Druid_Kafka_Indexing_Rollup)
@@ -239,6 +239,7 @@
 --------------------------------------
 
 ### 데이터베이스 & SQL
+- [DB분산처리를 위한 sharding](https://woowabros.github.io/experience/2020/07/06/db-sharding.html)
 - [데이터모델링의 기초 정리](http://bit.ly/2Pmdd4C)
 - [JDBC로 실행되는 SQL에 자동으로 프로젝트 정보 주석 남기기](http://bit.ly/2Rz7lql)
 - [RDB부터 검색엔진까지··· 내게 꼭 맞는 DB 고르기](http://bit.ly/2q1l24E)
