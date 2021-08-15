@@ -189,6 +189,7 @@
 --------------------------------------
 
 ### 머신러닝 & 딥러닝 & AI
+- [클린봇 2.0: 문맥을 이해하는 악성 댓글(단문) 탐지 AI](https://d2.naver.com/helloworld/7753273)
 - [머신러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
 - [딥러닝 서적 및 강좌 추천](https://www.slideshare.net/mobile/seonghunchoe7/ss-83893606)
 - [카카오미니는 어떻게 스무고개를 맞출까?](https://brunch.co.kr/@kakao-it/157)

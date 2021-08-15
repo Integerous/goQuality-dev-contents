@@ -731,16 +731,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [라인의 '앤트맨', 미디어 압축의 슈퍼히어로 백준식 님 [영상]](https://www.youtube.com/watch?v=uBzqKyL8ft8&feature=youtu.be)
 - [코드스쿼드 백엔드 마스터 호눅스(정호영)님의 추천 도서목록](https://www.notion.so/kumo/44da2a336b864d35bd642bc62a300708)
 - [Github ReadMe 프로필 5분만에 제작하기](https://kinetic27.github.io/2020/07/14/git-profile/)
-- [Kotlin과 Spring WebFlux 기반의 컨텐츠 인증 서비스 개발 후기](https://tech.lezhin.com/2020/07/15/kotlin-webflux)
-- [emotion을 활용한 크몽 프론트엔드 스타일링 시스템](https://medium.com/kmong/emotion%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%AA%BD-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-ec5436089ad)
-- [아직도 돈 주고 DB 쓰나요 for DBA [영상]](https://www.youtube.com/watch?feature=youtu.be&v=DXu3nbWa4AA&app=desktop)
-- [쿼리 최적화: 빠른 쿼리를 위한 7가지 체크리스트](https://medium.com/watcha/%EC%BF%BC%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B2%AB%EA%B1%B8%EC%9D%8C-%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EC%BF%BC%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-7%EA%B0%80%EC%A7%80-%EC%B2%B4%ED%81%AC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-bafec9d2c073)
-- [클린봇 2.0: 문맥을 이해하는 악성 댓글(단문) 탐지 AI](https://d2.naver.com/helloworld/7753273)
-- [Email 보안 강화 기능 소개(SPF)](https://meetup.toast.com/posts/244)
-- [개발 직군별로 실제로 하는 일 알아보기](https://www.grabbing.me/6166144602844aab9b361c79b8f90785)
-- [JPA 덕분에 DB에서 삽질한 이야기](http://thefarmersfront.github.io/blog/jpa-uuid-sapjil/)
-- [모바일 줌 SpringBoot → NodeJS 전환기 (feat. VueJS SSR)](https://zuminternet.github.io/ZUM-Mobile-SSR/)
-- [젯브레인 PHP Annotated 6월호 번역본](http://haah.kr/2020/06/24/php-annotated-june-2020/)
+
 
 --------------------------------------
 </br>

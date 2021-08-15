@@ -78,6 +78,7 @@
 
 ### Spring framework
 - [Spring WebFlux는 어떻게 적은 리소스로 많은 트래픽을 감당할까?](https://alwayspr.tistory.com/44)
+- [Kotlin과 Spring WebFlux 기반의 컨텐츠 인증 서비스 개발 후기](https://tech.lezhin.com/2020/07/15/kotlin-webflux)
 - [Spring WebClient 사용법](https://medium.com/@odysseymoon/spring-webclient-사용법-5f92d295edc0)
 - [스프링부트로 웹 서비스 출시하기 [시리즈]](https://jojoldu.tistory.com/250?category=635883)
 - [SpringBoot의 깨알같은 팁](https://jojoldu.tistory.com/43#at_pco=smlwn-1.0&at_si=5b8e1d94fc70039a&at_ab=per-2&at_pos=0&at_tot=1)
@@ -175,6 +176,7 @@
 
 
 ### JPA & Hibernate
+- [JPA 덕분에 DB에서 삽질한 이야기](http://thefarmersfront.github.io/blog/jpa-uuid-sapjil/)
 - [Spring Data JPA와 AspectJ가 함께 친 사고](http://www.chidoo.me/index.php/2018/04/22/conflict-of-spring-data-jpa-and-aspectj/)
 - [Spring-Jpa Best Practices 쳅터 별로 정리](https://github.com/cheese10yun/spring-jpa-best-practices)
 - [JPA 변경 감지와 스프링 데이터](https://www.popit.kr/jpa-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0/)

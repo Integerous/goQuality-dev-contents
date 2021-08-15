@@ -239,6 +239,7 @@
 --------------------------------------
 
 ### 데이터베이스 & SQL
+- [쿼리 최적화: 빠른 쿼리를 위한 7가지 체크리스트](https://medium.com/watcha/%EC%BF%BC%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B2%AB%EA%B1%B8%EC%9D%8C-%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EC%BF%BC%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-7%EA%B0%80%EC%A7%80-%EC%B2%B4%ED%81%AC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-bafec9d2c073)
 - [DB분산처리를 위한 sharding](https://woowabros.github.io/experience/2020/07/06/db-sharding.html)
 - [데이터모델링의 기초 정리](http://bit.ly/2Pmdd4C)
 - [JDBC로 실행되는 SQL에 자동으로 프로젝트 정보 주석 남기기](http://bit.ly/2Rz7lql)
@@ -270,6 +271,7 @@
 - [개발자를 위한 레디스 튜토리얼](https://meetup.toast.com/posts/224)
 - [우아한 형제들 메인 데이터베이스 IDC 탈출 성공기](https://woowabros.github.io/experience/2019/12/19/ruby_database.html)
 - [Druid와 Bitmap Index](https://leeyh0216.github.io/2020-04-26/Apache_Druid_bitmap_index)
+- [아직도 돈 주고 DB 쓰나요 for DBA [영상]](https://www.youtube.com/watch?feature=youtu.be&v=DXu3nbWa4AA&app=desktop)
 
 
 --------------------------------------

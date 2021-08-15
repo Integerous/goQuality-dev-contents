@@ -120,6 +120,7 @@
 
 
 ### Node.js & Deno
+- [모바일 줌 SpringBoot → NodeJS 전환기 (feat. VueJS SSR)](https://zuminternet.github.io/ZUM-Mobile-NodeJS/)
 - [Node 제작자가 만든 Deno : 자바스크립트의 새로운 접근](https://blog.ull.im/engineering/2019/04/14/deno-ryan-dahl-2019-04-04.html)
 - [Deno는 무엇이며, Node.js를 대체할 것인가](https://link.medium.com/ASCND0FFu6)
 - [Velopert님의 Node.js 강좌](https://velopert.com/133)
@@ -193,6 +194,7 @@
 --------------------------------------
 
 ### 디자인 & UI/UX & CSS
+- [emotion을 활용한 크몽 프론트엔드 스타일링 시스템](https://medium.com/kmong/emotion%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%AA%BD-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-ec5436089ad)
 - [디자인 챕터는 왜 존재할까?](https://blog.gangnamunni.com/post/mission-vision-of-designchapter/)
 - [CSS 팁: 팝업창을 멋지게 만드는 너무 간단한 방법](https://taegon.kim/archives/10088)
 - [미니멀 UI의 차기 트렌드 '컴플렉션 리덕션'](https://brunch.co.kr/@ideawriter/24)
