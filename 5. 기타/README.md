@@ -6,6 +6,7 @@
 - [의존성 캐시로 Github Actions 속도 높이기](https://www.notion.so/Github-Actions-7ca7c1ddf2f74d24ab9173d1b5c97366)
 - [gr을 이용한 많은 git 저장소 관리하기](https://medium.com/@changjoopark/gr%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%8E%EC%9D%80-git-%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-44c78ff667d2)
 - [Git 브랜칭 실습사이트! (한국어판)](https://learngitbranching.js.org/?locale=ko)
+- [Github ReadMe 프로필 5분만에 제작하기](https://kinetic27.github.io/2020/07/14/git-profile/)  
 - [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우 [번역]](https://academy.realm.io/kr/posts/360andev-savvas-dalkitsis-using-git-like-a-pro/)
 - [깃헙 액션을 마켓에 등록해보자](https://meetup.toast.com/posts/241)
 - [GitHub로 프로젝트 관리하기 - 이슈 발급 부터 코드리뷰까지](https://github.com/cheese10yun/github-project-management)
@@ -146,6 +147,7 @@
 - [서버의 상태를 알려주는 HTTP 상태코드](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
 - [만화로 보는 https가 작동하는 방식](https://howhttps.works/ko/)
 - [quiche의 CUBIC와 HyStart++ 지원](https://blog.cloudflare.com/ko/cubic-and-hystart-support-in-quiche-ko/)
+- [TCP의 흐름제어, 오류제어, 혼잡제어 개념에 대한 개요](https://roka88.dev/114)
 
 
 --------------------------------------
@@ -266,6 +268,7 @@
 --------------------------------------
 
 ### 기타
+- [라인의 '앤트맨', 미디어 압축의 슈퍼히어로 백준식 님 [영상]](https://www.youtube.com/watch?v=uBzqKyL8ft8&feature=youtu.be)
 - [주석 분석기를 이용한 간단한 API 문서화 방법](https://engineering.linecorp.com/ko/blog/comments-parsing-api-documentation/)
 - [Email 보안 강화 기능 소개(SPF](https://meetup.toast.com/posts/244)  
 - [이벤트 소싱의 본질](https://gyuwon.github.io/blog/2020/06/23/essence-of-event-sourcing.html)

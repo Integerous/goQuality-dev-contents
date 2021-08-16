@@ -194,7 +194,7 @@
 - [Querydsl Projection 방법 소개 및 선호하는 패턴 정리](https://cheese10yun.github.io/querydsl-projections/)
 - [Querydsl Repository Support 활용](https://cheese10yun.github.io/querydsl-support/)
 - [JPA 기반 테스트 코드 작성 팁](https://cheese10yun.github.io/jpa-test-support/)
-
+- [Bean Validation을 여행하는 초보 사용자를 위한 안내서](https://www.notion.so/Bean-Validation-2f70a3f0aae94621886487477097abfa)
 
 
 --------------------------------------

@@ -157,6 +157,7 @@
 - [나의 성장을 도와준 고마운 책들](https://johngrib.github.io/wiki/my-favorite-books/)
 - [웹 개발자 로드맵 [번역]](https://github.com/devJang/developer-roadmap/blob/master/README.md)
 - [(2021) 1. 비전공자로 자바 백엔드 개발자 시작하기](https://jojoldu.tistory.com/505)
+- [코드스쿼드 백엔드 마스터 호눅스(정호영)님의 추천 도서목록](https://www.notion.so/kumo/44da2a336b864d35bd642bc62a300708)
 - [24년차 개발자 우아한형제들의 김민태님 이야기 [영상]](https://www.youtube.com/watch?v=U0YWdnSKDfw)
 - [개발자에서 개발팀장이 되기까지 겪은 5가지 실수 [번역]](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 - [10배 뛰어난 개발자 되기 [번역]](https://muchtrans.com/translations/10xdeveloper.ko.html)

@@ -721,16 +721,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [The process: Making Vue3 [번역]](https://perade.github.io/blog/the-process-making-vue3/)
 - [윈도우 DNS 서버에 영향을 미치는 치명적인 RCE 취약점 발견 -](https://blog.alyac.co.kr/3130)
 - [자바스크립트 프라미스: 소개](https://developers.google.com/web/fundamentals/primers/promises?hl=ko)
-- [비동기 함수 - 프라미스에 친숙해질 수 있게 해주는 함수 [번역]](https://developers.google.com/web/fundamentals/primers/async-functions?hl=ko)
-- [젠킨스 성능을 높이는 5가지 간단한 방법](https://engineering.taboola.com/5-simple-tips-boosting-jenkins-performance/)
-- [Spring Security](https://www.notion.so/Spring-Security-8d099b534582487f90d856f5068c9fd5)
-- [챗봇으로 일상을 바꾸는 팀에서 백엔드 개발자로 활동하며 개발은 어떻게 진행하는가](https://mingeun.com/2020-06-24/team-crescendo-forte-memoirs/)
-- [Bean Validation을 여행하는 초보 사용자를 위한 안내서](https://www.notion.so/Bean-Validation-2f70a3f0aae94621886487477097abfa)
-- [데이터분석가로서 업무 과정과 경험, 배움을 공유합니다](https://woowabros.github.io/woowabros/2020/07/01/how_data_analyst_works.html)
-- [TCP의 흐름제어, 오류제어, 혼잡제어 개념에 대한 개요](https://roka88.dev/114)
-- [라인의 '앤트맨', 미디어 압축의 슈퍼히어로 백준식 님 [영상]](https://www.youtube.com/watch?v=uBzqKyL8ft8&feature=youtu.be)
-- [코드스쿼드 백엔드 마스터 호눅스(정호영)님의 추천 도서목록](https://www.notion.so/kumo/44da2a336b864d35bd642bc62a300708)
-- [Github ReadMe 프로필 5분만에 제작하기](https://kinetic27.github.io/2020/07/14/git-profile/)
 
 
 --------------------------------------
