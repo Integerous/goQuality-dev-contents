@@ -711,17 +711,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [코드스피츠 88 - async await #1/2](https://www.youtube.com/watch?v=H_Hb9IF7sfc&feature=youtu.be)
 - [MVVM 아키텍처 패턴](https://gyuwon.github.io/blog/2017/03/05/mvvm-architectural-pattern.html)
 - [엘라스틱서치 인덱스와 샤드 분할](https://danawalab.github.io/elastic/2020/07/21/Elasticsearch-Index-Shard-How.html)
-- [How Linux pipes work under the hood](https://brandonwamboldt.ca/how-linux-pipes-work-under-the-hood-1518/)
-- [Mysql objects 개념 정리 for 개발자](https://stricky.tistory.com/m/315)
-- [인텔리제이 기반 github code review](https://cheese10yun.github.io/intellij-code-review/)
-- [Recoil 레시피: 소개, 기본 개념, 몇 가지 API 둘러보기](https://taegon.kim/archives/10105)
-- [내가 실전에서 사용하는 자료구조와 알고리즘 목록](https://news.hada.io/topic?id=2467)
-- [MongoDB Index 설계 전략](https://blog.ull.im/engineering/2019/04/05/mongodb-indexing-strategy.html)
-- [Jackson 직렬화 옵션의 적절한 활용과 Jackson에 기여하기까지](https://hyperconnect.github.io/2019/10/28/jackson-serialize-for-global-caching.html)
-- [The process: Making Vue3 [번역]](https://perade.github.io/blog/the-process-making-vue3/)
-- [윈도우 DNS 서버에 영향을 미치는 치명적인 RCE 취약점 발견 -](https://blog.alyac.co.kr/3130)
-- [자바스크립트 프라미스: 소개](https://developers.google.com/web/fundamentals/primers/promises?hl=ko)
-
 
 --------------------------------------
 </br>

@@ -67,6 +67,7 @@
 - [JVM Architecture 란?](https://yeon-kr.tistory.com/112)
 - [Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/114)
 - [자바 - OOM 메모리 릭 찾기 이론편](https://blog.naver.com/PostView.nhn?blogId=2feelus&logNo=220765728530)
+- [Jackson 직렬화 옵션의 적절한 활용과 Jackson에 기여하기까지](https://hyperconnect.github.io/2019/10/28/jackson-serialize-for-global-caching.html)
 
 
 ### Kotlin

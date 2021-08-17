@@ -27,6 +27,7 @@
 
 
 ### Javascript 관련
+- [JavaScript Promises: an introduction](https://developers.google.com/web/fundamentals/primers/promises?hl=ko)
 - [Javascript 배열의 특징 (shift, unshift의 효율성에 대한 제고)](https://woomin.netlify.app/Posts/2020-06-15-shift-unshift/)
 - [Lodash의 대체재로서의 순수 자바스크립트 함수 [번역]](https://ui.toast.com/weekly-pick/ko_20190515/)
 - [2016년에 자바스크립트를 배우는 기분 [번역]](http://www.looah.com/article/view/2054)
@@ -164,6 +165,7 @@
 
 
 ### Vue.js
+- [The process: Making Vue3 [번역]](https://perade.github.io/blog/the-process-making-vue3/)
 - [React 와 Vue로 똑같은 앱 만들고 비교 [번역]](http://bit.ly/2NugsFq)
 - [왜 43%의 프론트엔드 개발자들은 Vue.js를 배우고 싶어하나? [번역]](http://bit.ly/2pI9vap)
 - [Vue.js 기준으로 다른 웹 프레임워크를 비교한 글](http://forwe.tistory.com/1)
