@@ -2,6 +2,8 @@
 
 ### 서버 & 클라우드 & 아키텍쳐
 - [Netty를 이용한 채팅 서버 구축 경험기](https://woowabros.github.io/experience/2020/06/19/chat-app.html)
+- [서버에 걸리는 부하, 추측하지 말고 계측하자](https://injae-kim.github.io/dev/2020/07/09/how-to-check-single-server-load-average.html)  
+- [MVVM 아키텍처 패턴](https://gyuwon.github.io/blog/2017/03/05/mvvm-architectural-pattern.html)  
 - [Opening Mail Server 26시간 삽질기](https://blog.0chan.dev/2020-06-16-Opening-Mail-Server/)
 - [넷플릭스가 AWS로 이전한 과정](http://bit.ly/2PlJZmo)
 - [Serverless와 기술도입, Backend Application의 미래](http://bit.ly/2A0SmPh)
@@ -239,6 +241,7 @@
 --------------------------------------
 
 ### 데이터베이스 & SQL
+- [엘라스틱서치 인덱스와 샤드 분할](https://danawalab.github.io/elastic/2020/07/21/Elasticsearch-Index-Shard-How.html)
 - [MongoDB Index 설계 전략](https://blog.ull.im/engineering/2019/04/05/mongodb-indexing-strategy.html)
 - [쿼리 최적화: 빠른 쿼리를 위한 7가지 체크리스트](https://medium.com/watcha/%EC%BF%BC%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B2%AB%EA%B1%B8%EC%9D%8C-%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EC%BF%BC%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-7%EA%B0%80%EC%A7%80-%EC%B2%B4%ED%81%AC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-bafec9d2c073)
 - [DB분산처리를 위한 sharding](https://woowabros.github.io/experience/2020/07/06/db-sharding.html)

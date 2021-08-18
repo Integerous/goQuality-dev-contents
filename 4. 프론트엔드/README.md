@@ -27,6 +27,7 @@
 
 
 ### Javascript 관련
+- [Google JavaScript Technical Interview (Callbacks, Promises, Await/Async)](https://medium.com/developers-tomorrow/google-javascript-technical-interview-7a20accd6ddf)
 - [JavaScript Promises: an introduction](https://developers.google.com/web/fundamentals/primers/promises?hl=ko)
 - [Javascript 배열의 특징 (shift, unshift의 효율성에 대한 제고)](https://woomin.netlify.app/Posts/2020-06-15-shift-unshift/)
 - [Lodash의 대체재로서의 순수 자바스크립트 함수 [번역]](https://ui.toast.com/weekly-pick/ko_20190515/)
@@ -118,6 +119,7 @@
 - [ECMAScript 2020의 새로운 점](https://ui.toast.com/weekly-pick/ko_20200409)
 - [await 의 함정, 숨은 병목을 찾자](https://jaeheon.kr/161)
 - [Data Structure For JavaScript](https://hg-pyun.github.io/data-structure-for-javascript/)
+- [코드스피츠 88 - async await #1/2](https://www.youtube.com/watch?v=H_Hb9IF7sfc&feature=youtu.be)
 
 
 ### Node.js & Deno

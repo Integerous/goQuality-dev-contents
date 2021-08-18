@@ -701,16 +701,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [육군훈련소 실시간 검색어 뉴스 전송 봇 개발후기](https://medium.com/@minukang/%EC%9C%A1%EA%B5%B0%ED%9B%88%EB%A0%A8%EC%86%8C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EA%B2%80%EC%83%89%EC%96%B4-%EB%89%B4%EC%8A%A4-%EC%A0%84%EC%86%A1-%EB%B4%87-%EA%B0%9C%EB%B0%9C%ED%9B%84%EA%B8%B0-f0c178a4e4dc)
 - [DOM(Document Object Model)](https://medium.com/@euncho/dom-101-ed14cff6e2ce)
 - [Docker, NodeJS, Nginx! 너로 정했다!](http://labs.brandi.co.kr/2018/05/25/kangww.html)
-- [라인의 전정은 님이 말하는 테크니컬 라이팅의 모든 것 [영상]](https://www.youtube.com/watch?v=kEwdl2B1SQc&feature=youtu.be)
-- [퀵 정렬](https://johngrib.github.io/wiki/quick-sort/)
-- [구글 자바스크립트 기술면접 질문](https://medium.com/developers-tomorrow/google-javascript-technical-interview-7a20accd6ddf)
-- [Mysql FEDERATED Engine 으로 dblink 구현하기](https://stricky.tistory.com/325)
-- [알고리즘 비주얼라이져](https://algorithm-visualizer.org)
-- [서버에 걸리는 부하, 추측하지 말고 계측하자](https://injae-kim.github.io/dev/2020/07/09/how-to-check-single-server-load-average.html)
-- [GitHub 오픈소스 북극 저장소 방문기](https://tykimos.github.io/2020/07/22/Github_Seed_Vault)
-- [코드스피츠 88 - async await #1/2](https://www.youtube.com/watch?v=H_Hb9IF7sfc&feature=youtu.be)
-- [MVVM 아키텍처 패턴](https://gyuwon.github.io/blog/2017/03/05/mvvm-architectural-pattern.html)
-- [엘라스틱서치 인덱스와 샤드 분할](https://danawalab.github.io/elastic/2020/07/21/Elasticsearch-Index-Shard-How.html)
+
 
 --------------------------------------
 </br>

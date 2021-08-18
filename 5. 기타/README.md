@@ -176,17 +176,19 @@
 --------------------------------------
 
 ### 알고리즘 & 자료구조
-- [영상을 통한 자료구조와 알고리즘의 시각화 [번역]](http://bit.ly/2yvC9Q9)
-- [알고리즘 & 자료구조 온라인 사전 [영문]](http://bit.ly/2q9WiaN)
-- [코딩 인터뷰를 깨부술 10가지 자료구조/알고리즘 강의 [영문]](http://bit.ly/2SzcYVW)
+- [알고리즘 비주얼라이져](https://algorithm-visualizer.org)
+- [영상을 통한 자료구조와 알고리즘의 시각화 [번역]](https://visualgo.net/ko)
+- [알고리즘 & 자료구조 온라인 사전 [영문]](https://xlinux.nist.gov/dads/#L)
+- [코딩 인터뷰를 깨부술 10가지 자료구조/알고리즘 강의 [영문]](https://hackernoon.com/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
 - [Behavior Tree 개념 살펴보기](https://engineering.linecorp.com/ko/blog/behavior-tree/)
-- [알고리즘 학습에 대한 조언 [번역]](http://blog.weirdx.io/post/55358?fbclid=IwAR0Y8oCmcFoTHZrMwVSwFWHsQBGuhJkje89pDENK2c0g5BuhwGKLPtc5ylQ)
+- [알고리즘 학습에 대한 조언 [번역]](http://blog.weirdx.io/post/55358)
 - [정렬 알고리즘 간단 정리](https://link.medium.com/SdPjEJaHvT)
 - [알고리즘 기반별 정리](https://brunch.co.kr/@toughrogrammer/13)
 - [Red-Black Tree](https://zeddios.tistory.com/237)
 - [프로그래밍 언어에서 제공하는 기본 정렬 함수가 사용하는 알고리즘](https://www.geeksforgeeks.org/know-sorting-algorithm-set-1-sorting-weapons-used-programming-languages/)
 - [알고리즘이 필요한 '진짜' 이유에 대해서](https://brunch.co.kr/@chickenmoim/4)
 - [KMP : 문자열 검색 알고리즘](https://bowbowbow.tistory.com/6)
+- [퀵 정렬](https://johngrib.github.io/wiki/quick-sort/)
 
 --------------------------------------
 
@@ -394,3 +396,4 @@
 - [구글 시트에 뉴스 정리하는 법](https://brunch.co.kr/@sijin90/52)
 - [개발자가 가지고 놀 만한 ‘똑똑한 API 17종’](http://www.ciokorea.com/news/149532)
 - [Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html)
+- [라인의 전정은 님이 말하는 테크니컬 라이팅의 모든 것 [영상]](https://www.youtube.com/watch?v=kEwdl2B1SQc&feature=youtu.be)
