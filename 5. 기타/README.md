@@ -74,6 +74,7 @@
 
 ### 웹 관련
 - [HTTP 상태코드 다이어그램](https://github.com/for-GET/http-decision-diagram)
+- [시니어 프론트 개발자처럼 크롬 개발자도구 이용해보기 [영문]](https://medium.com/javascript-in-plain-english/use-chrome-devtools-like-a-senior-frontend-developer-99a4740674)  
 - [HTML5 폼 검증에 대해 정리해 보자](https://jeonghwan-kim.github.io/dev/2020/06/08/html5-form-validation.html)
 - [CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/)
 - [JWT(JSON Web Token)을 이용한 API 인증 [시리즈]](https://bcho.tistory.com/999)
@@ -193,6 +194,7 @@
 --------------------------------------
 
 ### 머신러닝 & 딥러닝 & AI
+- [TextRank 를 이용한 키워드 추출과 핵심 문장 추출 (구현과 실험)](https://lovit.github.io/nlp/2019/04/30/textrank/)
 - [클린봇 2.0: 문맥을 이해하는 악성 댓글(단문) 탐지 AI](https://d2.naver.com/helloworld/7753273)
 - [머신러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)
 - [딥러닝 서적 및 강좌 추천](https://www.slideshare.net/mobile/seonghunchoe7/ss-83893606)
@@ -270,6 +272,7 @@
 --------------------------------------
 
 ### 기타
+- [육군훈련소 실시간 검색어 뉴스 전송 봇 개발후기](https://medium.com/@minukang/%EC%9C%A1%EA%B5%B0%ED%9B%88%EB%A0%A8%EC%86%8C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EA%B2%80%EC%83%89%EC%96%B4-%EB%89%B4%EC%8A%A4-%EC%A0%84%EC%86%A1-%EB%B4%87-%EA%B0%9C%EB%B0%9C%ED%9B%84%EA%B8%B0-f0c178a4e4dc)
 - [라인의 '앤트맨', 미디어 압축의 슈퍼히어로 백준식 님 [영상]](https://www.youtube.com/watch?v=uBzqKyL8ft8&feature=youtu.be)
 - [주석 분석기를 이용한 간단한 API 문서화 방법](https://engineering.linecorp.com/ko/blog/comments-parsing-api-documentation/)
 - [Email 보안 강화 기능 소개(SPF](https://meetup.toast.com/posts/244)  

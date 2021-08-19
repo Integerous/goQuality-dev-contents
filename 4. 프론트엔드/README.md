@@ -27,6 +27,8 @@
 
 
 ### Javascript 관련
+- [DOM 101 — Nodes & Events](https://medium.com/@euncho/dom-101-ed14cff6e2ce)
+- [깊은 복사와 얕은 복사에 대한 심도있는 이야기](https://medium.com/watcha/%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8B%AC%EB%8F%84%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-2f7d797e008a)  
 - [Google JavaScript Technical Interview (Callbacks, Promises, Await/Async)](https://medium.com/developers-tomorrow/google-javascript-technical-interview-7a20accd6ddf)
 - [JavaScript Promises: an introduction](https://developers.google.com/web/fundamentals/primers/promises?hl=ko)
 - [Javascript 배열의 특징 (shift, unshift의 효율성에 대한 제고)](https://woomin.netlify.app/Posts/2020-06-15-shift-unshift/)
@@ -123,6 +125,7 @@
 
 
 ### Node.js & Deno
+- [deno 첫 외주 후기](https://kdy1.github.io/post/works/freelance/deno/first-freelance-work/)
 - [모바일 줌 SpringBoot → NodeJS 전환기 (feat. VueJS SSR)](https://zuminternet.github.io/ZUM-Mobile-NodeJS/)
 - [Node 제작자가 만든 Deno : 자바스크립트의 새로운 접근](https://blog.ull.im/engineering/2019/04/14/deno-ryan-dahl-2019-04-04.html)
 - [Deno는 무엇이며, Node.js를 대체할 것인가](https://link.medium.com/ASCND0FFu6)
