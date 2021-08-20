@@ -194,6 +194,7 @@
 --------------------------------------
 
 ### 머신러닝 & 딥러닝 & AI
+- [GPT-3, 인류 역사상 가장 뛰어난 언어 AI](https://blog.pingpong.us/gpt3-review/)
 - [TextRank 를 이용한 키워드 추출과 핵심 문장 추출 (구현과 실험)](https://lovit.github.io/nlp/2019/04/30/textrank/)
 - [클린봇 2.0: 문맥을 이해하는 악성 댓글(단문) 탐지 AI](https://d2.naver.com/helloworld/7753273)
 - [머신러닝은 즐겁다! Part1 [번역]](https://link.medium.com/sdNF8wmLxR)

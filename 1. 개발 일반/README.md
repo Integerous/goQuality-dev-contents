@@ -102,6 +102,7 @@
 - [크몽 FE 팀 코드리뷰문화 개선기(1+1=3)](https://brunch.co.kr/@kmongdev/20)
 - [객체지향 디자인패턴 1 [영상]](https://www.youtube.com/watch?v=lJES5TQTTWE)
 - [그런 개발자로 괜찮은가 - '문화' 편](https://taetaetae.github.io/2020/06/21/a-good-developer-in-terms-of-culture/)
+- [개발자 Code Review 가이드](https://wnsgml972.github.io/devops/2020/05/17/CodeReview1/)
 
 --------------------------------------
 
@@ -153,6 +154,7 @@
 --------------------------------------
 
 ### 개발자 성장
+- [능력있는 개발자는 어떻게 알아볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
 - [그 때 성장이라고 생각했던 것들](https://jbee.io/essay/growth-mistaken-2020/)
 - [나의 성장을 도와준 고마운 책들](https://johngrib.github.io/wiki/my-favorite-books/)
 - [웹 개발자 로드맵 [번역]](https://github.com/devJang/developer-roadmap/blob/master/README.md)
@@ -282,6 +284,7 @@
 - [소주 1병 조지고 쓴 1년차 개발자의 아찔했던 순간들](https://jay-ji.tistory.com/m/42)
 - [주니어 개발자가 공부하는 법](https://medium.com/@a01058406602/%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-677b58e4111d)
 - [정산지기를 향한 첫걸음 (feat. 파일럿 프로젝트)](https://woowabros.github.io/experience/2020/03/02/pilot-project-wbluke.html)
+- [제품을 파는 엔지니어(솔루션 엔지니어)가 되어보니](https://brunch.co.kr/@imagineer/328)
 
 
 --------------------------------------
@@ -325,6 +328,7 @@
 
 ### 취업 & 이직 & 면접 & 코딩테스트
 - [이직 기록 0.Intro](https://jbee.io/career/2020-turnover-0/)
+- [구글 신입 엔지니어 인터뷰 준비 후기](https://jeinalog.tistory.com/30)  
 - [프론트엔드 개발자 면접 정리](https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC)
 - [웹개발(JAVA,JSP,Spring) 관련 예상 면접 질문](https://rongscodinghistory.tistory.com/44)
 - [넥슨 면접에서 듣게 되는 질문 63가지(2018년 ver.)](http://www.bloter.net/archives/321808)

@@ -681,16 +681,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [Golang News](https://github.com/golangkorea/golang-news)
 - [JPA exists 쿼리 성능 개선](https://jojoldu.tistory.com/516)
 - [실시간 댓글 아키텍처](https://tech.kakao.com/2020/06/08/websocket-part1/)
-- [개발자 Code Review 가이드](https://wnsgml972.github.io/devops/2020/05/17/CodeReview1/)
-- [MySQL SQL 독학 강의](https://stricky.tistory.com/333)
-- [개선된 페이지 스택으로 LINE 증권의 웹 페이지 전환 처리하기](https://engineering.linecorp.com/ko/blog/line-securities-frontend-2/)
-- [제품을 파는 엔지니어(솔루션 엔지니어)가 되어보니](https://brunch.co.kr/@imagineer/328)
-- [개발자의 실력에 관해서](https://www.facebook.com/groups/codingeverybody/permalink/1501967613177103)
-- [GPT-3, 인류 역사상 가장 뛰어난 언어 AI](https://blog.pingpong.us/gpt3-review/)
-- [구글 신입 엔지니어 인터뷰 준비 후기](https://jeinalog.tistory.com/m/30)
-- [awesome-gpt3](https://github.com/elyase/awesome-gpt3)
-- [글로벌 네트워크 에뮬레이터 prism_pacman 소개](https://d2.naver.com/helloworld/7847943)
-- [JPQL 정리](https://joont92.github.io/jpa/JPQL/)
 
 
 --------------------------------------
