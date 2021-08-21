@@ -1,6 +1,7 @@
 # 3. 백엔드
 
 ### 서버 & 클라우드 & 아키텍쳐
+- [실시간 댓글 개발기(part.1)](https://tech.kakao.com/2020/06/08/websocket-part1/)
 - [Netty를 이용한 채팅 서버 구축 경험기](https://woowabros.github.io/experience/2020/06/19/chat-app.html)
 - [서버에 걸리는 부하, 추측하지 말고 계측하자](https://injae-kim.github.io/dev/2020/07/09/how-to-check-single-server-load-average.html)  
 - [MVVM 아키텍처 패턴](https://gyuwon.github.io/blog/2017/03/05/mvvm-architectural-pattern.html)  

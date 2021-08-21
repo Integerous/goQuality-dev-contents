@@ -202,6 +202,7 @@
 --------------------------------------
 
 ### Python
+- [파이썬 초보에서 중수가 되기 위한 9가지 스킬 [번역]](https://lazymatlab.tistory.com/92?category=827585)
 - [알고리즘 시각화 라이브러리 ipytracer 개발기](http://bit.ly/2P8drPV)
 - [장고 ORM 요리책 [번역]](http://bit.ly/2P6bUKg)
 - [PEP 8 파이썬 코드 스타일 가이드 번역 및 요약](http://bit.ly/2z10GMW)

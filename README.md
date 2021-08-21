@@ -671,16 +671,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [Introducing Domain-Oriented Microservice Architecture [영문]](https://eng.uber.com/microservice-architecture/)
 - [팀 버너스리가 HTTP 프로토콜을 만든 이유](https://thinker94.com/ko/posts/bernerslee_first_http_translate/)
 - [10개의 멋진 깃헙 profile READMEs [영문]](https://dev.to/github/10-standout-github-profile-readmes-h2o)
-- [흔들리는 도커의 위상](https://post.naver.com/viewer/postView.nhn?volumeNo=28882881)
-- [RESTful API 설계 가이드 -](https://sanghaklee.tistory.com/m/57)
-- [파이썬 초보에서 중수가 되기 위한 9가지 스킬 [번역]](https://lazymatlab.tistory.com/m/92?category=827585)
-- [MySQL 기본 select SQL 예제](https://stricky.tistory.com/328)
-- [급성장하는 1등 스타트업들은 왜 루비온레일즈를 쓸까](https://brunch.co.kr/@jamess/44)
-- [MySQL에 데이터 암호화 하여 insert, 복호화 하여 select 하는 예제](https://stricky.tistory.com/330)
-- [개발자를 위한 윈도우 셋업](https://nomadcoders.co/windows-setup-for-developers/)
-- [Golang News](https://github.com/golangkorea/golang-news)
-- [JPA exists 쿼리 성능 개선](https://jojoldu.tistory.com/516)
-- [실시간 댓글 아키텍처](https://tech.kakao.com/2020/06/08/websocket-part1/)
 
 
 --------------------------------------

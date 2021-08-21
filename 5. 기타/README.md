@@ -273,6 +273,8 @@
 --------------------------------------
 
 ### 기타
+- [급성장하는 1등 스타트업들은 왜 루비온레일즈를 쓸까](https://brunch.co.kr/@jamess/44)
+- [개발자를 위한 윈도우 셋업](https://nomadcoders.co/windows-setup-for-developers/)
 - [육군훈련소 실시간 검색어 뉴스 전송 봇 개발후기](https://medium.com/@minukang/%EC%9C%A1%EA%B5%B0%ED%9B%88%EB%A0%A8%EC%86%8C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EA%B2%80%EC%83%89%EC%96%B4-%EB%89%B4%EC%8A%A4-%EC%A0%84%EC%86%A1-%EB%B4%87-%EA%B0%9C%EB%B0%9C%ED%9B%84%EA%B8%B0-f0c178a4e4dc)
 - [라인의 '앤트맨', 미디어 압축의 슈퍼히어로 백준식 님 [영상]](https://www.youtube.com/watch?v=uBzqKyL8ft8&feature=youtu.be)
 - [주석 분석기를 이용한 간단한 API 문서화 방법](https://engineering.linecorp.com/ko/blog/comments-parsing-api-documentation/)
