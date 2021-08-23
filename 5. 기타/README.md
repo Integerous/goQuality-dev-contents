@@ -67,6 +67,7 @@
 - [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 - [GitHub 환경에서의 실전 Git 레시피](https://meetup.toast.com/posts/116)
 - [Git Flow와 자주 사용되는 Git 명령어들](https://www.holaxprogramming.com/2018/11/01/git-commands/)
+- [10개의 멋진 깃헙 profile READMEs [영문]](https://dev.to/github/10-standout-github-profile-readmes-h2o)
 
 
 --------------------------------------

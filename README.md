@@ -661,16 +661,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [Audio알못에서 VCC2020참가까지 (카카오엔터프라이즈 인턴 후기)](https://subinium.github.io/kep-vcc2020-review/)
 - [개발자 비급(祕笈) – 4. 팀장이 아니지만 괜찮아](http://channy.creation.net/blog/1399)
 - [기술 문서 작성 5단계](https://tech.kakaoenterprise.com/65)
-- [OpenJDK: In the new age of Concurrent Garbage Collectors, by Monica Beckwith (2020) [영상]](https://youtu.be/kR8_r3kMK-Y)
-- [컴포넌트, 제대로 만들어 쉽게 쓰자! (1탄) 쏘카 디자이너와 개발자가 컴포넌트를 만드는 방식](https://tech.socarcorp.kr/design/2020/07/31/component-01.html)
-- [AWS EMR과 Airflow를 이용한 Batch Data Processing](https://medium.com/class101-dev/aws-emr%EA%B3%BC-airflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-batch-data-processing-a100fc2f4f10)
-- [Go와 함께하는 전화망 서비스 구축 1편](https://d2.naver.com/helloworld/5827706)
-- [Java NIO FileChannel 과 DirectByteBuffer](http://homoefficio.github.io/2020/08/10/Java-NIO-FileChannel-%EA%B3%BC-DirectByteBuffer)
-- [2020년 2분기 회고](https://junilhwang.github.io/TIL/Review/2020-year/02-Second-Quarter/)
-- [통신할 때 꼭 지켜야 하는 약속, 프로토콜 [영상]](https://youtu.be/nYmixrYkMag)
-- [Introducing Domain-Oriented Microservice Architecture [영문]](https://eng.uber.com/microservice-architecture/)
-- [팀 버너스리가 HTTP 프로토콜을 만든 이유](https://thinker94.com/ko/posts/bernerslee_first_http_translate/)
-- [10개의 멋진 깃헙 profile READMEs [영문]](https://dev.to/github/10-standout-github-profile-readmes-h2o)
 
 
 --------------------------------------
