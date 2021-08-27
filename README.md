@@ -663,16 +663,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [플랫폼 개발자의 커머스 서비스 개발기](https://m.blog.naver.com/PostView.nhn?blogId=naver_diary&logNo=222059276316&proxyReferer=)
 - [Apache 재단에 700만원을 후원하면 생기는 일](https://xguru.net/2099)
 - [아마존 머신러닝 대학의 온라인 코스 무료 공개](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
-- [Spring Batch ItemWriter 성능 비교](https://jojoldu.tistory.com/507)
-- [드로이드나이츠는 기술 세션으로 개발자들의 경험을 공유하는 안드로이드 컨퍼런스 입니다.](https://droidknights.github.io/2020/)
-- [I want go home 저장소에서 프로젝트 기여를 연습하며 느낀점과 프로젝트 소개입니다](https://kinetic27.github.io/2020/08/18/i-want-go-home/)
-- [2021 년 최고의 JavaScript 프레임 워크는 무엇입니까?](https://medium.com/better-programming/what-will-be-the-best-javascript-framework-in-2021-da4582268419)
-- [2020년 상반기 회고 1편: 코드스쿼드 마스터즈 코스](https://brunch.co.kr/@jypthemiracle/19)
-- [Banksalad Product Language를 소개합니다](https://blog.banksalad.com/tech/banksalad-product-language-ios/)
-- [동일한 Bean(Class)에서 @Transactional 동작 방식](https://cheese10yun.github.io/spring-transacion-same-bean/)
-- [Audio알못에서 VCC2020참가까지 (카카오엔터프라이즈 인턴 후기)](https://subinium.github.io/kep-vcc2020-review/)
-- [개발자 비급(祕笈) – 4. 팀장이 아니지만 괜찮아](http://channy.creation.net/blog/1399)
-- [기술 문서 작성 5단계](https://tech.kakaoenterprise.com/65)
 
 
 --------------------------------------
