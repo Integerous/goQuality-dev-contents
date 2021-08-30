@@ -662,16 +662,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [HTTP/2 업로드 속도 향상기](https://blog.cloudflare.com/ko/delivering-http-2-upload-speed-improvements-ko/)
 - [캐시 성능 향상기 (Improving Cache Speed at Scale)](https://meetup.toast.com/posts/251)
 - [MySQL 파티션 개요](https://12bme.tistory.com/48)
-- [Spring Data에서 Batch Insert 최적화](https://homoefficio.github.io/2020/01/25/Spring-Data에서-Batch-Insert-최적화/)
-- [10년간 슈퍼셀을 경영하며 배운 10가지 교훈 [번역]](http://masterfarseer.blogspot.com/2020/08/10-10.html)
-- [DUCKDUCKGO TIPS & TRICKS](https://news.hada.io/topic?id=2684)
-- [2020년 상반기 설리번 프로젝트를 회고하며 (상)](https://abit.ly/sullivan-2020-1-retrospective)
-- [Transaction Isolation Level 정리](https://velog.io/@lsb156/Transaction-Isolation-Level)
-- [Spring Cloud Gateway 정리](https://cheese10yun.github.io/spring-cloud-gateway/)
-- [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기](https://blog.banksalad.com/tech/url-status-checker)
-- [플랫폼 개발자의 커머스 서비스 개발기](https://m.blog.naver.com/PostView.nhn?blogId=naver_diary&logNo=222059276316&proxyReferer=)
-- [Apache 재단에 700만원을 후원하면 생기는 일](https://xguru.net/2099)
-- [아마존 머신러닝 대학의 온라인 코스 무료 공개](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 
 
 --------------------------------------

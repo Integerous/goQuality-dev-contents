@@ -103,6 +103,7 @@
 - [객체지향 디자인패턴 1 [영상]](https://www.youtube.com/watch?v=lJES5TQTTWE)
 - [그런 개발자로 괜찮은가 - '문화' 편](https://taetaetae.github.io/2020/06/21/a-good-developer-in-terms-of-culture/)
 - [개발자 Code Review 가이드](https://wnsgml972.github.io/devops/2020/05/17/CodeReview1/)
+- [10년간 슈퍼셀을 경영하며 배운 10가지 교훈 [번역]](http://masterfarseer.blogspot.com/2020/08/10-10.html)
 
 --------------------------------------
 

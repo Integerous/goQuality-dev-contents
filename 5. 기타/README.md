@@ -74,6 +74,8 @@
 
 
 ### 웹 관련
+- [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기](https://blog.banksalad.com/tech/url-status-checker)
+- [Apache 재단에 700만원을 후원하면 생기는 일](https://xguru.net/2099)
 - [HTTP 상태코드 다이어그램](https://github.com/for-GET/http-decision-diagram)
 - [시니어 프론트 개발자처럼 크롬 개발자도구 이용해보기 [영문]](https://medium.com/javascript-in-plain-english/use-chrome-devtools-like-a-senior-frontend-developer-99a4740674)  
 - [HTML5 폼 검증에 대해 정리해 보자](https://jeonghwan-kim.github.io/dev/2020/06/08/html5-form-validation.html)
@@ -223,6 +225,7 @@
 - [인공지능 개발자를 위한 코세라 강의 베스트19](https://brunch.co.kr/@synabreu/68)
 - [딥러닝 웹서비스 개발 도전기](https://medium.com/@inerplat/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-e9ca38d53c1b)
 - [프리랜서 AI 엔지니어 1주년 회고 [번역]](https://huffon.github.io/2020/05/10/ai-freelancer/)
+- [아마존 머신러닝 대학의 온라인 코스 무료 공개](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 
 
 ### 데이터 사이언스 & 데이터 엔지니어링
@@ -405,3 +408,4 @@
 - [개발자가 가지고 놀 만한 ‘똑똑한 API 17종’](http://www.ciokorea.com/news/149532)
 - [Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html)
 - [라인의 전정은 님이 말하는 테크니컬 라이팅의 모든 것 [영상]](https://www.youtube.com/watch?v=kEwdl2B1SQc&feature=youtu.be)
+- [Transaction Isolation Level 정리](https://velog.io/@lsb156/Transaction-Isolation-Level)
