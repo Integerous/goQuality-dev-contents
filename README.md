@@ -350,7 +350,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [Kotlin Koans](https://play.kotlinlang.org/koans/)
 - [Spring Batch Test 작성 방법 및 고찰](https://cheese10yun.github.io/spring-batch-test-2/)
 - [서버 사이드 테스트 자동화 여정 – 1. 테스트 자동화를 시작한 계기와 그 첫 발걸음](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-1/)
-- [아파치 카프카 레퍼런스 한글 번역](https://godekdls.github.io/Apache%20Kafka/design/)
 - [개발자가 필히 알아야 할 ES6 10가지 기능](https://blog.asamaru.net/2017/08/14/top-10-es6-features/)
 - [2020년 회고 - 신입으로서 배운 것들](https://velog.io/@litien/%EC%97%B0%EA%B0%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-2020%EB%85%84-%ED%9A%8C%EA%B3%A0-1%EB%85%84%EC%B0%A8-%EB%B3%91%EC%95%84%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90)
 - [GPG(GNU PG)를 이용해 git 커밋에 서명하는 방법](https://www.44bits.io/ko/post/add-signing-key-to-git-commit-by-gpg)
@@ -652,16 +651,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [데이터 사이언티스트 인턴 9개월 후기](https://tech.socarcorp.kr/data/2020/08/19/socar-data-group-intern-review.html)
 - [웹 개발의 A-Z 대하여](https://dev.to/desoga/the-a-z-of-web-development-5ge6)
 - [지킬 기반의 블로그를 개츠비로 옮기고 나서 달라진 점 [영상]](https://www.youtube.com/watch?v=bFTvPyryYkY&feature=youtu.be)
-- [Adding Amazing Transitions to Your Android App Easily Using Material Motion](https://medium.com/swlh/adding-amazing-transitions-to-your-android-app-easily-using-material-motion-f0cd92463b39)
-- [우아한 타입스크립트 [슬라이드]](https://slides.com/woongjae/woowahan-ts)
-- [TypeScript 4.0 릴리즈 노트 [번역]](https://han41858.tistory.com/52)
-- [리눅스를 쓰는 이유, 내 컴퓨터에서 쉽게 사용하기, 리눅스의 기본적인 사용법을 쉽게 설명하는 영상입니다.](https://youtu.be/tPWBF13JIVk)
-- [링크드인이 카프카를 직접 개발한 이유](https://techit.kr/view/?no=20200815134042)
-- [데이터독이란?](https://www.44bits.io/ko/keyword/datadog)
-- [서버가 API를 뭐..? 개발자의 외계어 쉽게 이해하기](https://brunch.co.kr/@businessinsight/65)
-- [HTTP/2 업로드 속도 향상기](https://blog.cloudflare.com/ko/delivering-http-2-upload-speed-improvements-ko/)
-- [캐시 성능 향상기 (Improving Cache Speed at Scale)](https://meetup.toast.com/posts/251)
-- [MySQL 파티션 개요](https://12bme.tistory.com/48)
 
 
 --------------------------------------

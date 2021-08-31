@@ -151,6 +151,7 @@
 - [필요한 내용만 추려서 DDD 당장 써먹기](https://www.popit.kr/%ED%95%84%EC%9A%94%ED%95%9C-%EB%82%B4%EC%9A%A9%EB%A7%8C-%EC%B6%94%EB%A0%A4%EC%84%9C-ddd-%EB%8B%B9%EC%9E%A5-%EC%8D%A8%EB%A8%B9%EA%B8%B0/)
 - [DDD (Domain-Driven-Design) 정복기 1탄 [슬라이드]](https://www.slideshare.net/SuhyeonJo1/domaindrivendesign-1-108176535)
 - [DDD Lite@Spring [영상]](https://youtu.be/TdyOH1xZpT8)
+- [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
 
 --------------------------------------
 

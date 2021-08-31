@@ -44,13 +44,11 @@
 - [바람직한 멀티스레딩 구조 [영상]](https://www.youtube.com/watch?v=M1e9nmmD3II)
 - [실시간 서비스 개발 후기](http://woowabros.github.io/woowabros/2017/09/12/realtime-service.html)
 - [대규모 분산 스토리지(Kage)의 발전 과정](http://tech.kakao.com/2017/01/12/kage/)
-- [Kafka 운영자가 말하는 처음 접하는 Kafka](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/)
 - [AWS 장애를 바라보며. 클라우드에 대한 단상](https://himskim.wordpress.com/2018/11/23/aws-%ec%9e%a5%ec%95%a0%eb%a5%bc-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%a9%b0-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%eb%8c%80%ed%95%9c-%eb%8b%a8%ec%83%81/)
 - [Elastic Stack과 Lambda를 활용한 데이터 모니터링 시스템 구축](https://d2.naver.com/helloworld/9878588)
 - ['아마존 웹 서비스를 다루는 기술' 원고 공개](http://pyrasis.com/book/TheArtOfAmazonWebServices)
 - [야놀자 워크로그 개발기](https://yanolja.github.io/2018/09/Work-Log)
 - [빅데이터 프레임워크를 활용한 데이터 인프라 구축](http://blog.dramancompany.com/2017/08/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95/)
-- [Redis in Action [영문]](https://redislabs.com/community/ebook)
 - [대규모 서비스를 설계하는 기술 -중급(일반편) [슬라이드]](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance)
 - [AWS가 re:invent 2018에서 쏟아낸 새 서비스 TOP 10](https://byline.network/2018/12/3-26/amp/)
 - [커머스 혹은 유통 도메인 설계에 대한 연작 1편](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%98%B9%EC%9D%80-%EC%9C%A0%ED%86%B5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%A4%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%97%B0%EC%9E%91/)
@@ -76,7 +74,6 @@
 - [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/?fbclid=IwAR3YN8bHy5pSF1TDcQC8d1E2bE7_LXpAcDIQ_De4Npblr35Tx7BoDV4iOvU)
 - [웹서버, WAS 개념 정리](https://brunch.co.kr/@springboot/21)
 - [아마존 엘라스틱 컨테이너 서비스(ECS) 입문](https://www.44bits.io/ko/post/container-orchestration-101-with-docker-and-aws-elastic-container-service)
-- [IDC에서 AWS로 Redis 데이터 이전하기](https://mingrammer.com/redis-migration/)
 - [배민라이더스 배달 경로와 거리 계산 개발과정](http://woowabros.github.io/experience/2019/02/07/real-distance-finder.html)
 - [Amazon RDS 활용 시, 데이터베이스 관리자 (DBA)의 역할 변화](https://aws.amazon.com/ko/blogs/korea/part-1-role-of-the-dba-when-moving-to-amazon-rds-responsibilities/)
 - [누구나 할 수 있는 엑세스 로그 분석 따라해보기 (by Elastic Stack)](https://taetaetae.github.io/2019/02/10/access-log-to-elastic-stack/)
@@ -94,8 +91,6 @@
 - [신입 개발자가 스타트업에서 AWS로 살아남는 이야기 - 조용진(모두의 캠퍼스)](https://youtu.be/r6TFnNQsQLY)
 - [대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/mobile/charsyam2/massive-service-basic)
 - [대규모 서비스를 지탱하는 기술 - 중급편](https://www.slideshare.net/mobile/charsyam2/how-to-build-massive-service-for-advance)
-- [Jedis 보다 Lettuce를 쓰자](https://jojoldu.tistory.com/418)
-- [레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/)
 - [AWS로 사용자 천만 명 서비스 만들기 [슬라이드]](https://www.slideshare.net/awskorea/ct-2015-your-10million-users-on-aws-channy)
 - [시스템 디자인 학습 저장소 [영문]](https://github.com/donnemartin/system-design-primer)
 - [서버비용을 70%나 줄인 온디맨드 리사이징 이야기 by VCNC](https://www.theteams.kr/teams/2739/post/68195)
@@ -116,7 +111,6 @@
 - [스파게티 조인을 피하고 경계안에서 캐시 구현하기](https://www.popit.kr/%ec%8a%a4%ed%8c%8c%ea%b2%8c%ed%8b%b0-%ec%a1%b0%ec%9d%b8%ec%9d%84-%ed%94%bc%ed%95%98%ea%b3%a0-%ea%b2%bd%ea%b3%84%ec%95%88%ec%97%90%ec%84%9c-%ec%ba%90%ec%8b%9c-%ea%b5%ac%ed%98%84%ed%95%98%ea%b8%b0/)
 - [웹서버 부하테스트 실전 노하우 [슬라이드]](https://www.slideshare.net/IMQAGroup/ss-183469952)
 - [Cloudflare 도입 후기](https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts/)
-- [LINE에서 Kafka를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
 - [쿠팡 데이터 플랫폼의 진화](https://medium.com/coupang-tech/%EC%BF%A0%ED%8C%A1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%98-%EC%A7%84%ED%99%94-26c827c1ec09)
 - [엔터프라이즈 어플리케이션을 위한 효과적인 프로세싱 전략 [영상]](https://youtu.be/IafgrRB2quY)
 - [Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5)
@@ -125,14 +119,11 @@
 - [멀티클라우드를 이용한 로그 분석 플랫폼 개발하기](https://link.medium.com/yuZDbtqcp1)
 - [웹서비스 백엔드 애플리케이션 아키텍처](https://brunch.co.kr/@springboot/228#comment)
 - [EC2, Fargate 약정 할인 AWS Savings Plans 발표](https://www.44bits.io/ko/post/aws-introducing-savings-plans)
-- [우아한 Redis 세미나 후기](https://ict-nroo.tistory.com/133)
-- [우아한 Redis 발표자료 [슬라이드]](https://www.slideshare.net/charsyam2/redis-196314086)
 - [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55#gaerae.com)
 - [AWS S3 정적호스팅 SPA에 동적 메타태그 적용하기](https://urbanbase.github.io/dev/2019/11/25/AWS-S3-SPA.html)
 - [라즈베리파이4로 토이프로젝트용 서버 만들기 - 1편](https://ryan-han.com/post/server/raspberry_server_1/)
 - [스케일아웃없이 순간 급증하는 주문 처리하기 [영상]](https://tv.naver.com/v/11212897)
 - [ActiveMQ의 Virtual Destinations를 활용한 메세지 로드밸런싱](https://ryan-han.com/post/server/activemq_virtual_destinations/)
-- [우아한테크세미나 - 우아한 레디스 [영상]](https://youtu.be/mPB2CZiAkKM)
 - [Multi CDN 트래픽 모니터링을 위한 클러스터 구축기](https://engineering.linecorp.com/ko/blog/build-cluster-for-multi-cdn-traffic-monitoring/)
 - [가성비 넘치게 0원으로 사이드프로젝트 VWAVWA 시작하기](https://miryang.dev/2019/12/17/start-sideproject-vwavwa/)
 - [데이터 기반으로 지속적인 CI/CD 개선 환경 만들기](https://engineering.linecorp.com/ko/blog/build-a-continuous-cicd-environment-based-on-data/)
@@ -155,23 +146,18 @@
 - [안심번호 마이크로서비스 개발하기](https://medium.com/daangn/%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-fb1a8817b059)
 - [LINE 메시징 서버가 새해 트래픽을 대비하는 과정](https://engineering.linecorp.com/ko/blog/how-line-messaging-servers-prepare-for-new-year-traffic/)
 - [딥러닝 모델 Serving 간단 구축기](https://tech.socarcorp.kr/data/2020/03/10/ml-model-serving.html)
-- [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
 - [로드밸런서의 종류와 동작방식](https://deveric.tistory.com/m/91)
 - [Spring Batch 관리 도구로서의 Jenkins](https://jojoldu.tistory.com/489)
-- [카프카(Kafka)의 이해](https://devtimes.com/what-is-kafka)
 - [AWS 비용을 줄이는 10가지 방법 [영문]](https://aws.amazon.com/ko/blogs/compute/10-things-you-can-do-today-to-reduce-aws-costs/)
 - [서머타임과 배치작업](https://meetup.toast.com/posts/232)
-- [Druid의 Kafka Indexing에서 Roll-up은 어떻게 동작하는가?](https://leeyh0216.github.io/2020-04-19/Druid_Kafka_Indexing_Rollup)
 - [CDN과 로드밸런서를 활용한 부하 분산](https://blog.naver.com/n_cloudplatform/221918957658)
-- [Redis 6.0 – ThreadedIO를 알아보자.](https://charsyam.wordpress.com/2020/05/05/입-개발-redis-6-0-threadedio를-알아보자/)
 - [쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로) [영상]](https://tv.naver.com/v/11212875)
-- [간단한 Kafka Producer를 만들고 메시지 전송 동작원리를 알아보자](https://leeyh0216.github.io/2020-05-03/kafka_producer)
 - [서버리스는 서버가 없는걸까? 8분 개념 설명! [영상]](https://www.youtube.com/watch?v=ufLmReluPww)
 - [LINE 트랜스코딩 서버 아키텍처 개선기 – 1](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/)
 - [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
 - [서버리스를 활용한 분산 처리 [슬라이드]](https://www.slideshare.net/MinJunKim5/masocon-2019-serverless-kimminjun)
 - [MySQL을 이용한 분산락으로 여러 서버에 걸친 동시성 관리](https://woowabros.github.io/experience/2019/05/30/mysql-user-level-lock.html)
-- [레디스와 분산 락(1/2) - 레디스를 활용한 분산 락과 안전하고 빠른 락의 구현](https://hyperconnect.github.io/2019/11/15/redis-distributed-lock-1.html)
+
 
 --------------------------------------
 
@@ -195,6 +181,33 @@
 - [Mastering Chaos - A Netflix Guide to Microservices [영상]](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 - [마이크로 서비스 아키텍쳐와 컨테이너 환경](http://bit.ly/2J7YgRz)
 - [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
+
+
+--------------------------------------
+
+### 레디스 Redis
+- [레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/)
+- [캐시 성능 향상기 (Improving Cache Speed at Scale)](https://meetup.toast.com/posts/251)
+- [레디스와 분산 락(1/2) - 레디스를 활용한 분산 락과 안전하고 빠른 락의 구현](https://hyperconnect.github.io/2019/11/15/redis-distributed-lock-1.html)
+- [개발자를 위한 레디스 튜토리얼](https://meetup.toast.com/posts/224)
+- [Jedis 보다 Lettuce를 쓰자](https://jojoldu.tistory.com/418)
+- [Redis in Action [영문]](https://redislabs.com/community/ebook)
+- [IDC에서 AWS로 Redis 데이터 이전하기](https://mingrammer.com/redis-migration/)
+- [우아한테크세미나 - 우아한 레디스 [영상]](https://youtu.be/mPB2CZiAkKM)  
+- [우아한 Redis 세미나 후기](https://ict-nroo.tistory.com/133)
+- [우아한 Redis 발표자료 [슬라이드]](https://www.slideshare.net/charsyam2/redis-196314086)
+- [Redis 6.0 – ThreadedIO를 알아보자.](https://charsyam.wordpress.com/2020/05/05/입-개발-redis-6-0-threadedio를-알아보자/)
+
+--------------------------------------
+
+### 카프카 Kafka
+- [링크드인이 카프카를 직접 개발한 이유](https://techit.kr/view/?no=20200815134042)
+- [카프카(Kafka)의 이해](https://devtimes.com/what-is-kafka)
+- [아파치 카프카 레퍼런스 한글 번역](https://godekdls.github.io/Apache%20Kafka/design/)
+- [Kafka 운영자가 말하는 처음 접하는 Kafka](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/)
+- [LINE에서 Kafka를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
+- [Druid의 Kafka Indexing에서 Roll-up은 어떻게 동작하는가?](https://leeyh0216.github.io/2020-04-19/Druid_Kafka_Indexing_Rollup)
+- [간단한 Kafka Producer를 만들고 메시지 전송 동작원리를 알아보자](https://leeyh0216.github.io/2020-05-03/kafka_producer)
 
 
 --------------------------------------
@@ -275,7 +288,6 @@
 - [중국의 어떤 서버 개발자의 DB설계](https://blog.naver.com/imays/221461537682)
 - [Mysql Explain](https://cheese10yun.github.io/mysql-explian/)
 - [200만 동접 게임을 위한 MySQL 샤딩 [영상]](https://youtube.com/watch?v=8Eb_n7JA1yA&feature=youtu.be)
-- [개발자를 위한 레디스 튜토리얼](https://meetup.toast.com/posts/224)
 - [우아한 형제들 메인 데이터베이스 IDC 탈출 성공기](https://woowabros.github.io/experience/2019/12/19/ruby_database.html)
 - [Druid와 Bitmap Index](https://leeyh0216.github.io/2020-04-26/Apache_Druid_bitmap_index)
 - [아직도 돈 주고 DB 쓰나요 for DBA [영상]](https://www.youtube.com/watch?feature=youtu.be&v=DXu3nbWa4AA&app=desktop)
@@ -285,6 +297,7 @@
 
 ### 운영체제 (리눅스, MacOS, 윈도우)
 - [운영체제 기본서의 끝판왕 "공룡책" 강의노트 [영문]](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
+- [가장 쉬운 리눅스 강좌](https://youtu.be/tPWBF13JIVk)  
 - [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html)
 - [개발환경을 한 방에! 쉘 스크립트의 힘](https://techblog.woowahan.com/2541/)
 - [유닉스 또는 리눅스 커널 환경에서 빠르게 일하는 10가지 기초 팁 [영문]](https://hackernoon.com/10-basic-tips-on-working-fast-in-unix-or-linux-terminal-5746ae42d277)
