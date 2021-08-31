@@ -56,6 +56,8 @@
 ### 3. 백엔드
 - [서버 & 클라우드 & 아키텍쳐](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C--%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
   - [마이크로서비스 MSA](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-msa)
+  - [레디스 Redis](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%A0%88%EB%94%94%EC%8A%A4-redis)
+  - [카프카 Kafka](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%B9%B4%ED%94%84%EC%B9%B4-kafka)
   - [도커 Docker](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%8F%84%EC%BB%A4-docker)
   - [쿠버네티스 Kubernetes](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-kubernetes)
 - [데이터베이스 & SQL](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4--sql)
