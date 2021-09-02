@@ -74,6 +74,7 @@
 
 
 ### 웹 관련
+- [왜 인터넷은 근본부터 글러먹었는가: 코로나19와 한국 인터넷의 해외접속 장애, 그리고 넷플릭스 전쟁에 관한 이야기](https://medium.com/@unifiedh/%EC%99%9C-%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%80-%EA%B7%BC%EB%B3%B8%EB%B6%80%ED%84%B0-%EA%B8%80%EB%9F%AC%EB%A8%B9%EC%97%88%EB%8A%94%EA%B0%80-%EC%BD%94%EB%A1%9C%EB%82%9819%EC%99%80-%ED%95%9C%EA%B5%AD-%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%98-%ED%95%B4%EC%99%B8%EC%A0%91%EC%86%8D-%EC%9E%A5%EC%95%A0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%A0%84%EC%9F%81%EC%97%90-%EA%B4%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-ae27826e7fc8)
 - [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기](https://blog.banksalad.com/tech/url-status-checker)
 - [Apache 재단에 700만원을 후원하면 생기는 일](https://xguru.net/2099)
 - [HTTP 상태코드 다이어그램](https://github.com/for-GET/http-decision-diagram)
@@ -277,7 +278,9 @@
 
 --------------------------------------
 
-### 기타
+### 기타식
+- [불규칙 속에서 규칙을 찾아내는 정규표현식](https://evan-moon.github.io/2020/07/24/about-regular-expression/)
+- [지킬 기반의 블로그를 개츠비로 옮기고 나서 달라진 점 [영상]](https://www.youtube.com/watch?v=bFTvPyryYkY&feature=youtu.be)
 - [급성장하는 1등 스타트업들은 왜 루비온레일즈를 쓸까](https://brunch.co.kr/@jamess/44)
 - [개발자를 위한 윈도우 셋업](https://nomadcoders.co/windows-setup-for-developers/)
 - [육군훈련소 실시간 검색어 뉴스 전송 봇 개발후기](https://medium.com/@minukang/%EC%9C%A1%EA%B5%B0%ED%9B%88%EB%A0%A8%EC%86%8C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EA%B2%80%EC%83%89%EC%96%B4-%EB%89%B4%EC%8A%A4-%EC%A0%84%EC%86%A1-%EB%B4%87-%EA%B0%9C%EB%B0%9C%ED%9B%84%EA%B8%B0-f0c178a4e4dc)

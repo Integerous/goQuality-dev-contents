@@ -159,6 +159,7 @@
 - [개발자 비급(祕笈) – 1. 연봉은 실력의 결과가 아니다](http://channy.creation.net/blog/1186)
 - [능력있는 개발자는 어떻게 알아볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
 - [그 때 성장이라고 생각했던 것들](https://jbee.io/essay/growth-mistaken-2020/)
+- [데이터 사이언티스트 인턴 9개월 후기](https://tech.socarcorp.kr/data/2020/08/19/socar-data-group-intern-review.html)
 - [나의 성장을 도와준 고마운 책들](https://johngrib.github.io/wiki/my-favorite-books/)
 - [웹 개발자 로드맵 [번역]](https://github.com/devJang/developer-roadmap/blob/master/README.md)
 - [(2021) 1. 비전공자로 자바 백엔드 개발자 시작하기](https://jojoldu.tistory.com/505)

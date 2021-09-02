@@ -178,7 +178,7 @@
 - [우아한 CRUD [영상]](https://www.youtube.com/watch?v=cflK7FTGPlg)
 - [스프링 배치 4.2 레퍼런스 한글 번역](https://godekdls.github.io/Spring%20Batch/domainlanguage/)
 - [Understanding MicroSERVICE Architecture with Java & Spring Boot [슬라이드]](https://www.slideshare.net/kashifalisiddiqui/understanding-microservice-architecture-with-java-spring-boot)
-
+- [Spring 의 동기, 비동기, 배치 처리시 항상 context 를 유지하고 로깅하기](https://blog.gangnamunni.com/post/mdc-context-task-decorator/)
 
 ### JPA & Hibernate
 - [JPA 덕분에 DB에서 삽질한 이야기](http://thefarmersfront.github.io/blog/jpa-uuid-sapjil/)
