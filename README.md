@@ -94,7 +94,6 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
-
 - [화상 회의 서비스를 위한, WebRTC 소개](https://brunch.co.kr/@springboot/640)  
 - [프로그래머를 위한 이름 짓는 원리](https://green-labs.github.io/programmers-naming)
 - [10분만에 훑어보는 TCP와 UDP](https://wormwlrm.github.io/2021/09/23/Overview-of-TCP-and-UDP.html)

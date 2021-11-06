@@ -183,7 +183,7 @@
 ### 알고리즘 & 자료구조
 - [알고리즘 비주얼라이져](https://algorithm-visualizer.org)
 - [영상을 통한 자료구조와 알고리즘의 시각화 [번역]](https://visualgo.net/ko)
-- [알고리즘 & 자료구조 온라인 사전 [영문]](https://xlinux.nist.gov/dads/#L)
+- [알고리즘 & 자료구조 온라인 사전 [영문]](https://xlinux.nist.gov/dads/)
 - [코딩 인터뷰를 깨부술 10가지 자료구조/알고리즘 강의 [영문]](https://hackernoon.com/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
 - [Behavior Tree 개념 살펴보기](https://engineering.linecorp.com/ko/blog/behavior-tree/)
 - [알고리즘 학습에 대한 조언 [번역]](http://blog.weirdx.io/post/55358)
