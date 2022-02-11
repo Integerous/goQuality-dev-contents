@@ -94,6 +94,7 @@
 >컨텐츠 링크를 아래에 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - (여기에 추가해주세요.)
+- [어느 암호학 전문가가 말하는 WEB3의 문제점 (1)](https://velog.io/@ruizhen88/%EC%95%94%ED%98%B8%ED%95%99-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%9D%98-WEB3-%EC%B2%AB%EC%9D%B8%EC%83%81-%EB%B2%88%EC%97%AD)
 - [MSA 환경에서 Error Response 전달하기](https://cheese10yun.github.io/error-response-2/)
 - [Javascript에서도 SOLID 원칙이 통할까?](https://velog.io/@teo/Javascript%EC%97%90%EC%84%9C%EB%8F%84-SOLID-%EC%9B%90%EC%B9%99%EC%9D%B4-%ED%86%B5%ED%95%A0%EA%B9%8C)
 - [React 는 여전히 친절한 우리의 이웃이다.](https://euncho.medium.com/2022%EB%85%84-fe-techs-6b12386af7a)
