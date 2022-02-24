@@ -757,10 +757,8 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [CORS A to Y](https://medium.com/wantedjobs/cors-a-to-y-28cc0b16349d)
 - [소프트웨어 아키텍쳐의 중요성 [영상]](https://m.youtube.com/watch?v=4E1BHTvhB7Y)
 - [동적 타입 시스템은 더 개방적인 시스템이 아닙니다 [번역]](https://donghwi.dev/no-dynamic-type-systems-are-not-inherently-more-open/)
-- [스프링 부트, 포매터 손쉽게 사용하기](https://www.whiteship.me/spring-boot-formatter/)
-- [스프링 부트에서 Request 유효성 검사하는 방법, 서버 개발한다면 꼭 해야하는 작업 Spring Validation](https://jeong-pro.tistory.com/203)
-- [IntelliJ IDEA. Writing Tests with JUnit 5 [영상]](https://www.youtube.com/watch?v=we3zJE3hlWE)
-- [테라폼이란?](https://www.44bits.io/ko/keyword/terraform)
+
+
 
 
 --------------------------------------

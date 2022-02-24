@@ -179,6 +179,8 @@
 - [스프링 배치 4.2 레퍼런스 한글 번역](https://godekdls.github.io/Spring%20Batch/domainlanguage/)
 - [Understanding MicroSERVICE Architecture with Java & Spring Boot [슬라이드]](https://www.slideshare.net/kashifalisiddiqui/understanding-microservice-architecture-with-java-spring-boot)
 - [Spring 의 동기, 비동기, 배치 처리시 항상 context 를 유지하고 로깅하기](https://blog.gangnamunni.com/post/mdc-context-task-decorator/)
+- [스프링 부트, 포매터 손쉽게 사용하기](https://www.whiteship.me/spring-boot-formatter/)
+- [스프링 부트에서 Request 유효성 검사하는 방법, 서버 개발한다면 꼭 해야하는 작업 Spring Validation](https://jeong-pro.tistory.com/203)
 
 ### JPA & Hibernate
 - [JPA 덕분에 DB에서 삽질한 이야기](http://thefarmersfront.github.io/blog/jpa-uuid-sapjil/)

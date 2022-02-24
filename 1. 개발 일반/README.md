@@ -140,7 +140,7 @@
 - [JUnit 5 매개변수 테스트](https://ntalbs.github.io/2019/junit5-parameterized-test/)
 - [xUnit 테스팅 프레임워크를 TDD로 만들어보자 [영상]](https://www.youtube.com/watch?v=tdKFZcZSJmg)
 - [Junit5 인스턴스 생성 특징, 테스트 순서](https://cheese10yun.github.io/junit5/)
-
+- [IntelliJ IDEA. Writing Tests with JUnit 5 [영상]](https://www.youtube.com/watch?v=we3zJE3hlWE)
 
 --------------------------------------
 
