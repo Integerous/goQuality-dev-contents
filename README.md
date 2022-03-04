@@ -232,7 +232,7 @@
 - [R언어관련 패캐지에 대해서 알아보겠습니다 (feat.googleVis Lib)](https://devocean.sk.com/blog/techBoardDetail.do?ID=163282)
 - [Operator를 활용한 Prometheus 간단히 설치하기(2) - Exporter 편](https://devocean.sk.com/blog/techBoardDetail.do?ID=163266)
 - [FE개발자가 되기위한 10가지방법](https://velog.io/@hohooodo/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%982020%EB%85%84%EC%97%90-FE%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B8%B0%EC%9C%84%ED%95%9C-10%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95)
-- [파이썬 애플리케이션 의존성 주입 - dependency injector](https://humphreyahn.dev/blog/dependency-injector)
+- [파이썬 애플리케이션 의존성 주입 - dependency injector](https://www.humphreyahn.dev/blog/dependency-injector)
 - [실시간 문서 협업 시스템 동작원리](https://www.secmem.org/blog/2019/01/09/operational-transform/)
 - [Spring Cloud Config & Cloud Bus 정리](https://cheese10yun.github.io/spring-config-client/)
 - [왜 플렉스팀인가?](https://ahnheejong.name/articles/why-flex-2021/)
