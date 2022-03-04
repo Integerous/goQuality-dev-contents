@@ -315,7 +315,7 @@
 - [소프트웨어 (SW) 개발 경험이 먼저다](http://channy.creation.net/blog/1477)
 - [Github actions로 리액트 자동배포하기(S3, EC2, Code Deploy, Centos, Nginx, React.js)](https://namunamu1105.medium.com/github-actions%EB%A1%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%9E%90%EB%8F%99%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-s3-ec2-code-deploy-centos-nginx-react-js-e6f54a6e69bc)
 - [쿠팡 출신 개발자의 A/B 테스트 플랫폼 MVP 개발기](https://www.youtube.com/watch?v=w7JHb60zk9k)
-- [제목없음](https://medium.com/29cm/29cm-%EB%A1%9C%EA%B7%B8-%EC%88%98%EC%A7%91-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%86%8C%EA%B0%9C-e7955d7deec6)
+- [29CM 로그 수집 시스템 소개](https://medium.com/29cm/29cm-%EB%A1%9C%EA%B7%B8-%EC%88%98%EC%A7%91-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%86%8C%EA%B0%9C-e7955d7deec6)
 - [A TypeScript Express Starter App](https://morioh.com/p/8cd90da6e9c5?f=5c224490c513a556c9042463)
 - [Redis Getting Started](https://cheese10yun.github.io/redis-getting-started/)
 - [Chromium이 발표한 RenderingNG가 무엇인가?](https://meetup.toast.com/posts/293)
