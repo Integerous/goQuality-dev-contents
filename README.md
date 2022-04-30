@@ -370,7 +370,6 @@
 - [JHipster 프레임워크 기초](https://devocean.sk.com/blog/techBoardDetail.do?ID=163249)
 - [[AssetManager] 리액트에서 에셋 상수관리를 간편하게!](https://nookpi.tistory.com/97)
 - [웹브라우저에서 동작하는 녹화앱 만들기](https://medium.com/watcha/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EB%85%B9%ED%99%94%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-70142ce28994)
-- [카카오 잔여백신 매크로 개발 Story](https://siliconsjang.notion.site/Story-a71a74e137cc4e21bb078c89bd51c7ba)
 - [개발자 취업 산업군 5대장](https://youtu.be/KTu7sTWCFr8)
 - [webRTC 미디어 연결방식(p2p,sfu,mcu)](https://6987.tistory.com/entry/WebRTC-%EB%AF%B8%EB%94%94%EC%96%B4-%EC%97%B0%EA%B2%B0-%EB%B0%A9%EC%8B%9D-MCU-SFU-P2P)
 - [WebRTC는 어떻게 실시간으로 데이터를 교환할 수 있을까?](https://wormwlrm.github.io/2021/01/24/Introducing-WebRTC.html)
