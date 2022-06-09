@@ -282,7 +282,7 @@
 - [JDBC를 사용한 MySQL SSL 연결](https://medium.com/p/1c5da86cc2c5)
 - [MySQL performance-schema-instruments 사용에 따른 성능 영향 실험](https://engineering.linecorp.com/ko/blog/mysql-research-performance-schema-instruments/)
 - [Apache ShardingSphere를 이용한 DB Sharding](https://blog.naver.com/PostView.nhn?blogId=asei&logNo=221511101848&proxyReferer=http%3A%2F%2Fm.facebook.com)
-- [MySQL Ascending index vs Descending index](http://tech.kakao.com/2018/06/19/AscendingAndDescendingIndex/?sfns=1)
+- [MySQL Ascending index vs Descending index](https://tech.kakao.com/2018/06/19/mysql-ascending-index-vs-descending-index/)
 - [SQL joins visualizer](https://sql-joins.leopard.in.ua/)
 - [중국의 어떤 서버 개발자의 DB설계](https://blog.naver.com/imays/221461537682)
 - [Mysql Explain](https://cheese10yun.github.io/mysql-explian/)
