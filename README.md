@@ -73,8 +73,8 @@
 - [모바일 & iOS & 안드로이드](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#%EB%AA%A8%EB%B0%94%EC%9D%BC--ios--%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 
 ### 5. 인프라 & DevOps
-- [도커 Docker](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%8F%84%EC%BB%A4-docker)
-- [쿠버네티스 Kubernetes](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-kubernetes)
+- [도커 Docker](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%26%20DevOps#%EB%8F%84%EC%BB%A4-docker)
+- [쿠버네티스 Kubernetes](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%26%20DevOps#%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-kubernetes)
 
 ### 6. 기타
 - [Git](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#git)
