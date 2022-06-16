@@ -24,7 +24,6 @@
 - [쿠팡 서비스 클라우드 마이그레이션 통해 배운것들 [슬라이드]](http://bit.ly/2P5Mpc3)
 - [왜 비즈니스 로직은 Model(Domain)에 가까울수록 좋은가?](http://bit.ly/2AgHuNp)
 - [빌링 시스템 장애 대응 사례 - 우아한형제들](http://bit.ly/2PHr85C)
-- [AWS를 슬랙으로 모니터링하기](http://bit.ly/2yWpWUW)
 - [10가지 소프트웨어 아키텍처 패턴 요약 [번역]](http://bit.ly/2RazjYh)
 - [웹 아키텍쳐 입문 [번역]](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
 - [서버 성능에 대한 정의와 이해 [슬라이드]](https://www.slideshare.net/sunnykwak90/ss-44875669)
