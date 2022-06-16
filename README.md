@@ -58,8 +58,6 @@
   - [마이크로서비스 MSA](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-msa)
   - [레디스 Redis](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%A0%88%EB%94%94%EC%8A%A4-redis)
   - [카프카 Kafka](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%B9%B4%ED%94%84%EC%B9%B4-kafka)
-  - [도커 Docker](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%8F%84%EC%BB%A4-docker)
-  - [쿠버네티스 Kubernetes](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-kubernetes)
 - [데이터베이스 & SQL](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4--sql)
 - [운영체제 (리눅스, MacOS, 윈도우)](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-macos-%EC%9C%88%EB%8F%84%EC%9A%B0)
 - [네트워크](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
@@ -74,7 +72,11 @@
 - [디자인 & UI/UX & CSS](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#%EB%94%94%EC%9E%90%EC%9D%B8--uiux--css)
 - [모바일 & iOS & 안드로이드](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#%EB%AA%A8%EB%B0%94%EC%9D%BC--ios--%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 
-### 5. 기타
+### 5. 인프라 & DevOps
+- [도커 Docker](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%8F%84%EC%BB%A4-docker)
+- [쿠버네티스 Kubernetes](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-kubernetes)
+
+### 6. 기타
 - [Git](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#git)
 - [웹 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EC%9B%B9-%EA%B4%80%EB%A0%A8)
 - [REST & GraphQL](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#rest--graphql)
@@ -924,7 +926,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [스프링 부트, 포매터 손쉽게 사용하기](https://www.whiteship.me/spring-boot-formatter/)
 - [스프링 부트에서 Request 유효성 검사하는 방법, 서버 개발한다면 꼭 해야하는 작업 Spring Validation](https://jeong-pro.tistory.com/203)
 - [IntelliJ IDEA. Writing Tests with JUnit 5 [영상]](https://www.youtube.com/watch?v=we3zJE3hlWE)
-- [테라폼이란?](https://www.44bits.io/ko/keyword/terraform)
+
 
 
 --------------------------------------
