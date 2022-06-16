@@ -2,6 +2,7 @@
 
 
 ### Git
+- [좋은 PR에 대한 단상🤔](https://medium.com/hayanmind-tech-blog-kr/%EC%A2%8B%EC%9D%80-pr%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8B%A8%EC%83%81-6586c3f757ac)
 - [우리 팀 GitHub에 지금 당장 연결해야 할 서비스 4가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%9A%B0%EB%A6%AC-%ED%8C%80-github%EC%97%90-%EB%8B%B9%EC%9E%A5-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%95%BC-%ED%95%A0-4%EA%B0%80%EC%A7%80-%EC%84%9C%EB%B9%84%EC%8A%A4-4ea3c165114)
 - [의존성 캐시로 Github Actions 속도 높이기](https://www.notion.so/Github-Actions-7ca7c1ddf2f74d24ab9173d1b5c97366)
 - [gr을 이용한 많은 git 저장소 관리하기](https://medium.com/@changjoopark/gr%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%8E%EC%9D%80-git-%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-44c78ff667d2)
@@ -74,6 +75,7 @@
 
 
 ### 웹 관련
+- [CORS A to Y](https://medium.com/wantedjobs/cors-a-to-y-28cc0b16349d)
 - [왜 인터넷은 근본부터 글러먹었는가: 코로나19와 한국 인터넷의 해외접속 장애, 그리고 넷플릭스 전쟁에 관한 이야기](https://medium.com/@unifiedh/%EC%99%9C-%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%80-%EA%B7%BC%EB%B3%B8%EB%B6%80%ED%84%B0-%EA%B8%80%EB%9F%AC%EB%A8%B9%EC%97%88%EB%8A%94%EA%B0%80-%EC%BD%94%EB%A1%9C%EB%82%9819%EC%99%80-%ED%95%9C%EA%B5%AD-%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%98-%ED%95%B4%EC%99%B8%EC%A0%91%EC%86%8D-%EC%9E%A5%EC%95%A0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%A0%84%EC%9F%81%EC%97%90-%EA%B4%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-ae27826e7fc8)
 - [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기](https://blog.banksalad.com/tech/url-status-checker)
 - [Apache 재단에 700만원을 후원하면 생기는 일](https://xguru.net/2099)
@@ -116,7 +118,6 @@
 - [HTTPS는 HTTP보다 빠르다](https://tech.ssut.me/)
 - [HTTP 헤더의 종류 및 항목](https://gmlwjd9405.github.io/2019/01/28/http-header-types.html)
 - [Gatsby로 블로그를 마이그레이션하며 고려한 것들](https://jbee.io/etc/intro-new-blog/?fbclid=IwAR2k8P3A32ZFDwyDto6FuaSD-C5eKAmfTPm0J5TyHFczzErPw9tnADIcDYk)
-- [Ajax & CORS Overview](http://huns.me/development/1291)
 - [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 part 1](https://joshua1988.github.io/web-development/http-part1/)
 - [Websocket 실시간 개발하기](https://brunch.co.kr/@adrenalinee31/2)
 - [HTTPS는 어떻게 다를까?](https://parksb.github.io/article/24.html)
@@ -278,7 +279,7 @@
 
 --------------------------------------
 
-### 기타식
+### 기타
 - [불규칙 속에서 규칙을 찾아내는 정규표현식](https://evan-moon.github.io/2020/07/24/about-regular-expression/)
 - [지킬 기반의 블로그를 개츠비로 옮기고 나서 달라진 점 [영상]](https://www.youtube.com/watch?v=bFTvPyryYkY&feature=youtu.be)
 - [급성장하는 1등 스타트업들은 왜 루비온레일즈를 쓸까](https://brunch.co.kr/@jamess/44)

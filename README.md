@@ -77,16 +77,16 @@
 - [쿠버네티스 Kubernetes](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%26%20DevOps#%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-kubernetes)
 
 ### 6. 기타
-- [Git](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#git)
-- [웹 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EC%9B%B9-%EA%B4%80%EB%A0%A8)
-- [REST & GraphQL](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#rest--graphql)
-- [알고리즘 & 자료구조](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98--%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
-- [머신러닝 & 딥러닝 & AI](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D--%EB%94%A5%EB%9F%AC%EB%8B%9D--ai)
-- [데이터 사이언스 & 데이터 엔지니어링](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4--%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)
-- [블록체인](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
-- [보안](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EB%B3%B4%EC%95%88)
-- [Vim](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#vim)
-- [기타](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EA%B8%B0%ED%83%80#%EA%B8%B0%ED%83%80)
+- [Git](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#git)
+- [웹 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#%EC%9B%B9-%EA%B4%80%EB%A0%A8)
+- [REST & GraphQL](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#rest--graphql)
+- [알고리즘 & 자료구조](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98--%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
+- [머신러닝 & 딥러닝 & AI](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D--%EB%94%A5%EB%9F%AC%EB%8B%9D--ai)
+- [데이터 사이언스 & 데이터 엔지니어링](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4--%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)
+- [블록체인](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
+- [보안](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#%EB%B3%B4%EC%95%88)
+- [Vim](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#vim)
+- [기타](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#%EA%B8%B0%ED%83%80)
 
 
 --------------------------------------
@@ -917,15 +917,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [안녕하세요. 모리입니다. 개발자를 위한 셀프형 피드백에 기반한 모의 인터뷰 프로젝트를 진행보았는데, 도움이 되면 좋을 것 같아서 올려봅니다!](https://bit.ly/2ZpD6HQ)
 - [리액트 앱에서의 중앙 집중식 API 에러 핸들링](https://ui.toast.com/weekly-pick/ko_20200623)
 - [팀에 새로운 도구를 도입하고 싶다.](https://so-so.dev/essay/add-new-tool-at-team/)
-- [포커, 어디까지 쳐봤니 – 서비스 개발에 플래닝 포커 도입 사례 (feat. 원격근무)](https://tech.kakao.com/2020/09/08/planning-poker/)
-- [TypeScript enum을 사용하지 않는 게 좋은 이유를 Tree-shaking 관점에서 소개합니다.](https://engineering.linecorp.com/ko/blog/typescript-enum-tree-shaking/)
-- [좋은 PR에 대한 단상🤔](https://medium.com/hayanmind-tech-blog-kr/%EC%A2%8B%EC%9D%80-pr%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8B%A8%EC%83%81-6586c3f757ac)
-- [CORS A to Y](https://medium.com/wantedjobs/cors-a-to-y-28cc0b16349d)
-- [소프트웨어 아키텍쳐의 중요성 [영상]](https://m.youtube.com/watch?v=4E1BHTvhB7Y)
-- [동적 타입 시스템은 더 개방적인 시스템이 아닙니다 [번역]](https://donghwi.dev/no-dynamic-type-systems-are-not-inherently-more-open/)
-- [스프링 부트, 포매터 손쉽게 사용하기](https://www.whiteship.me/spring-boot-formatter/)
-- [스프링 부트에서 Request 유효성 검사하는 방법, 서버 개발한다면 꼭 해야하는 작업 Spring Validation](https://jeong-pro.tistory.com/203)
-- [IntelliJ IDEA. Writing Tests with JUnit 5 [영상]](https://www.youtube.com/watch?v=we3zJE3hlWE)
+
 
 
 

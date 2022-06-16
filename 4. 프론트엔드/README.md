@@ -188,6 +188,7 @@
 
 
 ### TypeScript
+- [TypeScript enum을 사용하지 않는 게 좋은 이유를 Tree-shaking 관점에서 소개합니다.](https://engineering.linecorp.com/ko/blog/typescript-enum-tree-shaking/)
 - [TypeScript Handbook [번역]](https://typescript-kr.github.io/)
 - [TypeScript: 인터페이스(Interface)](https://hyunseob.github.io/2016/10/17/typescript-interface/)
 - [TypeScript와 함께하는 Fullstack Development](https://medium.com/p/501835592b1d)

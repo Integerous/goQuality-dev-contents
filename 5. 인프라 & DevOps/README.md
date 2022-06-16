@@ -43,3 +43,7 @@
 - [Kubernetes 개념 설명 영상](http://bit.ly/2yWgxwl)
 - [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
 
+--------------------------------------
+
+### 인프라스트럭처 자동화 도구
+- [테라폼이란?](https://www.44bits.io/ko/keyword/terraform)

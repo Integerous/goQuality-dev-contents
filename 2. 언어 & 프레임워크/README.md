@@ -80,6 +80,8 @@
 
 
 ### Spring framework
+- [스프링 부트, 포매터 손쉽게 사용하기](https://www.whiteship.me/spring-boot-formatter/)
+- [스프링 부트에서 Request 유효성 검사하는 방법, 서버 개발한다면 꼭 해야하는 작업 Spring Validation](https://jeong-pro.tistory.com/203)
 - [동일한 Bean(Class)에서 @Transactional 동작 방식](https://cheese10yun.github.io/spring-transacion-same-bean/)
 - [스프링 클라우드 살펴보기](https://cheese10yun.github.io/spring-cloud/)
 - [Spring WebFlux는 어떻게 적은 리소스로 많은 트래픽을 감당할까?](https://alwayspr.tistory.com/44)

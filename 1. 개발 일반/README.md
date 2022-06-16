@@ -1,6 +1,9 @@
 # 1. 개발 일반
 
 ### 개발 문화/철학/방법론
+- [포커, 어디까지 쳐봤니 – 서비스 개발에 플래닝 포커 도입 사례 (feat. 원격근무)](https://tech.kakao.com/2020/09/08/planning-poker/)
+- [소프트웨어 아키텍쳐의 중요성 [영상]](https://youtu.be/4E1BHTvhB7Y)
+- [동적 타입 시스템은 더 개방적인 시스템이 아닙니다 [번역]](https://blog.donghwi.dev/no-dynamic-type-systems-are-not-inherently-more-open/)
 - [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
 - [Code Review에 대해 [영상]](https://youtu.be/FJNV_qoRRks)
 - [헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
@@ -108,6 +111,7 @@
 --------------------------------------
 
 ### TDD & 테스트 관련
+- [IntelliJ IDEA. Writing Tests with JUnit 5 [영상]](https://www.youtube.com/watch?v=we3zJE3hlWE)
 - [유용한 테스트 케이스를 위한 개발자의 자세](https://blog.shiren.dev/2020-06-15-%EC%9C%A0%EC%9A%A9%ED%95%9C%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%A5%BC%EC%9C%84%ED%95%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EC%9E%90%EC%84%B8/)
 - ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다.](https://repo.yona.io/doortts/blog/issue/1)
 - [박재성 - 의식적인 연습으로 TDD, 리팩토링 연습하기 [슬라이드]](https://www.slideshare.net/OKJSP/okkycon-tdd?fbclid=IwAR3CWayos7M9WT7Oym4HlzD9Uod1_QR0uXag-ptlfwbxD1p3hhQhDkIoqPY)
