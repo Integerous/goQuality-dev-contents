@@ -201,12 +201,10 @@
 
 ### 카프카 Kafka
 - [링크드인이 카프카를 직접 개발한 이유](https://techit.kr/view/?no=20200815134042)
-- [카프카(Kafka)의 이해](https://devtimes.com/what-is-kafka)
 - [아파치 카프카 레퍼런스 한글 번역](https://godekdls.github.io/Apache%20Kafka/design/)
 - [Kafka 운영자가 말하는 처음 접하는 Kafka](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/)
 - [LINE에서 Kafka를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
 - [Druid의 Kafka Indexing에서 Roll-up은 어떻게 동작하는가?](https://leeyh0216.github.io/2020-04-19/Druid_Kafka_Indexing_Rollup)
-- [간단한 Kafka Producer를 만들고 메시지 전송 동작원리를 알아보자](https://leeyh0216.github.io/2020-05-03/kafka_producer)
 
 
 --------------------------------------
