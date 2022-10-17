@@ -104,6 +104,7 @@
 - [실무에서 Lombok 사용법](https://github.com/cheese10yun/blog-sample/tree/master/lombok)
 - [jsp 서블릿 서블릿컨테이너 개요](https://m.blog.naver.com/ljh0326s/220985613855)
 - [전자정부 프레임워크를 java config 방식으로 (총12편)](https://zgundam.tistory.com/79)
+- [Springboot와 Properties, Yaml Environment](https://blog.kingbbode.com/m/39)
 - [Java9와 Spring5로 바라보는 Java의 변화와 도전 - 이일민(토비)님 발표 [영상]](https://www.youtube.com/watch?v=BFjrmj4p3_Y)
 - [Spring Boot 프로젝트를 War로 패키징(생성)하기](http://progtrend.blogspot.com/2018/07/spring-boot-war.html)
 - [Spring Rest Docs 적용](http://woowabros.github.io/experience/2018/12/28/spring-rest-docs.html)
