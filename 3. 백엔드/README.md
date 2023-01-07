@@ -19,7 +19,7 @@
 - [스프링부트로 웹 서비스 출시하기 - 배포 자동화 구축하기](https://jojoldu.tistory.com/265?category=635883)
 - [웹서버 - Nginx vs Apache 성능 비교](http://bit.ly/2yint7E)
 - [우아한형제들 신규 포인트 시스템 전환기 1편 [시리즈]](http://woowabros.github.io/experience/2018/10/12/new_point_story_1.html)
-- [TreadLocal과 TreadPool을 사용하여 요청 및 응답 기록 남기기](bit.ly/2CKQSeA)
+- [TreadLocal과 TreadPool을 사용하여 요청 및 응답 기록 남기기](https://blog.naver.com/tmondev/221212500642)
 - [AWS Aurora 도입전에 알아야 할 몇가지 사실](http://bit.ly/2P5Ys9v)
 - [쿠팡 서비스 클라우드 마이그레이션 통해 배운것들 [슬라이드]](http://bit.ly/2P5Mpc3)
 - [왜 비즈니스 로직은 Model(Domain)에 가까울수록 좋은가?](http://bit.ly/2AgHuNp)
