@@ -108,7 +108,7 @@
 - [HTTP 쿠키와 톰캣 버전별 이슈 정리](https://meetup.toast.com/posts/172)
 - [다양한 Redirection의 종류](https://developer.mozilla.org/ko/docs/Web/HTTP/Redirections)
 - [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726?fbclid=IwAR0xOrYNsE4NU6D0jzBMTEND_DhiJpjvDneoMn5mh28PdfTJYwbJ-XHvAns)
-- [슈퍼마켓에서 우유를 사면서 웹 캐싱(Web Caching)을 알아봅시다 [번역]](https://adhrinae.github.io/posts/web-caching-explained-by-buying-milk-kr)
+- [슈퍼마켓에서 우유를 사면서 웹 캐싱(Web Caching)을 알아봅시다 [번역]](https://www.rinae.dev/posts/web-caching-explained-by-buying-milk-kr)
 - [크롬 확장 프로그램으로 웹서버 띄우기](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en)
 - [나는 AMP를 좋아하지 않는다.](https://blog.outsider.ne.kr/1285)
 - [크롬 개발자도구 101 (기초내용 정리)](https://lqez.github.io/blog/chrome-dev-tool-101.html)
