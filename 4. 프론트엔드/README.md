@@ -167,7 +167,8 @@
 - [ReactJS의 Virtual DOM과 Repaint, Reflow](http://blog.drakejin.me/React-VirtualDOM-And-Repaint-Reflow/)
 - [컴포넌트 분리의 미학](https://vallista.kr/2020/03/29/Component-%EB%B6%84%EB%A6%AC%EC%9D%98-%EB%AF%B8%ED%95%99/)
 - [Recoil - 또 다른 React 상태 관리 라이브러리?](https://ui.toast.com/weekly-pick/ko_20200616/)
-
+- [My구독의 React Query 전환기](https://tech.kakao.com/2022/06/13/react-query/)
+- 
 
 ### Vue.js
 - [The process: Making Vue3 [번역]](https://perade.github.io/blog/the-process-making-vue3/)
@@ -265,7 +266,8 @@
 - [글자랑의 한글 가변폰트 실험](https://www.notion.so/49fca2912ab344edb0ef24b8f320440a)
 - [세상은 왜 CSS개발자를 필요로 하는가? [번역]](https://medium.com/@Baksure/%EB%B2%88%EC%97%AD-%EC%84%B8%EC%83%81%EC%9D%80-%EC%99%9C-css%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%ED%95%84%EC%9A%94%EB%A1%9C-%ED%95%98%EB%8A%94%EA%B0%80-c3465999301b)
 - [코드로 자음과 모음을 분리하기](https://www.notion.so/3c40c025b9bc474da00add82f9c301ad)
-
+- [CSS in 2022 [번역]](https://wit.nts-corp.com/2022/02/24/6490)
+- 
 
 --------------------------------------
 
@@ -300,3 +302,4 @@
 - [iOS(Swift, Objc) 질문과 답변 모음](https://github.com/ClintJang/ios-swift-objc-questions-and-answers/blob/master/README.md#%EC%9E%90%EC%B2%B4%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%97%86%EC%9D%B4-%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8%EB%A7%8C-%EB%B6%99%EC%9D%B4%EB%A0%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EB%8D%B0-%EC%95%A0%ED%94%8C-%EB%A6%AC%EC%A0%9D%EC%82%AC%EC%9C%A0%EC%9D%B8%EA%B0%80%EC%9A%94)
 - [무료 Flutter e-book](https://ridibooks.com/books/3419000002)
 - [Adding Amazing Transitions to Your Android App Easily Using Material Motion](https://medium.com/swlh/adding-amazing-transitions-to-your-android-app-easily-using-material-motion-f0cd92463b39)
+- [너의 MVC는 나의 MVC와 다르다](https://velog.io/@eddy_song/ios-mvc)

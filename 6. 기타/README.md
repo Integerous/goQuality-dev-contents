@@ -413,3 +413,4 @@
 - [Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html)
 - [라인의 전정은 님이 말하는 테크니컬 라이팅의 모든 것 [영상]](https://www.youtube.com/watch?v=kEwdl2B1SQc&feature=youtu.be)
 - [Transaction Isolation Level 정리](https://velog.io/@lsb156/Transaction-Isolation-Level)
+- [코딩시트콤 - 오류의 종류들](https://www.youtube.com/watch?v=OlnZsgwWHu0)

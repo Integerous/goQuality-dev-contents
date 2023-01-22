@@ -144,7 +144,7 @@
 - [JUnit 5 매개변수 테스트](https://ntalbs.github.io/2019/junit5-parameterized-test/)
 - [xUnit 테스팅 프레임워크를 TDD로 만들어보자 [영상]](https://www.youtube.com/watch?v=tdKFZcZSJmg)
 - [Junit5 인스턴스 생성 특징, 테스트 순서](https://cheese10yun.github.io/junit5/)
-
+- [테스트 의존성 관리로 높은 품질의 테스트 코드 유지하기](https://toss.tech/article/how-to-manage-test-dependency-in-gradle)
 
 --------------------------------------
 

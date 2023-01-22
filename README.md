@@ -98,16 +98,7 @@
 # :mailbox: Queue
 >컨텐츠 링크를 가장 아래부터 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
-- [테스트 의존성 관리로 높은 품질의 테스트 코드 유지하기](https://toss.tech/article/how-to-manage-test-dependency-in-gradle)
-- [Spring Cloud Gateway Error Handling & Filter](https://cheese10yun.github.io/spring-cloud-gateway-2/)
-- [7 Formats for Great Team Retrospectives](https://betterprogramming.pub/7-formats-for-great-team-retrospectives-185ebcbd4992)
-- [스타트업 생활 그리고 성장](https://medium.com/@leejukyung/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%83%9D%ED%99%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%84%B1%EC%9E%A5-aadd15eda833)
-- [My구독의 React Query 전환기](https://tech.kakao.com/2022/06/13/react-query/)
-- [코딩시트콤 - 오류의 종류들](https://www.youtube.com/watch?v=OlnZsgwWHu0)
-- [Hertzbleed Attack](https://www.hertzbleed.com/)
-- [Kotlin ORM 프레임 워크 Exposed](https://cheese10yun.github.io/exposed-2/)
-- [CSS in 2022](https://wit.nts-corp.com/2022/02/24/6490)
-- [너의 MVC는 나의 MVC와 다르다](https://velog.io/@eddy_song/ios-mvc)
+
 - [어디가서 코프링 알은체하기](https://www.youtube.com/watch?v=ewBri47JWII)
 - [당근마켓에 웹 프로젝트 배포하기](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c)
 - [Spring webflux + coroutine](https://devsh.tistory.com/m/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9%ED%94%8C%EB%9F%AD%EC%8A%A4%EC%99%80-%EC%BD%94%EB%A3%A8%ED%8B%B4-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)

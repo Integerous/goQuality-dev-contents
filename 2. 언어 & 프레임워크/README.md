@@ -76,7 +76,7 @@
 - [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
 - [코틀린 코루틴(coroutine) 개념 익히기](https://wooooooak.github.io/kotlin/2019/08/25/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EA%B0%9C%EB%85%90-%EC%9D%B5%ED%9E%88%EA%B8%B0/)
 - [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
-
+- [Kotlin ORM 프레임 워크 Exposed](https://cheese10yun.github.io/exposed/)
 
 ### Spring framework
 - [스프링 부트, 포매터 손쉽게 사용하기](https://www.whiteship.me/spring-boot-formatter/)
@@ -180,6 +180,8 @@
 - [스프링 배치 4.2 레퍼런스 한글 번역](https://godekdls.github.io/Spring%20Batch/domainlanguage/)
 - [Understanding MicroSERVICE Architecture with Java & Spring Boot [슬라이드]](https://www.slideshare.net/kashifalisiddiqui/understanding-microservice-architecture-with-java-spring-boot)
 - [Spring 의 동기, 비동기, 배치 처리시 항상 context 를 유지하고 로깅하기](https://blog.gangnamunni.com/post/mdc-context-task-decorator/)
+- [Spring Cloud Gateway Error Handling & Filter](https://cheese10yun.github.io/spring-cloud-gateway-2/)
+
 
 ### JPA & Hibernate
 - [JPA 덕분에 DB에서 삽질한 이야기](http://thefarmersfront.github.io/blog/jpa-uuid-sapjil/)
