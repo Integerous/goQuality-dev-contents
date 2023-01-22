@@ -1160,6 +1160,6 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 >아래의 유익한 저장소들에 방문해보세요!
 - [주니어 개발자를 위한 취업 정보 모음](https://github.com/jojoldu/junior-recruit-scheduler)
 - [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
-- [개발자 블로그 모음](https://github.com/sarojaba/awesome-devblog)
+- [개발자 블로그 모음](https://github.com/awesome-devblog/awesome-devblog)
 - [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)
 - [iOS 개발에 대한 질문과 답변 모음](http://bit.ly/2yhZa9Q)
