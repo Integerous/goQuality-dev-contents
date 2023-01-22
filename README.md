@@ -98,7 +98,6 @@
 # :mailbox: Queue
 >컨텐츠 링크를 가장 아래부터 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
-
 - [어디가서 코프링 알은체하기](https://www.youtube.com/watch?v=ewBri47JWII)
 - [당근마켓에 웹 프로젝트 배포하기](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c)
 - [Spring webflux + coroutine](https://devsh.tistory.com/m/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9%ED%94%8C%EB%9F%AD%EC%8A%A4%EC%99%80-%EC%BD%94%EB%A3%A8%ED%8B%B4-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
@@ -1143,6 +1142,13 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture/)
 - [Promise는 왜 취소가 안 될까?](https://tech.kakao.com/2023/01/11/promise-cancelation-in-javascript/)
 - [아마존 합격 후 출국 하루 전 해고당한 2022 회고](https://sudojslee.github.io/posts/2022-amazon-layoff/)
+- [동시성, 병렬, 비동기, 논블럭킹과 컨셉들](https://black7375.tistory.com/90)
+- [메시징 시스템 트러블 슈팅 (네트워크, 메모리)](https://engineering.linecorp.com/ko/blog/messaing-hub-troubleshooting)
+- [FMS(차량 관제 시스템) 데이터 파이프라인 구축기](https://tech.socarcorp.kr/data/2023/01/17/build-fms-data-pipeline-1.html)
+- [좋은 함수 만들기](https://jojoldu.tistory.com/697)
+- [적정기술 딜레마](https://fe-developers.kakaoent.com/2023/230112-appropriate-technology)
+- [CTO가 커리어를 걸고 비트 레벨까지 내려가서 DB를 해킹했던 이야기](https://tech.devsisters.com/posts/bit-level-database-hacking/#ft_1)
+
 
 --------------------------------------
 </br>
