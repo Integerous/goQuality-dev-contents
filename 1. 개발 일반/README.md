@@ -350,7 +350,7 @@
 - [베를린 Software engineer 취업기 (독일 개발자 취업) [영상]](http://bit.ly/2SifdwI)
 - [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
 - [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
-- [프론트엔드 개발자를 위한 면접(인터뷰) 핸드북 [번역]](https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/kr/README.md)
+- [프론트엔드 개발자를 위한 면접(인터뷰) 핸드북 [번역]](https://www.frontendinterviewhandbook.com/kr/javascript-questions/)
 - [개발자를 위한 자료구조, 알고리즘 면접 질문 [영문]](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 - [개발자가 이직에 대해 생각할 때...](https://brunch.co.kr/@supims/4)
 - [5년차 안드로이드 개발자의 이직이야기](https://medium.com/@maryangmin/5%EB%85%84%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-6004ccc0ca4f)
