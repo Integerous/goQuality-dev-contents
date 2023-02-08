@@ -37,7 +37,7 @@
 - [실용주의 프로그래머 내용 요약](https://blog.ordinarysimple.com/posts/programming/2018-11-04-the-progmatic-programmer/)
 - [개발자처럼 생각하는 방법 [번역]](https://www.vobour.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%98-%EA%B5%90%ED%9B%88-how-to-think-l)
 - [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/)
-- [의도적 수련 2 – 프로그래머에게 적합한 의도적 수련](http://www.insightbook.co.kr/13171)
+- [의도적 수련 2 – 프로그래머에게 적합한 의도적 수련](https://blog.insightbook.co.kr/2018/12/06/%ec%9d%98%eb%8f%84%ec%a0%81-%ec%88%98%eb%a0%a8-2-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%a8%b8%ec%97%90%ea%b2%8c-%ec%a0%81%ed%95%a9%ed%95%9c-%ec%9d%98%eb%8f%84%ec%a0%81-%ec%88%98%eb%a0%a8/)
 - [프레임워크 공부를 멈춰라 [번역]](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474?fbclid=IwAR3PyPzrIcbDkN9oS4MfOCdQZ7evU4ljW6o406sr-wrieyPjjRPpLjat8K0)
 - [개발문화 - 코드리뷰](https://brunch.co.kr/@seonology/23)
 - [객체 모델링 공부하게 책 하나 추천해주세요.](https://www.popit.kr/%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B2%8C-%EC%B1%85-%ED%95%98%EB%82%98-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94/)
