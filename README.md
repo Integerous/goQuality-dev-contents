@@ -98,12 +98,6 @@
 # :mailbox: Queue
 >컨텐츠 링크를 가장 아래부터 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
-- [어디가서 코프링 알은체하기](https://www.youtube.com/watch?v=ewBri47JWII)
-- [당근마켓에 웹 프로젝트 배포하기](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c)
-- [Spring webflux + coroutine](https://devsh.tistory.com/m/entry/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9%ED%94%8C%EB%9F%AD%EC%8A%A4%EC%99%80-%EC%BD%94%EB%A3%A8%ED%8B%B4-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
-- [Vectorized and performance-portable Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html?m=1)
-- [5수생 개발자 2021 회고](https://highjune.dev/memoires/memoires2021/)
-- [지식iN 앱을 Flutter로 개발하는 이유](https://d2.naver.com/helloworld/3384599)
 - [쏘카 예약을 효율적으로 - 수학적 모델링을 활용한 쏘카 예약 테트리스](https://tech.socarcorp.kr/data/2022/06/10/reservation-tetris.html?)
 - [간단하지만 까다로운 언리얼 엔진 개발 환경 구축](https://netmarble.engineering/unreal-engine-dev-build-setting/)
 - [내가 프론트엔드를 학습한 방법](https://miryang.dev/blog/how-studied-frontend)

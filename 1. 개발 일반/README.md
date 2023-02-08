@@ -249,7 +249,8 @@
 - [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect)
 - [레디스 개발자 메인테이너 자리에서 내려오다](http://antirez.com/news/133)
 - [그런 개발자로 괜찮은가 - '자기계발' 편](https://taetaetae.github.io/2020/06/28/a-good-developer-in-terms-of-self-development/)
-
+- [5수생 개발자 2021 회고](https://highjune.dev/memoires/memoires2021/)
+- 
 --------------------------------------
 
 ### 비전공자 & 신입

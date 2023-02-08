@@ -77,6 +77,7 @@
 - [코틀린 코루틴(coroutine) 개념 익히기](https://wooooooak.github.io/kotlin/2019/08/25/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EA%B0%9C%EB%85%90-%EC%9D%B5%ED%9E%88%EA%B8%B0/)
 - [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
 - [Kotlin ORM 프레임 워크 Exposed](https://cheese10yun.github.io/exposed/)
+- [어디가서 코프링 알은체하기](https://www.youtube.com/watch?v=ewBri47JWII)
 
 ### Spring framework
 - [스프링 부트, 포매터 손쉽게 사용하기](https://www.whiteship.me/spring-boot-formatter/)
