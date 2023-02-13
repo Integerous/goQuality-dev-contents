@@ -1142,6 +1142,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [좋은 함수 만들기](https://jojoldu.tistory.com/697)
 - [적정기술 딜레마](https://fe-developers.kakaoent.com/2023/230112-appropriate-technology)
 - [CTO가 커리어를 걸고 비트 레벨까지 내려가서 DB를 해킹했던 이야기](https://tech.devsisters.com/posts/bit-level-database-hacking/#ft_1)
+- [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 
 
 --------------------------------------
