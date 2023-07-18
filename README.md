@@ -17,6 +17,8 @@
 >좋은 컨텐츠를 널리 알리면 더 많이 소비되고, 더 많이 소비되면 더 많이 생산된다는 생각으로  
 >컨텐츠 생산자와 소비자 모두에게 유익한 선순환을 만들고자 합니다.  
 
+🧵 [Threads](https://www.threads.net/@dev_commuter)에도 컨텐츠가 업로드 됩니다. https://www.threads.net/@dev_commuter
+
 --------------------------------------
 ### :family: 누구나 Contributor가 될 수 있습니다!
 >유익한 개발 관련 **글/영상/슬라이드**의 링크를 공유해주세요.
@@ -1143,6 +1145,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [적정기술 딜레마](https://fe-developers.kakaoent.com/2023/230112-appropriate-technology)
 - [CTO가 커리어를 걸고 비트 레벨까지 내려가서 DB를 해킹했던 이야기](https://tech.devsisters.com/posts/bit-level-database-hacking/#ft_1)
 - [이제는 개발자도 CPU 아키텍처를 구분해야 합니다](https://velog.io/@480/%EC%9D%B4%EC%A0%9C%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-CPU-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%A5%BC-%EA%B5%AC%EB%B6%84%ED%95%B4%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4)
+- [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 
 
 --------------------------------------
