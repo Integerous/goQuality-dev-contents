@@ -455,7 +455,6 @@
 - [Dozer Mapper 사용 방법](https://narup.tistory.com/31)
 - [주니어 프론트엔드 개발자의 채용 프로세스 참여 후기](https://zuminternet.github.io/zum-front-recurit-review/)
 - [Declarative and Scalable Testing With React Testing Library](https://javascript.plainenglish.io/declarative-and-scalable-testing-with-react-testing-library-177f35f41396)
-- [주니어 프론트엔드 개발자의 채용 프로세스 참여 후기](https://zuminternet.github.io/zum-front-recurit-review/)
 - [객체지향 5원칙 (SOLID)은 구시대의 유물 ?](https://mangsby.com/blog/programming/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-5%EC%9B%90%EC%B9%99-solid%EC%9D%80-%EA%B5%AC%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%9C%A0%EB%AC%BC%EC%9D%B8%EA%B0%80/)
 - [제목은 Vue에서의 데이터 시각화로 하겠습니다, 근데 이제 Chart.js를 곁들인](https://wormwlrm.github.io/2021/07/02/Data-Visualization-with-Chart-js.html)
 - [자바스크립트와 V8 엔진의 메모리 관리 프로세스](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
