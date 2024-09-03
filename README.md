@@ -2,7 +2,7 @@
 
 [![author](https://img.shields.io/badge/author-Integerous-lightgray.svg?style=flat-square)](https://ryan-han.com)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
-# { 고퀄리티:zap:개발 컨텐츠 모음 }
+# { 고퀄리티 ⚡ 개발 컨텐츠 모음 }
 
 <div align=center>
 <a href="https://github.com/Integerous/goQuality-dev-contents/graphs/contributors"><img src="https://opencollective.com/goquality-dev-contents/contributors.svg?width=720"></a>
@@ -17,8 +17,6 @@
 >좋은 컨텐츠를 널리 알리면 더 많이 소비되고, 더 많이 소비되면 더 많이 생산된다는 생각으로  
 >컨텐츠 생산자와 소비자 모두에게 유익한 선순환을 만들고자 합니다.  
 
-🧵 [Threads](https://www.threads.net/@dev_commuter)에도 컨텐츠가 업로드 됩니다. https://www.threads.net/@dev_commuter
-
 --------------------------------------
 ### :family: 누구나 Contributor가 될 수 있습니다!
 >유익한 개발 관련 **글/영상/슬라이드**의 링크를 공유해주세요.
@@ -28,7 +26,6 @@
 - [오픈채팅방 1](https://open.kakao.com/o/gx89mP0)
 - [오픈채팅방 2](https://open.kakao.com/o/gwCKgrOb)
 - [오픈채팅방 3](https://open.kakao.com/o/gz7Kiz3c)
-- [오픈채팅방 4](https://open.kakao.com/o/giHajuXe) 
 
 >단순 기사, 저작권법 위반 컨텐츠는 공유 금지!
 
