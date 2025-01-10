@@ -1143,7 +1143,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [이제는 개발자도 CPU 아키텍처를 구분해야 합니다](https://velog.io/@480/%EC%9D%B4%EC%A0%9C%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-CPU-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%A5%BC-%EA%B5%AC%EB%B6%84%ED%95%B4%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4)
 - [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 - [RSA 암호화 3분만에 이해하기](https://velog.io/@480/RSA-%EC%95%94%ED%98%B8%ED%99%94-3%EB%B6%84-%EB%A7%8C%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
-
+- [주니어 개발자를 채용하지 않는 회사는 앞으로 몰락합니다](https://maily.so/devpill/posts/d8ea7069)
 
 --------------------------------------
 </br>
