@@ -1,10 +1,82 @@
-# 2. 언어 & 프레임워크
->자바스크립트는 [4.프론트엔드](https://github.com/Integerous/goQuality-dev-contents#4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-1) 분야에 모았습니다.
+# 3. 언어/프레임워크
 
+> 📌 목차
+> - [Python](#python)
+>   - [Python](#python)
+>   - [Django](#django)
+>   - [Flask](#flask)
+>   - [FastAPI](#fastapi)
+>   - [그 외](#그-외)
+> - [Java](#java)
+>   - [Java](#java)
+>   - [JVM](#jvm)
+>   - [Spring](#spring)
+>   - [JPA](#jpa)
+>   - [그 외](#그-외-java)
+> - [Kotlin](#kotlin)
+> - [Javascript](#javascript)
+>   - [Javascript](#javascript)
+>   - [Typescript](#typescript)
+>   - [Node.js/Deno](#nodejsdeno)
+>   - [React.js](#reactjs)
+>   - [Vue.js](#vuejs)
+>   - [Svelte](#svelte)
+>   - [Next.js](#nextjs)
+>   - [Nuxt.js](#nuxtjs)
+>   - [Nest.js](#nestjs)
+>   - [그 외](#그-외-javascript)
+> - [C/C++](#cc)
+> - [C#](#csharp)
+> - [Go](#go)
+> - [Ruby](#ruby)
+> - [PHP](#php)
+> - [함수형 언어](#함수형-언어)
+>   - [Rust](#rust)
+>   - [Scala](#scala)
+>   - [그 외](#그-외-함수형-언어)
+> - [그 외](#그-외)
+
+---
+
+## Python
+
+### Python
+
+- [파이썬 초보에서 중수가 되기 위한 9가지 스킬 [번역]](https://lazymatlab.tistory.com/92?category=827585)
+- [알고리즘 시각화 라이브러리 ipytracer 개발기](http://bit.ly/2P8drPV)
+- [장고 ORM 요리책 [번역]](http://bit.ly/2P6bUKg)
+- [PEP 8 파이썬 코드 스타일 가이드 번역 및 요약](http://bit.ly/2z10GMW)
+- [파이썬으로 테스트 시작하기 [영문]](https://realpython.com/python-testing/)
+- [Python GC가 작동하는 원리](https://winterj.me/python-gc/)
+- [Python 프로젝트 시작하기](http://j.mp/2Ss7xrx)
+- [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
+- [Django 3.0 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-3-0-release-note-summary)
+- [파이썬(Python) datetime 클래스 치트시트](https://www.44bits.io/ko/post/python-datatime-cheetsheet)
+
+---
+### Django
+
+<!-- Add content here -->
+
+### Flask
+
+<!-- Add content here -->
+
+### FastAPI
+
+<!-- Add content here -->
+
+### 그 외 Python
+
+<!-- Add content here -->
+
+## Java
+
+---
 ### Java
 - [자바 스프링 실전 가이드 [영상]](https://www.youtube.com/watch?v=TIag2sXhZRk)
 - [JetBrains가 사랑하는 Java의 25가지 특징](https://blog.jetbrains.com/kr/2020/05/25-things-we-love-about-java-ko/)
-- [Java NIO FileChannel 과 DirectByteBuffer](http://homoefficio.github.io/2020/08/10/Java-NIO-FileChannel-%EA%B3%BC-DirectByteBuffer)  
+- [Java NIO FileChannel 과 DirectByteBuffer](http://homoefficio.github.io/2020/08/10/Java-NIO-FileChannel-%EA%B3%BC-DirectByteBuffer)
 - [Java 8, 9, 10을 손쉽게 전환하면서 사용하는 방법](https://blog.naver.com/writer0713/221266129828)
 - [for문을 Stream.forEach()로 바꾸지 말아야 할 3가지 이유](https://homoefficio.github.io/2016/06/26/for-loop-%EB%A5%BC-Stream-forEach-%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-3%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0/)
 - [Java 유료 논쟁, Oracle JDK와 Open JDK 차이 정리](https://jsonobject.tistory.com/395)
@@ -25,11 +97,11 @@
 - [JDK8 적용 후 심각한 성능저하가 발생한다면?](https://brunch.co.kr/@heracul/1)
 - [자바 바이트코드 소개](https://iamsang.com/blog/2012/08/19/introduction-to-java-bytecode/)
 - [자바 HashMap 효과적으로 사용하기 [번역]](http://tech.javacafe.io/2018/12/03/HashMap)
-- [Back to the Essence - Java 컴파일에서 실행까지 1편](https://github.com/HomoEfficio/dev-tips/blob/master/Back%20to%20the%20Essence%20-%20Java%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C%20%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80%20-%20(1).md)
+- [Back to the Essence - Java 컴파일에서 실행까지 1편](<https://github.com/HomoEfficio/dev-tips/blob/master/Back%20to%20the%20Essence%20-%20Java%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C%20%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80%20-%20(1).md>)
 - [Java에서 Garbage collection에 대해 깊이 분석하고 깔끔하게 정리한 글](https://yaboong.github.io/java/2018/06/09/java-garbage-collection/)
 - [Java에서 String은 왜 immutable인가? [번역]](http://www.mimul.com/pebble/default/2015/10/10/1444466677572.html)
 - [자바에서 null을 안전하게 다루는 방법 [슬라이드]](https://www.slideshare.net/mobile/gyumee/null-142590829)
-- [Integer.valueOf(127) == Integer.valueOf(127) 는 참일까요?](https://meetup.toast.com/posts/185)  
+- [Integer.valueOf(127) == Integer.valueOf(127) 는 참일까요?](https://meetup.toast.com/posts/185)
 - [자바, 성능, 모니터링 테크세미나 정리 및 후기 (by 우아한 형제들)](https://taetaetae.github.io/2019/05/12/got-of-java-seminar/)
 - [자바 checked Exception 가이드](https://github.com/cheese10yun/blog-sample/blob/master/exception/README.md)
 - [자바 코딩 규칙(컨벤션) [번역]](https://newwisdom.tistory.com/96)
@@ -54,7 +126,7 @@
 - [Java NIO - 1. 왜 자바의 IO 패키지는 느린가?](https://leeyh0216.github.io/2020-05-10/java_nio_why_java_io_slow)
 - [OpenJDK: In the new age of Concurrent Garbage Collectors, by Monica Beckwith (2020) [영상]](https://youtu.be/kR8_r3kMK-Y)
 
-
+---
 ### JVM
 - [JVM, JRE, JDK의 차이 간단 설명](https://wikidocs.net/257)
 - [JVM이 깔끔하게 설명된 글](http://asfirstalways.tistory.com/158)
@@ -70,16 +142,8 @@
 - [자바 - OOM 메모리 릭 찾기 이론편](https://blog.naver.com/PostView.nhn?blogId=2feelus&logNo=220765728530)
 - [Jackson 직렬화 옵션의 적절한 활용과 Jackson에 기여하기까지](https://hyperconnect.github.io/2019/10/28/jackson-serialize-for-global-caching.html)
 
-
-### Kotlin
-- [Kotlin 도입 과정에서 만난 문제와 해결 방법](https://d2.naver.com/helloworld/6685007)
-- [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
-- [코틀린 코루틴(coroutine) 개념 익히기](https://wooooooak.github.io/kotlin/2019/08/25/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EA%B0%9C%EB%85%90-%EC%9D%B5%ED%9E%88%EA%B8%B0/)
-- [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
-- [Kotlin ORM 프레임 워크 Exposed](https://cheese10yun.github.io/exposed/)
-- [어디가서 코프링 알은체하기](https://www.youtube.com/watch?v=ewBri47JWII)
-
-### Spring framework
+---
+### Spring
 - [스프링 부트, 포매터 손쉽게 사용하기](https://www.whiteship.me/spring-boot-formatter/)
 - [스프링 부트에서 Request 유효성 검사하는 방법, 서버 개발한다면 꼭 해야하는 작업 Spring Validation](https://jeong-pro.tistory.com/203)
 - [동일한 Bean(Class)에서 @Transactional 동작 방식](https://cheese10yun.github.io/spring-transacion-same-bean/)
@@ -183,7 +247,8 @@
 - [Spring Cloud Gateway Error Handling & Filter](https://cheese10yun.github.io/spring-cloud-gateway-2/)
 
 
-### JPA & Hibernate
+### JPA
+
 - [JPA 덕분에 DB에서 삽질한 이야기](http://thefarmersfront.github.io/blog/jpa-uuid-sapjil/)
 - [Spring Data JPA와 AspectJ가 함께 친 사고](http://www.chidoo.me/index.php/2018/04/22/conflict-of-spring-data-jpa-and-aspectj/)
 - [Spring-Jpa Best Practices 쳅터 별로 정리](https://github.com/cheese10yun/spring-jpa-best-practices)
@@ -204,25 +269,63 @@
 - [JPA 기반 테스트 코드 작성 팁](https://cheese10yun.github.io/jpa-test-support/)
 - [Bean Validation을 여행하는 초보 사용자를 위한 안내서](https://www.notion.so/Bean-Validation-2f70a3f0aae94621886487477097abfa)
 
+## Kotlin
 
---------------------------------------
+- [Kotlin 도입 과정에서 만난 문제와 해결 방법](https://d2.naver.com/helloworld/6685007)
+- [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
+- [코틀린 코루틴(coroutine) 개념 익히기](https://wooooooak.github.io/kotlin/2019/08/25/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EA%B0%9C%EB%85%90-%EC%9D%B5%ED%9E%88%EA%B8%B0/)
+- [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
+- [Kotlin ORM 프레임 워크 Exposed](https://cheese10yun.github.io/exposed/)
+- [어디가서 코프링 알은체하기](https://www.youtube.com/watch?v=ewBri47JWII)
 
-### Python
-- [파이썬 초보에서 중수가 되기 위한 9가지 스킬 [번역]](https://lazymatlab.tistory.com/92?category=827585)
-- [알고리즘 시각화 라이브러리 ipytracer 개발기](http://bit.ly/2P8drPV)
-- [장고 ORM 요리책 [번역]](http://bit.ly/2P6bUKg)
-- [PEP 8 파이썬 코드 스타일 가이드 번역 및 요약](http://bit.ly/2z10GMW)
-- [파이썬으로 테스트 시작하기 [영문]](https://realpython.com/python-testing/)
-- [Python GC가 작동하는 원리](https://winterj.me/python-gc/)
-- [Python 프로젝트 시작하기](http://j.mp/2Ss7xrx)
-- [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
-- [Django 3.0 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-3-0-release-note-summary)
-- [파이썬(Python) datetime 클래스 치트시트](https://www.44bits.io/ko/post/python-datatime-cheetsheet)
+## Javascript
 
+### Typescript
 
---------------------------------------
+<!-- Add content here -->
 
-### Go
+### Node.js/Deno
+
+<!-- Add content here -->
+
+### React.js
+
+<!-- Add content here -->
+
+### Vue.js
+
+<!-- Add content here -->
+
+### Svelte
+
+<!-- Add content here -->
+
+### Next.js
+
+<!-- Add content here -->
+
+### Nuxt.js
+
+<!-- Add content here -->
+
+### Nest.js
+
+<!-- Add content here -->
+
+### 그 외 Javascript
+
+<!-- Add content here -->
+
+## C/C++
+
+<!-- Add content here -->
+
+## C#
+
+<!-- Add content here -->
+
+## Go
+
 - [Go Clean Architecture](https://github.com/bxcodec/go-clean-arch)
 - [GO 언어를 처음 접하는 사람들을 위한 GOLANG 안내서](http://bit.ly/2pKjqME)
 - [왜 Go가 CockroachDB에 올바른 선택인가 [번역]](http://bit.ly/2RbDSBD)
@@ -235,14 +338,26 @@
 - [컨테이너 내부 Go 애플리케이션 디버깅하기](https://mingrammer.com/debugging-containerized-go-app/)
 - [Go의 철학 [번역]](https://marsettler.com/the-zen-of-go/)
 
+## Ruby
 
---------------------------------------
+<!-- Add content here -->
+
+## PHP
+- [PHP The right way](https://modernpug.github.io/php-the-right-way/)
+
+## 함수형 언어
 
 ### Rust
 - [Rust 한글 문서](https://rinthel.github.io/rust-lang-book-ko/)
 
+---
+### Scala
 
---------------------------------------
 
-### PHP
-- [PHP The right way](https://modernpug.github.io/php-the-right-way/)
+---
+### 그 외 함수형 언어
+
+<!-- Add content here -->
+
+## 그 외
+

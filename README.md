@@ -1,101 +1,205 @@
-
-
 [![author](https://img.shields.io/badge/author-Integerous-lightgray.svg?style=flat-square)](https://ryan-han.com)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/Integerous/goQuality-dev-contents/blob/master/LICENSE)
+
 # { 고퀄리티 ⚡ 개발 컨텐츠 모음 }
 
 <div align=center>
 <a href="https://github.com/Integerous/goQuality-dev-contents/graphs/contributors"><img src="https://opencollective.com/goquality-dev-contents/contributors.svg?width=720"></a>
 </div>
 
-
-
 </br>
 
 ## :mega: 소개
->**유익한 개발 컨텐츠를 비추는 카메라** 입니다.  
->좋은 컨텐츠를 널리 알리면 더 많이 소비되고, 더 많이 소비되면 더 많이 생산된다는 생각으로  
->컨텐츠 생산자와 소비자 모두에게 유익한 선순환을 만들고자 합니다.  
 
---------------------------------------
+> **유익한 개발 컨텐츠를 비추는 카메라** 입니다.  
+> 좋은 컨텐츠를 널리 알리면 더 많이 소비되고, 더 많이 소비되면 더 많이 생산된다는 생각으로  
+> 컨텐츠 생산자와 소비자 모두에게 유익한 선순환을 만들고자 합니다.
+
+---
+
 ### :family: 누구나 Contributor가 될 수 있습니다!
->유익한 개발 관련 **글/영상/슬라이드**의 링크를 공유해주세요.
+
+> 유익한 개발 관련 **글/영상/슬라이드**의 링크를 공유해주세요.
 
 방법 1 - 아래 :mailbox:**Queue** 최하단에 링크 추가하고 **Pull Request**  
 방법 2 - 카톡 오픈채팅방에 링크 공유 (참여코드: 1007)
+
 - [오픈채팅방 1](https://open.kakao.com/o/gx89mP0)
 - [오픈채팅방 2](https://open.kakao.com/o/gwCKgrOb)
 - [오픈채팅방 3](https://open.kakao.com/o/gz7Kiz3c)
 
->단순 기사, 저작권법 위반 컨텐츠는 공유 금지!
+> 단순 기사, 저작권법 위반 컨텐츠는 공유 금지!
 
---------------------------------------
+---
+
 </br>
 
 # :mag_right: 카테고리
 
 ### 1. 개발 일반
-- [개발 문화/철학/방법론](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94%EC%B2%A0%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0)
-- [TDD & 테스트 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#tdd--%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8)
-- [DDD & CQRS](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#ddd--cqrs)
-- [개발자 성장](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%84%B1%EC%9E%A5)
-- [비전공자 & 신입](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90--%EC%8B%A0%EC%9E%85)
-- [세미나/컨퍼런스 후기 및 발표자료](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EC%84%B8%EB%AF%B8%EB%82%98%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0-%EB%B0%8F-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
-- [취업 & 이직 & 면접 & 코딩테스트](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EC%B7%A8%EC%97%85--%EC%9D%B4%EC%A7%81--%EB%A9%B4%EC%A0%91--%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
 
-### 2. 언어 & 프레임워크
-- [Java](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#java)
-  - [JVM](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#jvm)
-- [Kotlin](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#kotlin)
-- [Spring framework](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#spring-framework)
-  - [JPA & Hibernate](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#jpa--hibernate)
-- [Javascript](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#javascript-%EA%B4%80%EB%A0%A8)
-- [Python](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#python)
-- [Go](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#go)
-- [Rust](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#rust)
-- [PHP](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#php)
+- [개발 문화/철학/방법론](#)
+- [소프트웨어 설계](#)
+  - [OOP](#)
+  - [함수형 프로그래밍](#)
+  - [DDD](#)
+  - [그 외](#)
+- [테스트/TDD](#)
 
-### 3. 백엔드
-- [서버 & 클라우드 & 아키텍쳐](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C--%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
-  - [마이크로서비스 MSA](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-msa)
-  - [레디스 Redis](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%A0%88%EB%94%94%EC%8A%A4-redis)
-  - [카프카 Kafka](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%B9%B4%ED%94%84%EC%B9%B4-kafka)
-- [데이터베이스 & SQL](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4--sql)
-- [운영체제 (리눅스, MacOS, 윈도우)](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-macos-%EC%9C%88%EB%8F%84%EC%9A%B0)
-- [네트워크](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+### 2. 개발자 커리어
 
-### 4. 프론트엔드
-- [프론트엔드 일반](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9D%BC%EB%B0%98)
-- [Javascript 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#javascript-%EA%B4%80%EB%A0%A8)
-  - [Node.js & Deno](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#nodejs--deno)
-  - [React.js](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#reactjs)
-  - [Vue.js](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#vuejs)
-  - [TypeScript](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#typescript)
-- [디자인 & UI/UX & CSS](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#%EB%94%94%EC%9E%90%EC%9D%B8--uiux--css)
-- [모바일 & iOS & 안드로이드](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#%EB%AA%A8%EB%B0%94%EC%9D%BC--ios--%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
+- [성장](#)
+- [비전공자/신입](#)
+- [취업/이직](#)
+  - [후기](#)
+  - [이력서/포트폴리오](#)
+  - [기술 면접](#)
+  - [코딩 테스트](#)
+- [해외 취업](#)
+  - [미국/캐나다](#)
+  - [영국/독일/유럽](#)
+  - [호주/뉴질랜드](#)
+  - [일본/싱가포르](#)
+  - [동남아시아](#)
+  - [그 외](#)
+- [1인 개발](#)
+  - [제품 개발 과정](#)
+  - [성장/마케팅 전략](#)
+  - [그 외](#)
 
-### 5. 인프라 & DevOps
-- [도커 Docker](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%26%20DevOps#%EB%8F%84%EC%BB%A4-docker)
-- [쿠버네티스 Kubernetes](https://github.com/Integerous/goQuality-dev-contents/tree/master/5.%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%26%20DevOps#%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-kubernetes)
+### 3. 언어/프레임워크
 
-### 6. 기타
-- [Git](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#git)
-- [웹 관련](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#%EC%9B%B9-%EA%B4%80%EB%A0%A8)
-- [REST & GraphQL](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#rest--graphql)
-- [알고리즘 & 자료구조](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98--%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
-- [머신러닝 & 딥러닝 & AI](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D--%EB%94%A5%EB%9F%AC%EB%8B%9D--ai)
-- [데이터 사이언스 & 데이터 엔지니어링](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4--%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)
-- [블록체인](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
-- [보안](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#%EB%B3%B4%EC%95%88)
-- [Vim](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#vim)
-- [기타](https://github.com/Integerous/goQuality-dev-contents/tree/master/6.%20%EA%B8%B0%ED%83%80#%EA%B8%B0%ED%83%80)
+- [Python](#)
+  - [Python](#)
+  - [Django](#)
+  - [Flask](#)
+  - [FastAPI](#)
+  - [그 외](#)
+- [Java](#)
+  - [Java](#)
+  - [Spring](#)
+  - [JPA](#)
+  - [그 외](#)
+- [Kotlin](#)
+- [Javascript](#)
+  - [Javascript](#)
+  - [Typescript](#)
+  - [Node.js/Deno](#)
+  - [React.js](#)
+  - [Vue.js](#)
+  - [Svelte](#)
+  - [Next.js](#)
+  - [Nuxt.js](#)
+  - [Nest.js](#)
+  - [그 외](#)
+- [C/C++](#)
+- [C#](#)
+- [Go](#)
+- [Ruby](#)
+- [PHP](#)
+- [함수형 언어](#)
+  - [Rust](#)
+  - [Scala](#)
+  - [그 외](#)
+- [그 외](#)
 
+### 4. 백엔드
 
---------------------------------------
+- [시스템 설계/구현](#)
+  - [아키텍처](#)
+  - [서버 구현](#)
+  - [성능 최적화](#)
+  - [장애/디버깅](#)
+  - [로깅/알람](#)
+  - [캐시](#)
+  - [메시지 큐](#)
+  - [마이그레이션](#)
+  - [보안](#)
+- [그 외](#)
+
+### 5. DB
+
+- [SQL](#)
+- [관계형DB](#)
+  - [PostgreSQL](#)
+  - [MySQL](#)
+  - [AWS/Azure/GCP](#)
+  - [Supabase](#)
+  - [그 외](#)
+- [NoSQL](#)
+  - [MongoDB](#)
+  - [Redis](#)
+  - [AWS/Azure/GCP](#)
+  - [그 외](#)
+- [성능 최적화](#)
+- [그 외](#)
+
+### 6. 프론트엔드
+
+- [프론트엔드 일반](#)
+- [웹 관련](#)
+- [디자인/UI](#)
+- [CSS](#)
+
+### 7. 모바일
+
+- [iOS](#)
+- [안드로이드](#)
+- [크로스 플랫폼](#)
+  - [Flutter](#)
+  - [React Native](#)
+  - [그 외](#)
+
+### 8. 인프라/DevOps
+
+- [Kubernetes](#)
+- [Docker](#)
+- [AWS/Azure/GCP](#)
+- [그 외](#)
+
+### 9. AI
+
+- [AI 서비스 개발](#)
+- [기술/개념 이해](#)
+- [머신러닝/딥러닝](#)
+- [LLM](#)
+- [논문](#)
+- [그 외](#)
+
+### 10. 데이터
+
+- [데이터 사이언스/분석](#)
+- [데이터 엔지니어링](#)
+- [그 외](#)
+
+### 11. 컴퓨터공학
+
+- [알고리즘/자료구조](#)
+- [운영체제](#)
+- [네트워크](#)
+- [HTTP/웹](#)
+- [그 외](#)
+
+### 12. 블록체인
+
+### 13. 보안
+
+### 14. 도구
+
+- [생산성 도구](#)
+- [Git](#)
+- [컴퓨터/키보드](#)
+- [Vim](#)
+
+### 15. 기타
+
+---
+
 </br>
 
 # :mailbox: Queue
->컨텐츠 링크를 가장 아래부터 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
+
+> 컨텐츠 링크를 가장 아래부터 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
 - [쏘카 예약을 효율적으로 - 수학적 모델링을 활용한 쏘카 예약 테트리스](https://tech.socarcorp.kr/data/2022/06/10/reservation-tetris.html?)
 - [간단하지만 까다로운 언리얼 엔진 개발 환경 구축](https://netmarble.engineering/unreal-engine-dev-build-setting/)
@@ -199,7 +303,7 @@
 - [개발팀과 개발팀장이 사라져야 하는 이유](https://seokjun.kim/no-reason-for-dev-team/)
 - [2022년 딥러닝입문 알고리즘 탑10](https://www.analyticsinsight.net/top-10-deep-learning-algorithms-beginners-should-know-in-2022/)
 - [간단한 카프카 환경 구성하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163709)
-- [그 많던 import React from ‘react’는 어디로 갔을까](https://so-so.dev/react/import-react-from-react/)
+- [그 많던 import React from 'react'는 어디로 갔을까](https://so-so.dev/react/import-react-from-react/)
 - [Jekyll에서 Gatsby로 떠나는 마이그레이션 여정](https://wormwlrm.github.io/2022/02/25/Migration-Journey-from-Jekyll-to-Gatsby.html)
 - [strace가 -k 옵션을 만난 날](https://netmarble.engineering/strace-k-build-guide/)
 - [Cloudflare Workers & KV로 Guestbook 개발하기](https://miryang.dev/blog/develop-guestbook-with-cloudflareworkers)
@@ -216,7 +320,7 @@
 - [2022년 1월 100% 할인 이벤트 장애 부검](https://tech.inflab.com/202201-event-postmortem)
 - [postman의 gRPC 지원](https://blog.postman.com/postman-now-supports-grpc/)
 - [LINE의 2022년 신년 대응: 리모트 환경에서 트래픽 폭증에 대비하기](https://engineering.linecorp.com/ko/blog/line-2022-new-year/)
-- [Instagram System  Architecture](https://medium.com/interviewnoodle/instagram-system-architecture-fdbec22e48ee)
+- [Instagram System Architecture](https://medium.com/interviewnoodle/instagram-system-architecture-fdbec22e48ee)
 - [[Kotlin] 상태를 가변적으로 관리하는 발생하는 문제](https://dataportal.kr/65)
 - [Serverless로 E-Commerce 만들기 / 블랙프라이데이 트래픽 썰 / 스타트업에서 CTO는 뭘 하는 자리인가?](https://medium.com/@kurtlee/serverless%EB%A1%9C-e-commerce-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%B8%94%EB%9E%99%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%8D%B0-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-cto%EB%8A%94-%EB%AD%98-%ED%95%98%EB%8A%94-%EC%9E%90%EB%A6%AC%EC%9D%B8%EA%B0%80-a6f9d9beb930#gaerae.com)
 - [Spring 개발자의 NestJs 적응하기](https://medium.com/zigbang/spring-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-nestjs-%EC%A0%81%EC%9D%91%ED%95%98%EA%B8%B0-a816fa0f38a9)
@@ -257,7 +361,7 @@
 - [슬기로운 코드 리뷰 생활 with GitHub Pull Request](https://medium.com/zigbang/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EC%83%9D%ED%99%9C-with-github-pull-request-7932b5d47c70)
 - [코틀린 예제로 작성된 프로젝트 리액터 기초 및 고급 활용법](https://devsh.tistory.com/m/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EC%95%A1%ED%84%B0-%EA%B8%B0%EC%B4%88-1-%EB%AA%A8%EB%85%B8?fbclid=IwAR1oUudKEiWCQ3yvo8ebDPY8sLs8CKW1Gxac4xy3wYbogJ7jPLD0MpGVWTU)
 - [카카오웹툰은 GitHub Actions를 어떻게 사용하고 있을까?](https://fe-developers.kakaoent.com/2022/220106-github-actions)
-- [Java 기반의 알림 서비스로 MSA 전환기](https://blog.dramancompany.com/2022/01/java-%ea%b8%b0%eb%b0%98%ec%9d%98-%ec%95%8c%eb%a6%bc-%ec%84%9c%eb%b9%84%ec%8a%a4%eb%a1%9c-msa-%ec%a0%84%ed%99%98%ea%b8%b0/)
+- [Java 기반의 알림 서비스로 MSA 전환기](https://blog.dramancompany.com/2022/01/java-%EA%B8%B0%EB%B0%98%ec%9d%98-%ec%95%8c%eb%a6%BC-%ec%84%9c%eb%b9%84%ec%8a%a4%eb%a1%9c-msa-%ec%a0%84%ed%99%98%ea%b8%b0/)
 - [넥슨그룹 첫 정년퇴직자 '백영진'님의 소회](https://m.inven.co.kr/webzine/wznews.php?idx=266901&s=09)
 - [터치와 클릭, 우리 깐부잖아](https://ui.toast.com/weekly-pick/ko_20220106)
 - [Vue 컴포넌트 – 메모리 누수 분석하기](https://engineering.linecorp.com/ko/blog/vue-memory-leak-analysis/)
@@ -316,7 +420,7 @@
 - [라인 developer day 컨퍼런스 발표 영상](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13)
 - [NestJS Custom Caching Decorator 만들기](https://zuminternet.github.io/nestjs-custom-decorator)
 - [Upsource 코드리뷰 플랫폼 구축기 with AWS](https://bbros-web-frontend.super.site/upsource-with-aws)
-- [CODE GURU REVIEWER를 사용하여 코드리뷰 받기](https://blog.dramancompany.com/2021/11/code-guru-reviewer%eb%a5%bc-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97%ac-%ec%bd%94%eb%93%9c%eb%a6%ac%eb%b7%b0-%eb%b0%9b%ea%b8%b0/)
+- [CODE GURU REVIEWER를 사용하여 코드리뷰 받기](https://blog.dramancompany.com/2021/11/code-guru-reviewer%eb%a5%BC-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97%AC-%ec%bd%94%eb%93%9c%eb%a6%AC%EB%B7%B0-%EB%B0%9b%ea%b8%b0/)
 - [테스트 코드 한 줄을 작성하기까지의 고난](https://tech.kakao.com/2021/11/08/test-code/)
 - [Airbnb System design 분석](https://www.joinc.co.kr/w/man/12/airbnbDesign)
 - [프로세스 동기화를 이해하기 위한 짧은 노트](https://medium.com/@jypthemiracle/understanding-process-synchronization-5763aa39ad17)
@@ -344,7 +448,7 @@
 - [Spring은 Http Message Body를 어떻게 Java의 객체로 역/직렬화할까?](https://velog.io/@prayme/Spring%EC%9D%80-Http-Message-Body%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-Java%EC%9D%98-%EA%B0%9D%EC%B2%B4%EB%A1%9C-%EC%97%AD%EC%A7%81%EB%A0%AC%ED%99%94%ED%95%A0%EA%B9%8C)
 - [Pagination을 위한 최적화 SQL (Limit vs Join)](https://blog.lulab.net/database/optimize-pagination-sql-by-join-instead-of-limit/)
 - [변경에 유연한 컴포넌트](https://jbee.io/web/components-should-be-flexible/)
-- [화상 회의 서비스를 위한, WebRTC 소개](https://brunch.co.kr/@springboot/640)  
+- [화상 회의 서비스를 위한, WebRTC 소개](https://brunch.co.kr/@springboot/640)
 - [프로그래머를 위한 이름 짓는 원리](https://green-labs.github.io/programmers-naming)
 - [10분만에 훑어보는 TCP와 UDP](https://wormwlrm.github.io/2021/09/23/Overview-of-TCP-and-UDP.html)
 - [Java Stream API은 왜 for-loop보다 성능이 좋지 않을까?](https://medium.com/@jypthemiracle/java-stream-api는-왜-for-loop보다-느릴까-50dec4b9974b)
@@ -354,7 +458,7 @@
 - [도메인 주도 개발 전환 이야기](https://spoqa.github.io/2021/09/13/domain-driven-development-transition-story.html)
 - [Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
 - [Improving Pull Request Confidence for the Netflix TV App](https://netflixtechblog.medium.com/improving-pull-request-confidence-for-the-netflix-tv-app-b85edb05eb65)
-- [‘개발문화를 혼자서 바꿀 수 없다’며 포기하기엔 이릅니다](https://dico.me/topic/articles/296/ko)
+- ['개발문화를 혼자서 바꿀 수 없다'며 포기하기엔 이릅니다](https://dico.me/topic/articles/296/ko)
 - [6단계로 알아보는 라이브 생방송 송출 원리](https://blog.naver.com/n_cloudplatform/222493527661)
 - [공개된 GitHub Codespaces 살펴보기](https://blog.outsider.ne.kr/1565)
 - [Incremental DOM과 Virtual DOM 비교](https://ui.toast.com/weekly-pick/ko_20210819)
@@ -363,11 +467,11 @@
 - [개발자 포트폴리오 오해 vs 진실](https://youtu.be/PGCFs8ILnKI)
 - [우아~한 장애대응](https://techblog.woowahan.com/4886/)
 - [무료로 웹호스팅, 서비스 이용하기](https://uznam8x.tistory.com/m/84)
-- [리멤버의 온보딩 과정을 소개합니다](https://blog.dramancompany.com/2021/08/%eb%a6%ac%eb%a9%a4%eb%b2%84%ec%9d%98-%ec%98%a8%eb%b3%b4%eb%94%a9-%ea%b3%bc%ec%a0%95%ec%9d%84-%ec%86%8c%ea%b0%9c%ed%95%a9%eb%8b%88%eb%8b%a4/)
+- [리멤버의 온보딩 과정을 소개합니다](https://blog.dramancompany.com/2021/08/%eb%a6%AC%EB%A9%A4%EB%B2%84%ec%9d%98-%ec%98%a8%eb%b3%b4%eb%94%a9-%ea%b3%BC%ec%a0%95%ec%9d%84-%ec%86%8C%EA%B0%9C%ed%95%a9%eb%8b%88%eb%8b%a4/)
 - [외부 툴 변경에 휘둘리지 않는 서버 코드 작성기](https://blog.gangnamunni.com/post/dependency-inversion-principle/)
 - [Stop Using Atomic Design Pattern](https://jbee.io/react/stop-using-atomic-design/)
 - [AWS SQS 생성하기 Hands On (연재 #2)](https://devocean.sk.com/blog/techBoardDetail.do?ID=163294)
-- [토스 프론트엔드 챕터가 말합니다. “프론트엔드 개발자에게 가장 중요한 역량은?”](https://blog.toss.im/article/toss-frontend-chapter)
+- [토스 프론트엔드 챕터가 말합니다. "프론트엔드 개발자에게 가장 중요한 역량은?](https://blog.toss.im/article/toss-frontend-chapter)
 - [세 달 간의 오늘의집 개발자 온보딩 과정을 돌아보다](https://www.bucketplace.co.kr/post/2021-08-11-%EC%84%B8-%EB%8B%AC-%EA%B0%84%EC%9D%98-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B3%BC%EC%A0%95%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8B%A4)
 - [Vanilla Javascript로 React useState Hook 만들기 (feat: 렌더링 추상화)](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Make-useSate-hook/)
 - [코로나 시대에서의 WebRTC](https://brunch.co.kr/@springboot/639)
@@ -489,7 +593,7 @@
 - [(JPA) persist vs merge](https://perfectacle.github.io/2021/06/13/entity-manager-persist-vs-merge)
 - [느려터진 Spring Rest Docs Test? SpringContext, @MockBean 없이 빠르고 효과적으로 사용하기](https://geminikim.medium.com/%EB%8A%90%EB%A0%A4%ED%84%B0%EC%A7%84-spring-rest-docs-test-springcontext-mockbean-%EC%97%86%EC%9D%B4-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-dc36861493c9)
 - [Spring Batch Reader 성능 분석 및 측정 part 2
-HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/spring-batch-reader-performance-2/)
+  HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/spring-batch-reader-performance-2/)
 - [테스트를 작성하는 방법](https://blog.kingbbode.com/m/52)
 - [윈도우 11 사용후기](https://lunacellstone.tistory.com/144)
 - [React ref 톺아보기](https://woowacourse.github.io/javable/post/2021-05-15-react-ref)
@@ -511,7 +615,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [LINE 광고 서버 개발 팀의 DevOps 문화](https://engineering.linecorp.com/ko/blog/line-ads-devops-culture)
 - [node_modules로부터 우리를 구원해 줄 Yarn Berry](https://toss.tech/article/node-modules-and-yarn-berry)
 - [PostgreSQL Autovacuum 장애 대응기 (1)](https://medium.com/29cm/postgresql-autovacuum-%EC%9E%A5%EC%95%A0-%EB%8C%80%EC%9D%91%EA%B8%B0-1-8284955c0193)
-- [AI 모델 성능을 효율적으로 높이는 방법: 앤드류 응 교수님의 “데이터 중심의 AI”](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%86%92%EC%9D%B4%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%95%A4%EB%93%9C%EB%A5%98-%EC%9D%91-%EA%B5%90%EC%88%98%EB%8B%98%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC%EC%9D%98-ai-6595fa054ce6)
+- [AI 모델 성능을 효율적으로 높이는 방법: 앤드류 응 교수님의 "데이터 중심의 AI"](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%86%92%EC%9D%B4%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%95%A4%EB%93%9C%EB%A5%98-%EC%9D%91-%EA%B5%90%EC%88%98%EB%8B%98%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC%EC%9D%98-ai-6595fa054ce6)
 - [GitHub 멀티 어카운트를 사용할 때 유용한 Git 설정](https://www.lainyzine.com/ko/article/useful-git-settings-when-using-github-multi-account/)
 - [자바스크립트(JavaScript)로 배우는 피지컬 컴퓨팅(Physical Computing) — (1/8) 시작하기](https://niklauslee.medium.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-javascript-%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%BC%EC%A7%80%EC%BB%AC-%EC%BB%B4%ED%93%A8%ED%8C%85-physical-computing-1-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-631f4c2e46b9)
 - [코틀린 ORM 프레임워크](https://cheese10yun.github.io/exposed/)
@@ -647,7 +751,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [Understanding suspend function of Kotlin Coroutines](https://medium.com/mobile-app-development-publication/understanding-suspend-function-of-coroutines-de26b070c5ed)
 - [리눅스에서 네트워크 상태를 확인하는 명령어 11가지 - ITWorld Korea -](https://www.itworld.co.kr/news/180644)
 - [주니어 개발자에게 추천하는 회사는 스타트업?!](https://youtu.be/yDYY4woERDQ)
-- [이직.log(‘SoYoung’)](https://so-so.dev/essay/2021-turnover)
+- [이직.log('SoYoung')](https://so-so.dev/essay/2021-turnover)
 - [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)
 - [NextJS와 GatsbyJS 중 고민하는 당신에게](https://shylog.com/which-is-better-nextjs-or-gatsbyjs/)
 - [ip로 직접 만들어보는 네트워크 네임스페이스와 브리지 네트워크](https://www.44bits.io/ko/post/container-network-2-ip-command-and-network-namespace)
@@ -734,7 +838,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [CI/CD란 무엇인가 (Feat. DevOps 엔지니어)](https://artist-developer.tistory.com/24?category=965473)
 - [Swagger와 Spring Restdocs의 우아한 조합 (by OpenAPI Spec)](https://taetaetae.github.io/posts/a-combination-of-swagger-and-spring-restdocs/)
 - [일본의 개발 언어, 프레임웍 사정](https://okky.kr/article/840900)
-- [리멤버 서버/웹 팀은 어떻게 일을 하는가?](https://blog.dramancompany.com/2020/12/%eb%a6%ac%eb%a9%a4%eb%b2%84-%ec%84%9c%eb%b2%84-%ec%9b%b9-%ed%8c%80%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%9d%bc%ec%9d%84-%ed%95%98%eb%8a%94%ea%b0%80/)
+- [리멤버 서버/웹 팀은 어떻게 일을 하는가?](https://blog.dramancompany.com/2020/12/%eb%a6%AC%EB%A9%A4%EB%B2%84-%ec%84%9c%eb%b2%84-%ec%9b%b9-%ed%8C%80%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%9d%BC%ec%9d%84-%ed%95%98%eb%8A%94%ea%b0%80/)
 - [2020년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 1](https://d2.naver.com/helloworld/7226235)
 - [메세지 브로커 이해하기 (feat. MQTT)](https://kwiki.devserum.com/ko/articles/tech-articles/201228-understanding-the-message-broker)
 - [콘텐츠 퍼블리싱 플랫폼을 새로 만든다는 것](https://blog.mago.team/83ff92c7-b0de-4f23-8bf2-4a50c72071bd)
@@ -881,7 +985,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [뱅크샐러드는 어떻게 레거시 서비스를 박살 내는가](https://blog.banksalad.com/tech/how-banksalald-decomposes-legacy-services)
 - [네이버 주식 일자별 매매동향 정보 파이썬으로 한번에 가지고 오기(1)](https://stricky.tistory.com/374)
 - [알파 버전으로 전환되는 Kotlin Multiplatform Mobile](https://blog.jetbrains.com/ko/kotlin/2020/09/kotlin-multiplatform-mobile-goes-alpha-ko/)
-- [Wasm  새로운 웹표준 언어](https://d2.naver.com/helloworld/8257914)
+- [Wasm 새로운 웹표준 언어](https://d2.naver.com/helloworld/8257914)
 - [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 - [type-challenges](https://github.com/type-challenges/type-challenges)
 - [깃허브 컨테이너 레지스트리 베타 오픈 및 사용법](https://www.44bits.io/ko/post/news--github-container-registry-beta-release)
@@ -995,7 +1099,7 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [버그 없는 업데이트를 위해 - QA 테스트 자동화](https://brunch.co.kr/@tmapmobility/7)
 - [파일과 디렉터리에는 정확한 소유권과 적당한 권한을 부여하라](https://netmarble.engineering/setting-setuid-umask-environmental-parameters-of-files-and-directories/)
 - [1년차 개발자의 훈수 두기](https://spoqa.github.io/2022/09/01/first-year-developers-tips.html)
-- [크롬 개발자 도구에서 FE  source 디버깅하기](https://developer.chrome.com/blog/devtools-modern-web-debugging/)
+- [크롬 개발자 도구에서 FE source 디버깅하기](https://developer.chrome.com/blog/devtools-modern-web-debugging/)
 - [웹 개발자라면 알고 있어야 할 HTTP의 진화 과정](https://wormwlrm.github.io/2022/09/02/Evolution-of-HTTP.html)
 - [Recoil 정확하게 사용하기! (feat. Selector)](https://tech.osci.kr/2022/09/02/recoil-selector)
 - [11번가의 오픈소스 활동 (1)](https://11st-tech.github.io/2022/03/02/11st-and-open-source1/)
@@ -1145,11 +1249,14 @@ HibernateCursorItemReader 측정 및 분석](https://cheese10yun.github.io/sprin
 - [RSA 암호화 3분만에 이해하기](https://velog.io/@480/RSA-%EC%95%94%ED%98%B8%ED%99%94-3%EB%B6%84-%EB%A7%8C%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [주니어 개발자를 채용하지 않는 회사는 앞으로 몰락합니다](https://maily.so/devpill/posts/d8ea7069)
 
---------------------------------------
+---
+
 </br>
 
 ## :earth_asia: Inspired By
->아래의 유익한 저장소들에 방문해보세요!
+
+> 아래의 유익한 저장소들에 방문해보세요!
+
 - [주니어 개발자를 위한 취업 정보 모음](https://github.com/jojoldu/junior-recruit-scheduler)
 - [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [개발자 블로그 모음](https://github.com/awesome-devblog/awesome-devblog)
