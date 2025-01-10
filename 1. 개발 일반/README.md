@@ -1,17 +1,16 @@
 # 1. 개발 일반
 
-# Table of Contents
+>📌 목차
+>- [개발 일반](#개발-일반)
+>   - [개발 문화/철학/방법론](#개발-문화철학방법론)
+>   - [소프트웨어 설계](#소프트웨어-설계)
+>     - [OOP](#oop)
+>     - [함수형 프로그래밍](#함수형-프로그래밍)
+>     - [DDD](#ddd)
+>     - [그 외](#그-외)
+>   - [테스트/TDD](#테스트tdd)
 
-1. [개발 일반](#개발-일반)
-   - [개발 문화/철학/방법론](#개발-문화철학방법론)
-   - [소프트웨어 설계](#소프트웨어-설계)
-     - [OOP](#oop)
-     - [함수형 프로그래밍](#함수형-프로그래밍)
-     - [DDD](#ddd)
-     - [그 외](#그-외)
-   - [테스트/TDD](#테스트tdd)
 
----
 ## 개발 문화/철학/방법론
 
 - [포커, 어디까지 쳐봤니 – 서비스 개발에 플래닝 포커 도입 사례 (feat. 원격근무)](https://tech.kakao.com/2020/09/08/planning-poker/)
@@ -121,7 +120,7 @@
 - [개발자 Code Review 가이드](https://wnsgml972.github.io/devops/2020/05/17/CodeReview1/)
 - [10년간 슈퍼셀을 경영하며 배운 10가지 교훈 [번역]](http://masterfarseer.blogspot.com/2020/08/10-10.html)
 
----
+
 ## 소프트웨어 설계
 
 ### OOP
@@ -144,7 +143,6 @@
 ### 그 외
 
 
----
 ## 테스트/TDD
 
 - [IntelliJ IDEA. Writing Tests with JUnit 5 [영상]](https://www.youtube.com/watch?v=we3zJE3hlWE)

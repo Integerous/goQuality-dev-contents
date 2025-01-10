@@ -1,5 +1,28 @@
+# 2. 개발자 커리어
 
-### 개발자 성장
+> - [개발자 커리어](#개발자-커리어)
+>   - [성장](#성장)
+>   - [비전공자/신입](#비전공자신입)
+>   - [취업/이직](#취업이직)
+>     - [후기](#후기)
+>     - [이력서/포트폴리오](#이력서포트폴리오)
+>     - [기술 면접](#기술-면접)
+>     - [코딩 테스트](#코딩-테스트)
+>   - [해외 취업](#해외-취업)
+>     - [미국/캐나다](#미국캐나다)
+>     - [영국/독일](#영국독일)
+>     - [호주/뉴질랜드](#호주뉴질랜드)
+>     - [일본/싱가포르](#일본싱가포르)
+>     - [동남아시아](#동남아시아)
+>     - [그 외](#그-외)
+>   - [1인 개발](#1인-개발)
+>     - [제품 개발 과정](#제품-개발-과정)
+>     - [성장/마케팅 전략](#성장마케팅-전략)
+>     - [그 외 1인 개발](#그-외-1인-개발)
+
+
+## 성장
+
 - [개발자 비급(祕笈) – 1. 연봉은 실력의 결과가 아니다](http://channy.creation.net/blog/1186)
 - [능력있는 개발자는 어떻게 알아볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
 - [그 때 성장이라고 생각했던 것들](https://jbee.io/essay/growth-mistaken-2020/)
@@ -90,10 +113,9 @@
 - [레디스 개발자 메인테이너 자리에서 내려오다](http://antirez.com/news/133)
 - [그런 개발자로 괜찮은가 - '자기계발' 편](https://taetaetae.github.io/2020/06/28/a-good-developer-in-terms-of-self-development/)
 - [5수생 개발자 2021 회고](https://highjune.dev/memoires/memoires2021/)
-- 
---------------------------------------
 
-### 비전공자 & 신입
+
+## 비전공자/신입
 - [박문수 이야기](https://brunch.co.kr/@leehosung/12)
 - [늦은 나이, 개발자로 시작해도 좋을까요 - 30대 초반 비전공자의 고민](https://taegon.kim/archives/7829)
 - [30살에 주니어 개발자가 된다는 것 [번역]](https://medium.com/@minoo/%EB%B2%88%EC%97%AD-30%EC%82%B4%EC%97%90-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%9C%EB%8B%A4%EB%8A%94-%EA%B2%83-being-a-junior-developer-at-30-b7b587ee4f6b)
@@ -136,46 +158,8 @@
 - [제품을 파는 엔지니어(솔루션 엔지니어)가 되어보니](https://brunch.co.kr/@imagineer/328)
 
 
---------------------------------------
+## 취업/이직
 
-### 세미나/컨퍼런스 후기 및 발표자료
->같은 세미나인데 더 좋은 후기가 있으면 공유해주세요! :pray:  
-해당 이벤트의 가장 고퀄리티의 후기 하나만 남기겠습니다.
-
-- [NAVER DEVIEW 2018 1일차 후기](https://www.popit.kr/deview-2018-1%EC%9D%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0/)
-- [NAVER DEVIEW 2018 2일차 후기](https://zzsza.github.io/etc/2018/10/12/deview2018-review/)
-- [OKKYCON 2018 TDD 컨퍼런스 후기](https://nesoy.github.io/articles/2018-10/OKKYCON2018-Real-TDD)
-- [테크니컬 라이팅 컨퍼런스: Write the Docs Prague 2018 방문기](https://engineering.linecorp.com/ko/blog/detail/369/?fbclid=IwAR1AFQkUOm_NAk7dO1cAydu_g8QKYRg-9bUUOhqgnYbM6lqu9w4qTRNLhkg)
-- [구글 클라우드 서밋 2018 후기](https://futurecreator.github.io/2018/10/25/google-cloud-summit-seoul-2018/)
-- [프론트엔드 개발자 컨퍼런스 FE CONF 2018 후기](https://ideveloper2.tistory.com/157?fbclid=IwAR3ToKeMUQN_6_hgT5ey4_UBHzp3KvulvuaK80lF9QfHOIO7CDnPH-e36M4)
-- [카카오 개발자 컨퍼런스 if(Kakao) dev 2018 발표 자료(PDF+영상) 모음](https://if.kakao.com/program)
-- [Github Universe 2018 참석기 1편](https://blog.outsider.ne.kr/1407)
-- [Airbnb의 디자인 시스템 발표 후기](https://brunch.co.kr/@eunlune/15)
-- [백기선님 스프링 기반 REST API 개발 발표 후기](https://github.com/david-learner/java-study/tree/master/%EB%B0%B1%EA%B8%B0%EC%84%A0%EB%8B%98_%EC%8A%A4%ED%94%84%EB%A7%81_%EA%B8%B0%EB%B0%98_REST_API_%EA%B0%9C%EB%B0%9C)
-- [SpringOne TOUR Seoul 2018 후기](https://brunch.co.kr/@springboot/117)
-- [카카오뱅크 모바일앱 개발 이야기](https://brunch.co.kr/@kakao-it/278)
-- [DEVIEW 2018 영상 모음 [영상]](https://tv.naver.com/v/4577969/list/279844)
-- [GDG DevFest Seoul 2018 발표자료 모음](https://devfest-seoul18.gdg.kr/timetable)
-- [2018 마소콘 발표자료 모음](https://www.imaso.co.kr/archives/4510)
-- [Spring Camp 2018 영상 모음](https://www.youtube.com/playlist?list=PLdHtZnJh1KdZnswQEyrn5VKxAXluSlWJc)
-- [구글 I/O 2019 정리 기사](https://n.news.naver.com/article/293/0000024070)
-- [구글 I/O 2019 키노트 총 정리](https://byline.network/2019/05/08-15/)
-- [if kakao 2019 발표 자료 & 영상](https://if.kakao.com/program)
-- [Deview 2019 발표자료 모음](https://deview.kr/2019/schedule)
-- [JSConf Korea 2019 발표 영상 모음](https://www.youtube.com/watch?v=hbsIOHktvfo&list=PL37ZVnwpeshGanWnYhTdoFLM2IDF28MaQ)
-- [NHN FORWARD 2019 후기](https://ict-nroo.tistory.com/134)
-- [마소콘 2019 발표자료 모음](https://www.imaso.co.kr/archives/5590)
-- [GitHub Universe 2019 참석기](https://blog.outsider.ne.kr/1469)
-- [컨트리뷰톤 2019 참가 후기](https://blog.outsider.ne.kr/1468)
-- [원티드 - 요즘 "프론트엔드 개발" 어떻게 하지? 참관 후기](https://velog.io/@velopert/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%9A%94%EC%A6%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EC%A7%80-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0)
-- [다시 보는 2019 한국의 주요 IT 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/replay-2019-korea-tech-development-conferences)
-- [DEVGROUND JUNIOR 2019 참여 후기](https://samsara1019.tistory.com/68)
-- [2019 NHN FORWARD 발표 자료 모음 [슬라이드]](https://www.slideshare.net/NHNFORWARD)
-
-
---------------------------------------
-
-### 취업 & 이직 & 면접 & 코딩테스트
 - [이직 기록 0.Intro](https://jbee.io/career/2020-turnover-0/)
 - [구글 신입 엔지니어 인터뷰 준비 후기](https://jeinalog.tistory.com/30)  
 - [프론트엔드 개발자 면접 정리](https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC)
@@ -227,3 +211,51 @@
 - [이직하며 느낀 2020년 1/4분기 개발자 채용 과정](https://perade.github.io/blog/2020-recruitment/)
 - [기술면접 준비하기](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
 - [나만의 개발자 포트폴리오 만들기](https://geonlee.tistory.com/m/9)
+
+
+---
+### 후기
+
+---
+### 이력서/포트폴리오
+
+
+---
+### 기술 면접
+
+---
+### 코딩 테스트
+
+
+## 해외 취업
+
+---
+### 미국/캐나다
+
+---
+### 영국/독일
+
+---
+### 호주/뉴질랜드
+
+---
+### 일본/싱가포르
+
+---
+### 동남아시아
+
+---
+### 그 외
+
+
+## 1인 개발
+
+---
+### 제품 개발 과정
+
+---
+### 성장/마케팅 전략
+
+---
+### 그 외 1인 개발
+
