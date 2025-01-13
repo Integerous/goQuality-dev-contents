@@ -44,11 +44,9 @@
 
 ## 관계형DB
 
----
 ### PostgreSQL
 - [Node.js 와 PostgreSQL로 RESTful API 만들기](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
 
----
 ### MySQL
 - [MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
 - [Mysql Explain](https://cheese10yun.github.io/mysql-explian/)
@@ -58,29 +56,29 @@
 - [MySQL Lock 상황 문제 해결](https://www.popit.kr/mysql-lock-%EC%83%81%ED%99%A9-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
 - [MySQL ‘a’ = ‘a ‘가 true 인가? (PostgreSQL과 비교)](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
 
----
+
 ### AWS/Azure/GCP
 
----
+
 ### Supabase/Firebase
 
----
+
 ### 그 외 관계형DB
 
 
 ## NoSQL
 
----
+
 ### MongoDB
 - [MongoDB Index 설계 전략](https://blog.ull.im/engineering/2019/04/05/mongodb-indexing-strategy.html)
 
----
+
 ### Redis
 
----
+
 ### AWS/Azure/GCP
 
----
+
 ### 그 외 NoSQL
 
 

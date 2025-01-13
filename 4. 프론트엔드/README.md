@@ -19,7 +19,7 @@
 
 ## 언어/프레임워크
 
----
+
 ### Javascript
 
 - [DOM 101 — Nodes & Events](https://medium.com/@euncho/dom-101-ed14cff6e2ce)
@@ -118,7 +118,7 @@
 - [Data Structure For JavaScript](https://hg-pyun.github.io/data-structure-for-javascript/)
 - [코드스피츠 88 - async await #1/2](https://www.youtube.com/watch?v=H_Hb9IF7sfc&feature=youtu.be)
 
----
+
 ### Typescript
 - [TypeScript enum을 사용하지 않는 게 좋은 이유를 Tree-shaking 관점에서 소개합니다.](https://engineering.linecorp.com/ko/blog/typescript-enum-tree-shaking/)
 - [TypeScript Handbook [번역]](https://typescript-kr.github.io/)
@@ -147,7 +147,7 @@
 - [Node.js의 순환 의존성](https://blog.outsider.ne.kr/1283?category=24)
 - [견고한 node.js 프로젝트 설계하기 [번역]](https://velog.io/@hopsprings2/%EA%B2%AC%EA%B3%A0%ED%95%9C-node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)
 
----
+
 ### React.js
 - [React 이해하기](https://helloworld.kurly.com/blog/thinking-in-react/)
 - [Monorepo로 대규모 React 프로젝트 관리하기](https://medium.com/myrealtrip-product/monorepo%EB%A1%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-d12b65340306)
@@ -177,7 +177,7 @@
 - [Recoil - 또 다른 React 상태 관리 라이브러리?](https://ui.toast.com/weekly-pick/ko_20200616/)
 - [My구독의 React Query 전환기](https://tech.kakao.com/2022/06/13/react-query/)
 
----
+
 ### Vue.js
 - [The process: Making Vue3 [번역]](https://perade.github.io/blog/the-process-making-vue3/)
 - [React 와 Vue로 똑같은 앱 만들고 비교 [번역]](http://bit.ly/2NugsFq)
@@ -195,19 +195,19 @@
 - [Vue.js: The Documentary [영상]](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 - [Vue 3 에서 사용될 Composition API 정리](https://chodragon9.github.io/blog/composition-api-rfc-migration/#api-reference)
 
----
+
 ### Svelte
 
----
+
 ### Next.js
 
----
+
 ### Nuxt.js
 
----
+
 ### Nest.js
 
----
+--
 ### 그 외 Javascript
 
 
@@ -238,11 +238,11 @@
 - [당근마켓에 웹 프로젝트 배포하기 #1 - 파일 기반 웹뷰](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c)
 - [당근마켓에 웹 프로젝트 배포하기 #2 - 웹뷰 기반 웹앱](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A1%9C-%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0-3030daea456c)
 
----
+
 ### 웹 관련
 
 
----
+
 ### 디자인/UI/UX
 - [컴포넌트, 제대로 만들어 쉽게 쓰자! (1탄) 쏘카 디자이너와 개발자가 컴포넌트를 만드는 방식](https://tech.socarcorp.kr/design/2020/07/31/component-01.html)
 - [emotion을 활용한 크몽 프론트엔드 스타일링 시스템](https://medium.com/kmong/emotion%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%AA%BD-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-ec5436089ad)
@@ -296,7 +296,6 @@
 - [코드로 자음과 모음을 분리하기](https://www.notion.so/3c40c025b9bc474da00add82f9c301ad)
 
 
----
 ### CSS
 - [CSS에 대한 깊은 이해: 폰트 매트릭스, line-height와 vertical-align [번역]](https://wit.nts-corp.com/2017/09/25/4903)
 - [css의 7가지 단위](https://webclub.tistory.com/356)

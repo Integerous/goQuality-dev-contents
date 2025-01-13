@@ -170,9 +170,8 @@
 - [MySQL을 이용한 분산락으로 여러 서버에 걸친 동시성 관리](https://woowabros.github.io/experience/2019/05/30/mysql-user-level-lock.html)
 
 
---------------------------------------
 
-### 마이크로서비스 MSA
+### 아키텍처
 - [마이크로서비스 아키텍처 (MSA) [번역]](https://medium.com/wematch/마이크로서비스-아키텍처-msa-359b7973ba79)
 - [마이크로서비스 아키텍쳐. 그것이 뭣이 중헌디?](http://guruble.com/마이크로서비스microservice-아키텍처-그것이-뭣이-중헌디/)
 - [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0)
@@ -193,22 +192,19 @@
 - [마이크로 서비스 아키텍쳐와 컨테이너 환경](http://bit.ly/2J7YgRz)
 - [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
 
----
-### 아키텍처
 
----
 ### 서버 구현
 
----
+
 ### 성능 최적화
 
----
+
 ### 장애/디버깅
 
----
+
 ### 로깅/알람
 
----
+
 ### 캐시
 - [레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/)
 - [캐시 성능 향상기 (Improving Cache Speed at Scale)](https://meetup.toast.com/posts/251)
@@ -222,17 +218,17 @@
 - [우아한 Redis 발표자료 [슬라이드]](https://www.slideshare.net/charsyam2/redis-196314086)
 - [Redis 6.0 – ThreadedIO를 알아보자.](https://charsyam.wordpress.com/2020/05/05/입-개발-redis-6-0-threadedio를-알아보자/)
 
----
+
 ### 메시지 큐
 - [링크드인이 카프카를 직접 개발한 이유](https://techit.kr/view/?no=20200815134042)
 - [아파치 카프카 레퍼런스 한글 번역](https://godekdls.github.io/Apache%20Kafka/design/)
 - [Kafka 운영자가 말하는 처음 접하는 Kafka](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/)
 - [LINE에서 Kafka를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
 
----
+
 ### 마이그레이션
 
----
+
 ### 보안
 
 ## 그 외

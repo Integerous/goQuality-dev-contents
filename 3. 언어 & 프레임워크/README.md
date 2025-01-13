@@ -42,7 +42,7 @@
 - [Django 3.0 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-3-0-release-note-summary)
 - [파이썬(Python) datetime 클래스 치트시트](https://www.44bits.io/ko/post/python-datatime-cheetsheet)
 
----
+
 ### Django
 
 <!-- Add content here -->
@@ -114,7 +114,7 @@
 - [Java NIO - 1. 왜 자바의 IO 패키지는 느린가?](https://leeyh0216.github.io/2020-05-10/java_nio_why_java_io_slow)
 - [OpenJDK: In the new age of Concurrent Garbage Collectors, by Monica Beckwith (2020) [영상]](https://youtu.be/kR8_r3kMK-Y)
 
----
+
 ### JVM
 - [JVM, JRE, JDK의 차이 간단 설명](https://wikidocs.net/257)
 - [JVM이 깔끔하게 설명된 글](http://asfirstalways.tistory.com/158)
@@ -130,7 +130,7 @@
 - [자바 - OOM 메모리 릭 찾기 이론편](https://blog.naver.com/PostView.nhn?blogId=2feelus&logNo=220765728530)
 - [Jackson 직렬화 옵션의 적절한 활용과 Jackson에 기여하기까지](https://hyperconnect.github.io/2019/10/28/jackson-serialize-for-global-caching.html)
 
----
+
 ### Spring
 - [스프링 부트, 포매터 손쉽게 사용하기](https://www.whiteship.me/spring-boot-formatter/)
 - [스프링 부트에서 Request 유효성 검사하는 방법, 서버 개발한다면 꼭 해야하는 작업 Spring Validation](https://jeong-pro.tistory.com/203)
@@ -291,15 +291,14 @@
 
 ## 함수형 언어
 
----
+
 ### Rust
 - [Rust 한글 문서](https://rinthel.github.io/rust-lang-book-ko/)
 
----
+
 ### Scala
 
 
----
 ### 그 외 함수형 언어
 
 ## 그 외
