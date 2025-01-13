@@ -1,6 +1,19 @@
 # 3. 백엔드
 
-### 서버 & 클라우드 & 아키텍쳐
+> 📌 목차
+>- [시스템 설계/구현](#시스템-설계구현)
+>   - [아키텍처](#아키텍처)
+>   - [서버 구현](#서버-구현)
+>   - [성능 최적화](#성능-최적화)
+>   - [장애/디버깅](#장애디버깅)
+>   - [로깅/알람](#로깅알람)
+>   - [캐시](#캐시)
+>   - [메시지 큐](#메시지-큐)
+>   - [마이그레이션](#마이그레이션)
+>   - [보안](#보안)
+>- [그 외](#그-외)
+
+## 시스템 설계/구현
 - [Introducing Domain-Oriented Microservice Architecture [영문]](https://eng.uber.com/microservice-architecture/)
 - [실시간 댓글 개발기(part.1)](https://tech.kakao.com/2020/06/08/websocket-part1/)
 - [Go와 함께하는 전화망 서비스 구축 1편](https://d2.naver.com/helloworld/5827706)  
@@ -180,10 +193,23 @@
 - [마이크로 서비스 아키텍쳐와 컨테이너 환경](http://bit.ly/2J7YgRz)
 - [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
 
+---
+### 아키텍처
 
---------------------------------------
+---
+### 서버 구현
 
-### 레디스 Redis
+---
+### 성능 최적화
+
+---
+### 장애/디버깅
+
+---
+### 로깅/알람
+
+---
+### 캐시
 - [레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/)
 - [캐시 성능 향상기 (Improving Cache Speed at Scale)](https://meetup.toast.com/posts/251)
 - [레디스와 분산 락(1/2) - 레디스를 활용한 분산 락과 안전하고 빠른 락의 구현](https://hyperconnect.github.io/2019/11/15/redis-distributed-lock-1.html)
@@ -196,57 +222,20 @@
 - [우아한 Redis 발표자료 [슬라이드]](https://www.slideshare.net/charsyam2/redis-196314086)
 - [Redis 6.0 – ThreadedIO를 알아보자.](https://charsyam.wordpress.com/2020/05/05/입-개발-redis-6-0-threadedio를-알아보자/)
 
---------------------------------------
-
-### 카프카 Kafka
+---
+### 메시지 큐
 - [링크드인이 카프카를 직접 개발한 이유](https://techit.kr/view/?no=20200815134042)
 - [아파치 카프카 레퍼런스 한글 번역](https://godekdls.github.io/Apache%20Kafka/design/)
 - [Kafka 운영자가 말하는 처음 접하는 Kafka](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/)
 - [LINE에서 Kafka를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
 
+---
+### 마이그레이션
 
---------------------------------------
+---
+### 보안
 
-### 데이터베이스 & SQL
-- [엘라스틱서치 인덱스와 샤드 분할](https://danawalab.github.io/elastic/2020/07/21/Elasticsearch-Index-Shard-How.html)
-- [MongoDB Index 설계 전략](https://blog.ull.im/engineering/2019/04/05/mongodb-indexing-strategy.html)
-- [쿼리 최적화: 빠른 쿼리를 위한 7가지 체크리스트](https://medium.com/watcha/%EC%BF%BC%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B2%AB%EA%B1%B8%EC%9D%8C-%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EC%BF%BC%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-7%EA%B0%80%EC%A7%80-%EC%B2%B4%ED%81%AC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-bafec9d2c073)
-- [DB분산처리를 위한 sharding](https://woowabros.github.io/experience/2020/07/06/db-sharding.html)
-- [데이터모델링의 기초 정리](http://bit.ly/2Pmdd4C)
-- [JDBC로 실행되는 SQL에 자동으로 프로젝트 정보 주석 남기기](http://bit.ly/2Rz7lql)
-- [RDB부터 검색엔진까지··· 내게 꼭 맞는 DB 고르기](http://bit.ly/2q1l24E)
-- [CockroachDB 안녕?](http://bit.ly/2yXOWe6)
-- [Node.js 와 PostgreSQL로 RESTful API 만들기](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
-- [PostgreSQL로 배우는 SQL 기초 [슬라이드]](https://www.slideshare.net/mobile/JiHoLee4/postgresql-sql-121859670?fbclid=IwAR35t9ZqcON_2EXBu-xUuVhbQTHNNbqYWeArGWUh-IKKctotkXoQoKQtkKY)
-- [MySQL ‘a’ = ‘a ‘가 true 인가? (PostgreSQL과 비교)](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
-- [MySQL Lock 상황 문제 해결](https://www.popit.kr/mysql-lock-%EC%83%81%ED%99%A9-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
-- [DBMS는 어떻게 트랜잭션을 관리할까?](https://d2.naver.com/helloworld/407507)
-- [Commons DBCP 이해하기](https://d2.naver.com/helloworld/5102792)
-- [한 눈에 살펴보는 PostgreSQL](https://d2.naver.com/helloworld/227936)
-- [데이터 구조와 설계 -튜토리얼 [번역]](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86)
-- [MySQL 성능 죽이는 잘못된 쿼리 습관](http://gywn.net/2012/05/mysql-bad-sql-type/)
-- [DB도 형상관리를 해보자!](https://meetup.toast.com/posts/173)
-- [Scaling to 100M: NoSQL보다 나은 MySQL [번역] [슬라이드]](https://docs.google.com/presentation/d/1OOxTLIgAWKpRD29RuG0ERn9iuPxIlcpQL0-iLcd3HS8/edit?fbclid=IwAR1aDGUZdCT3F6XP6GHby_cCIY0fEGst7SDB9MLtAPaf24YKVO6PGgT2iN8#slide=id.p2)
-- [Mysql 인덱스 정리 및 팁](https://jojoldu.tistory.com/243)
-- [데이터베이스 개념정리](https://brunch.co.kr/@toughrogrammer/17)
-- [MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
-- [SQL vs NoSQL [영상]](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
-- [JDBC를 사용한 MySQL SSL 연결](https://medium.com/p/1c5da86cc2c5)
-- [MySQL performance-schema-instruments 사용에 따른 성능 영향 실험](https://engineering.linecorp.com/ko/blog/mysql-research-performance-schema-instruments/)
-- [Apache ShardingSphere를 이용한 DB Sharding](https://blog.naver.com/PostView.nhn?blogId=asei&logNo=221511101848&proxyReferer=http%3A%2F%2Fm.facebook.com)
-- [MySQL Ascending index vs Descending index](https://tech.kakao.com/2018/06/19/mysql-ascending-index-vs-descending-index/)
-- [SQL joins visualizer](https://sql-joins.leopard.in.ua/)
-- [중국의 어떤 서버 개발자의 DB설계](https://blog.naver.com/imays/221461537682)
-- [Mysql Explain](https://cheese10yun.github.io/mysql-explian/)
-- [200만 동접 게임을 위한 MySQL 샤딩 [영상]](https://youtube.com/watch?v=8Eb_n7JA1yA&feature=youtu.be)
-- [우아한 형제들 메인 데이터베이스 IDC 탈출 성공기](https://woowabros.github.io/experience/2019/12/19/ruby_database.html)
-- [Druid와 Bitmap Index](https://leeyh0216.github.io/2020-04-26/Apache_Druid_bitmap_index)
-- [아직도 돈 주고 DB 쓰나요 for DBA [영상]](https://www.youtube.com/watch?feature=youtu.be&v=DXu3nbWa4AA&app=desktop)
-
-
---------------------------------------
-
-### 운영체제 (리눅스, MacOS, 윈도우)
+## 그 외
 - [운영체제 기본서의 끝판왕 "공룡책" 강의노트 [영문]](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 - [가장 쉬운 리눅스 강좌](https://youtu.be/tPWBF13JIVk)  
 - [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html)
@@ -273,17 +262,3 @@
 - [리눅스 grep 명령어 사용법](https://recipes4dev.tistory.com/m/157?fbclid=IwAR0jRN5wFvSyKE9l8ic-oOR1Mn9qD8pO9pDSznkZyLyWfXYyooPNPzVu_IE)
 - [Bash Scripting: Everything you need to know about Bash-shell programming](https://itnext.io/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba)
 - [bash 가이드 [영문]](https://github.com/Idnan/bash-guide)
-
---------------------------------------
-
-### 네트워크
-- [글로벌 네트워크 에뮬레이터 prism_pacman 소개](https://d2.naver.com/helloworld/7847943)
-- [WATCHA 사내 VPN 개발하기](https://medium.com/watcha/watcha-%EC%82%AC%EB%82%B4-vpn-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-e04f946d3ccb)
-- [네트워크 장비 없이 공부하기 [영상]](https://www.youtube.com/watch?v=0f1viq6FjK4&t=9s&app=desktop)
-- [통신할 때 꼭 지켜야 하는 약속, 프로토콜 [영상]](https://youtu.be/nYmixrYkMag)  
-- [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667)
-- [최신 네트워크 로드 밸런싱 및 프록시 소개 [번역]](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
-- [네트워크의 기본 'OSI 7계층'··· 한번에 이해하고 외우는 방법](http://www.ciokorea.com/news/36536#csidxa7b8fb7c6c7e34a85f2253bf8c1b283)
-- [네트워크 모니터링이 궁금할땐 ? Packetbeat !](https://taetaetae.github.io/2019/09/08/network-monitor-by-packetbeat/)
-- [설치형 개인 VPN 서버 알고(Algo): 아마존 라이트세일에 설치하고 운영하기](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail)
-- [소프트웨어 정의 네트워킹(SDN)](https://no1.technology/13)
