@@ -36,7 +36,6 @@
 - [장고 ORM 요리책 [번역]](http://bit.ly/2P6bUKg)
 - [PEP 8 파이썬 코드 스타일 가이드 번역 및 요약](http://bit.ly/2z10GMW)
 - [파이썬으로 테스트 시작하기 [영문]](https://realpython.com/python-testing/)
-- [Python GC가 작동하는 원리](https://winterj.me/python-gc/)
 - [Python 프로젝트 시작하기](http://j.mp/2Ss7xrx)
 - [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 - [Django 3.0 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-3-0-release-note-summary)
@@ -70,7 +69,6 @@
 - [Java 유료 논쟁, Oracle JDK와 Open JDK 차이 정리](https://jsonobject.tistory.com/395)
 - [Java 날짜와 시간 API의 문제점과 JDK8에서 개선된 부분](https://d2.naver.com/helloworld/645609)
 - [Java Enum 활용기](http://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
-- [수 많은 Java 성능 테스트가 잘못된 이유 [영문]](https://dzone.com/articles/why-many-java-performance-test)
 - [Java 학습에 도움이되는 9가지 개발서적 [영문]](https://dzone.com/articles/top-9-java-programming-books-best-of-lot-must-read)
 - [Reactor를 사용한 Java reactive programming 예제](http://tech.kakao.com/2018/05/29/reactor-programming/)
 - [Java 대용량 엑셀 다운로드 기능 구현](https://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=221388780914&proxyReferer=)
@@ -84,7 +82,6 @@
 - [객체지향 캡슐화에 대한 실전 예제](https://github.com/cheese10yun/blog-sample/tree/master/encapsulation)
 - [JDK8 적용 후 심각한 성능저하가 발생한다면?](https://brunch.co.kr/@heracul/1)
 - [자바 바이트코드 소개](https://iamsang.com/blog/2012/08/19/introduction-to-java-bytecode/)
-- [자바 HashMap 효과적으로 사용하기 [번역]](http://tech.javacafe.io/2018/12/03/HashMap)
 - [Back to the Essence - Java 컴파일에서 실행까지 1편](<https://github.com/HomoEfficio/dev-tips/blob/master/Back%20to%20the%20Essence%20-%20Java%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C%20%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80%20-%20(1).md>)
 - [Java에서 Garbage collection에 대해 깊이 분석하고 깔끔하게 정리한 글](https://yaboong.github.io/java/2018/06/09/java-garbage-collection/)
 - [Java에서 String은 왜 immutable인가? [번역]](http://www.mimul.com/pebble/default/2015/10/10/1444466677572.html)
@@ -105,18 +102,15 @@
 - [Guide to Java Versions and Features](https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features)
 - [Java enum의 사용](https://johngrib.github.io/wiki/java-enum/)
 - [자바에서 비동기를 어떻게 구현해 볼 수 있을까?](https://github.com/homelus/asynchronous-example)
-- [Java 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)
 - [Java Collections Heap Dump 분석](https://brunch.co.kr/@springboot/367)
 - [Java 12의 주요 기능 설명](https://meetup.toast.com/posts/234)
 - [Java의 고유 락(intrinsic lock)에 대해](http://happinessoncode.com/2017/10/04/java-intrinsic-lock/)
 - [serialVersionUID가 없는 Serializable Class를 수정해야 할 때](https://www.popit.kr/serialversionuid%EA%B0%80-%EC%97%86%EB%8A%94-serializable-class%EB%A5%BC-%EC%88%98%EC%A0%95%ED%95%B4%EC%95%BC-%ED%95%A0-%EB%95%8C/)
 - [ConcurrentHashMap 동기화 방식](https://pplenty.tistory.com/17)
-- [Java NIO - 1. 왜 자바의 IO 패키지는 느린가?](https://leeyh0216.github.io/2020-05-10/java_nio_why_java_io_slow)
 - [OpenJDK: In the new age of Concurrent Garbage Collectors, by Monica Beckwith (2020) [영상]](https://youtu.be/kR8_r3kMK-Y)
 
 
 ### JVM
-- [JVM, JRE, JDK의 차이 간단 설명](https://wikidocs.net/257)
 - [JVM이 깔끔하게 설명된 글](http://asfirstalways.tistory.com/158)
 - [Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/114)
 - [Java JVM 간단 정리](https://baehoyeon.github.io/2017-11-10/jvm)
@@ -132,12 +126,10 @@
 
 
 ### Spring
-- [스프링 부트, 포매터 손쉽게 사용하기](https://www.whiteship.me/spring-boot-formatter/)
 - [스프링 부트에서 Request 유효성 검사하는 방법, 서버 개발한다면 꼭 해야하는 작업 Spring Validation](https://jeong-pro.tistory.com/203)
 - [동일한 Bean(Class)에서 @Transactional 동작 방식](https://cheese10yun.github.io/spring-transacion-same-bean/)
 - [스프링 클라우드 살펴보기](https://cheese10yun.github.io/spring-cloud/)
 - [Spring WebFlux는 어떻게 적은 리소스로 많은 트래픽을 감당할까?](https://alwayspr.tistory.com/44)
-- [Kotlin과 Spring WebFlux 기반의 컨텐츠 인증 서비스 개발 후기](https://tech.lezhin.com/2020/07/15/kotlin-webflux)
 - [Spring WebClient 사용법](https://medium.com/@odysseymoon/spring-webclient-사용법-5f92d295edc0)
 - [스프링부트로 웹 서비스 출시하기 [시리즈]](https://jojoldu.tistory.com/250?category=635883)
 - [SpringBoot의 깨알같은 팁](https://jojoldu.tistory.com/43#at_pco=smlwn-1.0&at_si=5b8e1d94fc70039a&at_ab=per-2&at_pos=0&at_tot=1)
@@ -154,7 +146,6 @@
 - [Spring 예제로 보는 SOLID](https://github.com/cheese10yun/spring-SOLID)
 - [Selenium으로 Java+Spring 환경에서 웹 스크랩핑 하기](https://www.popit.kr/web-scraping-by-selenium/)
 - [실무에서 Lombok 사용법](https://github.com/cheese10yun/blog-sample/tree/master/lombok)
-- [jsp 서블릿 서블릿컨테이너 개요](https://m.blog.naver.com/ljh0326s/220985613855)
 - [전자정부 프레임워크를 java config 방식으로 (총12편)](https://zgundam.tistory.com/79)
 - [Springboot와 Properties, Yaml Environment](https://blog.kingbbode.com/m/39)
 - [Java9와 Spring5로 바라보는 Java의 변화와 도전 - 이일민(토비)님 발표 [영상]](https://www.youtube.com/watch?v=BFjrmj4p3_Y)
@@ -183,15 +174,11 @@
 - [Jackson 어노테이션 사용법](https://github.com/cheese10yun/blog-sample/tree/master/jackson)
 - [초보가 이해하는 스프링 시큐리티](https://okky.kr/article/382738)
 - [손그림으로 설명하는 ThreadPool과 ForkJoinPool](https://hamait.tistory.com/m/612)
-- [서블릿 컨테이너와 스프링 컨테이너](https://minwan1.github.io/2017/10/08/2017-10-08-Spring-Container,Servlet-Container/)
-- [Spring Boot - Logging, 20분 정리](https://www.sangkon.com/2019/03/18/hands-on-springboot-logging/)
 - [Builder 기반으로 객체를 안전하게 생성하는 방법](https://github.com/cheese10yun/blog-sample/tree/master/ddd)
 - [Entity, DTO, 그 사이의 ModelMapper 이야기](https://yonguri.tistory.com/m/entry/Entity-DTO-%EA%B7%B8-%EC%82%AC%EC%9D%B4%EC%9D%98-ModelMapper-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 - [Spring Guide - Domain 객체 가이드](https://www.popit.kr/spring-guide-domain-객체-가이드/?utm_source=dable)
 - [IntelliJ 디버깅 방법 정리](https://jojoldu.tistory.com/149)
 - [온라인 서점 API 만들기로 살펴보는 Spring Boot OOP](https://github.com/minwan1/online-book-store)
-- [Spring Cloud - Config Server에 관하여](http://blog.leekyoungil.com/?p=352)
-- [Vscode로 SpringBoot 개발 환경 설정하기](http://blog.leekyoungil.com/?p=479)
 - [우아한 객체지향 [슬라이드]](https://www.slideshare.net/baejjae93/ss-150432699)
 - [우아한테크세미나 - 우아한 객체지향 [영상]](https://www.youtube.com/watch?v=dJ5C4qRqAgA)
 - [Spring에서 Request를 우아하게 로깅하기](https://taetaetae.github.io/2019/06/30/controller-common-logging/)
@@ -207,7 +194,6 @@
 - [스프링 기반 커스텀 Validation 효과적으로 하기](https://github.com/cheese10yun/blog-sample/blob/master/custom-validation/docs/class-validation.md?fbclid=IwAR16eYTQKLEzErCoC04SsSKu1FjdSv00FbhAQMJd_AWggrP4xus_1fJYcrw)
 - [스프링 애플리케이션에서 레디스 Read From Slave 구현하기](https://brunch.co.kr/@springboot/218)
 - [생성자 주입을 사용해야 하는 이유, 필드인젝션이 좋지 않은 이유](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
-- [Spring IoC](https://johngrib.github.io/wiki/spring-ioc/)
 - [Spring Batch의 멱등성 유지하기](https://jojoldu.tistory.com/451)
 - [Quartz 스케줄러 적용 아키텍처 개선](https://homoefficio.github.io/2019/09/28/Quartz-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC-%EC%A0%81%EC%9A%A9-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B0%9C%EC%84%A0-1/)
 - [Builder 기반으로 객체를 안전하게 생성하는 방법](https://www.popit.kr/builder-%ea%b8%b0%eb%b0%98%ec%9c%bc%eb%a1%9c-%ea%b0%9d%ec%b2%b4%eb%a5%bc-%ec%95%88%ec%a0%84%ed%95%98%ea%b2%8c-%ec%83%9d%ec%84%b1%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/)
@@ -241,7 +227,6 @@
 - [Spring Data JPA와 AspectJ가 함께 친 사고](http://www.chidoo.me/index.php/2018/04/22/conflict-of-spring-data-jpa-and-aspectj/)
 - [Spring-Jpa Best Practices 쳅터 별로 정리](https://github.com/cheese10yun/spring-jpa-best-practices)
 - [JPA 변경 감지와 스프링 데이터](https://www.popit.kr/jpa-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0/)
-- [MyBatis, Hibernate, JPA 무엇을 선택할 것인가?](http://bky1107.tistory.com/9)
 - [JPA 잘하는 척 하기! [슬라이드]](https://www.slideshare.net/mobile/ssusere4d67c/jpa-53004111)
 - [JPA 기본 개념](http://tinkerbellbass.tistory.com/24)
 - [김영한님의 JPA 소개 [슬라이드]](https://www.slideshare.net/zipkyh/ksug2015-jpa1-jpa-51213397)
@@ -260,11 +245,10 @@
 ## Kotlin
 
 - [Kotlin 도입 과정에서 만난 문제와 해결 방법](https://d2.naver.com/helloworld/6685007)
-- [Kotlin으로 JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
 - [코틀린 코루틴(coroutine) 개념 익히기](https://wooooooak.github.io/kotlin/2019/08/25/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EA%B0%9C%EB%85%90-%EC%9D%B5%ED%9E%88%EA%B8%B0/)
 - [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
 - [Kotlin ORM 프레임 워크 Exposed](https://cheese10yun.github.io/exposed/)
-- [어디가서 코프링 알은체하기](https://www.youtube.com/watch?v=ewBri47JWII)
+- [어디가서 코프링 알은체하기 [영상]](https://www.youtube.com/watch?v=ewBri47JWII)
 
 ## C/C++
 
