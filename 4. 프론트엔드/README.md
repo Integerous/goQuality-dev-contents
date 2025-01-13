@@ -1,33 +1,27 @@
 # 4. 프론트엔드
 
-### 프론트엔드 일반
-- [Naver FE News](https://github.com/naver/fe-news)
-- [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
-- [Lerna로 모노레포 해보러나?](https://medium.com/jung-han/lerna-%EB%A1%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%ED%95%B4%EB%B3%B4%EB%9F%AC%EB%82%98-34c8e008106a)  
-- [Frontend Application 에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)  
-- [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
-- [Webpack: When to use and Why](https://blog.andrewray.me/webpack-when-to-use-and-why/amp/)
-- [프론트 웹 기술 기초를 학습할 수 있는 사이트](https://poiemaweb.com/)
-- [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-d15402becaef)
-- [프론트엔드 개발 환경의 이해 : NPM](http://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
-- [프론트엔드 기술 번역문서 모음](https://github.com/FEDevelopers/tech.description/wiki/%EB%B2%88%EC%97%AD-%EB%AC%B8%EC%84%9C)
-- [프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM](http://bit.ly/2OZE0aL)
-- [초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 [번역]](http://bit.ly/2qmdaem)
-- [실용주의 Front-end 개발](https://peter-cho.gitbook.io/book/)
-- [“프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM”](https://link.medium.com/5F2ip5dKDR)
-- [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
-- [Front-End 발전 역사와 개발 생태계](https://moon9342.github.io/front-end-ecosystem)
-- [실용적인 프론트엔드 테스트 전략 1편](https://github.com/nhnent/fe.javascript/wiki/%23189-:%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EB%9E%B5-(1))
-- [앱의 프론트엔드 성능을 향상시키는 방법 - 5가지 코딩 팁 [번역]](https://junwoo45.github.io/2019-10-05-frontend-performance/)
-- [프론트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
-- [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
-- [React밖에 모르는 당신에게. GatsbyJS 한 잔, ‘채용~’](https://blog.banksalad.com/tech/build-a-website-with-gatsby/)
-- [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
-- [웹 프론트엔드 프레임워크, 무엇을 쓸까?](https://www.samsungsds.com/global/ko/support/insights/frameworks.html)
-- [당근마켓에 웹 프로젝트 배포하기 #1 - 파일 기반 웹뷰](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c)
-- [당근마켓에 웹 프로젝트 배포하기 #2 - 웹뷰 기반 웹앱](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A1%9C-%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0-3030daea456c)
+> 📌 목차
+>- [언어/프레임워크](#언어프레임워크)
+>   - [Javascript](#javascript)
+>   - [Typescript](#typescript)
+>   - [Node.js/Deno](#nodejsdeno)
+>   - [React.js](#reactjs)
+>   - [Vue.js](#vuejs)
+>   - [Svelte](#svelte)
+>   - [Next.js](#nextjs)
+>   - [Nuxt.js](#nuxtjs)
+>   - [Nest.js](#nestjs)
+>   - [그 외](#그-외-javascript)
+> - [프론트엔드 일반](#프론트엔드-일반)
+> - [웹 관련](#웹-관련)
+> - [디자인/UI/UX](#디자인uiux)
+> - [CSS](#css)
 
-### Javascript 관련
+## 언어/프레임워크
+
+---
+### Javascript
+
 - [DOM 101 — Nodes & Events](https://medium.com/@euncho/dom-101-ed14cff6e2ce)
 - [깊은 복사와 얕은 복사에 대한 심도있는 이야기](https://medium.com/watcha/%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8B%AC%EB%8F%84%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-2f7d797e008a)  
 - [Google JavaScript Technical Interview (Callbacks, Promises, Await/Async)](https://medium.com/developers-tomorrow/google-javascript-technical-interview-7a20accd6ddf)
@@ -124,8 +118,21 @@
 - [Data Structure For JavaScript](https://hg-pyun.github.io/data-structure-for-javascript/)
 - [코드스피츠 88 - async await #1/2](https://www.youtube.com/watch?v=H_Hb9IF7sfc&feature=youtu.be)
 
+---
+### Typescript
+- [TypeScript enum을 사용하지 않는 게 좋은 이유를 Tree-shaking 관점에서 소개합니다.](https://engineering.linecorp.com/ko/blog/typescript-enum-tree-shaking/)
+- [TypeScript Handbook [번역]](https://typescript-kr.github.io/)
+- [TypeScript: 인터페이스(Interface)](https://hyunseob.github.io/2016/10/17/typescript-interface/)
+- [TypeScript와 함께하는 Fullstack Development](https://medium.com/p/501835592b1d)
+- [TypeScript Deep Dive [영문]](https://basarat.gitbooks.io/typescript/content/)
+- [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
+- [리액트 프로젝트에서 타입스크립트 사용하기](https://velog.io/@velopert/typescript-basics)
+- [타입스크립트를 위한 클린코드 - 한글번역판](https://github.com/738/clean-code-typescript)
+- [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev/)
+- [TypeScript 4.0 릴리즈 노트 [번역]](https://han41858.tistory.com/52)
 
-### Node.js & Deno
+---
+### Node.js/Deno
 - [deno 첫 외주 후기](https://kdy1.github.io/post/works/freelance/deno/first-freelance-work/)
 - [모바일 줌 SpringBoot → NodeJS 전환기 (feat. VueJS SSR)](https://zuminternet.github.io/ZUM-Mobile-NodeJS/)
 - [Node 제작자가 만든 Deno : 자바스크립트의 새로운 접근](https://blog.ull.im/engineering/2019/04/14/deno-ryan-dahl-2019-04-04.html)
@@ -140,7 +147,7 @@
 - [Node.js의 순환 의존성](https://blog.outsider.ne.kr/1283?category=24)
 - [견고한 node.js 프로젝트 설계하기 [번역]](https://velog.io/@hopsprings2/%EA%B2%AC%EA%B3%A0%ED%95%9C-node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)
 
-
+---
 ### React.js
 - [React 이해하기](https://helloworld.kurly.com/blog/thinking-in-react/)
 - [Monorepo로 대규모 React 프로젝트 관리하기](https://medium.com/myrealtrip-product/monorepo%EB%A1%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-d12b65340306)
@@ -169,8 +176,8 @@
 - [컴포넌트 분리의 미학](https://vallista.kr/2020/03/29/Component-%EB%B6%84%EB%A6%AC%EC%9D%98-%EB%AF%B8%ED%95%99/)
 - [Recoil - 또 다른 React 상태 관리 라이브러리?](https://ui.toast.com/weekly-pick/ko_20200616/)
 - [My구독의 React Query 전환기](https://tech.kakao.com/2022/06/13/react-query/)
-- 
 
+---
 ### Vue.js
 - [The process: Making Vue3 [번역]](https://perade.github.io/blog/the-process-making-vue3/)
 - [React 와 Vue로 똑같은 앱 만들고 비교 [번역]](http://bit.ly/2NugsFq)
@@ -188,33 +195,63 @@
 - [Vue.js: The Documentary [영상]](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 - [Vue 3 에서 사용될 Composition API 정리](https://chodragon9.github.io/blog/composition-api-rfc-migration/#api-reference)
 
+---
+### Svelte
 
-### TypeScript
-- [TypeScript enum을 사용하지 않는 게 좋은 이유를 Tree-shaking 관점에서 소개합니다.](https://engineering.linecorp.com/ko/blog/typescript-enum-tree-shaking/)
-- [TypeScript Handbook [번역]](https://typescript-kr.github.io/)
-- [TypeScript: 인터페이스(Interface)](https://hyunseob.github.io/2016/10/17/typescript-interface/)
-- [TypeScript와 함께하는 Fullstack Development](https://medium.com/p/501835592b1d)
-- [TypeScript Deep Dive [영문]](https://basarat.gitbooks.io/typescript/content/)
-- [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
-- [리액트 프로젝트에서 타입스크립트 사용하기](https://velog.io/@velopert/typescript-basics)
-- [타입스크립트를 위한 클린코드 - 한글번역판](https://github.com/738/clean-code-typescript)
-- [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev/)
-- [TypeScript 4.0 릴리즈 노트 [번역]](https://han41858.tistory.com/52)
+---
+### Next.js
+
+---
+### Nuxt.js
+
+---
+### Nest.js
+
+---
+### 그 외 Javascript
 
 
---------------------------------------
+## 프론트엔드 일반
+- [Naver FE News](https://github.com/naver/fe-news)
+- [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
+- [Lerna로 모노레포 해보러나?](https://medium.com/jung-han/lerna-%EB%A1%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%ED%95%B4%EB%B3%B4%EB%9F%AC%EB%82%98-34c8e008106a)  
+- [Frontend Application 에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)  
+- [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
+- [Webpack: When to use and Why](https://blog.andrewray.me/webpack-when-to-use-and-why/amp/)
+- [프론트 웹 기술 기초를 학습할 수 있는 사이트](https://poiemaweb.com/)
+- [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-d15402becaef)
+- [프론트엔드 개발 환경의 이해 : NPM](http://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
+- [프론트엔드 기술 번역문서 모음](https://github.com/FEDevelopers/tech.description/wiki/%EB%B2%88%EC%97%AD-%EB%AC%B8%EC%84%9C)
+- [프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM](http://bit.ly/2OZE0aL)
+- [초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기 [번역]](http://bit.ly/2qmdaem)
+- [실용주의 Front-end 개발](https://peter-cho.gitbook.io/book/)
+- [“프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM”](https://link.medium.com/5F2ip5dKDR)
+- [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
+- [Front-End 발전 역사와 개발 생태계](https://moon9342.github.io/front-end-ecosystem)
+- [실용적인 프론트엔드 테스트 전략 1편](https://github.com/nhnent/fe.javascript/wiki/%23189-:%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EB%9E%B5-(1))
+- [앱의 프론트엔드 성능을 향상시키는 방법 - 5가지 코딩 팁 [번역]](https://junwoo45.github.io/2019-10-05-frontend-performance/)
+- [프론트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
+- [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
+- [React밖에 모르는 당신에게. GatsbyJS 한 잔, ‘채용~’](https://blog.banksalad.com/tech/build-a-website-with-gatsby/)
+- [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
+- [웹 프론트엔드 프레임워크, 무엇을 쓸까?](https://www.samsungsds.com/global/ko/support/insights/frameworks.html)
+- [당근마켓에 웹 프로젝트 배포하기 #1 - 파일 기반 웹뷰](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c)
+- [당근마켓에 웹 프로젝트 배포하기 #2 - 웹뷰 기반 웹앱](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A1%9C-%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0-3030daea456c)
 
-### 디자인 & UI/UX & CSS
+---
+### 웹 관련
+
+
+---
+### 디자인/UI/UX
 - [컴포넌트, 제대로 만들어 쉽게 쓰자! (1탄) 쏘카 디자이너와 개발자가 컴포넌트를 만드는 방식](https://tech.socarcorp.kr/design/2020/07/31/component-01.html)
 - [emotion을 활용한 크몽 프론트엔드 스타일링 시스템](https://medium.com/kmong/emotion%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%AA%BD-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-ec5436089ad)
 - [디자인 챕터는 왜 존재할까?](https://blog.gangnamunni.com/post/mission-vision-of-designchapter/)
 - [Banksalad Product Language를 소개합니다](https://blog.banksalad.com/tech/banksalad-product-language-ios/)
-- [CSS 팁: 팝업창을 멋지게 만드는 너무 간단한 방법](https://taegon.kim/archives/10088)
 - [미니멀 UI의 차기 트렌드 '컴플렉션 리덕션'](https://brunch.co.kr/@ideawriter/24)
 - [키오스크 UI 설계 시 고려할 것들](https://story.pxd.co.kr/1332)
 - [최고의 UI/UX 애니메이션들 [영문]](http://bit.ly/2ONgDjX)
 - [SVG, JS, CSS로 만드는 라이언 로그인 폼](https://taegon.kim/archives/9658)
-- [CSS에 대한 깊은 이해: 폰트 매트릭스, line-height와 vertical-align [번역]](https://wit.nts-corp.com/2017/09/25/4903)
 - [웹폰트 사용하기 (웹폰트의 모든 것)](https://wit.nts-corp.com/2017/02/13/4258)
 - [왜 장바구니 UX 디자인은 비효율적인가? [영문]](https://blog.prototypr.io/ux-challenge-why-cart-page-design-is-inefficient-4-10-862d58d801a1)
 - [실무에 바로 적용하는 UI 디자인 팁 7가지 [영문]](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
@@ -237,22 +274,13 @@
 - [새해, 사이드 프로젝트에 도움이 될만한 디자인 리소스](https://brunch.co.kr/@mobiinside/1423)
 - [2019 UX/UI 디자인 트렌드](https://brunch.co.kr/@usdlab/38?utm_medium=gaerae.com)
 - [웹폰트 경량화 - 폰트툴즈의 pyftsubset을 사용한 폰트 서브셋 만들기](https://www.44bits.io/ko/post/optimization_webfont_with_pyftsubnet)
-- [css, js로 position - sticky 구현 방법](https://moonformeli.tistory.com/24)
-- [스크롤과 관련된 CSS 속성 3가지](https://taegon.kim/archives/9807)
 - [모바일 UI·UX 디자인시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/8)
-- [css의 7가지 단위](https://webclub.tistory.com/356)
-- [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
 - [Top UI/UX Design Works for Inspiration](https://uxplanet.org/top-ui-ux-design-inspiration-f9a4bdc6e378)
 - [image 요소 아래에 패딩된 여분의 공간 제거하기](https://poiemaweb.com/css3-removing-white-space-image-element)
 - [30개의 와이어프레임 examples](https://designseer.com/website-wireframe-examples/)
-- [CSS Grid Garden](http://cssgridgarden.com/#ko)
-- [CSS FLEXBOX Froggy](http://flexboxfroggy.com/#ko)
-- [CSS Flexbox](https://flexbox.help/)
-- [잘 알려지지 않은 유용한 CSS 속성들](https://ahnheejong.name/articles/less-famous-css-properties/)
 - [코드로 만드는 Design System](https://medium.com/@kykkjh2984/%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-design-system-b04bb916a02b)
 - [모바일 UI 디자인 기본 요소 - 버튼](https://brunch.co.kr/@chulhochoiucj0/23)
 - [웹에서 쓰기 좋은 216개의 컬러 모음](https://favpng.com/png_colors)
-- [SCSS에 새로 추가된 Module System (@use, @forward)](https://blueshw.github.io/2019/10/27/scss-module-system/)
 - [One UI Design Guide KOR.pdf](http://www.design.samsung.com/kr/contents/one-ui/download/oneui_design_guide_kor.pdf)
 - [웹디자이너를 위한 크롬 확장 프로그램 10선](https://uxdesign.cc/10-best-chrome-extensions-for-designers-a76540b93836)
 - [시각적 위계를 활용한 경험 설계](https://brunch.co.kr/@cliche-cliche/25)
@@ -265,43 +293,22 @@
 - [React Native UI 개발 시작하기](https://wit.nts-corp.com/2020/03/23/6014)
 - [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
 - [글자랑의 한글 가변폰트 실험](https://www.notion.so/49fca2912ab344edb0ef24b8f320440a)
-- [세상은 왜 CSS개발자를 필요로 하는가? [번역]](https://medium.com/@Baksure/%EB%B2%88%EC%97%AD-%EC%84%B8%EC%83%81%EC%9D%80-%EC%99%9C-css%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%ED%95%84%EC%9A%94%EB%A1%9C-%ED%95%98%EB%8A%94%EA%B0%80-c3465999301b)
 - [코드로 자음과 모음을 분리하기](https://www.notion.so/3c40c025b9bc474da00add82f9c301ad)
+
+
+---
+### CSS
+- [CSS에 대한 깊은 이해: 폰트 매트릭스, line-height와 vertical-align [번역]](https://wit.nts-corp.com/2017/09/25/4903)
+- [css의 7가지 단위](https://webclub.tistory.com/356)
+- [CSS 팁: 팝업창을 멋지게 만드는 너무 간단한 방법](https://taegon.kim/archives/10088)
 - [CSS in 2022 [번역]](https://wit.nts-corp.com/2022/02/24/6490)
-- 
+- [세상은 왜 CSS개발자를 필요로 하는가? [번역]](https://medium.com/@Baksure/%EB%B2%88%EC%97%AD-%EC%84%B8%EC%83%81%EC%9D%80-%EC%99%9C-css%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%ED%95%84%EC%9A%94%EB%A1%9C-%ED%95%98%EB%8A%94%EA%B0%80-c3465999301b)
+- [SCSS에 새로 추가된 Module System (@use, @forward)](https://blueshw.github.io/2019/10/27/scss-module-system/)
+- [CSS Grid Garden](http://cssgridgarden.com/#ko)
+- [CSS FLEXBOX Froggy](http://flexboxfroggy.com/#ko)
+- [CSS Flexbox](https://flexbox.help/)
+- [잘 알려지지 않은 유용한 CSS 속성들](https://ahnheejong.name/articles/less-famous-css-properties/)
+- [css, js로 position - sticky 구현 방법](https://moonformeli.tistory.com/24)
+- [스크롤과 관련된 CSS 속성 3가지](https://taegon.kim/archives/9807)
+- [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
 
---------------------------------------
-
-### 모바일 & iOS & 안드로이드
-- [UICollectionView를 이용한 LINE iOS 대화방 리팩토링](https://engineering.linecorp.com/ko/blog/ios-refactoring-uicollectionview-1/)
-- [코알람 App 출시 A부터 Z까지](https://medium.com/@hyunji5834/코알람-app-출시-a부터-z까지-3ecbec543eeb)
-- [지난 10번의 WWDC를 되돌아보며](https://medium.com/@jungkim/%EC%A7%80%EB%82%9C-10%EB%B2%88%EC%9D%98-wwdc%EB%A5%BC-%EB%90%98%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-16d6da3a95b2)  
-- [Retrofit2 샘플](https://github.com/HwangEunmi/Retrofit-Sample)
-- [모바일 디자인할 때 그리드 시스템 꼭 사용해야 할까?](https://brunch.co.kr/@plusx/3)
-- [카카오뱅크 모바일앱 개발 이야기 [영상]](https://tv.kakao.com/channel/3150758/cliplink/391419226?playlistId=209907&metaObjectType=Playlist)
-- [안드로이드 모션 레이아웃 설명 [영문]](https://medium.com/google-developers/introduction-to-motionlayout-part-i-29208674b10d)
-- [가상화폐 거래소 앱 개발 후기](https://medium.com/@joongwon/%EA%B0%80%EC%83%81%ED%99%94%ED%8F%90-%EA%B1%B0%EB%9E%98%EC%86%8C-%EC%95%B1%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8B%A4-e0f80dadc2c9)
-- [네이버 그린팩토리 주차층 관리앱 개발기](https://tv.naver.com/v/4286021)
-- [Flutter(모바일앱 SDK)는 왜 혁명적인가 [번역]](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
-- [넷플릭스 안드로이드 앱 아키텍쳐 [번역]](https://m.blog.naver.com/diablo1031/221406412612)
-- [NAVER Tech Concert:Android 발표 영상 모음 [영상]](https://tv.naver.com/v/4409296/list/272653)
-- [Vue와 NativeScript로 네이티브 모바일 앱 만들기 [번역]](http://vuejs.kr/vue/nativescript/2017/08/11/introduce-vue-nativescript-01/)
-- [iOS 한국어 강의 및 세미나 자료 모음](https://github.com/ClintJang/awesome-swift-korean-lecture)
-- [타다 클라이언트 개발기](http://engineering.vcnc.co.kr/2019/05/tada-client-development/)
-- [React Native를 이용한 어플리케이션 개발 기록](https://dev-yakuza.github.io/ko/react-native/)
-- [Android: RecyclerView에서 텍스트 레아이웃 미리 계산하기](https://developers-kr.googleblog.com/2018/08/prefetch-text-layout-in-recyclerview.html)
-- [iOS 프리랜서로 산다는 것 [영상]](https://youtu.be/1QlneFvP0K8)
-- [갈피: 나의 첫 모바일 앱 개발기](https://ahnheejong.name/articles/galpi-development-diary/)
-- [I/O에서 발표된 Android의 현재를 정리해보았습니다. [번역]](https://developers-kr.googleblog.com/2019/08/whats-now-in-android.html)
-- [더 작은 APK를 위한 Android App Bundle에 대해서](https://medium.com/daangn/%EB%8D%94-%EC%9E%91%EC%9D%80-apk%EB%A5%BC-%EC%9C%84%ED%95%9C-android-app-bundle%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-345a656eee85)
-- [React Native로 성공적인 MVP 개발하기](https://drive.google.com/file/d/1LKtyaDE9qnrqOeJvQRhIhWqdZ229ofR7/view)
-- [Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다. [번역]](https://gist.github.com/Hazealign/1bbc586ded1649a8f08f)
-- [Flutter를 배우기 위한 강좌 및 사이트 추천](https://medium.com/@sangin84/flutter-%ED%94%8C%EB%9F%AC%ED%84%B0-%EB%A5%BC-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EA%B0%95%EC%A2%8C-%EC%B1%84%EB%84%90-%EC%B6%94%EC%B2%9C-97bfee35b20)
-- [안드로이드 개발자라면 꼭 해야하는 & 알아야 하는 6가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%9D%BC%EB%A9%B4-%EA%BC%AD-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94-6%EA%B0%80%EC%A7%80-23df7f059da3)
-- [공식문서 만으로 iOS 개발 배우기](https://sungdoo.dev/programming/start-ios-development-with-offical-docs/)
-- [유니티, 증강현실 앱개발 런칭기 (iOS, Android)](https://brunch.co.kr/@chickenmoim/18)
-- [iOS(Swift, Objc) 질문과 답변 모음](https://github.com/ClintJang/ios-swift-objc-questions-and-answers/blob/master/README.md#%EC%9E%90%EC%B2%B4%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%97%86%EC%9D%B4-%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8%EB%A7%8C-%EB%B6%99%EC%9D%B4%EB%A0%A4%EA%B3%A0-%ED%95%98%EB%8A%94%EB%8D%B0-%EC%95%A0%ED%94%8C-%EB%A6%AC%EC%A0%9D%EC%82%AC%EC%9C%A0%EC%9D%B8%EA%B0%80%EC%9A%94)
-- [무료 Flutter e-book](https://ridibooks.com/books/3419000002)
-- [Adding Amazing Transitions to Your Android App Easily Using Material Motion](https://medium.com/swlh/adding-amazing-transitions-to-your-android-app-easily-using-material-motion-f0cd92463b39)
-- [너의 MVC는 나의 MVC와 다르다](https://velog.io/@eddy_song/ios-mvc)
-- [지식iN 앱을 Flutter로 개발하는 이유](https://d2.naver.com/helloworld/3384599)

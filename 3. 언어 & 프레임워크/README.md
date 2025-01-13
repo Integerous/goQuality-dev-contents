@@ -1,4 +1,5 @@
 # 3. 언어/프레임워크
+>프론트엔드 언어와 프레임워크는 [4.프론트엔드]() 카테고리에 모았습니다.
 
 > 📌 목차
 > - [Python](#python)
@@ -14,17 +15,6 @@
 >   - [JPA](#jpa)
 >   - [그 외](#그-외-java)
 > - [Kotlin](#kotlin)
-> - [Javascript](#javascript)
->   - [Javascript](#javascript)
->   - [Typescript](#typescript)
->   - [Node.js/Deno](#nodejsdeno)
->   - [React.js](#reactjs)
->   - [Vue.js](#vuejs)
->   - [Svelte](#svelte)
->   - [Next.js](#nextjs)
->   - [Nuxt.js](#nuxtjs)
->   - [Nest.js](#nestjs)
->   - [그 외](#그-외-javascript)
 > - [C/C++](#cc)
 > - [C#](#csharp)
 > - [Go](#go)
@@ -36,7 +26,6 @@
 >   - [그 외](#그-외-함수형-언어)
 > - [그 외](#그-외)
 
----
 
 ## Python
 
@@ -72,7 +61,6 @@
 
 ## Java
 
----
 ### Java
 - [자바 스프링 실전 가이드 [영상]](https://www.youtube.com/watch?v=TIag2sXhZRk)
 - [JetBrains가 사랑하는 Java의 25가지 특징](https://blog.jetbrains.com/kr/2020/05/25-things-we-love-about-java-ko/)
@@ -278,51 +266,9 @@
 - [Kotlin ORM 프레임 워크 Exposed](https://cheese10yun.github.io/exposed/)
 - [어디가서 코프링 알은체하기](https://www.youtube.com/watch?v=ewBri47JWII)
 
-## Javascript
-
-### Typescript
-
-<!-- Add content here -->
-
-### Node.js/Deno
-
-<!-- Add content here -->
-
-### React.js
-
-<!-- Add content here -->
-
-### Vue.js
-
-<!-- Add content here -->
-
-### Svelte
-
-<!-- Add content here -->
-
-### Next.js
-
-<!-- Add content here -->
-
-### Nuxt.js
-
-<!-- Add content here -->
-
-### Nest.js
-
-<!-- Add content here -->
-
-### 그 외 Javascript
-
-<!-- Add content here -->
-
 ## C/C++
 
-<!-- Add content here -->
-
 ## C#
-
-<!-- Add content here -->
 
 ## Go
 
@@ -340,13 +286,12 @@
 
 ## Ruby
 
-<!-- Add content here -->
-
 ## PHP
 - [PHP The right way](https://modernpug.github.io/php-the-right-way/)
 
 ## 함수형 언어
 
+---
 ### Rust
 - [Rust 한글 문서](https://rinthel.github.io/rust-lang-book-ko/)
 
@@ -356,8 +301,6 @@
 
 ---
 ### 그 외 함수형 언어
-
-<!-- Add content here -->
 
 ## 그 외
 
