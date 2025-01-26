@@ -240,7 +240,24 @@
 
 
 ### 웹 관련
-
+- [REST API에서 Put 과 Post 의 차이](http://bit.ly/2CFGzIM)
+- [REST API의 이해와 설계  1편 - 개념 소개](http://bit.ly/2QX4lD8)
+- [Restful API를 설계하기 위한 디자인 팁](https://spoqa.github.io/2013/06/11/more-restful-interface.html)
+- [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
+- [그런 REST API로 괜찮은가 [영상]](https://www.youtube.com/watch?v=RP_f5dMoHFc)
+- [REST API 튜토리얼 [영문]](https://restapitutorial.com/)
+- [REST API 설명 [영상]](https://www.youtube.com/watch?v=LooL6_chvN4)
+- [REST FULL 한 웹서비스 > Stateless와 HATEOAS 개념](http://anster.tistory.com/163)
+- [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest의-representation이란-무엇인가/)
+- [REST API가 뭔가요? [영상]](https://youtu.be/iOueE9AXDQQ)
+- [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
+- [조금 더 괜찮은 Rest Template 1부 - Retryable](https://taetaetae.github.io/2020/03/22/better-rest-template-1-retryable/)
+- [프론트엔드와 백엔드가 소통하는 엔드포인트, RESTful API](https://evan-moon.github.io/2020/04/07/about-restful-api/)
+- [프로듀스48과 함께하는 GraphQL(그래프큐엘)](http://bit.ly/2qkVjVh)
+- [GraphQL과 RESTful API](http://bit.ly/2Q3ZK1H)
+- [GraphQL 개념잡기](https://tech.kakao.com/2019/08/01/graphql-basic/)
+- [코딩 없이 10분 만에 REST API/Graphql 서버 개발하기](https://medium.com/@khwsc1/js%EB%A1%9C-10%EB%B6%84%EB%A7%8C%EC%97%90-rest-api-graphql-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d28148dbdef2)
+- [GraphQl을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
 
 
 ### 디자인/UI/UX
