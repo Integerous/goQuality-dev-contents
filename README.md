@@ -34,7 +34,7 @@
 
 </br>
 
-# :mag_right: 카테고리
+## :mag_right: 카테고리
 
 <details>
 <summary><a href="/1.%20개발%20일반">1. 개발 일반</a></summary>
@@ -170,7 +170,7 @@
 
 </br>
 
-# :mailbox: Queue
+## :mailbox: Queue
 
 > 컨텐츠 링크를 가장 아래부터 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
