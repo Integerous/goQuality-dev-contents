@@ -1,6 +1,25 @@
-# 5. 인프라 & DevOps
+# 8. 인프라/DevOps
 
-### 도커 Docker
+> 📌 목차
+> - [Kubernetes](#Kubernetes)
+> - [Docker](#Docker)
+> - [AWS/Azure/GCP](#AWS/Azure/GCP)
+> - [그 외](#그-외)
+
+
+## Kubernetes
+- [쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
+- [반드시 알아야 할 쿠버네티스 디자인 패턴 10가지 [번역]](https://jflip.tistory.com/13)
+- [쿠버네티스(Kubernetes) 잘 설명된 글](https://www.popit.kr/kubernetes-introduction/)
+- [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기(GitOps CI/CD) [슬라이드]](https://www.slideshare.net/mobile/subicura/gitops-cicd-156402754)
+- [쿠버네티스 네트워킹 이해하기 [번역]](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
+- [컨테이너와 쿠버네티스 쉽게 이해하기](https://medium.com/@dodghekgoo/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%A5%BC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-3bd07ff0a02d)
+- [Kubernetes 03 – Kubernetes Cluster on AWS with kops](https://blog.2dal.com/2019/04/24/kubernetes-03-kubernetes-cluster-on-aws-with-kops/)
+- [Kubernetes 개념 설명 영상](http://bit.ly/2yWgxwl)
+- [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
+
+
+## Docker
 - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
 - [Docker 교실 [영문]](https://training.play-with-docker.com/)
 - [도커의 궁금증 8가지](http://www.itworld.co.kr/tags/64073/도커/87971)
@@ -30,20 +49,8 @@
 - [도커 이미지 잘 만드는 방법](https://jonnung.dev/docker/2020/04/08/optimizing-docker-images/)
 
 
---------------------------------------
+## AWS/Azure/GCP
 
-### 쿠버네티스 Kubernetes
-- [쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
-- [반드시 알아야 할 쿠버네티스 디자인 패턴 10가지 [번역]](https://jflip.tistory.com/13)
-- [쿠버네티스(Kubernetes) 잘 설명된 글](https://www.popit.kr/kubernetes-introduction/)
-- [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기(GitOps CI/CD) [슬라이드]](https://www.slideshare.net/mobile/subicura/gitops-cicd-156402754)
-- [쿠버네티스 네트워킹 이해하기 [번역]](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
-- [컨테이너와 쿠버네티스 쉽게 이해하기](https://medium.com/@dodghekgoo/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%A5%BC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-3bd07ff0a02d)
-- [Kubernetes 03 – Kubernetes Cluster on AWS with kops](https://blog.2dal.com/2019/04/24/kubernetes-03-kubernetes-cluster-on-aws-with-kops/)
-- [Kubernetes 개념 설명 영상](http://bit.ly/2yWgxwl)
-- [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
 
---------------------------------------
-
-### 인프라스트럭처 자동화 도구
+## 그 외
 - [테라폼이란?](https://www.44bits.io/ko/keyword/terraform)

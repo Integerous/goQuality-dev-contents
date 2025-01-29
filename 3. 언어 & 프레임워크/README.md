@@ -7,7 +7,7 @@
 >   - [Django](#django)
 >   - [Flask](#flask)
 >   - [FastAPI](#fastapi)
->   - [그 외](#그-외)
+>   - [그 외](#그-외-python)
 > - [Java](#java)
 >   - [Java](#java)
 >   - [JVM](#jvm)

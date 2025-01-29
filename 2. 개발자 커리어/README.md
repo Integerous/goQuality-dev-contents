@@ -3,7 +3,7 @@
 >📌 목차
 > - [개발자 커리어](#개발자-커리어)
 >   - [성장](#성장)
->   - [비전공자/신입](#비전공자신입)
+>   - [비전공자/주니어](#비전공자주니어)
 >   - [취업/이직](#취업이직)
 >     - [후기](#후기)
 >     - [이력서/포트폴리오](#이력서포트폴리오)
@@ -23,7 +23,11 @@
 
 
 ## 성장
-
+- [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
+- ['기능 공장'에서 일하고 있다는 12가지 신호](https://brunch.co.kr/@cojette/31)
+- [일일커밋의 효용성](https://jojoldu.tistory.com/402)
+- [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474)
+- [내가 StackOverflow를 사용하는 방법](https://rinae.dev/posts/how-i-use-stackoverflow-kor)
 - [개발자 비급(祕笈) – 1. 연봉은 실력의 결과가 아니다](http://channy.creation.net/blog/1186)
 - [능력있는 개발자는 어떻게 알아볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
 - [데이터 사이언티스트 인턴 9개월 후기](https://tech.socarcorp.kr/data/2020/08/19/socar-data-group-intern-review.html)
@@ -111,7 +115,8 @@
 - [5수생 개발자 2021 회고](https://highjune.dev/memoires/memoires2021/)
 
 
-## 비전공자/신입
+## 비전공자/주니어
+- [주니어의 짝코딩 경험기](https://velog.io/@troflev/%EC%A3%BC%EB%8B%88%EC%96%B4%EC%9D%98-%EC%A7%9D%EC%BD%94%EB%94%A9-%EA%B2%BD%ED%97%98%EA%B8%B0-7njvfeief5)
 - [박문수 이야기](https://brunch.co.kr/@leehosung/12)
 - [늦은 나이, 개발자로 시작해도 좋을까요 - 30대 초반 비전공자의 고민](https://taegon.kim/archives/7829)
 - [30살에 주니어 개발자가 된다는 것 [번역]](https://medium.com/@minoo/%EB%B2%88%EC%97%AD-30%EC%82%B4%EC%97%90-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%9C%EB%8B%A4%EB%8A%94-%EA%B2%83-being-a-junior-developer-at-30-b7b587ee4f6b)
@@ -235,6 +240,7 @@
 
 
 ## 1인 개발
+- [개발자가 창업할 때 유의해야 할 세 가지](http://tkim.co/2019/05/30/%ea%b0%9c%eb%b0%9c%ec%9e%90%ea%b0%80-%ec%b0%bd%ec%97%85%ed%95%a0-%eb%95%8c-%ec%9c%a0%ec%9d%98%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%84%b8-%ea%b0%80%ec%a7%80/)
 
 
 ### 제품 개발 과정
