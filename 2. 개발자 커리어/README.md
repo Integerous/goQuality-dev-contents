@@ -38,45 +38,28 @@
 - [기술서 번역이 개발자의 삶에 미치는 영향에 대하여](https://youtu.be/3oigv0MUlWw?si=decGw0HwubvM_C1i)
 - [파이썬 코어 개발자가 되기까지](https://muchtrans.com/translations/my-path-to-becoming-a-python-core-developer.ko.html)
 - [흔하지 않고 좋은 웹 개발자가 되는 방법](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
-
 - [개발을 잘하고 싶어요 - 네이버랩스 송기선님](https://www.slideshare.net/deview/ss-58739254)
-- [내게 실용적이었던 프로그래밍 공부 방법들](https://velog.io/@city7310/%EB%82%B4%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D)
-- [IT직군별(개발,기획,디자인,마케터,대표) 동상이몽에 대하여…](https://medium.com/@baejinho/it%EC%A7%81%EA%B5%B0%EB%B3%84-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%A7%88%EC%BC%80%ED%84%B0-%EB%8C%80%ED%91%9C-%EB%8F%99%EC%83%81%EC%9D%B4%EB%AA%BD%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-3304929f7ab5)
 - [개발자가 공부로 살아남는 방법](https://evan-moon.github.io/2019/08/26/how-does-developer-study/)
-- [야놀자를 떠나며.. (feat.레저큐)](https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq/#disqus_thread)
+- [프론트엔드 개발자 학습 방향](https://youtu.be/02RCNUF-2Vw)
+- [차근차근 오픈소스에 기여해보기](https://rinae.dev/posts/how-to-contribute-oss)
+- [개발자와 명상](https://blog.shiren.dev/2020-03-24-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80%EB%AA%85%EC%83%81/)
+
 - [내게 실용적이었던 프로그래밍 공부 방법들](https://velog.io/@city7310/%EB%82%B4%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D)
 - [당신의 사이드 프로젝트를 위한 10가지 팁](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects)
 - ['성장'에 갈증을 느끼는 사람을 위하여(개발자 편)](https://brunch.co.kr/@chickenmoim/7)
-- [프론트엔드 개발자 학습 방향](https://youtu.be/02RCNUF-2Vw)
 - [SI 개발 10년차인데 코드 좀 봐주세요](https://www.popit.kr/si-%EA%B0%9C%EB%B0%9C-10%EB%85%84%EC%B0%A8%EC%9D%B8%EB%8D%B0-%EC%BD%94%EB%93%9C-%EC%A2%80-%EB%B4%90%EC%A3%BC%EC%84%B8%EC%9A%94/)
-- [더 나은 개발자로 성장하는 팁 [영상]](https://www.youtube.com/watch?v=yEcCQZlFmaM)
 - [인생 첫 open source 기여 경험기](https://minu94.tistory.com/m/3)
 - [평범한 개발자 그 이상이 되기 위한 야생 학습 비결](https://www.popit.kr/%ed%8f%89%eb%b2%94%ed%95%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ea%b7%b8-%ec%9d%b4%ec%83%81%ec%9d%b4-%eb%90%98%ea%b8%b0-%ec%9c%84%ed%95%9c-%ec%95%bc%ec%83%9d-%ed%95%99%ec%8a%b5-%eb%b9%84%ea%b2%b0/)
-- [차근차근 오픈소스에 기여해보기](https://rinae.dev/posts/how-to-contribute-oss)
-- [개발하기 바쁜데 글까지 쓰라고? (글쓰는 개발자가 되자.)](https://taetaetae.github.io/2019/10/27/a-reason-for-writing/)
-- [나는 어떻게 공부했는가?](https://medium.com/@euncho/%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%96%88%EB%8A%94%EA%B0%80-709df6714c42)
-- [개발자가 알아두면 좋은 영어 표현들 및 발음 실수들](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%B2%88%EC%99%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%98%81%EC%96%B4-%ED%91%9C%ED%98%84%EB%93%A4-%EB%B0%8F-%EB%B0%9C%EC%9D%8C-%EC%8B%A4%EC%88%98%EB%93%A4-db8f1b83d96e)
-- [개발자 로드맵 모음 [영문]](https://roadmap.sh/)
-- [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474)
-- [일일커밋 3주년 회고](https://jojoldu.tistory.com/464)
-- [개발자에서 세일즈맨으로](https://brunch.co.kr/@imagineer/323)
-- [2020 developer roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md)
-- [프로그래머를 지탱하는 3가지 성분 [슬라이드]](https://speakerdeck.com/totuworld/peurogeuraemeoreul-jitaenghaneun-3gaji-seongbun)
-- [개발 배우기가 정말 어려운 이유 [번역]](https://brunch.co.kr/@jypthemiracle/14)
+- [개발 배우기가 정말 어려운 이유](https://brunch.co.kr/@jypthemiracle/14)
 - [마켓컬리 개발자 이종립님 인터뷰](https://monthly-jiandson.tistory.com/49)
-- [열정적인 개발자가 번아웃을 피하는 방법 [영문]](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/)
-- [IT기자, 개발자로 돌아오다…CODEF 합류 10개월 후기](http://ohseyong.com/?p=2265)
 - [같이 일하고 싶은 사람](https://brunch.co.kr/@hyungsukkim/99)
-- [개발자와 명상](https://blog.shiren.dev/2020-03-24-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80%EB%AA%85%EC%83%81/)
 - [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
 - [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
 - [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect)
-- [레디스 개발자 메인테이너 자리에서 내려오다](http://antirez.com/news/133)
-- [그런 개발자로 괜찮은가 - '자기계발' 편](https://taetaetae.github.io/2020/06/28/a-good-developer-in-terms-of-self-development/)
-- [5수생 개발자 2021 회고](https://highjune.dev/memoires/memoires2021/)
 
 
 ## 비전공자/주니어
+- [5수생 개발자 2021 회고](https://highjune.dev/memoires/memoires2021/)
 - [개발자 지망생을 위한 주관적 추천도서](https://www.notion.so/kumo/44da2a336b864d35bd642bc62a300708)
 - [주니어의 짝코딩 경험기](https://velog.io/@troflev/%EC%A3%BC%EB%8B%88%EC%96%B4%EC%9D%98-%EC%A7%9D%EC%BD%94%EB%94%A9-%EA%B2%BD%ED%97%98%EA%B8%B0-7njvfeief5)
 - [우아한형제들 이동욱(jojoldu) 개발자 인터뷰](https://www.imaso.co.kr/archives/4869)
@@ -169,6 +152,7 @@
 
 
 ### 후기
+- [야놀자를 떠나며.. (feat.레저큐)](https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq)
 
 
 ### 이력서/포트폴리오
