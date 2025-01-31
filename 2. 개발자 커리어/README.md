@@ -60,6 +60,7 @@
 
 ## 비전공자/주니어
 - [주니어 개발자가 공부하는 법](https://medium.com/@a01058406602/%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-677b58e4111d)
+- [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
 - [3개월차 주니어 개발자가 느끼는 나와 시니어의 차이](https://zeniuus.github.io/2019/02/06/difference-between-junior-and-senior/)
 - [비전공 개발자가 전공자보다 정말 불리할까?](https://evan-moon.github.io/2019/09/09/major-is-not-important/)
 - [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지](https://youtu.be/V9AGvwPmnZU)
@@ -69,15 +70,7 @@
 - [우아한형제들 이동욱(jojoldu) 개발자 인터뷰](https://www.imaso.co.kr/archives/4869)
 - [32살에 개발에 입문한 비전공자가 인프런 창업한 이야기](https://www.slideshare.net/hodoogwaja/ss-81938573)
 - [줌인터넷 신입사원 파일럿 프로젝트 후기](https://zuminternet.github.io/ZUM-Pilot-integer/)
-
-- [박문수 이야기](https://brunch.co.kr/@leehosung/12)
-- [늦은 나이, 개발자로 시작해도 좋을까요 - 30대 초반 비전공자의 고민](https://taegon.kim/archives/7829)
-- [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
-- [개발이라는 세계에 첫 발 내딛기](http://asfirstalways.tistory.com/153)
 - [마흔살 기획자 프로그래머 되다](http://www.ibatstudio.com/%EB%A7%88%ED%9D%94%EC%82%B4-%EA%B8%B0%ED%9A%8D%EC%9E%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%90%98%EB%8B%A4/)
-- [경력자가 1년차 개발자로 되돌아간다면, 어떤 것에 집중할 것인가?](https://jojoldu.tistory.com/363?category=689637)
-- [문과생의 카카오 개발자 이직기](https://zorba91.tistory.com/m/270?category=876991)
-- [소주 1병 조지고 쓴 1년차 개발자의 아찔했던 순간들](https://jay-ji.tistory.com/m/42)
 
 
 ## 취업/이직
