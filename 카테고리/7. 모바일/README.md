@@ -55,8 +55,3 @@
 - [React Native를 이용한 어플리케이션 개발 기록](https://dev-yakuza.github.io/ko/react-native/)
 - [React Native로 성공적인 MVP 개발하기](https://drive.google.com/file/d/1LKtyaDE9qnrqOeJvQRhIhWqdZ229ofR7/view)
 
-### 그 외 크로스 플랫폼
-
-## 그 외
-
-

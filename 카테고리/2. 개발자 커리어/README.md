@@ -42,18 +42,10 @@
 - [프론트엔드 개발자 학습 방향](https://youtu.be/02RCNUF-2Vw)
 - [차근차근 오픈소스에 기여해보기](https://rinae.dev/posts/how-to-contribute-oss)
 - [개발자와 명상](https://blog.shiren.dev/2020-03-24-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80%EB%AA%85%EC%83%81/)
-
-- [내게 실용적이었던 프로그래밍 공부 방법들](https://velog.io/@city7310/%EB%82%B4%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D)
-- [당신의 사이드 프로젝트를 위한 10가지 팁](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects)
-- ['성장'에 갈증을 느끼는 사람을 위하여(개발자 편)](https://brunch.co.kr/@chickenmoim/7)
 - [SI 개발 10년차인데 코드 좀 봐주세요](https://www.popit.kr/si-%EA%B0%9C%EB%B0%9C-10%EB%85%84%EC%B0%A8%EC%9D%B8%EB%8D%B0-%EC%BD%94%EB%93%9C-%EC%A2%80-%EB%B4%90%EC%A3%BC%EC%84%B8%EC%9A%94/)
 - [인생 첫 open source 기여 경험기](https://minu94.tistory.com/m/3)
-- [평범한 개발자 그 이상이 되기 위한 야생 학습 비결](https://www.popit.kr/%ed%8f%89%eb%b2%94%ed%95%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ea%b7%b8-%ec%9d%b4%ec%83%81%ec%9d%b4-%eb%90%98%ea%b8%b0-%ec%9c%84%ed%95%9c-%ec%95%bc%ec%83%9d-%ed%95%99%ec%8a%b5-%eb%b9%84%ea%b2%b0/)
 - [개발 배우기가 정말 어려운 이유](https://brunch.co.kr/@jypthemiracle/14)
-- [마켓컬리 개발자 이종립님 인터뷰](https://monthly-jiandson.tistory.com/49)
 - [같이 일하고 싶은 사람](https://brunch.co.kr/@hyungsukkim/99)
-- [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
-- [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
 - [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect)
 
 
@@ -70,7 +62,8 @@
 - [32살에 개발에 입문한 비전공자가 인프런 창업한 이야기](https://www.slideshare.net/hodoogwaja/ss-81938573)
 - [줌인터넷 신입사원 파일럿 프로젝트 후기](https://zuminternet.github.io/ZUM-Pilot-integer/)
 - [마흔살 기획자 프로그래머 되다](http://www.ibatstudio.com/%EB%A7%88%ED%9D%94%EC%82%B4-%EA%B8%B0%ED%9A%8D%EC%9E%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%90%98%EB%8B%A4/)
-
+- [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
+- [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
 
 ## 취업/이직
 
@@ -155,6 +148,7 @@
 
 
 ## 1인 개발
+- [당신의 사이드 프로젝트를 위한 10가지 팁](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects)
 - [개발자가 창업할 때 유의해야 할 세 가지](http://tkim.co/2019/05/30/%ea%b0%9c%eb%b0%9c%ec%9e%90%ea%b0%80-%ec%b0%bd%ec%97%85%ed%95%a0-%eb%95%8c-%ec%9c%a0%ec%9d%98%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%84%b8-%ea%b0%80%ec%a7%80/)
 
 
