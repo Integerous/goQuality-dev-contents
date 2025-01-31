@@ -8,14 +8,11 @@
 >   - [MySQL](#MySQL)
 >   - [AWS/Azure/GCP](#AWS/Azure/GCP)
 >   - [Supabase/Firebase](#Supabase/Firebase)
->   - [그 외](#그-외-관계형DB)
 > - [NoSQL](#NoSQL)
 >   - [MongoDB](#MongoDB)
 >   - [Redis](#Redis)
 >   - [AWS/Azure/GCP](#AWS/Azure/GCP)
->   - [그 외](#그-외-NoSQL)
 > - [성능 최적화](#성능최적화)
-> - [그 외](#그-외)
 
 ## DB 일반
 - [데이터모델링의 기초 정리](http://bit.ly/2Pmdd4C)
@@ -63,9 +60,6 @@
 ### Supabase/Firebase
 
 
-### 그 외 관계형DB
-
-
 ## NoSQL
 
 
@@ -79,8 +73,6 @@
 ### AWS/Azure/GCP
 
 
-### 그 외 NoSQL
-
 
 ## 성능 최적화
 - [쿼리 최적화: 빠른 쿼리를 위한 7가지 체크리스트](https://medium.com/watcha/%EC%BF%BC%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B2%AB%EA%B1%B8%EC%9D%8C-%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EC%BF%BC%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-7%EA%B0%80%EC%A7%80-%EC%B2%B4%ED%81%AC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-bafec9d2c073)
@@ -89,5 +81,3 @@
 - [200만 동접 게임을 위한 MySQL 샤딩 [영상]](https://youtube.com/watch?v=8Eb_n7JA1yA&feature=youtu.be)
 - [MySQL 성능 죽이는 잘못된 쿼리 습관](http://gywn.net/2012/05/mysql-bad-sql-type/)
 - [DB분산처리를 위한 sharding](https://woowabros.github.io/experience/2020/07/06/db-sharding.html)
-
-## 그 외

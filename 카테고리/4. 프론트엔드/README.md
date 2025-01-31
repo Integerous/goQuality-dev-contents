@@ -1,7 +1,8 @@
 # 4. 프론트엔드
 
 > 📌 목차
->- [언어/프레임워크](#언어프레임워크)
+> - [프론트엔드 일반](#프론트엔드-일반)
+> - [언어/프레임워크](#언어프레임워크)
 >   - [Javascript](#javascript)
 >   - [Typescript](#typescript)
 >   - [Node.js/Deno](#nodejsdeno)
@@ -12,10 +13,32 @@
 >   - [Nuxt.js](#nuxtjs)
 >   - [Nest.js](#nestjs)
 >   - [그 외](#그-외-javascript)
-> - [프론트엔드 일반](#프론트엔드-일반)
 > - [웹 관련](#웹-관련)
 > - [디자인/UI/UX](#디자인uiux)
 > - [CSS](#css)
+
+
+## 프론트엔드 일반
+- [Naver FE News](https://github.com/naver/fe-news)
+- [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
+- [Lerna로 모노레포 해보러나?](https://medium.com/jung-han/lerna-%EB%A1%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%ED%95%B4%EB%B3%B4%EB%9F%AC%EB%82%98-34c8e008106a)  
+- [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
+- [Webpack: When to use and Why](https://blog.andrewray.me/webpack-when-to-use-and-why/amp/)
+- [프론트 웹 기술 기초를 학습할 수 있는 사이트](https://poiemaweb.com/)
+- [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-d15402becaef)
+- [프론트엔드 개발 환경의 이해 : NPM](http://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
+- [프론트엔드 기술 번역문서 모음](https://github.com/FEDevelopers/tech.description/wiki/%EB%B2%88%EC%97%AD-%EB%AC%B8%EC%84%9C)
+- [“프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM”](https://link.medium.com/5F2ip5dKDR)
+- [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
+- [실용적인 프론트엔드 테스트 전략 1편](https://github.com/nhnent/fe.javascript/wiki/%23189-:%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EB%9E%B5-(1))
+- [프론트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
+- [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
+- [React밖에 모르는 당신에게. GatsbyJS 한 잔, ‘채용~’](https://blog.banksalad.com/tech/build-a-website-with-gatsby/)
+- [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
+- [웹 프론트엔드 프레임워크, 무엇을 쓸까?](https://www.samsungsds.com/global/ko/support/insights/frameworks.html)
+- [당근마켓에 웹 프로젝트 배포하기 #1 - 파일 기반 웹뷰](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c)
+- [당근마켓에 웹 프로젝트 배포하기 #2 - 웹뷰 기반 웹앱](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A1%9C-%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0-3030daea456c)
+
 
 ## 언어/프레임워크
 
@@ -189,27 +212,6 @@
 --
 ### 그 외 Javascript
 
-
-## 프론트엔드 일반
-- [Naver FE News](https://github.com/naver/fe-news)
-- [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
-- [Lerna로 모노레포 해보러나?](https://medium.com/jung-han/lerna-%EB%A1%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%ED%95%B4%EB%B3%B4%EB%9F%AC%EB%82%98-34c8e008106a)  
-- [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
-- [Webpack: When to use and Why](https://blog.andrewray.me/webpack-when-to-use-and-why/amp/)
-- [프론트 웹 기술 기초를 학습할 수 있는 사이트](https://poiemaweb.com/)
-- [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-d15402becaef)
-- [프론트엔드 개발 환경의 이해 : NPM](http://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
-- [프론트엔드 기술 번역문서 모음](https://github.com/FEDevelopers/tech.description/wiki/%EB%B2%88%EC%97%AD-%EB%AC%B8%EC%84%9C)
-- [“프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM”](https://link.medium.com/5F2ip5dKDR)
-- [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
-- [실용적인 프론트엔드 테스트 전략 1편](https://github.com/nhnent/fe.javascript/wiki/%23189-:%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EB%9E%B5-(1))
-- [프론트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
-- [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
-- [React밖에 모르는 당신에게. GatsbyJS 한 잔, ‘채용~’](https://blog.banksalad.com/tech/build-a-website-with-gatsby/)
-- [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
-- [웹 프론트엔드 프레임워크, 무엇을 쓸까?](https://www.samsungsds.com/global/ko/support/insights/frameworks.html)
-- [당근마켓에 웹 프로젝트 배포하기 #1 - 파일 기반 웹뷰](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c)
-- [당근마켓에 웹 프로젝트 배포하기 #2 - 웹뷰 기반 웹앱](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A1%9C-%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0-3030daea456c)
 
 
 ### 웹 관련

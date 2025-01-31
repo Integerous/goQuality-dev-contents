@@ -19,11 +19,11 @@
 > - [C#](#csharp)
 > - [Go](#go)
 > - [Ruby](#ruby)
+>   - [Ruby on Rails](#ruby-on-rails)
 > - [PHP](#php)
 > - [함수형 언어](#함수형-언어)
 >   - [Rust](#rust)
 >   - [Scala](#scala)
->   - [그 외](#그-외-함수형-언어)
 > - [그 외](#그-외)
 
 
@@ -270,6 +270,8 @@
 
 ## Ruby
 
+### Ruby on Rails
+
 ## PHP
 - [PHP The right way](https://modernpug.github.io/php-the-right-way/)
 
@@ -281,9 +283,6 @@
 
 
 ### Scala
-
-
-### 그 외 함수형 언어
 
 ## 그 외
 

@@ -1,11 +1,14 @@
-# 8. 인프라/DevOps
+# 8. 인프라 & DevOps
 
 > 📌 목차
+> - [인프라/DevOps](#인프라/DevOps)
 > - [Kubernetes](#Kubernetes)
 > - [Docker](#Docker)
 > - [AWS/Azure/GCP](#AWS/Azure/GCP)
-> - [그 외](#그-외)
 
+
+## 인프라/DevOps
+- [테라폼이란?](https://www.44bits.io/ko/keyword/terraform)
 
 ## Kubernetes
 - [쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
@@ -50,7 +53,3 @@
 
 
 ## AWS/Azure/GCP
-
-
-## 그 외
-- [테라폼이란?](https://www.44bits.io/ko/keyword/terraform)

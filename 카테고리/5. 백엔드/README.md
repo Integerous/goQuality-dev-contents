@@ -11,7 +11,7 @@
 >   - [메시지 큐](#메시지-큐)
 >   - [마이그레이션](#마이그레이션)
 >   - [보안](#보안)
->- [그 외](#그-외)
+>   - [API](#API)
 
 ## 시스템 설계/구현
 - [Introducing Domain-Oriented Microservice Architecture [영문]](https://eng.uber.com/microservice-architecture/)
@@ -214,7 +214,7 @@
 
 ### 보안
 
-## 그 외
+### API
 - [REST API에서 Put 과 Post 의 차이](http://bit.ly/2CFGzIM)
 - [REST API의 이해와 설계  1편 - 개념 소개](http://bit.ly/2QX4lD8)
 - [Restful API를 설계하기 위한 디자인 팁](https://spoqa.github.io/2013/06/11/more-restful-interface.html)

@@ -1,14 +1,19 @@
 # 7. 모바일
 
 > 📌 목차
+> - [모바일 일반](#모바일-일반)
 > - [앱 개발기](#앱-개발기)
 > - [iOS](#iOS)
 > - [Android](#Android)
 > - [크로스 플랫폼](#크로스-플랫폼)
 >   - [Flutter](#Flutter)
 >   - [React Native](#React-Native)
->   - [그 외](#그-외-크로스-플랫폼)
-> - [그 외](#그-외)
+
+
+## 모바일 일반
+- [모바일 디자인할 때 그리드 시스템 꼭 사용해야 할까?](https://brunch.co.kr/@plusx/3)
+- [Retrofit2 샘플](https://github.com/HwangEunmi/Retrofit-Sample)
+- [너의 MVC는 나의 MVC와 다르다](https://velog.io/@eddy_song/ios-mvc)
 
 ## 앱 개발기
 - [코알람 App 출시 A부터 Z까지](https://medium.com/@hyunji5834/코알람-app-출시-a부터-z까지-3ecbec543eeb)
@@ -53,7 +58,5 @@
 ### 그 외 크로스 플랫폼
 
 ## 그 외
-- [모바일 디자인할 때 그리드 시스템 꼭 사용해야 할까?](https://brunch.co.kr/@plusx/3)
-- [Retrofit2 샘플](https://github.com/HwangEunmi/Retrofit-Sample)
-- [너의 MVC는 나의 MVC와 다르다](https://velog.io/@eddy_song/ios-mvc)
+
 
