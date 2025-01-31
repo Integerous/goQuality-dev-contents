@@ -1,7 +1,7 @@
 # 6. DB
 
 > 📌 목차
-> - [DB 일반](#DB-일반)
+> - [DB](#DB)
 > - [SQL](#SQL)
 > - [관계형DB](#관계형DB)
 >   - [PostgreSQL](#PostgreSQL)
@@ -14,7 +14,7 @@
 >   - [AWS/Azure/GCP](#AWS/Azure/GCP)
 > - [성능 최적화](#성능최적화)
 
-## DB 일반
+## DB
 - [데이터모델링의 기초 정리](http://bit.ly/2Pmdd4C)
 - [엘라스틱서치 인덱스와 샤드 분할](https://danawalab.github.io/elastic/2020/07/21/Elasticsearch-Index-Shard-How.html)
 - [JDBC로 실행되는 SQL에 자동으로 프로젝트 정보 주석 남기기](http://bit.ly/2Rz7lql)

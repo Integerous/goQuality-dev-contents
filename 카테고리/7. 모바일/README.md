@@ -1,7 +1,7 @@
 # 7. 모바일
 
 > 📌 목차
-> - [모바일 일반](#모바일-일반)
+> - [모바일](#모바일)
 > - [앱 개발기](#앱-개발기)
 > - [iOS](#iOS)
 > - [Android](#Android)
@@ -10,7 +10,7 @@
 >   - [React Native](#React-Native)
 
 
-## 모바일 일반
+## 모바일
 - [모바일 디자인할 때 그리드 시스템 꼭 사용해야 할까?](https://brunch.co.kr/@plusx/3)
 - [Retrofit2 샘플](https://github.com/HwangEunmi/Retrofit-Sample)
 - [너의 MVC는 나의 MVC와 다르다](https://velog.io/@eddy_song/ios-mvc)
