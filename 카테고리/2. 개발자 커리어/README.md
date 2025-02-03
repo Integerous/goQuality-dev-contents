@@ -7,8 +7,7 @@
 >   - [취업/이직](#취업이직)
 >     - [후기](#후기)
 >     - [이력서/포트폴리오](#이력서포트폴리오)
->     - [기술 면접](#기술-면접)
->     - [코딩 테스트](#코딩-테스트)
+>     - [기술면접/코딩테스트](#기술면접코딩테스트)
 >   - [해외 취업](#해외-취업)
 >     - [미국/캐나다](#미국캐나다)
 >     - [유럽](#유럽)
@@ -63,75 +62,35 @@
 - [줌인터넷 신입사원 파일럿 프로젝트 후기](https://zuminternet.github.io/ZUM-Pilot-integer/)
 - [마흔살 기획자 프로그래머 되다](http://www.ibatstudio.com/%EB%A7%88%ED%9D%94%EC%82%B4-%EA%B8%B0%ED%9A%8D%EC%9E%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%90%98%EB%8B%A4/)
 - [당신의 클론 코딩은 왜 실패하는가?](https://geonlee.tistory.com/171)
-- [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
 
 ## 취업/이직
 
-- [구글 신입 엔지니어 인터뷰 준비 후기](https://jeinalog.tistory.com/30)  
-- [프론트엔드 개발자 면접 정리](https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC)
-- [웹개발(JAVA,JSP,Spring) 관련 예상 면접 질문](https://rongscodinghistory.tistory.com/44)
-- [페이스북 개발자의 면접 준비과정](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)
-- [토종 한국인의 구글 취업 후기 [영상]](https://youtu.be/YXf8IuBfxPo)
-- [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT기업 도전기](https://jojoldu.tistory.com/280#ref=github)
-- [베를린 Software engineer 취업기 (독일 개발자 취업) [영상]](http://bit.ly/2SifdwI)
-- [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/)
-- [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
-- [프론트엔드 개발자를 위한 면접(인터뷰) 핸드북 [번역]](https://www.frontendinterviewhandbook.com/kr/javascript-questions/)
-- [개발자를 위한 자료구조, 알고리즘 면접 질문 [영문]](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
-- [개발자가 이직에 대해 생각할 때...](https://brunch.co.kr/@supims/4)
-- [5년차 안드로이드 개발자의 이직이야기](https://medium.com/@maryangmin/5%EB%85%84%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-6004ccc0ca4f)
-- [구글코리아 on-site 면접 후기](https://norang.io/diary/interview_review/)
-- [코딩 공부 후 3개월 간 구직하며 배운 점 [번역]](https://brunch.co.kr/@imagineer/194)
-- [프론트엔드 개발자 인터뷰 후기 (면접 질문 정리)](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
-- [싱가폴의 코딩테스트](https://brunch.co.kr/@imagineer/267)
-- [개발자의 이직 가이드 (초급)](https://brunch.co.kr/@promiseys/3)
-- [개발자가 영문 이력서 쓸 때 자주 저지르는 실수](https://brunch.co.kr/@imagineer/272)
-- [자바, 안드로이드 면접 질문 리스트](https://github.com/BearCola/ForJavaAndAndroidInterview)
-- [코딩 인터뷰에서 Golang을 사용해야하는 이유 [번역]](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0%EC%97%90%EC%84%9C-golang%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8b638ab33068)
-- [블록체인 개발자 면접 오픈북](https://hamait.tistory.com/m/1054)
-- [개발자 인터뷰에서 면접관에게 할 만한 질문 모음](https://gomcine.tistory.com/entry/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%9E%85%EC%82%AC%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EB%A9%B4%EC%A0%91%EA%B4%80%EC%97%90%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0-%EC%A7%88%EB%AC%B8)
-- [블록체인 개발사 면접 오픈북과 지원자의 답변 공유](https://okky.kr/article/583445)
-- [대기업 IT직군 코딩테스트 합격을 위한 현실적이고 직관적인 공부 순서 [영상]](https://www.youtube.com/watch?v=ukkLCl9yBvE)
-- [Product Manager의 이직 탐험기 #1](https://medium.com/@sean26/product-manager%EC%9D%98-%EC%9D%B4%EC%A7%81-%ED%83%90%ED%97%98%EA%B8%B0-1-cfa002f2233e)
-- [5년차 프로그래머의 이직 일기](https://www.leadme.today/post/6656428033966080)
-- [아틀라시안 취업후기](http://www.tacogrammer.com/%EC%95%84%ED%8B%80%EB%9D%BC%EC%8B%9C%EC%95%88-%EC%B7%A8%EC%97%85%ED%9B%84%EA%B8%B0/)
-- [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/)
-- [지난 경력이 '물경력' 같다는 3년차 웹 개발자](https://prgms.tistory.com/18)
-- [자바스크립트 코딩테스트에서 가장 많이하는 실수들](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%B4%ED%95%98%EB%8A%94-%EC%8B%A4%EC%88%98%EB%93%A4-a10df2c884c)
-- [신입 개발자를 위한 기술 면접 모음](https://github.com/jobhope/TechnicalNote)
-- [구글 면접 과정 일기](https://brunch.co.kr/@cmiscm/15)
-- [취직 준비를 위해 좋은 포트폴리오 만드는 방법](https://okky.kr/article/663519)
-- [개발자를 위한 면접 지침 [번역]](https://blog.rhostem.com/posts/2019-01-05-developer-guide-for-interview)
-- [신입 개발자 면접 질문 리스트](https://www.notion.so/54d624628a634c879cc93d94f54cd2d1)
-- [LINE 신입 SW 개발자 코딩 테스트, 이렇게 만들어졌습니다](https://engineering.linecorp.com/ko/blog/2020-line-sw-developer-recruit-coding-test/)
-- [SI회사에 입사하기 전 읽으면 좋은 글 - SI의 단점](https://preamtree.tistory.com/133)
-- [이직하며 느낀 2020년 1/4분기 개발자 채용 과정](https://perade.github.io/blog/2020-recruitment/)
-- [기술면접 준비하기](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
-- [나만의 개발자 포트폴리오 만들기](https://geonlee.tistory.com/m/9)
-
-
 
 ### 후기
+- [구글 코리아 면접 후기](https://norang.io/diary/interview_review/)
+- [구글 신입 엔지니어 인터뷰 준비 후기](https://jeinalog.tistory.com/30)
+- [제로 스펙에 가까웠던 듣보잡 개발자의 유명 IT기업 도전기](https://jojoldu.tistory.com/280)
 - [야놀자를 떠나며.. (feat.레저큐)](https://perfectacle.github.io/2019/08/23/exit-yanolja-feat-leisureq)
 
 
 ### 이력서/포트폴리오
 
 
-
-### 기술 면접
-
-
-### 코딩 테스트
+### 기술면접/코딩테스트
+- [프론트엔드 개발자 인터뷰 후기 (면접 질문 정리)](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
+- [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
+- [블록체인 개발자 면접 오픈북](https://hamait.tistory.com/1054)
 
 
 ## 해외 취업
 
 
 ### 미국/캐나다
+- [구글 면접 과정 일기](https://brunch.co.kr/@cmiscm/15)
 
 
 ### 유럽
+- [베를린 Software engineer 취업기 (독일 개발자 취업)](https://youtu.be/Etfzh8IqH1A)
 - [40대 개발자의 독일 회사 취업기](https://brunch.co.kr/@nashorn74/1)
 
 
