@@ -19,6 +19,7 @@
 
 
 ## 프론트엔드
+- [Toss Frontend Fundamentals - 변경하기 쉬운 프론트엔드 코드를 위한 지침서](https://frontend-fundamentals.com/)
 - [Naver FE News](https://github.com/naver/fe-news)
 - [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
 - [Lerna로 모노레포 해보러나?](https://medium.com/jung-han/lerna-%EB%A1%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%ED%95%B4%EB%B3%B4%EB%9F%AC%EB%82%98-34c8e008106a)  

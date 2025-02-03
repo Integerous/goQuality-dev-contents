@@ -15,6 +15,7 @@
 > - [성능 최적화](#성능최적화)
 
 ## DB
+- [B+ 트리는 어쩌다 인덱스로 간택되었을까?](https://hugehoo-blog.vercel.app/blog/Database/B%20tree%20as%20Index)
 - [데이터모델링의 기초 정리](http://bit.ly/2Pmdd4C)
 - [엘라스틱서치 인덱스와 샤드 분할](https://danawalab.github.io/elastic/2020/07/21/Elasticsearch-Index-Shard-How.html)
 - [JDBC로 실행되는 SQL에 자동으로 프로젝트 정보 주석 남기기](http://bit.ly/2Rz7lql)
