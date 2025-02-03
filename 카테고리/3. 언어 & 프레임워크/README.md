@@ -29,22 +29,13 @@
 
 ## Python
 
-### Python
 
-- [파이썬 초보에서 중수가 되기 위한 9가지 스킬 [번역]](https://lazymatlab.tistory.com/92?category=827585)
-- [알고리즘 시각화 라이브러리 ipytracer 개발기](http://bit.ly/2P8drPV)
-- [장고 ORM 요리책 [번역]](http://bit.ly/2P6bUKg)
-- [PEP 8 파이썬 코드 스타일 가이드 번역 및 요약](http://bit.ly/2z10GMW)
-- [파이썬으로 테스트 시작하기 [영문]](https://realpython.com/python-testing/)
-- [Python 프로젝트 시작하기](http://j.mp/2Ss7xrx)
-- [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
-- [Django 3.0 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-3-0-release-note-summary)
-- [파이썬(Python) datetime 클래스 치트시트](https://www.44bits.io/ko/post/python-datatime-cheetsheet)
+### Python
+- [Getting Started With Testing in Python](https://realpython.com/python-testing/)
 
 
 ### Django
-
-<!-- Add content here -->
+- [장고 ORM 요리책](https://django-orm-cookbook-ko.readthedocs.io/en/latest/index.html)
 
 ### Flask
 
@@ -61,7 +52,6 @@
 ## Java
 
 ### Java
-- [자바 스프링 실전 가이드 [영상]](https://www.youtube.com/watch?v=TIag2sXhZRk)
 - [JetBrains가 사랑하는 Java의 25가지 특징](https://blog.jetbrains.com/kr/2020/05/25-things-we-love-about-java-ko/)
 - [Java NIO FileChannel 과 DirectByteBuffer](http://homoefficio.github.io/2020/08/10/Java-NIO-FileChannel-%EA%B3%BC-DirectByteBuffer)
 - [Java 8, 9, 10을 손쉽게 전환하면서 사용하는 방법](https://blog.naver.com/writer0713/221266129828)
