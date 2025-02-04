@@ -10,7 +10,6 @@
 >   - [그 외](#그-외-python)
 > - [Java](#java)
 >   - [Java](#java)
->   - [JVM](#jvm)
 >   - [Spring](#spring)
 >   - [JPA](#jpa)
 >   - [그 외](#그-외-java)
@@ -52,6 +51,7 @@
 ## Java
 
 ### Java
+- [Java 빌더 패턴 (Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
 - [JetBrains가 사랑하는 Java의 25가지 특징](https://blog.jetbrains.com/kr/2020/05/25-things-we-love-about-java-ko/)
 - [Java NIO FileChannel 과 DirectByteBuffer](http://homoefficio.github.io/2020/08/10/Java-NIO-FileChannel-%EA%B3%BC-DirectByteBuffer)
 - [Java 날짜와 시간 API의 문제점과 JDK8에서 개선된 부분](https://d2.naver.com/helloworld/645609)
@@ -70,70 +70,19 @@
 - [Java Lambda Expression과 성능](https://brunch.co.kr/@heracul/3)
 - [캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/)
 - [Java Collections Heap Dump 분석](https://brunch.co.kr/@springboot/367)
-
-
-### JVM
-- [JVM이 깔끔하게 설명된 글](http://asfirstalways.tistory.com/158)
-- [Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/114)
-- [Java JVM 간단 정리](https://baehoyeon.github.io/2017-11-10/jvm)
-- [(JVM) Garbage Collection Basic](https://perfectacle.github.io/2019/05/07/jvm-gc-basic/)
-- [JVM memory leak 찾아 해결하기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
-- [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
 - [자바 메모리 관리 - 스택 & 힙](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
 - [자바 최적화 - GC 로깅](https://12bme.tistory.com/543?category=785013)
-- [JVM Architecture 란?](https://yeon-kr.tistory.com/112)
-- [Java Memory Model(자바 메모리 모델)](https://yeon-kr.tistory.com/114)
-- [자바 - OOM 메모리 릭 찾기 이론편](https://blog.naver.com/PostView.nhn?blogId=2feelus&logNo=220765728530)
 - [Jackson 직렬화 옵션의 적절한 활용과 Jackson에 기여하기까지](https://hyperconnect.github.io/2019/10/28/jackson-serialize-for-global-caching.html)
 
 
 ### Spring
-- [스프링 부트에서 Request 유효성 검사하는 방법, 서버 개발한다면 꼭 해야하는 작업 Spring Validation](https://jeong-pro.tistory.com/203)
 - [동일한 Bean(Class)에서 @Transactional 동작 방식](https://cheese10yun.github.io/spring-transacion-same-bean/)
-- [스프링 클라우드 살펴보기](https://cheese10yun.github.io/spring-cloud/)
-- [Spring WebFlux는 어떻게 적은 리소스로 많은 트래픽을 감당할까?](https://alwayspr.tistory.com/44)
-- [Spring WebClient 사용법](https://medium.com/@odysseymoon/spring-webclient-사용법-5f92d295edc0)
-- [스프링부트로 웹 서비스 출시하기 [시리즈]](https://jojoldu.tistory.com/250?category=635883)
-- [SpringBoot의 깨알같은 팁](https://jojoldu.tistory.com/43#at_pco=smlwn-1.0&at_si=5b8e1d94fc70039a&at_ab=per-2&at_pos=0&at_tot=1)
-- [토비님 발표 - 스프링5 웹플럭스와 테스트 전략 [영상]](https://tv.kakao.com/channel/3150758/cliplink/391418995?playlistId=209907&metaObjectType=Playlist)
-- [Maven과 Gradle 비교](https://bkim.tistory.com/13)
-- [Logback을 사용 해야 하는 이유](https://lalwr.blogspot.com/2016/03/logback.html)
-- [로컬 Spring Boot에 SSL 적용하기](https://jojoldu.tistory.com/350)
-- [스프링 Rest API 문서 자동화](https://github.com/cheese10yun/springboot-restdocs)
 - [스프링 예제로 보는 SOLID](https://github.com/cheese10yun/spring-SOLID)
-- [Spring만 알고 계시다면 꼭 보세요. 3가지 DI 컨테이너 비교](http://www.nextree.co.kr/p11247/)
-- [백기선님 Spring 세미나 발표자료 [슬라이드]](https://www.slideshare.net/whiteship/rest-api-development-with-spring?fbclid=IwAR0Bj03PqdcEiAxTmtZmxpHpsHTITZNHeEJh89-3gTwHGPY5nL6HLTVuzsU)
-- [Spring Security OAtuh2 기반 정리글](https://github.com/cheese10yun/springboot-oauth2)
-- [Maven vs Gradle 비교 정리](https://bkim.tistory.com/13)
-- [Spring 예제로 보는 SOLID](https://github.com/cheese10yun/spring-SOLID)
-- [Selenium으로 Java+Spring 환경에서 웹 스크랩핑 하기](https://www.popit.kr/web-scraping-by-selenium/)
 - [실무에서 Lombok 사용법](https://github.com/cheese10yun/blog-sample/tree/master/lombok)
-- [전자정부 프레임워크를 java config 방식으로 (총12편)](https://zgundam.tistory.com/79)
-- [Springboot와 Properties, Yaml Environment](https://blog.kingbbode.com/m/39)
-- [Java9와 Spring5로 바라보는 Java의 변화와 도전 - 이일민(토비)님 발표 [영상]](https://www.youtube.com/watch?v=BFjrmj4p3_Y)
-- [Spring Boot 프로젝트를 War로 패키징(생성)하기](http://progtrend.blogspot.com/2018/07/spring-boot-war.html)
-- [Spring Rest Docs 적용](http://woowabros.github.io/experience/2018/12/28/spring-rest-docs.html)
-- [인텔리제이 활용 꿀팁 42가지](https://www.popit.kr/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC/)
-- [다이나믹 프록시와 팩토리 빈](http://haviyj.tistory.com/28)
-- [Multi Thread 환경에서의 올바른 Singleton](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
-- [Spring async 로 비동기 처리를 하면서 HttpSession이 가진 정보를 활용할 수 있는 팁](http://dveamer.github.io/backend/SpringAsyncSession.html)
-- [동영상 플랫폼 개발 프레임워크의 Spring Boot 전환기](https://d2.naver.com/helloworld/5626759)
-- [Spring MVC 전체 흐름 알아보기 [슬라이드]](https://www.slideshare.net/hanmomhanda/spring-mvc-fullflow)
-- [RESTful API 문서 만들기 Spring REST Docs [영상]](https://www.youtube.com/watch?v=A3WDAVQP32k&feature=youtu.be)
-- [Spring MVC Redirect 처리중에 발생한 Out Of Memory 원인 분석하기](https://taetaetae.github.io/2019/01/10/spring-redirect-oom)
-- [서블릿의 인스턴스화, session, 멀티스레딩에 관련된 질문과 답변 [번역]](https://jojoldu.tistory.com/118)
-- [Java 빌더 패턴 (Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
-- [Spring Boot Test 정리](https://cheese10yun.github.io/spring-boot-test/)
-- [자바 EE의 역사와 스프링의 관계](https://okky.kr/article/415474)
-- [SpringMVC 프레임워크 동작 방식](https://tinkerbellbass.tistory.com/40)
+- [Java 9과 Spring 5로 바라보는 Java의 변화와 도전](https://youtu.be/BFjrmj4p3_Y)
 - [Service, ServiceImpl 구조에 대한 고찰](https://github.com/cheese10yun/blog-sample/tree/master/service)
-- [Sprong OAuth2 인증 Flow 소개 및 RDBMS를 이용한 영속화](https://github.com/cheese10yun/springboot-oauth2)
-- [ThreadLocal 사용법과 활용](https://javacan.tistory.com/entry/ThreadLocalUsage)
-- [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
-- [스프링 테스트 노하우 및 전략](https://github.com/cheese10yun/spring-guide)
-- [도메인 모델 vs DTO](http://toby.epril.com/?p=99)
-- [LINE의 OpenJDK 적용기 - 호환성 확인부터 주의사항까지](https://engineering.linecorp.com/ko/blog/line-open-jdk/)
-- [Jackson 어노테이션 사용법](https://github.com/cheese10yun/blog-sample/tree/master/jackson)
+- [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](https://techblog.woowahan.com/2610/)
+
 - [초보가 이해하는 스프링 시큐리티](https://okky.kr/article/382738)
 - [손그림으로 설명하는 ThreadPool과 ForkJoinPool](https://hamait.tistory.com/m/612)
 - [Builder 기반으로 객체를 안전하게 생성하는 방법](https://github.com/cheese10yun/blog-sample/tree/master/ddd)
@@ -203,6 +152,10 @@
 - [Querydsl Repository Support 활용](https://cheese10yun.github.io/querydsl-support/)
 - [JPA 기반 테스트 코드 작성 팁](https://cheese10yun.github.io/jpa-test-support/)
 - [Bean Validation을 여행하는 초보 사용자를 위한 안내서](https://www.notion.so/Bean-Validation-2f70a3f0aae94621886487477097abfa)
+
+
+### 그 외 Java
+- [Jackson 어노테이션 사용법](https://github.com/cheese10yun/blog-sample/tree/master/jackson)
 
 ## Kotlin
 
