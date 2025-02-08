@@ -38,6 +38,8 @@
 
 ### OOP
 - [생각하라, 객체지향처럼](https://techblog.woowahan.com/2502/)
+- [우아한 객체지향](https://www.slideshare.net/baejjae93/ss-150432699)
+- [우아한 객체지향 발표 영상](https://youtu.be/dJ5C4qRqAgA)
 
 
 ### DDD
