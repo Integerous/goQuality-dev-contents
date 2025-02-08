@@ -75,3 +75,4 @@
 - [실용적인 프런트엔드 테스트 전략](https://youtu.be/q9d631Nl0_4?si=VFUolLIiEuqx_-nD)
 - [JUnit5로 계층 구조의 테스트 코드 작성하기](https://johngrib.github.io/wiki/junit5-nested/)
 - [xUnit 테스팅 프레임워크를 TDD로 만들어보자](https://www.youtube.com/live/tdKFZcZSJmg?si=MU-XZMThaYbo8lnC)
+- [테스트 코드 작성에 대한 나름의 고찰](https://github.com/cheese10yun/blog-sample/blob/master/test-code/README.md)
