@@ -12,7 +12,7 @@
 >   - [Next.js](#nextjs)
 >   - [Nuxt.js](#nuxtjs)
 >   - [Nest.js](#nestjs)
->   - [그 외](#그-외-javascript)
+>   - [그 외](#그-외)
 > - [웹 관련](#웹-관련)
 > - [디자인/UI/UX](#디자인uiux)
 > - [CSS](#css)
@@ -20,68 +20,31 @@
 
 ## 프론트엔드
 - [Toss Frontend Fundamentals - 변경하기 쉬운 프론트엔드 코드를 위한 지침서](https://frontend-fundamentals.com/)
-- [Naver FE News](https://github.com/naver/fe-news)
-- [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
-- [Lerna로 모노레포 해보러나?](https://medium.com/jung-han/lerna-%EB%A1%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%ED%95%B4%EB%B3%B4%EB%9F%AC%EB%82%98-34c8e008106a)  
-- [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
-- [Webpack: When to use and Why](https://blog.andrewray.me/webpack-when-to-use-and-why/amp/)
-- [프론트 웹 기술 기초를 학습할 수 있는 사이트](https://poiemaweb.com/)
-- [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-d15402becaef)
+- [Naver FE 기술 소식 큐레이션](https://github.com/naver/fe-news)
+- [프론트엔드 웹 프로그래밍 튜토리얼](https://poiemaweb.com/)
 - [프론트엔드 개발 환경의 이해 : NPM](http://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
-- [프론트엔드 기술 번역문서 모음](https://github.com/FEDevelopers/tech.description/wiki/%EB%B2%88%EC%97%AD-%EB%AC%B8%EC%84%9C)
-- [“프론트엔드 웹애플리케이션 아키텍쳐 비교분석 : MVC와 MVVM”](https://link.medium.com/5F2ip5dKDR)
+- [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
 - [프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
-- [실용적인 프론트엔드 테스트 전략 1편](https://github.com/nhnent/fe.javascript/wiki/%23189-:%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EB%9E%B5-(1))
-- [프론트엔드 트랜드가 한눈에! 2019 년의 가장 핫했던 JavaScript 라이브러리](https://tagilog.tistory.com/613)
-- [프론트엔드 기술 조감도 : Babel](https://ahnheejong.name/articles/frontend-birds-eye-view-babel/)
-- [React밖에 모르는 당신에게. GatsbyJS 한 잔, ‘채용~’](https://blog.banksalad.com/tech/build-a-website-with-gatsby/)
-- [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
-- [웹 프론트엔드 프레임워크, 무엇을 쓸까?](https://www.samsungsds.com/global/ko/support/insights/frameworks.html)
+- [FE 개발 가이드](https://ui.toast.com/fe-guide/ko)
 - [당근마켓에 웹 프로젝트 배포하기 #1 - 파일 기반 웹뷰](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c)
 - [당근마켓에 웹 프로젝트 배포하기 #2 - 웹뷰 기반 웹앱](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A1%9C-%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0-3030daea456c)
 
 
 ## 언어/프레임워크
 
-
 ### Javascript
-
-- [DOM 101 — Nodes & Events](https://medium.com/@euncho/dom-101-ed14cff6e2ce)
-- [깊은 복사와 얕은 복사에 대한 심도있는 이야기](https://medium.com/watcha/%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8B%AC%EB%8F%84%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-2f7d797e008a)  
-- [Google JavaScript Technical Interview (Callbacks, Promises, Await/Async)](https://medium.com/developers-tomorrow/google-javascript-technical-interview-7a20accd6ddf)
-- [JavaScript Promises: an introduction](https://developers.google.com/web/fundamentals/primers/promises?hl=ko)
-- [Lodash의 대체재로서의 순수 자바스크립트 함수 [번역]](https://ui.toast.com/weekly-pick/ko_20190515/)
-- [아주 거대한 (자바스크립트) 어플리케이션 구축하기 [번역]](https://medium.com/steady-study/%EB%B2%88%EC%97%AD-%EC%95%84%EC%A3%BC-%EA%B1%B0%EB%8C%80%ED%95%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-3aa37fc45122)
-- [자바스크립트는 어떻게 작동하는가: 웹소켓 및 HTTP/2 SSE [번역]](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9B%B9%EC%86%8C%EC%BC%93-%EB%B0%8F-http-2-sse-1ccde9f9dc51)
-- [우아한 자바스크립트 코딩 방법 [슬라이드]](https://speakerdeck.com/nigayo/uahan-jabaseukeuribteu-gaebal)
-- [Javascript 개발자를 위한 ES6 축약코딩 기법 19가지 [번역]](https://chanspark.github.io/2017/11/28/ES6-%EA%BF%80%ED%8C%81.html)
-- [자바스크립트 디자인 패턴 배우기 [영문]](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- [자바스크립트 기본서 비교](https://asfirstalways.tistory.com/246)
-- [자바스크립트 반응형에 대한 좋은 설명 [번역]](https://devtimothy.tistory.com/87)
-- [자바스크립트의 함수를 배워보자](https://gist.github.com/qodot/1845fd02f14807d2eee9c58270ff1b2a)
-- [2018년에 배워야 할 최고의 자바스크립트 라이브러리와 기술 [번역]](https://rhostem.github.io/posts/2018-01-25-top-java-script-libraries-tech-to-learn-in-2018)
-- [JS에서 조건문을 더 낫게 쓰기 위한 5가지 팁](https://code-200.tistory.com/14)
-- [NHN엔터 자바스크립트 개발 가이드](https://github.com/nhnent/fe.javascript/wiki)
-- [Angular 기본 개념 잡기](http://han41858.tistory.com/40)
-- [Angular 데이터 바인딩](https://poiemaweb.com/angular-component-data-binding)
-- [자바스크립트 피로감을 줄여주기 위한 학습 계획[번역]](https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/)
-- [자바스크립트는 어떻게 작동하는가: V8 엔진의 내부 + 최적화된 코드를 작성을 위한 다섯 가지 팁](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%82%B4%EB%B6%80-%EC%B5%9C%EC%A0%81%ED%99%94%EB%90%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-%ED%8C%81-6c6f9832c1d9)
-- [자바스크립트 비동기 처리와 콜백 함수](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
+- [프레임워크 없이 만드는 SSR](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Server-Side-Rendering/)
+- [모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/yjs03057/33-js-concepts)
+- [JavaScript Promise 소개](https://developers.google.com/web/fundamentals/primers/promises?hl=ko)
+- [Lodash의 대체재로서의 순수 자바스크립트 함수](https://ui.toast.com/weekly-pick/ko_20190515/)
 - [자바스크립트 Promise 쉽게 이해하기](https://joshua1988.github.io/web-development/javascript/promise-for-beginners/)
-- [JavaScript 배틀그라운드로부터 살아남기 [영상]](https://tv.naver.com/v/4578347/list/279844)
-- [자바스크립트는 어떻게 작동하는가: 메모리 관리 + 4가지 흔한 메모리 누수 대처법 [번역]](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d)
-- [jQuery보다 먼저 알았으면 좋았을 것들](https://jeonghwan-kim.github.io/2018/01/25/before-jquery.html)
-- [훌륭한 JavaScript 개발자가 되는 법 [번역]](https://brunch.co.kr/@chiyodad/9)
-- [자바스크립트 엔진의 최적화 기법](https://meetup.toast.com/posts/78)
-- [자바스크립트는 어떻게 작동하는가: 이벤트 루프와 비동기 프로그래밍의 부상, async/await을 이용한 코딩 팁 다섯 가지](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EB%B6%80%EC%83%81-async-await%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%8C%81-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-df65ffb4e7e)
-- [자바스크립트 이벤트 루프 시각적 설명 [영상]](http://latentflip.com/loupe/)
-- [자바스크립트 엔진의 최적화 기법 - JITC, Adaptive Compliation](https://meetup.toast.com/posts/77)
-- [자바스크립트 함수 정리](https://link.medium.com/FMoWtS72AT)
-- [한글 인코딩과 자바스크립트의 관계](https://github.com/moonformeli/TIL/blob/master/hangul_unicode.md)
-- [자바스크립트 호출 스택(Call Stack) 이해하기](http://new93helloworld.tistory.com/358)
-- [JavaScript의 Event Loop](https://asfirstalways.tistory.com/362)
-- [What the heck is the event loop anyway? (JavaScript를 쉽게 설명한 것으로 유명한 발표) [영상]](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-- [자바스크립트 비동기 처리 과정과 RxJS Scheduler](http://sculove.github.io/blog/2018/01/18/javascriptflow/?fbclid=IwAR03nU0f972Hc23sSlxf9cjSBnlQrtXrC_WTyEOoNZNLdWSGfyYf2RCuAEA)
+- [자바스크립트 엔진의 최적화 기법 (1) - JITC, Adaptive Compliation](https://meetup.toast.com/posts/77)
+- [자바스크립트 엔진의 최적화 기법 (2) - Hidden class, Inline Caching](https://meetup.toast.com/posts/78)
+- [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [자바스크립트 이벤트 루프 시각적 설명](http://latentflip.com/loupe/)
+- [한글 인코딩과 자바스크립트](https://github.com/moonformeli/TIL/blob/master/hangul_unicode.md)
+
+- [자바스크립트 비동기 처리 과정과 RxJS Scheduler](http://sculove.github.io/blog/2018/01/18/javascriptflow/)
 - [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 - [Angular 한글 문서](https://angular.kr)
 - [ES6 - 프로미스](https://poiemaweb.com/es6-promise)
@@ -119,7 +82,6 @@
 - [자바스크립트 동작 원리 시각화 [영문]](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 - [처음 만나는 Svelte [번역]](https://ui.toast.com/weekly-pick/ko_20191002/)
 - [자바스크립트에 적용한 클린코드 [번역]](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
-- [자바스크립트 개발자가 알아야하는 33가지 개념 [번역]](https://github.com/yjs03057/33-js-concepts)
 - [ECMAScript ES2016~ES2020 정리](https://junhobaik.github.io/es2016-es2020/)
 - [Promise, 가만히 냅두면 어떻게 될까? [번역]](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
 - [await vs return vs return await [번역]](https://perade.github.io/blog/await-vs-return-vs-return-await/)
@@ -210,8 +172,9 @@
 
 ### Nest.js
 
---
-### 그 외 Javascript
+
+### 그 외
+- [Angular 데이터 바인딩](https://poiemaweb.com/angular-component-data-binding)
 
 
 
