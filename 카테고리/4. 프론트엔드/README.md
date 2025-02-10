@@ -43,28 +43,13 @@
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [자바스크립트 이벤트 루프 시각적 설명](http://latentflip.com/loupe/)
 - [한글 인코딩과 자바스크립트](https://github.com/moonformeli/TIL/blob/master/hangul_unicode.md)
-
-- [자바스크립트 비동기 처리 과정과 RxJS Scheduler](http://sculove.github.io/blog/2018/01/18/javascriptflow/)
 - [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
-- [Angular 한글 문서](https://angular.kr)
-- [ES6 - 프로미스](https://poiemaweb.com/es6-promise)
-- [DOM은 정확히 무엇일까? [번역]](https://wit.nts-corp.com/2019/02/14/5522)
-- [JavaScript Essentials: 자료형과 자료구조 [번역]](https://link.medium.com/NwyGeg1MrU)
-- [ECMAScript와 TC39](https://ahnheejong.name/articles/ecmascript-tc39/)
-- [코드리뷰를 위한 좋은 코딩 - Javascript 편](https://amati.io/good-coding-for-codereview-on-javascript/)
-- [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
-- [JavaScript 바벨(Babel)의 동작 원리 및 흐름에 대해 알아보자](https://moonformeli.tistory.com/28)
-- [2019년과 이후 자바스크립트 동향](https://d2.naver.com/helloworld/4007447)
-- [jQuery를 배워야할까? [영상]](https://youtu.be/6FnkGKYK6iQ)
 - [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
-- [JavaScript 첫걸음](https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps)
 - [JavaScript 재입문하기](https://developer.mozilla.org/ko/docs/A_re-introduction_to_JavaScript)
-- [코드스피츠 85 거침없는 자바스크립트 - 1회차 [영상]](https://www.youtube.com/watch?v=0NsJsBdYVHI)
-- [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 1](https://d2.naver.com/helloworld/7700312)
+- [코드스피츠 85 거침없는 자바스크립트](https://www.youtube.com/watch?v=0NsJsBdYVHI)
 - [자바스크립트, 세미콜론을 써야 하나 말아야 하나](https://bakyeono.net/post/2018-01-19-javascript-use-semicolon-or-not.html)
-- [프로젝트에서 jQuery를 그만 사용해야겠다고 결심한 이유 [번역]](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-jquery-%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B2%A0%EB%8B%A4%EA%B3%A0-%EA%B2%B0%EC%8B%AC%ED%95%9C-%EC%9D%B4%EC%9C%A0-45379cba95b6)
-- [성능덕후를 위한 자바스크립트 코딩 패턴(중급)](https://joshua1988.github.io/web-development/javascript/javascript-best-practices/)
-- [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기 [번역]](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
+- [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
+
 - [이제는 Immutable이 기본입니다, 4가지 변수 이야기 [영상]](https://www.youtube.com/watch?v=K8C3OGzz7tQ)
 - [모던 자바스크립트 튜토리얼](https://ko.javascript.info)
 - [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
@@ -175,7 +160,7 @@
 
 ### 그 외
 - [Angular 데이터 바인딩](https://poiemaweb.com/angular-component-data-binding)
-
+- [Angular 한글 문서](https://angular.kr)
 
 
 ### 웹 관련
