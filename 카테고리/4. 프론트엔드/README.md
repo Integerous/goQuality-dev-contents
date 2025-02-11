@@ -58,15 +58,10 @@
 
 
 ### Typescript
-- [TypeScript enum을 사용하지 않는 게 좋은 이유를 Tree-shaking 관점에서 소개합니다.](https://engineering.linecorp.com/ko/blog/typescript-enum-tree-shaking/)
-- [TypeScript Handbook [번역]](https://typescript-kr.github.io/)
-- [TypeScript: 인터페이스(Interface)](https://hyunseob.github.io/2016/10/17/typescript-interface/)
-- [TypeScript와 함께하는 Fullstack Development](https://medium.com/p/501835592b1d)
-- [TypeScript Deep Dive [영문]](https://basarat.gitbooks.io/typescript/content/)
-- [리액트 프로젝트에서 타입스크립트 사용하기](https://velog.io/@velopert/typescript-basics)
-- [타입스크립트를 위한 클린코드 - 한글번역판](https://github.com/738/clean-code-typescript)
+- [The TypeScript Handbook](https://www.typescriptlang.org/ko/docs/handbook/intro.html)
+- [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
+- [타입스크립트를 위한 클린코드](https://github.com/738/clean-code-typescript)
 - [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev/)
-- [TypeScript 4.0 릴리즈 노트 [번역]](https://han41858.tistory.com/52)
 
 ---
 ### Node.js/Deno
