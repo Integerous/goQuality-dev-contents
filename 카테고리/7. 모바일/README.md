@@ -52,6 +52,8 @@
 - [Flutter(모바일앱 SDK)는 왜 혁명적인가 [번역]](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
 
 ### React Native
+- [React Native 사이드프로젝트. 보름만에 iOS, 안드로이드 앱 출시하기](https://blog.holy.kiwi/js/190127/)
+- [patch-package를 활용한 NPM 패키지 패치(patch) 사례 (feat. React Native)](https://medium.com/naver-place-dev/patch-package를-활용한-npm-패키지-패치-patch-사례-feat-react-native-ee1fc399b7c2)
 - [React Native를 이용한 어플리케이션 개발 기록](https://dev-yakuza.github.io/ko/react-native/)
 - [React Native로 성공적인 MVP 개발하기](https://drive.google.com/file/d/1LKtyaDE9qnrqOeJvQRhIhWqdZ229ofR7/view)
 
