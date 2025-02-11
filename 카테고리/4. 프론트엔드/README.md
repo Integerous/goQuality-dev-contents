@@ -82,20 +82,12 @@
 
 
 ### Vue.js
-- [The process: Making Vue3 [번역]](https://perade.github.io/blog/the-process-making-vue3/)
-- [React 와 Vue로 똑같은 앱 만들고 비교 [번역]](http://bit.ly/2NugsFq)
-- [왜 43%의 프론트엔드 개발자들은 Vue.js를 배우고 싶어하나? [번역]](http://bit.ly/2pI9vap)
-- [Vue.js 기준으로 다른 웹 프레임워크를 비교한 글](http://forwe.tistory.com/1)
-- [Vue.js 입문자가 흔히 저지르는 문법 실수](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)
-- [Vue.js 한국 개발자 모임, Vuetiful Korea Meetup 후기 및 발표자료](https://engineering.linecorp.com/ko/blog/vue-js-developer-meetup/)
-- [2019년에는 Vue.js를 배워야 하는 3가지 이유](http://leagueoflegend.tistory.com/49)
-- [Vue.js 입문자가 실무에서 주의해야 할 5가지 특징 [슬라이드]](https://drive.google.com/file/d/0B3AcM_ZW0sOceDJVNHZYTHR6MlVRbWt2LXRCWVAzLTMyTHNN/view)
-- [Vue.js 면접 질문 모음 [번역]](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
-- [바닥부터 시작하는 Vue 테스트와 리팩토링 [슬라이드]](https://www.slideshare.net/ifkakao/kakao-fe-meetup-vue-test-re)
-- [NPM 배포하기 - Vue.js ESLint 패키지](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
+- [Vue.js 입문자가 실무에서 주의해야 할 5가지 특징](https://drive.google.com/file/d/0B3AcM_ZW0sOceDJVNHZYTHR6MlVRbWt2LXRCWVAzLTMyTHNN/view)
+- [Vue.js 면접 질문 모음](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md)
+- [바닥부터 시작하는 Vue 테스트와 리팩토링](https://www.slideshare.net/ifkakao/kakao-fe-meetup-vue-test-re)
 - [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531/)
 - [바닥부터 시작하는 Vue 컴포넌트 테스트](https://tech.kakao.com/2019/11/27/kakao-business-vue-component-test/)
-- [Vue.js: The Documentary [영상]](https://www.youtube.com/watch?v=OrxmtDw4pVI)
+- [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 
 
 ### Svelte
