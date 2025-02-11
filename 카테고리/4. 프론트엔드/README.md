@@ -34,7 +34,10 @@
 
 ### Javascript
 - [프레임워크 없이 만드는 SSR](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Server-Side-Rendering/)
+- [모던 자바스크립트 튜토리얼](https://ko.javascript.info)
 - [모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/yjs03057/33-js-concepts)
+- [자바스크립트 질문 목록](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md)
+- [자바스크립트에 적용한 클린코드](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md)
 - [JavaScript Promise 소개](https://developers.google.com/web/fundamentals/primers/promises?hl=ko)
 - [Lodash의 대체재로서의 순수 자바스크립트 함수](https://ui.toast.com/weekly-pick/ko_20190515/)
 - [자바스크립트 Promise 쉽게 이해하기](https://joshua1988.github.io/web-development/javascript/promise-for-beginners/)
@@ -49,32 +52,9 @@
 - [코드스피츠 85 거침없는 자바스크립트](https://www.youtube.com/watch?v=0NsJsBdYVHI)
 - [자바스크립트, 세미콜론을 써야 하나 말아야 하나](https://bakyeono.net/post/2018-01-19-javascript-use-semicolon-or-not.html)
 - [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)
-
-- [이제는 Immutable이 기본입니다, 4가지 변수 이야기 [영상]](https://www.youtube.com/watch?v=K8C3OGzz7tQ)
-- [모던 자바스크립트 튜토리얼](https://ko.javascript.info)
-- [자바스크립트에서 [object Object] 가 대체 뭘까?](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-object-object-%EA%B0%80-%EB%8C%80%EC%B2%B4-%EB%AD%98%EA%B9%8C-fe55b754e709)
-- [자바스크립트에서 유용할 수도 있는 연산자들 모음](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9C%A0%EC%9A%A9%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8A%94-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4-%EB%AA%A8%EC%9D%8C-3450083838fb)
 - [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
-- [(고급) 자바스크립트 질문 목록 [번역]](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md)
 - [반응형 시스템 개선하기 (feat. TOAST UI Grid)](https://meetup.toast.com/posts/210)
-- [프렌즈타임 웹앱 삽질기](https://tech.kakao.com/2019/11/27/friendstime-web-app/)
-- [What’s coming to JavaScript in 2020](https://medium.com/javascript-in-plain-english/whats-coming-to-javascript-in-2020-c2a02cf52d01)
-- [자바스크립트 이벤트 제대로 이해하기(Part 1)](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-part-1-2a7d4b9eb468)
-- [자바스크립트 엔진에 대한 오개념과, Inline cache](https://velog.io/@noyo0123/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-VSCODE-%EA%B0%9C%EB%B0%9C%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-lfk2a3yuo5)
-- [ES2020에 도입되는 기능들 간략 정리](https://medium.com/javascript-in-plain-english/new-features-in-es2020-you-should-check-b4974d9d7edc)
-- [Don't block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/)
-- [Thinking about emotion js vs styled component](https://ideveloper2.dev/blog/2019-05-05--thinking-about-emotion-js-vs-styled-component/)
-- [자바스크립트 동작 원리 시각화 [영문]](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
-- [처음 만나는 Svelte [번역]](https://ui.toast.com/weekly-pick/ko_20191002/)
-- [자바스크립트에 적용한 클린코드 [번역]](https://github.com/qkraudghgh/clean-code-javascript-ko/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
-- [ECMAScript ES2016~ES2020 정리](https://junhobaik.github.io/es2016-es2020/)
-- [Promise, 가만히 냅두면 어떻게 될까? [번역]](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
-- [await vs return vs return await [번역]](https://perade.github.io/blog/await-vs-return-vs-return-await/)
-- [JavaScript 인터뷰 : 주요 질문 설명](https://dev.to/educative/acing-the-javascript-interview-top-questions-explained-59b7)
-- [ECMAScript 2020의 새로운 점](https://ui.toast.com/weekly-pick/ko_20200409)
-- [await 의 함정, 숨은 병목을 찾자](https://jaeheon.kr/161)
-- [Data Structure For JavaScript](https://hg-pyun.github.io/data-structure-for-javascript/)
-- [코드스피츠 88 - async await #1/2 [영상]](https://www.youtube.com/watch?v=H_Hb9IF7sfc&feature=youtu.be)
+- [매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/)
 
 
 ### Typescript
@@ -147,7 +127,7 @@
 
 
 ### Svelte
-
+- [처음 만나는 Svelte](https://ui.toast.com/weekly-pick/ko_20191002/)
 
 ### Next.js
 
