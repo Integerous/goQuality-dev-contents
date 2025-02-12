@@ -109,20 +109,17 @@
 
 ### 웹 관련
 - [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4)
+- [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
 - [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 - [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest의-representation이란-무엇인가/)
 - [프론트엔드와 백엔드가 소통하는 엔드포인트, RESTful API](https://evan-moon.github.io/2020/04/07/about-restful-api/)
 - [REST API에서 Put 과 Post 의 차이](https://1ambda.github.io/javascripts/rest-api-put-vs-post/)
 - [GraphQL 개념잡기](https://tech.kakao.com/2019/08/01/graphql-basic/)
 - [GraphQl을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
-- 
-- [REST API의 이해와 설계  1편 - 개념 소개](http://bit.ly/2QX4lD8)
-- [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
-- [REST FULL 한 웹서비스 > Stateless와 HATEOAS 개념](http://anster.tistory.com/163)
-- [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
 
 
 ### 디자인/UI/UX
+- [웹폰트 사용하기 (웹폰트 101)](https://wit.nts-corp.com/2017/02/13/4258)
 - [실무에 바로 적용하는 UI 디자인 팁 7가지](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [컴포넌트, 제대로 만들어 쉽게 쓰자! (1탄) 쏘카 디자이너와 개발자가 컴포넌트를 만드는 방식](https://tech.socarcorp.kr/design/2020/07/31/component-01.html)
 - [Banksalad Product Language를 소개합니다](https://blog.banksalad.com/tech/banksalad-product-language-ios/)
@@ -132,22 +129,14 @@
 - [웹폰트 경량화 - 폰트툴즈의 pyftsubset을 사용한 폰트 서브셋 만들기](https://www.44bits.io/ko/post/optimization_webfont_with_pyftsubnet)
 - [코드로 만드는 Design System](https://medium.com/@kykkjh2984/%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-design-system-b04bb916a02b)
 - [삼성전자 One UI 디자인 가이드 PDF](http://www.design.samsung.com/kr/contents/one-ui/download/oneui_design_guide_kor.pdf)
--
-- [미니멀 UI의 차기 트렌드 '컴플렉션 리덕션'](https://brunch.co.kr/@ideawriter/24)
 - [SVG, JS, CSS로 만드는 라이언 로그인 폼](https://taegon.kim/archives/9658)
-- [웹폰트 사용하기 (웹폰트의 모든 것)](https://wit.nts-corp.com/2017/02/13/4258)
-- [2018년 한글날 배포된 무료 한글 폰트들](https://brunch.co.kr/@forchoon/221)
-- [다양한 브랜드의 로고를 주요 컬러에 맞춰 다운로드 받을 수 있다면?](http://www.openads.co.kr/content/contentDetail?contsId=1787)
-- [프로토파이 무료 학습 링크 모음](https://brunch.co.kr/@uxhaaz/38)
-- [무한스크롤, 페이징, 더보기. 어떤걸 써야할까?](http://cyberx.tistory.com/82)
-- [UI/UX Prototype 툴 선택 - Just in mind](http://k2unip.tistory.com/m/184)
-- [새해, 사이드 프로젝트에 도움이 될만한 디자인 리소스](https://brunch.co.kr/@mobiinside/1423)
-- [모바일 UI·UX 디자인시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/8)
+- [모바일 UI UX 디자인 시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/8)
+- [모바일 UI UX 디자인 시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/9)
+- [모바일 UI UX 디자인 시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/10)
+- [모바일 UI UX 디자인 시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/12)
+- [모바일 UI UX 디자인 시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/14)
 - [모바일 UI 디자인 기본 요소 - 버튼](https://brunch.co.kr/@chulhochoiucj0/23)
-- [시각적 위계를 활용한 경험 설계](https://brunch.co.kr/@cliche-cliche/25)
-- [무한 스크롤 vs 페이지네이션 vs '더보기' 버튼 - 이커머스에서 어떤 로딩 방법을 사용하면 좋을지에 대한 UT 결과](https://brunch.co.kr/@blackindigo-red/13)
 - [따릉아! 문제는 UX/UI야!](https://brunch.co.kr/@supernova9/180)
-- [UX/UI 다이렉트하게 만들어라](https://brunch.co.kr/@plusx/21)
 - [뉴모피즘은 새로운 UI 트렌드가 될 수 있을까?](https://brunch.co.kr/@cliche-cliche/32)
 
 
@@ -156,12 +145,8 @@
 - [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/#ko)
 - [Test CSS Flexbox Rules](https://flexbox.help/)
 - [잘 알려지지 않은 유용한 CSS 속성들](https://ahnheejong.name/articles/less-famous-css-properties/)
-- 
-- [CSS에 대한 깊은 이해: 폰트 매트릭스, line-height와 vertical-align [번역]](https://wit.nts-corp.com/2017/09/25/4903)
+- [CSS에 대한 깊은 이해: 폰트 매트릭스, line-height와 vertical-align](https://wit.nts-corp.com/2017/09/25/4903)
 - [css의 7가지 단위](https://webclub.tistory.com/356)
-- [CSS 팁: 팝업창을 멋지게 만드는 너무 간단한 방법](https://taegon.kim/archives/10088)
-- [CSS in 2022 [번역]](https://wit.nts-corp.com/2022/02/24/6490)
-- [css, js로 position - sticky 구현 방법](https://moonformeli.tistory.com/24)
+- [CSS in 2022](https://wit.nts-corp.com/2022/02/24/6490)
 - [스크롤과 관련된 CSS 속성 3가지](https://taegon.kim/archives/9807)
 - [안티 패턴으로서의 CSS background-image 속성](https://velog.io/@chris/the-css-background-image-property-as-an-anti-pattern)
-
