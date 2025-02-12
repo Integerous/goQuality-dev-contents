@@ -108,34 +108,25 @@
 
 
 ### 웹 관련
-- [REST API에서 Put 과 Post 의 차이](http://bit.ly/2CFGzIM)
-- [REST API의 이해와 설계  1편 - 개념 소개](http://bit.ly/2QX4lD8)
-- [Restful API를 설계하기 위한 디자인 팁](https://spoqa.github.io/2013/06/11/more-restful-interface.html)
-- [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
-- [그런 REST API로 괜찮은가 [영상]](https://www.youtube.com/watch?v=RP_f5dMoHFc)
-- [REST API 튜토리얼 [영문]](https://restapitutorial.com/)
-- [REST API 설명 [영상]](https://www.youtube.com/watch?v=LooL6_chvN4)
-- [REST FULL 한 웹서비스 > Stateless와 HATEOAS 개념](http://anster.tistory.com/163)
+- [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4)
+- [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 - [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest의-representation이란-무엇인가/)
-- [REST API가 뭔가요? [영상]](https://youtu.be/iOueE9AXDQQ)
-- [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
-- [조금 더 괜찮은 Rest Template 1부 - Retryable](https://taetaetae.github.io/2020/03/22/better-rest-template-1-retryable/)
 - [프론트엔드와 백엔드가 소통하는 엔드포인트, RESTful API](https://evan-moon.github.io/2020/04/07/about-restful-api/)
-- [프로듀스48과 함께하는 GraphQL(그래프큐엘)](http://bit.ly/2qkVjVh)
-- [GraphQL과 RESTful API](http://bit.ly/2Q3ZK1H)
+- [REST API에서 Put 과 Post 의 차이](https://1ambda.github.io/javascripts/rest-api-put-vs-post/)
 - [GraphQL 개념잡기](https://tech.kakao.com/2019/08/01/graphql-basic/)
-- [코딩 없이 10분 만에 REST API/Graphql 서버 개발하기](https://medium.com/@khwsc1/js%EB%A1%9C-10%EB%B6%84%EB%A7%8C%EC%97%90-rest-api-graphql-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d28148dbdef2)
 - [GraphQl을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
+- 
+- [REST API의 이해와 설계  1편 - 개념 소개](http://bit.ly/2QX4lD8)
+- [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
+- [REST FULL 한 웹서비스 > Stateless와 HATEOAS 개념](http://anster.tistory.com/163)
+- [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
 
 
 ### 디자인/UI/UX
 - [컴포넌트, 제대로 만들어 쉽게 쓰자! (1탄) 쏘카 디자이너와 개발자가 컴포넌트를 만드는 방식](https://tech.socarcorp.kr/design/2020/07/31/component-01.html)
-- [emotion을 활용한 크몽 프론트엔드 스타일링 시스템](https://medium.com/kmong/emotion%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%AA%BD-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-ec5436089ad)
-- [디자인 챕터는 왜 존재할까?](https://blog.gangnamunni.com/post/mission-vision-of-designchapter/)
 - [Banksalad Product Language를 소개합니다](https://blog.banksalad.com/tech/banksalad-product-language-ios/)
+-
 - [미니멀 UI의 차기 트렌드 '컴플렉션 리덕션'](https://brunch.co.kr/@ideawriter/24)
-- [키오스크 UI 설계 시 고려할 것들](https://story.pxd.co.kr/1332)
-- [최고의 UI/UX 애니메이션들 [영문]](http://bit.ly/2ONgDjX)
 - [SVG, JS, CSS로 만드는 라이언 로그인 폼](https://taegon.kim/archives/9658)
 - [웹폰트 사용하기 (웹폰트의 모든 것)](https://wit.nts-corp.com/2017/02/13/4258)
 - [왜 장바구니 UX 디자인은 비효율적인가? [영문]](https://blog.prototypr.io/ux-challenge-why-cart-page-design-is-inefficient-4-10-862d58d801a1)
