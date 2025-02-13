@@ -8,7 +8,9 @@
 
 
 ## 인프라/DevOps
+- [L4/L7 스위치 대안 오픈소스 로드밸런서 HAProcxy](https://d2.naver.com/helloworld/284659)
 - [테라폼이란?](https://www.44bits.io/ko/keyword/terraform)
+
 
 ## Kubernetes
 - [쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
@@ -53,3 +55,4 @@
 
 
 ## AWS/Azure/GCP
+- [AWS ECS로 시작하는 컨테이너 오케스트레이션](https://www.44bits.io/ko/post/container-orchestration-101-with-docker-and-aws-elastic-container-service)

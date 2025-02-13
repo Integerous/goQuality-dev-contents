@@ -3,7 +3,7 @@
 > 📌 목차
 >- [시스템 설계/구현](#시스템-설계구현)
 >   - [아키텍처](#아키텍처)
->   - [서버 구현](#서버-구현)
+>   - [기능/서비스 개발](#기능서비스-개발)
 >   - [성능 최적화](#성능-최적화)
 >   - [장애/디버깅](#장애디버깅)
 >   - [로깅/알람](#로깅알람)
@@ -12,94 +12,10 @@
 >   - [마이그레이션](#마이그레이션)
 >   - [보안](#보안)
 >   - [API](#API)
+>   - [웹소켓](#웹소켓)
+
 
 ## 시스템 설계/구현
-- [Introducing Domain-Oriented Microservice Architecture [영문]](https://eng.uber.com/microservice-architecture/)
-- [실시간 댓글 개발기(part.1)](https://tech.kakao.com/2020/06/08/websocket-part1/)
-- [Go와 함께하는 전화망 서비스 구축 1편](https://d2.naver.com/helloworld/5827706)  
-- [Netty를 이용한 채팅 서버 구축 경험기](https://woowabros.github.io/experience/2020/06/19/chat-app.html)
-- [서버에 걸리는 부하, 추측하지 말고 계측하자](https://injae-kim.github.io/dev/2020/07/09/how-to-check-single-server-load-average.html)  
-- [MVVM 아키텍처 패턴](https://gyuwon.github.io/blog/2017/03/05/mvvm-architectural-pattern.html)  
-- [Opening Mail Server 26시간 삽질기](https://blog.0chan.dev/2020-06-16-Opening-Mail-Server/)
-- [넷플릭스가 AWS로 이전한 과정](http://bit.ly/2PlJZmo)
-- [Serverless와 기술도입, Backend Application의 미래](http://bit.ly/2A0SmPh)
-- [월간 300억 동접자 수를 처리한 방법에 대한 글 [번역]](http://bit.ly/2IMJZts)
-- [<야생의 땅 듀랑고> 서버 아키텍쳐 1편 [시리즈][슬라이드]](https://www.slideshare.net/sublee/spof-mmorpg)
-- [<야생의 땅 듀랑고>의 데이터 엔지니어링 이야기: 로그 시스템 구축 경험 공유 [슬라이드]](http://bit.ly/2yrRDEx)
-- [주니어 개발자가 외칩니다, "Hello, System Architecture!"](http://bit.ly/2pO8AFk)
-- [AWS 서버 이중화하기](http://bit.ly/2A30WwE)
-- [REST 기반의 간단한 분산 트랜잭션 구현 1편 [시리즈]](http://bit.ly/2OiOFxb)
-- [스프링부트로 웹 서비스 출시하기 - 배포 자동화 구축하기](https://jojoldu.tistory.com/265?category=635883)
-- [우아한형제들 신규 포인트 시스템 전환기 1편 [시리즈]](http://woowabros.github.io/experience/2018/10/12/new_point_story_1.html)
-- [TreadLocal과 TreadPool을 사용하여 요청 및 응답 기록 남기기](https://blog.naver.com/tmondev/221212500642)
-- [AWS Aurora 도입전에 알아야 할 몇가지 사실](http://bit.ly/2P5Ys9v)
-- [쿠팡 서비스 클라우드 마이그레이션 통해 배운것들 [슬라이드]](http://bit.ly/2P5Mpc3)
-- [왜 비즈니스 로직은 Model(Domain)에 가까울수록 좋은가?](http://bit.ly/2AgHuNp)
-- [빌링 시스템 장애 대응 사례 - 우아한형제들](http://bit.ly/2PHr85C)
-- [10가지 소프트웨어 아키텍처 패턴 요약 [번역]](http://bit.ly/2RazjYh)
-- [웹 아키텍쳐 입문 [번역]](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
-- [서버 성능에 대한 정의와 이해 [슬라이드]](https://www.slideshare.net/sunnykwak90/ss-44875669)
-- [배달의민족 오프라인 모드 적용기](http://woowabros.github.io/experience/2018/11/05/about_offline_mode.html)
-- [YouTube Go (오프라인 모드 유튜브)는 왜 출시되었을까?](https://brunch.co.kr/@yeslee/24)
-- [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
-- [340만 동시접속으로 서비스 다운 사후분석 - 포트나이트](https://www.epicgames.com/fortnite/ko/news/postmortem-of-service-outage-at-3-4m-ccu?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
-- [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
-- [LINE에 사용하는 수많은 서버를 모니터링하는 도구, Promgen을 소개합니다.](https://engineering.linecorp.com/ko/blog/how-promgen-routes-notifications/?fbclid=IwAR2MULBGdhSHN31vjX61dHLKGJII2-0hkRiRkMc1oiSF0RUELHN1jx0GwEg)
-- [단일 저장소(repository)의 좋은점 [번역]](https://edykim.com/ko/post/advantages-of-monorepos/?no-cache=1)
-- [클라우드 컴퓨팅 깔끔 정리](https://www.hpe.com/kr/ko/what-is/cloud-computing.html)
-- [nginx 설정 자동으로 하는 사이트](https://nginxconfig.io/)
-- [바람직한 멀티스레딩 구조 [영상]](https://www.youtube.com/watch?v=M1e9nmmD3II)
-- [실시간 서비스 개발 후기](http://woowabros.github.io/woowabros/2017/09/12/realtime-service.html)
-- [대규모 분산 스토리지(Kage)의 발전 과정](http://tech.kakao.com/2017/01/12/kage/)
-- [AWS 장애를 바라보며. 클라우드에 대한 단상](https://himskim.wordpress.com/2018/11/23/aws-%ec%9e%a5%ec%95%a0%eb%a5%bc-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%a9%b0-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%eb%8c%80%ed%95%9c-%eb%8b%a8%ec%83%81/)
-- [Elastic Stack과 Lambda를 활용한 데이터 모니터링 시스템 구축](https://d2.naver.com/helloworld/9878588)
-- ['아마존 웹 서비스를 다루는 기술' 원고 공개](http://pyrasis.com/book/TheArtOfAmazonWebServices)
-- [빅데이터 프레임워크를 활용한 데이터 인프라 구축](http://blog.dramancompany.com/2017/08/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95/)
-- [대규모 서비스를 설계하는 기술 -중급(일반편) [슬라이드]](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance)
-- [커머스 혹은 유통 도메인 설계에 대한 연작 1편](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%98%B9%EC%9D%80-%EC%9C%A0%ED%86%B5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%A4%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%97%B0%EC%9E%91/)
-- [토스의 백엔드는 어떻게 자동화되는가?](https://medium.com/@ghilbut/%ED%86%A0%EC%8A%A4%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%90%EB%8F%99%ED%99%94%EB%90%98%EB%8A%94%EA%B0%80-6042e6bd110d?fbclid=IwAR18UmsRQaMSx7dUm5oe1mQsoOlrebRif_7NgpV0dkj_dPqnBaB9Qvf2R1I)
-- [2018년 11월22일 발생한 AWS 장애 원인 요약 글](https://aws.amazon.com/message/74876/)
-- [AWS EC2 Container Service 구조와 특징](http://bluese05.tistory.com/m/52)
-- [단방향 사용자 인터페이스 아키텍쳐 [번역]](https://pilgwon.github.io/blog/2018/12/12/Unidirectional-User-Interface-Architectures.html)
-- [AWS 기초를 배우는 사이트 모음](https://brunch.co.kr/@topasvga/384)
-- [AWS re:Invent 2018 한 방에 정리하기](https://futurecreator.github.io/2018/12/15/aws-reinvent-2018-summary/)
-- [Netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
-- [2019년 클라우드 핵심 트렌드 예측 [번역]](http://www.ciokorea.com/news/113514)
-- [블로그 서버 마이그레이션](https://blog.outsider.ne.kr/1418)
-- [클라우드 서비스 이해하기 IaaS, PaaS, SaaS](https://brunch.co.kr/@leedongins/60)
-- [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://taetaetae.github.io/2019/01/02/faster-parallel-processes/)
-- [테라폼 기초 튜토리얼](https://www.44bits.io/ko/post/terraform_introduction_infrastrucute_as_code)
-- [라이브 비디오 서비스 구축을 위한 노하우 1편](https://www.popit.kr/%eb%9d%bc%ec%9d%b4%eb%b8%8c-%eb%b9%84%eb%94%94%ec%98%a4-%ec%84%9c%eb%b9%84%ec%8a%a4-%ea%b5%ac%ec%b6%95%ec%9d%84-%ec%9c%84%ed%95%9c-%eb%85%b8%ed%95%98%ec%9a%b0-1%ed%9a%8c/)
-- [서버 시간동기화 문제 그리고 대안](https://link.medium.com/6GmMd7XiHT)
-- [AWS Lambda@Edge에서 실시간 이미지 리사이즈 & WebP 형식으로 변환](https://medium.com/daangn/lambda-edge로-구현하는-on-the-fly-이미지-리사이징-f4e5052d49f3)
-- [Apache냐 Nginx냐, 그것이 알고싶다.](https://taetaetae.github.io/2018/06/27/apache-vs-nginx/)
-- [L4/L7 스위치 대안 오픈소스 로드밸런서 HAProcxy](https://d2.naver.com/helloworld/284659)
-- [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/?fbclid=IwAR3YN8bHy5pSF1TDcQC8d1E2bE7_LXpAcDIQ_De4Npblr35Tx7BoDV4iOvU)
-- [웹서버, WAS 개념 정리](https://brunch.co.kr/@springboot/21)
-- [아마존 엘라스틱 컨테이너 서비스(ECS) 입문](https://www.44bits.io/ko/post/container-orchestration-101-with-docker-and-aws-elastic-container-service)
-- [배민라이더스 배달 경로와 거리 계산 개발과정](http://woowabros.github.io/experience/2019/02/07/real-distance-finder.html)
-- [Amazon RDS 활용 시, 데이터베이스 관리자 (DBA)의 역할 변화](https://aws.amazon.com/ko/blogs/korea/part-1-role-of-the-dba-when-moving-to-amazon-rds-responsibilities/)
-- [누구나 할 수 있는 엑세스 로그 분석 따라해보기 (by Elastic Stack)](https://taetaetae.github.io/2019/02/10/access-log-to-elastic-stack/)
-- [서버리스 컴퓨팅 시대의 풀스택 개발 [번역]](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f)
-- [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
-- [리모트 컨피그 서버 구축기](http://woowabros.github.io/tools/2019/02/18/remote-config-server.html)
-- [멀티플렉싱 기반의 다중 접속 서버로 가기까지](https://jongmin92.github.io/2019/02/28/Java/java-with-non-blocking-io/)
-- [DevOps tutorial [영문]](https://www.edureka.co/blog/devops-tutorial)
-- [Woot 은 어떻게 AWS 기반 서버리스 데이터 레이크를 구축 하였는가?](https://aws.amazon.com/ko/blogs/korea/our-data-lake-story-how-woot-com-built-a-serverless-data-lake-on-aws/?utm_source=dlvr.it&utm_medium=facebook)
-- [Lambda 한개로 만드는 On-demand Image Resizing](https://engineering.huiseoul.com/lambda-%ED%95%9C%EA%B0%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-on-demand-image-resizing-d48167cc1c31)
-- [서버리스 아키텍쳐 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture/)
-- [웹서버 개발의 Session 전략](https://devhaks.github.io/2019/04/20/session-strategy/)
-- [만들면서 배우는 AWS VPC 입문 - 아마존 웹 서비스 네트워크의 기초](https://www.44bits.io/ko/post/understanding_aws_vpc)
-- [신입 개발자가 스타트업에서 AWS로 살아남는 이야기 - 조용진(모두의 캠퍼스)](https://youtu.be/r6TFnNQsQLY)
-- [대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/mobile/charsyam2/massive-service-basic)
-- [대규모 서비스를 지탱하는 기술 - 중급편](https://www.slideshare.net/mobile/charsyam2/how-to-build-massive-service-for-advance)
-- [AWS로 사용자 천만 명 서비스 만들기 [슬라이드]](https://www.slideshare.net/awskorea/ct-2015-your-10million-users-on-aws-channy)
-- [시스템 디자인 학습 저장소 [영문]](https://github.com/donnemartin/system-design-primer)
-- [서버비용을 70%나 줄인 온디맨드 리사이징 이야기 by VCNC](https://www.theteams.kr/teams/2739/post/68195)
-- [그들이 AWS 위에서 데이터 파이프라인을 운영하는 법 [슬라이드]](https://docs.google.com/presentation/d/11C_BKio0DZIop_ZjJk7ogxQtWV5qHIr-hHjw277z64k/)
-- [우아한테크토크 - 선착순 이벤트 서버 생존기! 47만 RPM에서 살아남기](https://www.youtube.com/watch?v=MTSn93rNPPE)
-- [ECS를 이용한 Serverless Batch 서버](https://medium.com/myrealtrip-product/ecs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-serverless-%EB%B0%B0%EC%B9%98-%EC%84%9C%EB%B2%84-63421bf55e67)
-- [이벤트 기반 분산 시스템을 향한 여정 [슬라이드]](https://www.slideshare.net/arawnkr/ss-94475606)
 - [CloudWatch 메트릭 그래프 스냅샷 만들기](https://brunch.co.kr/@alden/53)
 - [카카오 개발자가 본 ‘요즘 클라우드 흐름’ 세 가지](http://m.zdnet.co.kr/news_view.asp?article_id=20190721085551&re=zdk#imadnews)
 - [아파치 로드밸런싱으로 여러 WAS 운영하기](https://taetaetae.github.io/2019/08/04/apache-load-balancing/)
@@ -156,8 +72,15 @@
 - [MySQL을 이용한 분산락으로 여러 서버에 걸친 동시성 관리](https://woowabros.github.io/experience/2019/05/30/mysql-user-level-lock.html)
 
 
-
 ### 아키텍처
+- [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
+- [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
+- [실시간 댓글 개발기(part.1) - DAU 60만 Alex 댓글의 실시간 댓글을 위한 이벤트 기반 아키텍처](https://tech.kakao.com/2020/06/08/websocket-part1/)
+- [신규 포인트 시스템 전환기 #1 – 개발 단계](https://techblog.woowahan.com/2587/)
+- [대규모 분산 스토리지(Kage)의 발전과정](http://tech.kakao.com/2017/01/12/kage/)
+- [단방향 사용자 인터페이스 아키텍쳐](https://pilgwon.github.io/blog/2018/12/12/Unidirectional-User-Interface-Architectures.html)
+- [타다 시스템 아키텍처](https://blog-tech.tadatada.com/2019-01-28-tada-system-architecture)
+
 - [마이크로서비스 아키텍처 (MSA) [번역]](https://medium.com/wematch/마이크로서비스-아키텍처-msa-359b7973ba79)
 - [마이크로서비스 아키텍쳐. 그것이 뭣이 중헌디?](http://guruble.com/마이크로서비스microservice-아키텍처-그것이-뭣이-중헌디/)
 - [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0)
@@ -177,14 +100,21 @@
 - [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
 
 
-### 서버 구현
+### 기능/서비스 개발
+- [배민라이더스 배달 경로와 거리 계산 개발 과정](https://techblog.woowahan.com/2608/)
+- [AWS Lambda@Edge에서 실시간 이미지 리사이즈 & WebP 형식으로 변환](https://medium.com/daangn/lambda-edge로-구현하는-on-the-fly-이미지-리사이징-f4e5052d49f3)
+- [Go와 함께하는 전화망 서비스 구축 1편](https://d2.naver.com/helloworld/5827706)
+- [Go와 함께하는 전화망 서비스 구축 2편](https://d2.naver.com/helloworld/0814313)
+- [리모트 컨피그 서버 구축기](https://techblog.woowahan.com/2611/)
+- [선착순 이벤트 서버 생존기! 47만 RPM에서 살아남다?!](https://www.youtube.com/watch?v=MTSn93rNPPE)
 
 
 ### 성능 최적화
 
 
 ### 장애/디버깅
-
+- [빌링 시스템 장애, 이러지 말란 Maria~](https://techblog.woowahan.com/2517/)
+- [서버에 걸리는 부하, 추측하지 말고 계측하자](https://injae-kim.github.io/dev/2020/07/09/how-to-check-single-server-load-average.html)
 
 ### 로깅/알람
 
@@ -204,6 +134,7 @@
 
 
 ### 메시지 큐
+- [이벤트 기반 분산 시스템을 향한 여정](https://www.slideshare.net/arawnkr/ss-94475606)
 - [아파치 카프카 레퍼런스 한글 번역](https://godekdls.github.io/Apache%20Kafka/design/)
 - [Kafka 운영자가 말하는 처음 접하는 Kafka](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/)
 - [LINE에서 Kafka를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
@@ -233,3 +164,7 @@
 - [GraphQL 개념잡기](https://tech.kakao.com/2019/08/01/graphql-basic/)
 - [코딩 없이 10분 만에 REST API/Graphql 서버 개발하기](https://medium.com/@khwsc1/js%EB%A1%9C-10%EB%B6%84%EB%A7%8C%EC%97%90-rest-api-graphql-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d28148dbdef2)
 - [GraphQl을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
+
+
+### 웹소켓
+- [실시간 댓글 개발기(part.2) -  험난했지만 유익했던 웹소켓 스트레스 테스트 및 안정화 작업](https://tech.kakao.com/posts/391)
