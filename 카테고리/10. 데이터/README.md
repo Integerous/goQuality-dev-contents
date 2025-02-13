@@ -23,5 +23,6 @@
 
 ## 데이터 엔지니어링
 - [데이터 엔지니어가 하는 일](https://brunch.co.kr/@imagineer/301)
+- [타다 (TADA) 서비스의 데이터 웨어하우스 : 태초부터 현재까지](https://speakerdeck.com/vcnc/tada-tada-seobiseuyi-deiteo-weeohauseu-taecobuteo-hyeonjaeggaji)
 
 ## 그 외

@@ -12,6 +12,7 @@
 ## AI
 
 ## AI 서비스 개발
+- [딥러닝 모델 Serving 간단 구축기](https://tech.socarcorp.kr/data/2020/03/10/ml-model-serving.html)
 
 ## 기술/개념 이해
 

@@ -13,7 +13,6 @@
 >   - [Nuxt.js](#nuxtjs)
 >   - [Nest.js](#nestjs)
 >   - [그 외](#그-외)
-> - [웹 관련](#웹-관련)
 > - [디자인/UI/UX](#디자인uiux)
 > - [CSS](#css)
 
@@ -105,17 +104,6 @@
 ### 그 외
 - [Angular 데이터 바인딩](https://poiemaweb.com/angular-component-data-binding)
 - [Angular 한글 문서](https://angular.kr)
-
-
-### 웹 관련
-- [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4)
-- [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
-- [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
-- [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest의-representation이란-무엇인가/)
-- [프론트엔드와 백엔드가 소통하는 엔드포인트, RESTful API](https://evan-moon.github.io/2020/04/07/about-restful-api/)
-- [REST API에서 Put 과 Post 의 차이](https://1ambda.github.io/javascripts/rest-api-put-vs-post/)
-- [GraphQL 개념잡기](https://tech.kakao.com/2019/08/01/graphql-basic/)
-- [GraphQl을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
 
 
 ### 디자인/UI/UX
