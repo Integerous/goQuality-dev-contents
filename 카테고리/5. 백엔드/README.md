@@ -18,6 +18,7 @@
 ### 아키텍처
 - [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
 - [우아한 모노리스](https://youtu.be/SrQeIz3gXZg)
+- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 - [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/the-architecture-behind-chatting-on-line-live/)
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 - [실시간 댓글 개발기(part.1) - DAU 60만 Alex 댓글의 실시간 댓글을 위한 이벤트 기반 아키텍처](https://tech.kakao.com/2020/06/08/websocket-part1/)
@@ -29,24 +30,10 @@
 - [10만명 접속을 허용하는 시스템 만들기](https://brunch.co.kr/@jowlee/102)
 - [쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로)](https://tv.naver.com/v/11212875)
 - [LINE 트랜스코딩 서버 아키텍처 개선기 – 1](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/)
-
-- [마이크로서비스 아키텍처 (MSA) [번역]](https://medium.com/wematch/마이크로서비스-아키텍처-msa-359b7973ba79)
 - [마이크로서비스 아키텍쳐. 그것이 뭣이 중헌디?](http://guruble.com/마이크로서비스microservice-아키텍처-그것이-뭣이-중헌디/)
-- [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0)
-- [마이크로서비스 아키텍처(MSA) - 기본적인 개념과 우버적용 사례 [번역]](https://brunch.co.kr/@yesjun/2)
-- [마틴 파울러가 설명하는 마이크로서비스 [번역]](http://channy.creation.net/articles/microservices-by-james_lewes-martin_fowler)
-- ["마이크로서비스는 답이 아니었다" 세그먼트가 모놀리틱으로 돌아온 이유](http://www.ciokorea.com/news/39258)
-- [마이크로서비스, 어디까지 해봤니? [영상]](https://youtu.be/F7EnW8dfetU)
-- [잘 키운 모노리스 하나 열 마이크로서비스 안 부럽다 [슬라이드]](https://www.slideshare.net/arawnkr/ss-195979955)
-- [쿠팡의 MSA 적용기, 행복을 찾기위한 우리의 여정](https://medium.com/coupang-tech/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-94678fe9eb61)
-- [MSA, K8S를 이용한 대륙의 서비스 개발 사례 [슬라이드]](https://www.slideshare.net/mobile/babokim/open-infradays-2019msak8s)
-- [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기](https://www.popit.kr/msa%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%97%AC%EB%9F%AC-api-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%A4%84%EC%9D%B4%EA%B8%B0)
-- [마이크로 서비스 관련 글 총정리](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B4%80%EB%A0%A8-%EA%B8%80-%EC%B4%9D%EC%A0%95%EB%A6%AC/)
+- [마이크로서비스 – MicroServices](http://channy.creation.net/articles/microservices-by-james_lewes-martin_fowler)
+- [잘 키운 모노리스 하나 열 마이크로서비스 안 부럽다](https://www.slideshare.net/arawnkr/ss-195979955)
 - [WATCHA PLAY 서비스 MSA 적용하기](https://medium.com/watcha/watcha-play-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-31e06fe039a0)
-- [휴면 계정 처리 – 배치에서 온라인 시스템으로](http://www.chidoo.me/index.php/2019/09/14/from-batch-to-online-processing-in-msa/)
-- [Mastering Chaos - A Netflix Guide to Microservices [영상]](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
-- [마이크로 서비스 아키텍쳐와 컨테이너 환경](http://bit.ly/2J7YgRz)
-- [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
 
 
 ### 기능/서비스 개발
@@ -71,24 +58,21 @@
 - [서버에 걸리는 부하, 추측하지 말고 계측하자](https://injae-kim.github.io/dev/2020/07/09/how-to-check-single-server-load-average.html)
 - [푸시 데몬 메모리 누수 디버깅하기](https://mingrammer.com/debug-memory-leak-with-node-heapdump/)
 - [LINE 메시징 서버가 새해 트래픽을 대비하는 과정](https://engineering.linecorp.com/ko/blog/how-line-messaging-servers-prepare-for-new-year-traffic/)
-
+- [레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/)
 
 ### 로깅/알람
 - [멀티클라우드를 이용한 로그 분석 플랫폼 개발하기](https://link.medium.com/yuZDbtqcp1)
 
 
 ### 캐시
-- [레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/)
+- [우아한 Redis](https://youtu.be/mPB2CZiAkKM)
+- [우아한 Redis 발표 슬라이드](https://www.slideshare.net/charsyam2/redis-196314086)
 - [캐시 성능 향상기 (Improving Cache Speed at Scale)](https://meetup.toast.com/posts/251)
-- [레디스와 분산 락(1/2) - 레디스를 활용한 분산 락과 안전하고 빠른 락의 구현](https://hyperconnect.github.io/2019/11/15/redis-distributed-lock-1.html)
-- [개발자를 위한 레디스 튜토리얼](https://meetup.toast.com/posts/224)
-- [Jedis 보다 Lettuce를 쓰자](https://jojoldu.tistory.com/418)
-- [Redis in Action [영문]](https://redislabs.com/community/ebook)
 - [IDC에서 AWS로 Redis 데이터 이전하기](https://mingrammer.com/redis-migration/)
-- [우아한테크세미나 - 우아한 레디스 [영상]](https://youtu.be/mPB2CZiAkKM)  
-- [우아한 Redis 세미나 후기](https://ict-nroo.tistory.com/133)
-- [우아한 Redis 발표자료 [슬라이드]](https://www.slideshare.net/charsyam2/redis-196314086)
-- [Redis 6.0 – ThreadedIO를 알아보자.](https://charsyam.wordpress.com/2020/05/05/입-개발-redis-6-0-threadedio를-알아보자/)
+- [개발자를 위한 레디스 튜토리얼 01](https://meetup.nhncloud.com/posts/224)
+- [개발자를 위한 레디스 튜토리얼 02](https://meetup.nhncloud.com/posts/225)
+- [개발자를 위한 레디스 튜토리얼 03](https://meetup.nhncloud.com/posts/226)
+- [개발자를 위한 레디스 튜토리얼 04](https://meetup.nhncloud.com/posts/227)
 
 
 ### 메시지 큐
