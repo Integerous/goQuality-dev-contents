@@ -76,6 +76,7 @@
 
 
 ### 메시지 큐
+- [분산 시스템에서 데이터를 전달하는 효율적인 방법](https://youtu.be/uk5fRLUsBfk?si=NkXQwWzBMzcy-jmP)
 - [이벤트 기반 분산 시스템을 향한 여정](https://www.slideshare.net/arawnkr/ss-94475606)
 - [엔터프라이즈 어플리케이션을 위한 효과적인 프로세싱 전략](https://youtu.be/IafgrRB2quY)
 - [스케일아웃없이 순간 급증하는 주문 처리하기 (Microservice with Kafka)](https://tv.naver.com/v/11212897)
