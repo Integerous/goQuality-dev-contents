@@ -6,6 +6,8 @@
 
 
 ## 기타
+- [Apache 재단에 700만원을 후원하면 생기는 일](https://xguru.net/2099)
+
 - [불규칙 속에서 규칙을 찾아내는 정규표현식](https://evan-moon.github.io/2020/07/24/about-regular-expression/)
 - [지킬 기반의 블로그를 개츠비로 옮기고 나서 달라진 점 [영상]](https://www.youtube.com/watch?v=bFTvPyryYkY&feature=youtu.be)
 - [급성장하는 1등 스타트업들은 왜 루비온레일즈를 쓸까](https://brunch.co.kr/@jamess/44)

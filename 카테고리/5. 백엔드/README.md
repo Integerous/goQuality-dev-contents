@@ -48,6 +48,7 @@
 - [콘퍼런스 참가 신청 기능 개발기](https://d2.naver.com/helloworld/5048491)
 - [라즈베리파이4로 토이프로젝트용 서버 만들기](https://ryan-han.com/post/server/raspberry_server_1/)
 - [안심번호 마이크로서비스 개발하기](https://medium.com/daangn/%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-fb1a8817b059)
+- [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기](https://blog.banksalad.com/tech/url-status-checker)
 
 
 ### 성능 최적화

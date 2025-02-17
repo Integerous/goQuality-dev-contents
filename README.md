@@ -112,6 +112,7 @@
   - [Nuxt.js](/카테고리/4.%20프론트엔드#Nuxt.js)
   - [Nest.js](/카테고리/4.%20프론트엔드#Nest.js)
   - [그 외](/카테고리/4.%20프론트엔드#그-외-Javascript)
+- [브라우저/HTML](/카테고리/4.%20프론트엔드#브라우저HTML)
 - [디자인/UI/UX](/카테고리/4.%20프론트엔드#디자인UIUX)
 - [CSS](/카테고리/4.%20프론트엔드#CSS)
   </details>
@@ -164,6 +165,7 @@
 <summary><a href="/카테고리/8.%20인프라%20&%20DevOps">8. 인프라 & DevOps</a></summary>
 
 - [인프라/DevOps](/카테고리/8.%20인프라%20&%20DevOps#인프라-devops)
+- [리눅스/Bash](/카테고리/8.%20인프라%20&%20DevOps#리눅스/Bash)
 - [Kubernetes](/카테고리/8.%20인프라%20&%20DevOps#Kubernetes)
 - [Docker](/카테고리/8.%20인프라%20&%20DevOps#Docker)
 - [AWS/Azure/GCP](/카테고리/8.%20인프라%20&%20DevOps#AWS/Azure/GCP)

@@ -13,6 +13,7 @@
 >   - [Nuxt.js](#nuxtjs)
 >   - [Nest.js](#nestjs)
 >   - [그 외](#그-외)
+> - [브라우저/HTML](#브라우저html)
 > - [디자인/UI/UX](#디자인uiux)
 > - [CSS](#css)
 
@@ -27,6 +28,8 @@
 - [FE 개발 가이드](https://ui.toast.com/fe-guide/ko)
 - [당근마켓에 웹 프로젝트 배포하기 #1 - 파일 기반 웹뷰](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c)
 - [당근마켓에 웹 프로젝트 배포하기 #2 - 웹뷰 기반 웹앱](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A1%9C-%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0-3030daea456c)
+- [HTML5 폼 검증에 대해 정리해 보자](https://jeonghwan-kim.github.io/dev/2020/06/08/html5-form-validation.html)
+- [100,000개의 아이템도 거뜬한 셀렉트박스 만들기 (1/2)](https://meetup.toast.com/posts/160)
 
 
 ## 언어/프레임워크
@@ -106,7 +109,27 @@
 - [Angular 한글 문서](https://angular.kr)
 
 
-### 디자인/UI/UX
+## 브라우저/HTML
+- [브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
+- [브라우저의 내부 살펴보기 2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
+- [브라우저의 내부 살펴보기 3 - 렌더러 프로세스의 내부 동작](https://d2.naver.com/helloworld/5237120)
+- [브라우저의 내부 살펴보기 4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
+- [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361)
+- [MDN - 교차 출처 리소스 공유 (CORS)](https://developer.mozilla.org/ko/docs/Web/HTTP/Access_control_CORS)
+- [CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/)
+- [CORS A to Y](https://medium.com/wantedjobs/cors-a-to-y-28cc0b16349d)
+- [CORS(Cross-Origin Resource Sharing)이 나오게 된 배경 이야기](https://www.youtube.com/watch?v=yTzAjidyyqs)
+- [웹크롤링 좀 더 잘하기](https://www.slideshare.net/wangwonLee/2018-datayanolja-moreeffectivewebcrawling)
+- [웹 캐싱의 숨겨진 요소들](https://mingrammer.com/translation-the-hidden-components-of-web-caching/)
+- [AMP는 어떻게 웹 페이지의 성능을 높일 수 있나](https://d2.naver.com/helloworld/6856597)
+- [URL, URI, URN 차이](https://danielmiessler.com/study/url-uri/)
+- [웹 성능 최적화에 필요한 브라우저의 모든 것](https://tv.naver.com/v/4578425/list/279844)
+- [나는 AMP를 좋아하지 않는다.](https://blog.outsider.ne.kr/1285)
+- [크롬 개발자도구 101](https://lqez.github.io/blog/chrome-dev-tool-101.html)
+- [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
+
+
+## 디자인/UI/UX
 - [웹폰트 사용하기 (웹폰트 101)](https://wit.nts-corp.com/2017/02/13/4258)
 - [실무에 바로 적용하는 UI 디자인 팁 7가지](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [컴포넌트, 제대로 만들어 쉽게 쓰자! (1탄) 쏘카 디자이너와 개발자가 컴포넌트를 만드는 방식](https://tech.socarcorp.kr/design/2020/07/31/component-01.html)
@@ -119,16 +142,18 @@
 - [삼성전자 One UI 디자인 가이드 PDF](http://www.design.samsung.com/kr/contents/one-ui/download/oneui_design_guide_kor.pdf)
 - [SVG, JS, CSS로 만드는 라이언 로그인 폼](https://taegon.kim/archives/9658)
 - [모바일 UI UX 디자인 시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/8)
-- [모바일 UI UX 디자인 시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/9)
-- [모바일 UI UX 디자인 시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/10)
-- [모바일 UI UX 디자인 시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/12)
-- [모바일 UI UX 디자인 시 고려해야 할 가이드라인 1](https://brunch.co.kr/@chulhochoiucj0/14)
+- [모바일 UI UX 디자인 시 고려해야 할 가이드라인 2](https://brunch.co.kr/@chulhochoiucj0/9)
+- [모바일 UI UX 디자인 시 고려해야 할 가이드라인 3](https://brunch.co.kr/@chulhochoiucj0/10)
+- [모바일 UI UX 디자인 시 고려해야 할 가이드라인 4](https://brunch.co.kr/@chulhochoiucj0/12)
+- [모바일 UI UX 디자인 시 고려해야 할 가이드라인 5](https://brunch.co.kr/@chulhochoiucj0/14)
 - [모바일 UI 디자인 기본 요소 - 버튼](https://brunch.co.kr/@chulhochoiucj0/23)
 - [따릉아! 문제는 UX/UI야!](https://brunch.co.kr/@supernova9/180)
 - [뉴모피즘은 새로운 UI 트렌드가 될 수 있을까?](https://brunch.co.kr/@cliche-cliche/32)
+- [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726?fbclid=IwAR0xOrYNsE4NU6D0jzBMTEND_DhiJpjvDneoMn5mh28PdfTJYwbJ-XHvAns)
+- [레진 웹 접근성 가이드라인](https://github.com/lezhin/accessibility/)
 
 
-### CSS
+## CSS
 - [Grid Garden - A game for learning CSS grid layout](http://cssgridgarden.com/#ko)
 - [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/#ko)
 - [Test CSS Flexbox Rules](https://flexbox.help/)
