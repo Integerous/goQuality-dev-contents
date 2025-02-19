@@ -27,6 +27,8 @@
 - [새로 입사한 개발자가 프로젝트에 기여하는 방법 한 가지](https://helloworld.kurly.com/blog/fix-style-with-command/)
 - [개발자 Code Review 가이드](https://wnsgml972.github.io/devops/2020/05/17/CodeReview1/)
 - [10년간 슈퍼셀을 경영하며 배운 10가지 교훈](http://masterfarseer.blogspot.com/2020/08/10-10.html)
+- [구조적 동시성에 대한 소고, 또는 Go 문의 해로움](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html)
+- [구글 코드 리뷰 가이드](https://google.github.io/eng-practices/review/reviewer/)
 
 
 ## 소프트웨어 설계
@@ -51,11 +53,13 @@
 
 
 ### 함수형 프로그래밍
+- [어떻게 하면 안전하게 함수를 합성할 수 있을까?](https://evan-moon.github.io/2020/01/27/safety-function-composition/)
 - [그래서, ROP가 뭔데 (Railway oriented programming)](https://medium.com/@0e/%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%89%E1%85%A5-rop%E1%84%80%E1%85%A1-%E1%84%86%E1%85%AF%E1%86%AB%E1%84%83%E1%85%A6-%E1%84%8A%E1%85%B5%E1%86%B8%E1%84%83%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%A1-railway-oriented-programming-4e8070c04bda)
 
 ## 제품 개발 후기
 - [Lv0 에서 Lv2 까지 - 인프런 서비스 리뉴얼](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88)
 - [문제를 해결할 때 사고가 중요한 이유](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/)
+- [원티드 제품 개발 5년의 기록](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%A0%9C%ED%92%88-%EA%B0%9C%EB%B0%9C-5%EB%85%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-d353b1231896)
 
 
 ## 테스트/TDD

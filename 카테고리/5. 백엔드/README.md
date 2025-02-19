@@ -34,6 +34,8 @@
 - [마이크로서비스 – MicroServices](http://channy.creation.net/articles/microservices-by-james_lewes-martin_fowler)
 - [잘 키운 모노리스 하나 열 마이크로서비스 안 부럽다](https://www.slideshare.net/arawnkr/ss-195979955)
 - [WATCHA PLAY 서비스 MSA 적용하기](https://medium.com/watcha/watcha-play-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-31e06fe039a0)
+- [Blocking-NonBlocking-Synchronous-Asynchronous](https://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/)
+- [Concurrency vs Parallelism](http://homoefficio.github.io/2019/02/02/Back-to-the-Essence-Concurrency-vs-Parallelism/)
 
 
 ### 기능/서비스 개발
@@ -66,6 +68,7 @@
 
 
 ### 캐시
+- [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)
 - [우아한 Redis](https://youtu.be/mPB2CZiAkKM)
 - [우아한 Redis 발표 슬라이드](https://www.slideshare.net/charsyam2/redis-196314086)
 - [캐시 성능 향상기 (Improving Cache Speed at Scale)](https://meetup.toast.com/posts/251)
