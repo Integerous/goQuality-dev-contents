@@ -60,6 +60,7 @@
 
 
 ### Typescript
+- [TypeScript 코딩 가이드 (규칙 80개)](https://github.com/wisedog/typescript-coding-guide)
 - [The TypeScript Handbook](https://www.typescriptlang.org/ko/docs/handbook/intro.html)
 - [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
 - [타입스크립트를 위한 클린코드](https://github.com/738/clean-code-typescript)
