@@ -12,7 +12,7 @@
 >   - [MongoDB](#MongoDB)
 >   - [Redis](#Redis)
 >   - [AWS/Azure/GCP](#AWS/Azure/GCP)
-> - [성능 최적화](#성능최적화)
+> - [DB 성능 최적화](#DB-성능-최적화)
 
 ## DB
 - [DBMS는 어떻게 트랜잭션을 관리할까?](https://d2.naver.com/helloworld/407507)
@@ -62,7 +62,7 @@
 ### AWS/Azure/GCP
 
 
-## 성능 최적화
+## DB 성능 최적화
 - [쿼리 최적화: 빠른 쿼리를 위한 7가지 체크리스트](https://medium.com/watcha/%EC%BF%BC%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B2%AB%EA%B1%B8%EC%9D%8C-%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EC%BF%BC%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-7%EA%B0%80%EC%A7%80-%EC%B2%B4%ED%81%AC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-bafec9d2c073)
 - [MySQL performance-schema-instruments 사용에 따른 성능 영향 실험](https://engineering.linecorp.com/ko/blog/mysql-research-performance-schema-instruments/)
 - [200만 동접 게임을 위한 MySQL 샤딩](https://youtube.com/watch?v=8Eb_n7JA1yA&feature=youtu.be)

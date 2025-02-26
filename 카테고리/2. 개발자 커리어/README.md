@@ -21,6 +21,7 @@
 
 
 ## 성장
+- [새로운 산업혁명의 시작 (AI 스타트업 비팩토리 노정석 대표님)](https://youtu.be/HYFslPN7n9o)
 - [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
 - ['기능 공장'에서 일하고 있다는 12가지 신호](https://brunch.co.kr/@cojette/31)
 - [일일커밋의 효용성](https://jojoldu.tistory.com/402)

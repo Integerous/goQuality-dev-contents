@@ -152,7 +152,7 @@
   - [MongoDB](/카테고리/6.%20DB#MongoDB)
   - [Redis](/카테고리/6.%20DB#Redis)
   - [AWS/Azure/GCP](/카테고리/6.%20DB#AWS/Azure/GCP)
-- [성능 최적화](/카테고리/6.%20DB#성능최적화)
+- [DB 성능 최적화](/카테고리/6.%20DB#DB-성능-최적화)
 </details>
 
 <details>
