@@ -14,5 +14,6 @@
 
 
 ## 데이터 엔지니어링
+- [쏘카 예약을 효율적으로 - 수학적 모델링을 활용한 쏘카 예약 테트리스](https://tech.socarcorp.kr/data/2022/06/10/reservation-tetris.html)
 - [타다 (TADA) 서비스의 데이터 웨어하우스 : 태초부터 현재까지](https://speakerdeck.com/vcnc/tada-tada-seobiseuyi-deiteo-weeohauseu-taecobuteo-hyeonjaeggaji)
 

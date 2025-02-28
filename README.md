@@ -243,7 +243,6 @@
 
 > 컨텐츠 링크를 가장 아래부터 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
-- [쏘카 예약을 효율적으로 - 수학적 모델링을 활용한 쏘카 예약 테트리스](https://tech.socarcorp.kr/data/2022/06/10/reservation-tetris.html?)
 - [간단하지만 까다로운 언리얼 엔진 개발 환경 구축](https://netmarble.engineering/unreal-engine-dev-build-setting/)
 - [내가 프론트엔드를 학습한 방법](https://miryang.dev/blog/how-studied-frontend)
 - [Airbridge API 개발팀의 Monorepo 도입기](https://yozm.wishket.com/magazine/detail/1487)
