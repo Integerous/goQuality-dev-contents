@@ -243,13 +243,6 @@
 
 > 컨텐츠 링크를 가장 아래부터 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
 
-- [간단하지만 까다로운 언리얼 엔진 개발 환경 구축](https://netmarble.engineering/unreal-engine-dev-build-setting/)
-- [내가 프론트엔드를 학습한 방법](https://miryang.dev/blog/how-studied-frontend)
-- [Airbridge API 개발팀의 Monorepo 도입기](https://yozm.wishket.com/magazine/detail/1487)
-- [React, Express, Spring로 File과 JSON 동시에 주고 받기](https://velog.io/@huewilliams/%ED%8C%8C%EC%9D%BC%EA%B3%BC-JSON-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%8F%99%EC%8B%9C%EC%97%90-%EB%B3%B4%EB%82%B4%EA%B8%B0-2%ED%8E%B8-feat.-React-Express-Spring)
-- [AWS Serverless 웹서비스 구축 경험 후기 - 1탄](https://devocean.sk.com/blog/techBoardDetail.do?ID=163934)
-- [Sleuth 분산 환경 트래킹 With Fuel](https://cheese10yun.github.io/slueth-fuel/)
-- [프론트엔드 개발자에게도 알고리즘 공부가 중요할까?](https://wormwlrm.github.io/2022/05/28/Should-a-front-end-developer-learn-the-algorithm.html)
 - [서로 성장하는 기술 면접 만들기](https://hiddenest.dev/good-tech-interview)
 - [Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스](https://blog.relate.kr/shape-up-relate/)
 - [학생 때 아무도 가르쳐주지 않았는데 현업와보니 중요한 것들](https://velog.io/@mowinckel/%EC%95%84%EB%AC%B4%EB%8F%84-%EA%B0%80%EB%A5%B4%EC%B3%90-%EC%A3%BC%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B2%83)
