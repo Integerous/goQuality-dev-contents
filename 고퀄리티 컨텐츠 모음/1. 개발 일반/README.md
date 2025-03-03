@@ -29,6 +29,7 @@
 - [10년간 슈퍼셀을 경영하며 배운 10가지 교훈](http://masterfarseer.blogspot.com/2020/08/10-10.html)
 - [구조적 동시성에 대한 소고, 또는 Go 문의 해로움](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html)
 - [구글 코드 리뷰 가이드](https://google.github.io/eng-practices/review/reviewer/)
+- [Shape Up: 스타트업 소프트웨어 제품 개발 및 관리 프로세스](https://blog.relate.kr/shape-up-relate/)
 
 
 ## 소프트웨어 설계

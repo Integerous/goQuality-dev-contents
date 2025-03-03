@@ -146,13 +146,12 @@
 - [관계형DB](/카테고리/6.%20DB#관계형DB)
   - [PostgreSQL](/카테고리/6.%20DB#PostgreSQL)
   - [MySQL](/카테고리/6.%20DB#MySQL)
-  - [AWS/Azure/GCP](/카테고리/6.%20DB#AWS/Azure/GCP)
-  - [Supabase/Firebase](/카테고리/6.%20DB#Supabase/Firebase)
 - [NoSQL](/카테고리/6.%20DB#NoSQL)
   - [MongoDB](/카테고리/6.%20DB#MongoDB)
   - [Redis](/카테고리/6.%20DB#Redis)
-  - [AWS/Azure/GCP](/카테고리/6.%20DB#AWS/Azure/GCP)
 - [DB 성능 최적화](/카테고리/6.%20DB#DB-성능-최적화)
+- [AWS/Azure/GCP](/카테고리/6.%20DB#AWS/Azure/GCP)
+- [Supabase/Firebase](/카테고리/6.%20DB#Supabase/Firebase)
 </details>
 
 <details>
@@ -242,11 +241,6 @@
 ## :mailbox: Queue
 
 > 컨텐츠 링크를 가장 아래부터 추가해주세요. (이 곳에서 검증을 거친 후에 해당 카테고리로 이동됩니다!)
-
-- [서로 성장하는 기술 면접 만들기](https://hiddenest.dev/good-tech-interview)
-- [Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스](https://blog.relate.kr/shape-up-relate/)
-- [학생 때 아무도 가르쳐주지 않았는데 현업와보니 중요한 것들](https://velog.io/@mowinckel/%EC%95%84%EB%AC%B4%EB%8F%84-%EA%B0%80%EB%A5%B4%EC%B3%90-%EC%A3%BC%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B2%83)
-- [정적 팩토리 메서드(Static Factory Method)는 왜 사용할까?](https://tecoble.techcourse.co.kr/post/2020-05-26-static-factory-method/)
 - [서버 언어 전환 이야기](https://spoqa.github.io/2022/04/15/all-new-server.html)
 - [깃 눈으로 보고 배우기](https://learngitbranching.js.org/?locale=ko)
 - [TypeScript는 어떻게 공부해야 하나요?](https://yozm.wishket.com/magazine/detail/1376)
