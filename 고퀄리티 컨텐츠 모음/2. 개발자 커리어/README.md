@@ -48,6 +48,7 @@
 - [같이 일하고 싶은 사람](https://brunch.co.kr/@hyungsukkim/99)
 - [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect)
 - [프론트엔드 개발자에게도 알고리즘 공부가 중요할까?](https://wormwlrm.github.io/2022/05/28/Should-a-front-end-developer-learn-the-algorithm.html)
+- [초기 스타트업에서 엔지니어로 일한다는 것은](https://nephtyws.github.io/story/what-is-a-founding-engineer/)
 
 
 ## 비전공자/주니어
