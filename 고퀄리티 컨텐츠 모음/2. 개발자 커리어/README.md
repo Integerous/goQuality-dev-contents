@@ -118,6 +118,7 @@
 
 
 ### 제품 개발 과정
+- [임금님 귀는 당나귀 귀! 대나무숲 슬랙 앱 만들기](https://wormwlrm.github.io/2022/05/07/Bamboo-Forest-Slack-App.html)
 - [내 첫 제품 실패기](https://jong10.com/2025/01/23/the-failure-of-my-first-product.html)
 - [곽철용 짤 생성기, 이렇게 만들어졌습니다](https://wormwlrm.github.io/2019/10/13/Kwakcheolyong-Image-Creator-Development-Story.html)
 
