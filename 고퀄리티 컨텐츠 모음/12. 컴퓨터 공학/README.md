@@ -20,6 +20,7 @@
 
 
 ## 운영체제
+- [레스토랑에 비유해서 알아보는 운영체제](https://wormwlrm.github.io/2021/10/04/OS-Restaurant.html)
 - [개념 정리 - 운영 체제 편](https://brunch.co.kr/@toughrogrammer/15)
 
 
