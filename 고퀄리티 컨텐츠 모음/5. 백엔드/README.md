@@ -16,6 +16,7 @@
 
 
 ### 아키텍처
+- [회원시스템 이벤트기반 아키텍처 구축하기](https://techblog.woowahan.com/7835)
 - [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
 - [우아한 모노리스](https://youtu.be/SrQeIz3gXZg)
 - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
