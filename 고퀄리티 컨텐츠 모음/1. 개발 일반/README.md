@@ -30,6 +30,7 @@
 - [구조적 동시성에 대한 소고, 또는 Go 문의 해로움](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html)
 - [구글 코드 리뷰 가이드](https://google.github.io/eng-practices/review/reviewer/)
 - [Shape Up: 스타트업 소프트웨어 제품 개발 및 관리 프로세스](https://blog.relate.kr/shape-up-relate/)
+- [페이스북 개발자의 성과 만들기](https://blog.shiren.dev/2022-03-07)
 
 
 ## 소프트웨어 설계
