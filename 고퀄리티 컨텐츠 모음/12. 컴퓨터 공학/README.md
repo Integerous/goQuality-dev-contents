@@ -28,6 +28,7 @@
 - [TCP/IP 네트워크 스택 이해하기](https://d2.naver.com/helloworld/47667)
 - [네트워크 로드 밸런싱 및 프록시 소개](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
 - [소프트웨어 정의 네트워킹(SDN)](https://no1.technology/13)
+- [Facebook을 다운 시킨 원인, BGP hijacking이 무엇인가?](https://dataportal.kr/14)
 
 
 ## HTTP/웹

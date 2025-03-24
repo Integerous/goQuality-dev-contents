@@ -24,3 +24,4 @@
 - [간단하게 만드는 랜덤런치 그룹 생성기](https://johngrib.github.io/wiki/random-lunch/)
 - [Fourier Transform(푸리에 변환)의 이해와 활용](https://darkpgmr.tistory.com/171?category=460965)
 - [라인의 전정은 님이 말하는 테크니컬 라이팅의 모든 것](https://youtu.be/kEwdl2B1SQc)
+- [Jekyll에서 Gatsby로 떠나는 마이그레이션 여정](https://wormwlrm.github.io/2022/02/25/Migration-Journey-from-Jekyll-to-Gatsby.html)

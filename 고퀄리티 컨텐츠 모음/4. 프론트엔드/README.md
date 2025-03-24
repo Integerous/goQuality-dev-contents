@@ -57,6 +57,7 @@
 - [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
 - [반응형 시스템 개선하기 (feat. TOAST UI Grid)](https://meetup.toast.com/posts/210)
 - [매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/)
+- [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
 
 
 ### Typescript
