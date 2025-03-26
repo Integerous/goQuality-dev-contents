@@ -12,6 +12,7 @@
 - [L4/L7 스위치 대안 오픈소스 로드밸런서 HAProcxy](https://d2.naver.com/helloworld/284659)
 - [글로벌 네트워크 에뮬레이터 prism_pacman 소개](https://d2.naver.com/helloworld/7847943)
 - [WATCHA 사내 VPN 개발하기](https://medium.com/watcha/watcha-%EC%82%AC%EB%82%B4-vpn-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-e04f946d3ccb)
+- [How to stop running out of ephemeral ports and start to love long-lived connections](https://blog.cloudflare.com/how-to-stop-running-out-of-ephemeral-ports-and-start-to-love-long-lived-connections/)
 
 ## 리눅스/Bash
 - [가장 쉬운 리눅스 강좌](https://youtu.be/tPWBF13JIVk)
@@ -31,6 +32,7 @@
 - [쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
 - [쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
 - [2018 Cloud Hackathon Tech Session - Kubernetes](https://youtu.be/rdyUAduXi48?si=0xvbL7narzb0yqeu)
+- [Two reasons Kubernetes is so complex](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/)
 
 
 ## Docker
