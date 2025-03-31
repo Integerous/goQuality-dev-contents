@@ -31,6 +31,7 @@
 - [구글 코드 리뷰 가이드](https://google.github.io/eng-practices/review/reviewer/)
 - [Shape Up: 스타트업 소프트웨어 제품 개발 및 관리 프로세스](https://blog.relate.kr/shape-up-relate/)
 - [페이스북 개발자의 성과 만들기](https://blog.shiren.dev/2022-03-07)
+- [There’s No Such Thing as Clean Code](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code)
 
 
 ## 소프트웨어 설계
@@ -83,3 +84,4 @@
 - [JUnit5로 계층 구조의 테스트 코드 작성하기](https://johngrib.github.io/wiki/junit5-nested/)
 - [xUnit 테스팅 프레임워크를 TDD로 만들어보자](https://www.youtube.com/live/tdKFZcZSJmg?si=MU-XZMThaYbo8lnC)
 - [테스트 코드 작성에 대한 나름의 고찰](https://github.com/cheese10yun/blog-sample/blob/master/test-code/README.md)
+- [단위 테스트, 도대체 어디까지 작성해야 할까?](https://medium.com/@lette1394/a187eb5b1753)
