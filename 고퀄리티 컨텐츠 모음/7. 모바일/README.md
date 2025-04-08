@@ -21,6 +21,7 @@
 ## iOS
 - [UICollectionView를 이용한 LINE iOS 대화방 리팩토링](https://engineering.linecorp.com/ko/blog/ios-refactoring-uicollectionview-1/)
 - [지난 10번의 WWDC를 되돌아보며](https://medium.com/@jungkim/%EC%A7%80%EB%82%9C-10%EB%B2%88%EC%9D%98-wwdc%EB%A5%BC-%EB%90%98%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-16d6da3a95b2)
+- [간편하게 서버 데이터를 로딩하는 Fetcher, Swift로 구현하기](https://engineering.linecorp.com/ko/blog/introduce-android-fetcher-swift-implementation/)
 
 
 ## Android

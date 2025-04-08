@@ -76,6 +76,7 @@
 
 
 ### React.js
+- [리액트 서버 컴포넌트 톺아보기](https://roy-jung.github.io/250323-react-server-components)
 - [useEffect 완벽가이드 [번역]](https://rinae.dev/posts/a-complete-guide-to-useeffect-ko)
 - [React에서 mobx 경험기 (Redux와 비교기)](https://techblog.woowahan.com/2599/)
 - [React datagrid component 제작기 (with ES6, TypeScript)](https://medium.com/chequer/react-datagrid-component-%EC%A0%9C%EC%9E%91%EA%B8%B0-with-es6-typescript-4efcbfe1b442)

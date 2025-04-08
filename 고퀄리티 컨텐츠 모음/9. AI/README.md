@@ -28,6 +28,7 @@
 - [TensorFlow를 활용한 네이버쇼핑의 상품 카테고리 자동 분류](https://d2.naver.com/helloworld/1264836)
 - [구글 머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course?hl=ko)
 - [핵심 머신러닝 강의 - 김성범 교수](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/videos)
+- [BentoMl을 활용하여 딥러닝 모델 API 서빙하기](https://zuminternet.github.io/BentoML/)
 
 
 ## LLM

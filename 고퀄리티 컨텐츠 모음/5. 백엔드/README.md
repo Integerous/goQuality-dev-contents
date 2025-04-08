@@ -37,6 +37,7 @@
 - [WATCHA PLAY 서비스 MSA 적용하기](https://medium.com/watcha/watcha-play-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-31e06fe039a0)
 - [Blocking-NonBlocking-Synchronous-Asynchronous](https://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/)
 - [Concurrency vs Parallelism](http://homoefficio.github.io/2019/02/02/Back-to-the-Essence-Concurrency-vs-Parallelism/)
+- [Rapid Event Notification System at Netflix](https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1)
 
 
 ### 기능/서비스 개발
