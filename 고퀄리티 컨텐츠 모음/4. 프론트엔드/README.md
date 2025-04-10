@@ -93,6 +93,8 @@
 - [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531/)
 - [바닥부터 시작하는 Vue 컴포넌트 테스트](https://tech.kakao.com/2019/11/27/kakao-business-vue-component-test/)
 - [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
+- [Vue 컴포넌트 – 메모리 누수 분석하기](https://engineering.linecorp.com/ko/blog/vue-memory-leak-analysis/)
+- [댓글 모듈 레거시 걷어내기 with TDD](https://zuminternet.github.io/zum-comment-component/)
 
 
 ### Svelte
@@ -130,6 +132,7 @@
 - [나는 AMP를 좋아하지 않는다.](https://blog.outsider.ne.kr/1285)
 - [크롬 개발자도구 101](https://lqez.github.io/blog/chrome-dev-tool-101.html)
 - [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
+- [터치와 클릭, 우리 깐부잖아](https://ui.toast.com/weekly-pick/ko_20220106)
 
 
 ## 디자인/UI/UX

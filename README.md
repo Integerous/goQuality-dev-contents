@@ -270,15 +270,10 @@
 - [Javascript에서도 SOLID 원칙이 통할까?](https://velog.io/@teo/Javascript%EC%97%90%EC%84%9C%EB%8F%84-SOLID-%EC%9B%90%EC%B9%99%EC%9D%B4-%ED%86%B5%ED%95%A0%EA%B9%8C)
 - [FE개발자로서 못해준 이야기 1 - 프로젝트](https://partnerjun.tistory.com/82)
 - [Yarn Berry 적용 1일 차에 느낀 점](https://velog.io/@johnwi/wil-01-Yarn-Berry)
-- [단축 URL 서비스 만들기](https://medium.com/monday-9-pm/%EC%B4%88%EB%B3%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-url-shortener-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-1%ED%8E%B8-base62%EC%99%80-%EC%B6%A4%EC%9D%84-9acc226fb7eb)
-- [슬기로운 코드 리뷰 생활 with GitHub Pull Request](https://medium.com/zigbang/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EC%83%9D%ED%99%9C-with-github-pull-request-7932b5d47c70)
-- [코틀린 예제로 작성된 프로젝트 리액터 기초 및 고급 활용법](https://devsh.tistory.com/m/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EC%95%A1%ED%84%B0-%EA%B8%B0%EC%B4%88-1-%EB%AA%A8%EB%85%B8?fbclid=IwAR1oUudKEiWCQ3yvo8ebDPY8sLs8CKW1Gxac4xy3wYbogJ7jPLD0MpGVWTU)
-- [카카오웹툰은 GitHub Actions를 어떻게 사용하고 있을까?](https://fe-developers.kakaoent.com/2022/220106-github-actions)
-- [Java 기반의 알림 서비스로 MSA 전환기](https://blog.dramancompany.com/2022/01/java-%EA%B8%B0%EB%B0%98%ec%9d%98-%ec%95%8C%EB%A6%BC-%ec%84%9c%eb%b9%84%ec%8a%a4%eb%a1%9C-msa-%ec%a0%84%ed%99%98%ea%b8%b0/)
+- [코틀린 예제로 작성된 프로젝트 리액터 기초 및 고급 활용법](https://devsh.tistory.com/m/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EC%95%A1%ED%84%B0-%EA%B8%B0%EC%B4%88-1-%EB%AA%A8%EB%85%B8)
 - [넥슨그룹 첫 정년퇴직자 '백영진'님의 소회](https://m.inven.co.kr/webzine/wznews.php?idx=266901&s=09)
-- [터치와 클릭, 우리 깐부잖아](https://ui.toast.com/weekly-pick/ko_20220106)
-- [Vue 컴포넌트 – 메모리 누수 분석하기](https://engineering.linecorp.com/ko/blog/vue-memory-leak-analysis/)
-- [댓글 모듈 레거시 걷어내기 with TDD](https://zuminternet.github.io/zum-comment-component/)
+
+
 - [소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정](https://news.hada.io/topic?id=5719&utm_source=slack&utm_medium=bot&utm_campaign=T04NM041F)
 - [우리는 왜 공통 라이브러리를 만들기 시작했나](https://helloworld.kurly.com/blog/why-we-make-common-library)
 - [독일, 베를린에서 개발자로 취업하기](https://medium.com/jinhoon-bae/%EB%8F%85%EC%9D%BC-%EB%B2%A0%EB%A5%BC%EB%A6%B0%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0-2677fad39445)
