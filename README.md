@@ -1162,7 +1162,7 @@
 - [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 - [RSA 암호화 3분만에 이해하기](https://velog.io/@480/RSA-%EC%95%94%ED%98%B8%ED%99%94-3%EB%B6%84-%EB%A7%8C%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [주니어 개발자를 채용하지 않는 회사는 앞으로 몰락합니다](https://maily.so/devpill/posts/d8ea7069)
-
+- [자바스크립트에서의 Map VS Object](https://tunaspace.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98-Map-vs-Object)
 ---
 
 </br>
